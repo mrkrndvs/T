@@ -1,6 +1,536 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sat Nov 12 11:11:04 +0000 2016",
+		"id": 797396287960191000,
+		"id_str": "797396287960190976",
+		"text": "RT @Wrightstufmusic: Launchpad, Blocs Wave, remixing sound presentation. #amisfestival next week! https://t.co/riaJSqcLRr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "amisfestival",
+					"indices": [
+						73,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wrightstufmusic",
+					"name": "Samuel",
+					"id": 92670790,
+					"id_str": "92670790",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 797394689905356800,
+					"id_str": "797394689905356804",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CxDqPuWXcAQckRE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CxDqPuWXcAQckRE.jpg",
+					"url": "https://t.co/riaJSqcLRr",
+					"display_url": "pic.twitter.com/riaJSqcLRr",
+					"expanded_url": "https://twitter.com/Wrightstufmusic/status/797394750924083200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 797394750924083200,
+					"source_status_id_str": "797394750924083200",
+					"source_user_id": 92670790,
+					"source_user_id_str": "92670790"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 797394689905356800,
+					"id_str": "797394689905356804",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CxDqPuWXcAQckRE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CxDqPuWXcAQckRE.jpg",
+					"url": "https://t.co/riaJSqcLRr",
+					"display_url": "pic.twitter.com/riaJSqcLRr",
+					"expanded_url": "https://twitter.com/Wrightstufmusic/status/797394750924083200/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 797394750924083200,
+					"source_status_id_str": "797394750924083200",
+					"source_user_id": 92670790,
+					"source_user_id_str": "92670790",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/CxDqPuWXcAQckRE.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3557,
+			"friends_count": 2790,
+			"listed_count": 371,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4616,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24127,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 12 11:04:58 +0000 2016",
+			"id": 797394750924083200,
+			"id_str": "797394750924083200",
+			"text": "Launchpad, Blocs Wave, remixing sound presentation. #amisfestival next week! https://t.co/riaJSqcLRr",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "amisfestival",
+						"indices": [
+							52,
+							65
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 797394689905356800,
+						"id_str": "797394689905356804",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CxDqPuWXcAQckRE.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CxDqPuWXcAQckRE.jpg",
+						"url": "https://t.co/riaJSqcLRr",
+						"display_url": "pic.twitter.com/riaJSqcLRr",
+						"expanded_url": "https://twitter.com/Wrightstufmusic/status/797394750924083200/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 797394689905356800,
+						"id_str": "797394689905356804",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CxDqPuWXcAQckRE.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CxDqPuWXcAQckRE.jpg",
+						"url": "https://t.co/riaJSqcLRr",
+						"display_url": "pic.twitter.com/riaJSqcLRr",
+						"expanded_url": "https://twitter.com/Wrightstufmusic/status/797394750924083200/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://pbs.twimg.com/tweet_video/CxDqPuWXcAQckRE.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 92670790,
+				"id_str": "92670790",
+				"name": "Samuel",
+				"screen_name": "Wrightstufmusic",
+				"location": "Vienna, Austria",
+				"description": "Music Teacher,  Apple Distinguished Educator,  https://t.co/0NeeCXQMtY + IBDP Site https://t.co/Bo6A5kJqyg Husband of @MrsLauraW",
+				"url": "https://t.co/0NeeCY8nlw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0NeeCY8nlw",
+								"expanded_url": "http://wrightstuffmusic.com",
+								"display_url": "wrightstuffmusic.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/0NeeCXQMtY",
+								"expanded_url": "http://wrightstuffmusic.com",
+								"display_url": "wrightstuffmusic.com",
+								"indices": [
+									48,
+									71
+								]
+							},
+							{
+								"url": "https://t.co/Bo6A5kJqyg",
+								"expanded_url": "http://bit.ly/1Eu3DW7",
+								"display_url": "bit.ly/1Eu3DW7",
+								"indices": [
+									84,
+									107
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2566,
+				"friends_count": 2300,
+				"listed_count": 195,
+				"created_at": "Thu Nov 26 02:56:45 +0000 2009",
+				"favourites_count": 1111,
+				"utc_offset": 3600,
+				"time_zone": "Vienna",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9467,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/756461024514113536/xNyA2Ry8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/756461024514113536/xNyA2Ry8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/92670790/1422613438",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 12 10:27:04 +0000 2016",
+		"id": 797385215911919600,
+		"id_str": "797385215911919616",
+		"text": "\"If ldrs want 2c sts meet full potential, then they nd 2 have tchrs that reach their full potential\" @PeterMDeWitt  https://t.co/LY6NwV8QZr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PeterMDeWitt",
+					"name": "Peter DeWitt, Ed.D.",
+					"id": 339289291,
+					"id_str": "339289291",
+					"indices": [
+						101,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LY6NwV8QZr",
+					"expanded_url": "https://pocket.co/sMzEYQ",
+					"display_url": "pocket.co/sMzEYQ",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3557,
+			"friends_count": 2790,
+			"listed_count": 371,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4616,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24127,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 12 10:09:48 +0000 2016",
 		"id": 797380869610610700,
 		"id_str": "797380869610610688",
