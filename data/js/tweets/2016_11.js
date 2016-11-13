@@ -1,6 +1,1018 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sun Nov 13 12:14:40 +0000 2016",
+		"id": 797774680148975600,
+		"id_str": "797774680148975616",
+		"text": "@jcorippo @josepicardoSHS @Obi_Jon_ @johnjohnston @SteveBrophy3 @stringer_andrea what educational planning approach do you use? I.e. UbD etc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jcorippo",
+					"name": "jcorippo ",
+					"id": 14080892,
+					"id_str": "14080892",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "josepicardoSHS",
+					"name": "José Picardo",
+					"id": 12127612,
+					"id_str": "12127612",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"screen_name": "Obi_Jon_",
+					"name": "Jon Andrews",
+					"id": 817918164,
+					"id_str": "817918164",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"screen_name": "johnjohnston",
+					"name": "john johnston",
+					"id": 7484192,
+					"id_str": "7484192",
+					"indices": [
+						36,
+						49
+					]
+				},
+				{
+					"screen_name": "SteveBrophy3",
+					"name": "Steve Brophy",
+					"id": 827898170,
+					"id_str": "827898170",
+					"indices": [
+						50,
+						63
+					]
+				},
+				{
+					"screen_name": "stringer_andrea",
+					"name": "Andrea Stringer",
+					"id": 585586447,
+					"id_str": "585586447",
+					"indices": [
+						64,
+						80
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 14080892,
+		"in_reply_to_user_id_str": "14080892",
+		"in_reply_to_screen_name": "jcorippo",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3562,
+			"friends_count": 2791,
+			"listed_count": 370,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24160,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 13 11:32:01 +0000 2016",
+		"id": 797763946824376300,
+		"id_str": "797763946824376322",
+		"text": "RT @EduTweetOz: It does look like a busy week @GilchristGeorge @mrkrndvs @debsnet. Hoping I can do @EduTweetOz justice.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EduTweetOz",
+					"name": "Deborah Netolicky",
+					"id": 1361688518,
+					"id_str": "1361688518",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "GilchristGeorge",
+					"name": "George Gilchrist",
+					"id": 436964891,
+					"id_str": "436964891",
+					"indices": [
+						46,
+						62
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						63,
+						72
+					]
+				},
+				{
+					"screen_name": "debsnet",
+					"name": "Dr Deborah Netolicky",
+					"id": 88375038,
+					"id_str": "88375038",
+					"indices": [
+						73,
+						81
+					]
+				},
+				{
+					"screen_name": "EduTweetOz",
+					"name": "Deborah Netolicky",
+					"id": 1361688518,
+					"id_str": "1361688518",
+					"indices": [
+						99,
+						110
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3562,
+			"friends_count": 2791,
+			"listed_count": 370,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24160,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 13 11:19:20 +0000 2016",
+			"id": 797760754212479000,
+			"id_str": "797760754212478982",
+			"text": "It does look like a busy week @GilchristGeorge @mrkrndvs @debsnet. Hoping I can do @EduTweetOz justice.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GilchristGeorge",
+						"name": "George Gilchrist",
+						"id": 436964891,
+						"id_str": "436964891",
+						"indices": [
+							30,
+							46
+						]
+					},
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							47,
+							56
+						]
+					},
+					{
+						"screen_name": "debsnet",
+						"name": "Dr Deborah Netolicky",
+						"id": 88375038,
+						"id_str": "88375038",
+						"indices": [
+							57,
+							65
+						]
+					},
+					{
+						"screen_name": "EduTweetOz",
+						"name": "Deborah Netolicky",
+						"id": 1361688518,
+						"id_str": "1361688518",
+						"indices": [
+							83,
+							94
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 797749997487984600,
+			"in_reply_to_status_id_str": "797749997487984640",
+			"in_reply_to_user_id": 436964891,
+			"in_reply_to_user_id_str": "436964891",
+			"in_reply_to_screen_name": "GilchristGeorge",
+			"user": {
+				"id": 1361688518,
+				"id_str": "1361688518",
+				"name": "Deborah Netolicky",
+				"screen_name": "EduTweetOz",
+				"location": "Australia",
+				"description": "A #RoCur account led by Australian educators sharing ideas, experiences & questions about education across Australia. Currently hosted by @debsnet",
+				"url": "https://t.co/uBJwldlG6j",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uBJwldlG6j",
+								"expanded_url": "http://edutweetoz.org/",
+								"display_url": "edutweetoz.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10591,
+				"friends_count": 4730,
+				"listed_count": 529,
+				"created_at": "Thu Apr 18 11:33:48 +0000 2013",
+				"favourites_count": 20943,
+				"utc_offset": 36000,
+				"time_zone": "Brisbane",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 69556,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "447CCF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/469054975927406592/LgwBzYLI.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/469054975927406592/LgwBzYLI.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/765124807327309824/_R-DCgfd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/765124807327309824/_R-DCgfd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1361688518/1472982904",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 13 11:17:26 +0000 2016",
+		"id": 797760279442395100,
+		"id_str": "797760279442395136",
+		"text": "RT @GilchristGeorge: @mrkrndvs @debsnet @EduTweetOz looks like you have a busy week ahead Deborah. Have fun 😊",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GilchristGeorge",
+					"name": "George Gilchrist",
+					"id": 436964891,
+					"id_str": "436964891",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"screen_name": "debsnet",
+					"name": "Dr Deborah Netolicky",
+					"id": 88375038,
+					"id_str": "88375038",
+					"indices": [
+						31,
+						39
+					]
+				},
+				{
+					"screen_name": "EduTweetOz",
+					"name": "Deborah Netolicky",
+					"id": 1361688518,
+					"id_str": "1361688518",
+					"indices": [
+						40,
+						51
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3562,
+			"friends_count": 2791,
+			"listed_count": 370,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24160,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 13 10:36:35 +0000 2016",
+			"id": 797749997487984600,
+			"id_str": "797749997487984640",
+			"text": "@mrkrndvs @debsnet @EduTweetOz looks like you have a busy week ahead Deborah. Have fun 😊",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "debsnet",
+						"name": "Dr Deborah Netolicky",
+						"id": 88375038,
+						"id_str": "88375038",
+						"indices": [
+							10,
+							18
+						]
+					},
+					{
+						"screen_name": "EduTweetOz",
+						"name": "Deborah Netolicky",
+						"id": 1361688518,
+						"id_str": "1361688518",
+						"indices": [
+							19,
+							30
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 797745345291644900,
+			"in_reply_to_status_id_str": "797745345291644928",
+			"in_reply_to_user_id": 372768752,
+			"in_reply_to_user_id_str": "372768752",
+			"in_reply_to_screen_name": "mrkrndvs",
+			"user": {
+				"id": 436964891,
+				"id_str": "436964891",
+				"name": "George Gilchrist",
+				"screen_name": "GilchristGeorge",
+				"location": "Scotland",
+				"description": "Primary HT. SCEL Fellow. SPTC board member. Own views & opinions. Thinks, writes, speaks, blogs about education, leadership, learning, and how we might improve.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5441,
+				"friends_count": 5158,
+				"listed_count": 205,
+				"created_at": "Wed Dec 14 20:05:39 +0000 2011",
+				"favourites_count": 2918,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28021,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/569549136/twilk_background_4fcbba3a4bd4b.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/569549136/twilk_background_4fcbba3a4bd4b.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/767017388936204289/2qzz15Hf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/767017388936204289/2qzz15Hf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/436964891/1471706105",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 13 11:17:12 +0000 2016",
+		"id": 797760217974915100,
+		"id_str": "797760217974915072",
+		"text": "RT @stringer_andrea: @whatedsaid  Edna always keeps questioning. The learning continues... https://t.co/234PDeE3av",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stringer_andrea",
+					"name": "Andrea Stringer",
+					"id": 585586447,
+					"id_str": "585586447",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "whatedsaid",
+					"name": "Edna Sackson",
+					"id": 28876670,
+					"id_str": "28876670",
+					"indices": [
+						21,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/234PDeE3av",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/797743955710394368",
+					"display_url": "twitter.com/mrkrndvs/statu…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3562,
+			"friends_count": 2791,
+			"listed_count": 370,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24160,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 13 10:15:27 +0000 2016",
+			"id": 797744679949213700,
+			"id_str": "797744679949213696",
+			"text": "@whatedsaid  Edna always keeps questioning. The learning continues... https://t.co/234PDeE3av",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "whatedsaid",
+						"name": "Edna Sackson",
+						"id": 28876670,
+						"id_str": "28876670",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/234PDeE3av",
+						"expanded_url": "https://twitter.com/mrkrndvs/status/797743955710394368",
+						"display_url": "twitter.com/mrkrndvs/statu…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 28876670,
+			"in_reply_to_user_id_str": "28876670",
+			"in_reply_to_screen_name": "whatedsaid",
+			"user": {
+				"id": 585586447,
+				"id_str": "585586447",
+				"name": "Andrea Stringer",
+				"screen_name": "stringer_andrea",
+				"location": "Sydney, Australia",
+				"description": "Connect, learn & build relationships. Professional Learning Coach who personalises learning to empower educators. Views are influenced by many but always my own",
+				"url": "https://t.co/XJoziX3TE6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XJoziX3TE6",
+								"expanded_url": "http://andreastringer.blogspot.com.au",
+								"display_url": "andreastringer.blogspot.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6163,
+				"friends_count": 3151,
+				"listed_count": 260,
+				"created_at": "Sun May 20 11:14:31 +0000 2012",
+				"favourites_count": 12445,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28633,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/764951771080908800/ghw_xv1Q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/764951771080908800/ghw_xv1Q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/585586447/1410261884",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 797743955710394400,
+			"quoted_status_id_str": "797743955710394368",
+			"quoted_status": {
+				"created_at": "Sun Nov 13 10:12:35 +0000 2016",
+				"id": 797743955710394400,
+				"id_str": "797743955710394368",
+				"text": "\"What if, instead of lines of inquiry, learners came up with their own why, what if and howquestions?\" @whatedsaid  https://t.co/trcym2D9qO",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "whatedsaid",
+							"name": "Edna Sackson",
+							"id": 28876670,
+							"id_str": "28876670",
+							"indices": [
+								103,
+								114
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/trcym2D9qO",
+							"expanded_url": "https://whatedsaid.wordpress.com/2016/11/13/a-beautiful-question-and-a-whole-school-inquiry/",
+							"display_url": "whatedsaid.wordpress.com/2016/11/13/a-b…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 372768752,
+					"id_str": "372768752",
+					"name": "Aaron Davis",
+					"screen_name": "mrkrndvs",
+					"location": "Melbourne, Australia",
+					"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+					"url": "https://t.co/PkNuJdsUBx",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/PkNuJdsUBx",
+									"expanded_url": "http://readwriterespond.com",
+									"display_url": "readwriterespond.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3562,
+					"friends_count": 2791,
+					"listed_count": 370,
+					"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+					"favourites_count": 4617,
+					"utc_offset": 36000,
+					"time_zone": "Brisbane",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 24160,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+					"profile_link_color": "FAB81E",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 797743955710394400,
+		"quoted_status_id_str": "797743955710394368",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Nov 13 10:43:16 +0000 2016",
 		"id": 797751677872836600,
 		"id_str": "797751677872836608",
