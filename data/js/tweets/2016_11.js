@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Mon Nov 14 10:59:39 +0000 2016",
+		"id": 798118188089155600,
+		"id_str": "798118188089155584",
+		"text": "@greg_ashman @GustafsonBrad @robert_schuetz @JoelBSperanza @LearningSpy @HuntingEnglish what educational planning model do u use? Ie UBD ETC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greg_ashman",
+					"name": "Greg Ashman",
+					"id": 614246029,
+					"id_str": "614246029",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "GustafsonBrad",
+					"name": "Dr. Brad Gustafson",
+					"id": 620322332,
+					"id_str": "620322332",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "robert_schuetz",
+					"name": "Robert Schuetz",
+					"id": 386183993,
+					"id_str": "386183993",
+					"indices": [
+						28,
+						43
+					]
+				},
+				{
+					"screen_name": "JoelBSperanza",
+					"name": "Joel Speranza",
+					"id": 469805226,
+					"id_str": "469805226",
+					"indices": [
+						44,
+						58
+					]
+				},
+				{
+					"screen_name": "LearningSpy",
+					"name": "David Didau",
+					"id": 146139473,
+					"id_str": "146139473",
+					"indices": [
+						59,
+						71
+					]
+				},
+				{
+					"screen_name": "HuntingEnglish",
+					"name": "Alex Quigley",
+					"id": 591324048,
+					"id_str": "591324048",
+					"indices": [
+						72,
+						87
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 614246029,
+		"in_reply_to_user_id_str": "614246029",
+		"in_reply_to_screen_name": "greg_ashman",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3564,
+			"friends_count": 2792,
+			"listed_count": 366,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24159,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 10:42:50 +0000 2016",
+		"id": 798113958943199200,
+		"id_str": "798113958943199232",
+		"text": "The latest #VICPLN! https://t.co/sTfmeGgKhh Thanks to @Lilylauren @digilearnvic @broadievade #vicpln #aussieed",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VICPLN",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"text": "vicpln",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"text": "aussieed",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Lilylauren",
+					"name": "Lily",
+					"id": 3602891,
+					"id_str": "3602891",
+					"indices": [
+						54,
+						65
+					]
+				},
+				{
+					"screen_name": "digilearnvic",
+					"name": "DigitalLearning",
+					"id": 365850876,
+					"id_str": "365850876",
+					"indices": [
+						66,
+						79
+					]
+				},
+				{
+					"screen_name": "broadievade",
+					"name": "David Broadbent",
+					"id": 174932905,
+					"id_str": "174932905",
+					"indices": [
+						80,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sTfmeGgKhh",
+					"expanded_url": "http://paper.li/mrkrndvs/1399286270?edition_id=15b63c40-aa57-11e6-a676-0cc47a0d15fd",
+					"display_url": "paper.li/mrkrndvs/13992…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://paper.li\" rel=\"nofollow\">Paper.li</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3564,
+			"friends_count": 2792,
+			"listed_count": 366,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24159,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Nov 14 09:34:41 +0000 2016",
 		"id": 798096806508773400,
 		"id_str": "798096806508773376",
