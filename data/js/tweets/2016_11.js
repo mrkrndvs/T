@@ -1,6 +1,613 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Wed Nov 16 12:13:35 +0000 2016",
+		"id": 798861569790611500,
+		"id_str": "798861569790611457",
+		"text": "RT @sensor63: After shock. Pls do version. Share with #clerwar #MannequinChallenge @carlaarena @NomadWarMachine @mrkrndvs #digiwrimo #clmoo…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "clerwar",
+					"indices": [
+						54,
+						62
+					]
+				},
+				{
+					"text": "MannequinChallenge",
+					"indices": [
+						63,
+						82
+					]
+				},
+				{
+					"text": "digiwrimo",
+					"indices": [
+						122,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sensor63",
+					"name": "Simon Ensor",
+					"id": 84562932,
+					"id_str": "84562932",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "carlaarena",
+					"name": "Carla Arena",
+					"id": 6162732,
+					"id_str": "6162732",
+					"indices": [
+						83,
+						94
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						95,
+						111
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						112,
+						121
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3571,
+			"friends_count": 2793,
+			"listed_count": 368,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24206,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 16 11:54:37 +0000 2016",
+			"id": 798856796832051200,
+			"id_str": "798856796832051200",
+			"text": "After shock. Pls do version. Share with #clerwar #MannequinChallenge @carlaarena @NomadWarMachine @mrkrndvs… https://t.co/7ql7LLzJCz",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "clerwar",
+						"indices": [
+							40,
+							48
+						]
+					},
+					{
+						"text": "MannequinChallenge",
+						"indices": [
+							49,
+							68
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "carlaarena",
+						"name": "Carla Arena",
+						"id": 6162732,
+						"id_str": "6162732",
+						"indices": [
+							69,
+							80
+						]
+					},
+					{
+						"screen_name": "NomadWarMachine",
+						"name": "Sarah Honeychurch",
+						"id": 558091832,
+						"id_str": "558091832",
+						"indices": [
+							81,
+							97
+						]
+					},
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							98,
+							107
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7ql7LLzJCz",
+						"expanded_url": "https://twitter.com/i/web/status/798856796832051200",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 84562932,
+				"id_str": "84562932",
+				"name": "Simon Ensor",
+				"screen_name": "sensor63",
+				"location": "Clermont Ferrand France",
+				"description": "love life, love learning, edupunk language teacher and aikidoka. #clavedu #rhizo14 #ccourses #clmooc #digiwrimo",
+				"url": "https://t.co/gnTUv4oQp8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gnTUv4oQp8",
+								"expanded_url": "http://tachesdesens.blogspot.com/",
+								"display_url": "tachesdesens.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1412,
+				"friends_count": 1395,
+				"listed_count": 94,
+				"created_at": "Fri Oct 23 11:13:13 +0000 2009",
+				"favourites_count": 3023,
+				"utc_offset": 3600,
+				"time_zone": "Paris",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17757,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000305",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/764067062952161284/J4_MGkND_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/764067062952161284/J4_MGkND_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/84562932/1468852207",
+				"profile_link_color": "000305",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 798844333994569700,
+			"quoted_status_id_str": "798844333994569732",
+			"quoted_status": {
+				"created_at": "Wed Nov 16 11:05:05 +0000 2016",
+				"id": 798844333994569700,
+				"id_str": "798844333994569732",
+				"text": "Our Mannequin Challenge in STAPS Clermont ferrand with @sensor63   Everybody can put the sound/music he wants https://t.co/8aVo9YKVwJ",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "sensor63",
+							"name": "Simon Ensor",
+							"id": 84562932,
+							"id_str": "84562932",
+							"indices": [
+								55,
+								64
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 798815852074106900,
+							"id_str": "798815852074106880",
+							"indices": [
+								110,
+								133
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/798815852074106880/pu/img/YjrA7QILwZmL9ZxD.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/798815852074106880/pu/img/YjrA7QILwZmL9ZxD.jpg",
+							"url": "https://t.co/8aVo9YKVwJ",
+							"display_url": "pic.twitter.com/8aVo9YKVwJ",
+							"expanded_url": "https://twitter.com/TPautrat/status/798844333994569732/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 600,
+									"h": 338,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 191,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1024,
+									"h": 576,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 798815852074106900,
+							"id_str": "798815852074106880",
+							"indices": [
+								110,
+								133
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/798815852074106880/pu/img/YjrA7QILwZmL9ZxD.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/798815852074106880/pu/img/YjrA7QILwZmL9ZxD.jpg",
+							"url": "https://t.co/8aVo9YKVwJ",
+							"display_url": "pic.twitter.com/8aVo9YKVwJ",
+							"expanded_url": "https://twitter.com/TPautrat/status/798844333994569732/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 600,
+									"h": 338,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 191,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1024,
+									"h": 576,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									16,
+									9
+								],
+								"duration_millis": 87100,
+								"variants": [
+									{
+										"bitrate": 2176000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/798815852074106880/pu/vid/1280x720/aTyH6CfZ8tH12_c9.mp4"
+									},
+									{
+										"content_type": "application/dash+xml",
+										"url": "https://video.twimg.com/ext_tw_video/798815852074106880/pu/pl/jmoqtg0flwPc5HhO.mpd"
+									},
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/798815852074106880/pu/vid/320x180/DpaMhXvHTUZktPfR.mp4"
+									},
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/ext_tw_video/798815852074106880/pu/pl/jmoqtg0flwPc5HhO.m3u8"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/798815852074106880/pu/vid/640x360/sS03ndvRFFrjLW2n.mp4"
+									}
+								]
+							},
+							"additional_media_info": {
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1143535400,
+					"id_str": "1143535400",
+					"name": "fraiche la salveta",
+					"screen_name": "TPautrat",
+					"location": "clermont ferrand ",
+					"description": "S T A P S . C L E R M O N T . F A L U C H E",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 74,
+					"friends_count": 130,
+					"listed_count": 4,
+					"created_at": "Sat Feb 02 22:06:21 +0000 2013",
+					"favourites_count": 62,
+					"utc_offset": 3600,
+					"time_zone": "Ljubljana",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 562,
+					"lang": "fr",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/483656359511330816/pxReHa0S_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/483656359511330816/pxReHa0S_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143535400/1397080202",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 798844333994569700,
+		"quoted_status_id_str": "798844333994569732",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 16 11:29:27 +0000 2016",
+		"id": 798850464750018600,
+		"id_str": "798850464750018560",
+		"text": "Chilly Gonzales Masterclasses : Pop Music: https://t.co/twAvFbJIp3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/twAvFbJIp3",
+					"expanded_url": "http://www.youtube.com/watch?v=Z5bScPbB5oM&list=PLsZg4lnJII5WP2uulzVoLu0TDpMuxqe0T",
+					"display_url": "youtube.com/watch?v=Z5bScP…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3571,
+			"friends_count": 2793,
+			"listed_count": 368,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24206,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 16 10:44:42 +0000 2016",
 		"id": 798839205145129000,
 		"id_str": "798839205145128962",
