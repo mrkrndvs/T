@@ -1,6 +1,1731 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Fri Nov 18 09:12:38 +0000 2016",
+		"id": 799540810610016300,
+		"id_str": "799540810610016256",
+		"text": "\"The ‘how’ agenda\" https://t.co/QtVo9AZ8nW via @gregwhitby",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gregwhitby",
+					"name": "Greg Whitby",
+					"id": 18018397,
+					"id_str": "18018397",
+					"indices": [
+						47,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QtVo9AZ8nW",
+					"expanded_url": "https://bluyonder.wordpress.com/2016/11/18/the-how-agenda/",
+					"display_url": "bluyonder.wordpress.com/2016/11/18/the…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3581,
+			"friends_count": 2793,
+			"listed_count": 370,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 18 09:03:03 +0000 2016",
+		"id": 799538400277753900,
+		"id_str": "799538400277753860",
+		"text": "RT @jelmerevers: Beautiful, on the purpose of education \"Calling Time\" @Obi_Jon_ https://t.co/Mkb4QInAFo https://t.co/t1IbNyvjCe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jelmerevers",
+					"name": "Jelmer Evers",
+					"id": 137451762,
+					"id_str": "137451762",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "Obi_Jon_",
+					"name": "Jon Andrews",
+					"id": 817918164,
+					"id_str": "817918164",
+					"indices": [
+						71,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Mkb4QInAFo",
+					"expanded_url": "http://jonandrews.edublogs.org/2016/11/16/calling-time/",
+					"display_url": "jonandrews.edublogs.org/2016/11/16/cal…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 799536067397480400,
+					"id_str": "799536067397480448",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/CxiF0TJW8AAdHx4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxiF0TJW8AAdHx4.jpg",
+					"url": "https://t.co/t1IbNyvjCe",
+					"display_url": "pic.twitter.com/t1IbNyvjCe",
+					"expanded_url": "https://twitter.com/jelmerevers/status/799536368691138560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 799536368691138600,
+					"source_status_id_str": "799536368691138560",
+					"source_user_id": 137451762,
+					"source_user_id_str": "137451762"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 799536067397480400,
+					"id_str": "799536067397480448",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/CxiF0TJW8AAdHx4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxiF0TJW8AAdHx4.jpg",
+					"url": "https://t.co/t1IbNyvjCe",
+					"display_url": "pic.twitter.com/t1IbNyvjCe",
+					"expanded_url": "https://twitter.com/jelmerevers/status/799536368691138560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 799536368691138600,
+					"source_status_id_str": "799536368691138560",
+					"source_user_id": 137451762,
+					"source_user_id_str": "137451762"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3581,
+			"friends_count": 2793,
+			"listed_count": 370,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 18 08:54:59 +0000 2016",
+			"id": 799536368691138600,
+			"id_str": "799536368691138560",
+			"text": "Beautiful, on the purpose of education \"Calling Time\" @Obi_Jon_ https://t.co/Mkb4QInAFo https://t.co/t1IbNyvjCe",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Obi_Jon_",
+						"name": "Jon Andrews",
+						"id": 817918164,
+						"id_str": "817918164",
+						"indices": [
+							54,
+							63
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Mkb4QInAFo",
+						"expanded_url": "http://jonandrews.edublogs.org/2016/11/16/calling-time/",
+						"display_url": "jonandrews.edublogs.org/2016/11/16/cal…",
+						"indices": [
+							64,
+							87
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 799536067397480400,
+						"id_str": "799536067397480448",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/CxiF0TJW8AAdHx4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxiF0TJW8AAdHx4.jpg",
+						"url": "https://t.co/t1IbNyvjCe",
+						"display_url": "pic.twitter.com/t1IbNyvjCe",
+						"expanded_url": "https://twitter.com/jelmerevers/status/799536368691138560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 799536067397480400,
+						"id_str": "799536067397480448",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/CxiF0TJW8AAdHx4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxiF0TJW8AAdHx4.jpg",
+						"url": "https://t.co/t1IbNyvjCe",
+						"display_url": "pic.twitter.com/t1IbNyvjCe",
+						"expanded_url": "https://twitter.com/jelmerevers/status/799536368691138560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 137451762,
+				"id_str": "137451762",
+				"name": "Jelmer Evers",
+				"screen_name": "jelmerevers",
+				"location": "Utrecht",
+				"description": "Teacher| Global #Teacherprize 15&16| Edublogger| #flipthesystem| #HetAlternatief| Learning, teaching, designing @UniCUtrecht @eduint @onderwijscoop",
+				"url": "https://t.co/MHf8mfcXs4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MHf8mfcXs4",
+								"expanded_url": "http://www.jelmerevers.nl",
+								"display_url": "jelmerevers.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10078,
+				"friends_count": 1505,
+				"listed_count": 326,
+				"created_at": "Mon Apr 26 20:02:37 +0000 2010",
+				"favourites_count": 11090,
+				"utc_offset": 7200,
+				"time_zone": "Athens",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 50360,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/542084562679902209/511IRr30_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/542084562679902209/511IRr30_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/137451762/1450207601",
+				"profile_link_color": "D1A104",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "871685aa82f8a489",
+				"url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+				"place_type": "city",
+				"name": "Utrecht",
+				"full_name": "Utrecht, The Netherlands",
+				"country_code": "NL",
+				"country": "The Netherlands",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								4.9702867,
+								52.0262429
+							],
+							[
+								5.1952468,
+								52.0262429
+							],
+							[
+								5.1952468,
+								52.142137
+							],
+							[
+								4.9702867,
+								52.142137
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 18 09:00:05 +0000 2016",
+		"id": 799537653326708700,
+		"id_str": "799537653326708737",
+		"text": "Listen to MUSIC’S COOL WITH @chillygonzales  Episode# 1 Daft Punk\nhttps://t.co/toWgiqc2tl cc @dajbelshaw a MUST listen!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chillygonzales",
+					"name": "Chilly Gonzales",
+					"id": 39596678,
+					"id_str": "39596678",
+					"indices": [
+						28,
+						43
+					]
+				},
+				{
+					"screen_name": "dajbelshaw",
+					"name": "Doug Belshaw",
+					"id": 764365,
+					"id_str": "764365",
+					"indices": [
+						93,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/toWgiqc2tl",
+					"expanded_url": "https://soundcloud.com/chillygonzales/musics-cool-with-chilly-gonzales-episode-1-daft-punk",
+					"display_url": "soundcloud.com/chillygonzales…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3581,
+			"friends_count": 2793,
+			"listed_count": 370,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 18 08:45:55 +0000 2016",
+		"id": 799534087371456500,
+		"id_str": "799534087371456513",
+		"text": "RT @corisel: @greg_ashman @drlindagraham @danhaesler and if we open that door I could ask have you ever taught K -2 to read?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "corisel",
+					"name": "Corinne Campbell",
+					"id": 63471960,
+					"id_str": "63471960",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "greg_ashman",
+					"name": "Greg Ashman",
+					"id": 614246029,
+					"id_str": "614246029",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "drlindagraham",
+					"name": "Linda J. Graham",
+					"id": 613376460,
+					"id_str": "613376460",
+					"indices": [
+						26,
+						40
+					]
+				},
+				{
+					"screen_name": "danhaesler",
+					"name": "Dan Haesler",
+					"id": 211755009,
+					"id_str": "211755009",
+					"indices": [
+						41,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3581,
+			"friends_count": 2793,
+			"listed_count": 370,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 18 08:38:05 +0000 2016",
+			"id": 799532113443885000,
+			"id_str": "799532113443885057",
+			"text": "@greg_ashman @drlindagraham @danhaesler and if we open that door I could ask have you ever taught K -2 to read?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "greg_ashman",
+						"name": "Greg Ashman",
+						"id": 614246029,
+						"id_str": "614246029",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "drlindagraham",
+						"name": "Linda J. Graham",
+						"id": 613376460,
+						"id_str": "613376460",
+						"indices": [
+							13,
+							27
+						]
+					},
+					{
+						"screen_name": "danhaesler",
+						"name": "Dan Haesler",
+						"id": 211755009,
+						"id_str": "211755009",
+						"indices": [
+							28,
+							39
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 799531176839024600,
+			"in_reply_to_status_id_str": "799531176839024641",
+			"in_reply_to_user_id": 614246029,
+			"in_reply_to_user_id_str": "614246029",
+			"in_reply_to_screen_name": "greg_ashman",
+			"user": {
+				"id": 63471960,
+				"id_str": "63471960",
+				"name": "Corinne Campbell",
+				"screen_name": "corisel",
+				"location": "Sydney, Australia",
+				"description": "School Principal, Secretary Middle Harbour Teachers Association. Opinions expressed here are personal, and don't represent my employer. Support #Gonski",
+				"url": "https://t.co/aKzvy3upSk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aKzvy3upSk",
+								"expanded_url": "http://corinnecampbell.net",
+								"display_url": "corinnecampbell.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5724,
+				"friends_count": 1985,
+				"listed_count": 243,
+				"created_at": "Thu Aug 06 12:48:59 +0000 2009",
+				"favourites_count": 14599,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 37820,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/779914831486939136/RRB8p0RO.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/779914831486939136/RRB8p0RO.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793173175999672320/IMUthHkC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793173175999672320/IMUthHkC_normal.jpg",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 18 08:44:15 +0000 2016",
+		"id": 799533666208718800,
+		"id_str": "799533666208718848",
+		"text": "RT @TheDividedHeart: Nice work, @JamesMerlinoMP! #gonski https://t.co/PsWSMb1oxA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "gonski",
+					"indices": [
+						49,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheDividedHeart",
+					"name": "Rachel Power",
+					"id": 178599765,
+					"id_str": "178599765",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "JamesMerlinoMP",
+					"name": "James Merlino",
+					"id": 293894368,
+					"id_str": "293894368",
+					"indices": [
+						32,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PsWSMb1oxA",
+					"expanded_url": "https://twitter.com/aeuvictoria/status/799440923071422464",
+					"display_url": "twitter.com/aeuvictoria/st…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3581,
+			"friends_count": 2793,
+			"listed_count": 370,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 18 08:41:53 +0000 2016",
+			"id": 799533071355744300,
+			"id_str": "799533071355744260",
+			"text": "Nice work, @JamesMerlinoMP! #gonski https://t.co/PsWSMb1oxA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "gonski",
+						"indices": [
+							28,
+							35
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JamesMerlinoMP",
+						"name": "James Merlino",
+						"id": 293894368,
+						"id_str": "293894368",
+						"indices": [
+							11,
+							26
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/PsWSMb1oxA",
+						"expanded_url": "https://twitter.com/aeuvictoria/status/799440923071422464",
+						"display_url": "twitter.com/aeuvictoria/st…",
+						"indices": [
+							36,
+							59
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 178599765,
+				"id_str": "178599765",
+				"name": "Rachel Power",
+				"screen_name": "TheDividedHeart",
+				"location": "Melbourne",
+				"description": "Write constantly in my head, occasionally on paper. Author, 'Motherhood & Creativity: The Divided Heart': http://t.co/cetNufME0Z.",
+				"url": "http://t.co/2YkYmBsxjb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/2YkYmBsxjb",
+								"expanded_url": "http://rachel-power.blogspot.com/",
+								"display_url": "rachel-power.blogspot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/cetNufME0Z",
+								"expanded_url": "http://www.affirmpress.com.au/motherhood-creativity",
+								"display_url": "affirmpress.com.au/motherhood-cre…",
+								"indices": [
+									106,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1215,
+				"friends_count": 1776,
+				"listed_count": 32,
+				"created_at": "Sun Aug 15 05:21:36 +0000 2010",
+				"favourites_count": 1146,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2926,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/581058305260285952/3TCTZz0p.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/581058305260285952/3TCTZz0p.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1859038358/Photo0231_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1859038358/Photo0231_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/178599765/1427369938",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 799440923071422500,
+			"quoted_status_id_str": "799440923071422464",
+			"quoted_status": {
+				"created_at": "Fri Nov 18 02:35:43 +0000 2016",
+				"id": 799440923071422500,
+				"id_str": "799440923071422464",
+				"text": ".@JamesMerlinoMP &amp; @PiccoliMp have teamed up to fight for students in Vic and NSW. Hope you're paying attention,… https://t.co/jy1Fowk9CO",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "JamesMerlinoMP",
+							"name": "James Merlino",
+							"id": 293894368,
+							"id_str": "293894368",
+							"indices": [
+								1,
+								16
+							]
+						},
+						{
+							"screen_name": "PiccoliMp",
+							"name": "Adrian Piccoli",
+							"id": 2531941884,
+							"id_str": "2531941884",
+							"indices": [
+								23,
+								33
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/jy1Fowk9CO",
+							"expanded_url": "https://twitter.com/i/web/status/799440923071422464",
+							"display_url": "twitter.com/i/web/status/7…",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 560818677,
+					"id_str": "560818677",
+					"name": "AEU Victoria",
+					"screen_name": "AEUVictoria",
+					"location": "Victoria, Australia",
+					"description": "Australian Education Union (Vic branch), representing over 54,000 staff and teachers in government schools, TAFE, early childhood and adult disability settings.",
+					"url": "http://t.co/BxwJLxIHut",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/BxwJLxIHut",
+									"expanded_url": "http://www.aeuvic.asn.au/",
+									"display_url": "aeuvic.asn.au",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 6279,
+					"friends_count": 4101,
+					"listed_count": 120,
+					"created_at": "Mon Apr 23 01:30:11 +0000 2012",
+					"favourites_count": 2949,
+					"utc_offset": 39600,
+					"time_zone": "Melbourne",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 7646,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000061852980/d1ddaa345b8cc7e60e851a4b540cd6f2.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000061852980/d1ddaa345b8cc7e60e851a4b540cd6f2.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/758143918168911872/waHsZ8BW_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/758143918168911872/waHsZ8BW_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/560818677/1475796632",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 19,
+				"favorite_count": 14,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 799440923071422500,
+		"quoted_status_id_str": "799440923071422464",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 18 08:42:35 +0000 2016",
+		"id": 799533249173291000,
+		"id_str": "799533249173291008",
+		"text": "RT @doxtdatorb: #academicquoteposters @gbiesta is required reading in age of learnification https://t.co/HaARRzwLwu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "academicquoteposters",
+					"indices": [
+						16,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "doxtdatorb",
+					"name": "Benjamin Doxtdator",
+					"id": 2343972634,
+					"id_str": "2343972634",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "gbiesta",
+					"name": "gert biesta",
+					"id": 19742565,
+					"id_str": "19742565",
+					"indices": [
+						38,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HaARRzwLwu",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/799499148844236800",
+					"display_url": "twitter.com/mrkrndvs/statu…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3581,
+			"friends_count": 2793,
+			"listed_count": 370,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 18 08:13:38 +0000 2016",
+			"id": 799525963751161900,
+			"id_str": "799525963751161857",
+			"text": "#academicquoteposters @gbiesta is required reading in age of learnification https://t.co/HaARRzwLwu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "academicquoteposters",
+						"indices": [
+							0,
+							21
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "gbiesta",
+						"name": "gert biesta",
+						"id": 19742565,
+						"id_str": "19742565",
+						"indices": [
+							22,
+							30
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/HaARRzwLwu",
+						"expanded_url": "https://twitter.com/mrkrndvs/status/799499148844236800",
+						"display_url": "twitter.com/mrkrndvs/statu…",
+						"indices": [
+							76,
+							99
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2343972634,
+				"id_str": "2343972634",
+				"name": "Benjamin Doxtdator",
+				"screen_name": "doxtdatorb",
+				"location": "Brussels, Belgium",
+				"description": "teacher - views own",
+				"url": "https://t.co/RWNeddowsL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RWNeddowsL",
+								"expanded_url": "http://www.longviewoneducation.org",
+								"display_url": "longviewoneducation.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 243,
+				"friends_count": 859,
+				"listed_count": 29,
+				"created_at": "Fri Feb 14 23:12:42 +0000 2014",
+				"favourites_count": 1053,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1993,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/755043754390740992/mIky8qqp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/755043754390740992/mIky8qqp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2343972634/1478990071",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 799499148844236800,
+			"quoted_status_id_str": "799499148844236800",
+			"quoted_status": {
+				"created_at": "Fri Nov 18 06:27:05 +0000 2016",
+				"id": 799499148844236800,
+				"id_str": "799499148844236800",
+				"text": "New image: Learnification added to Flickr https://t.co/XJtJDnJHZG",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 799499146738696200,
+							"id_str": "799499146738696192",
+							"indices": [
+								42,
+								65
+							],
+							"media_url": "http://pbs.twimg.com/media/CxhkPO-WgAAK4Dz.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CxhkPO-WgAAK4Dz.jpg",
+							"url": "https://t.co/XJtJDnJHZG",
+							"display_url": "pic.twitter.com/XJtJDnJHZG",
+							"expanded_url": "https://twitter.com/mrkrndvs/status/799499148844236800/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 960,
+									"h": 540,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 960,
+									"h": 540,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 799499146738696200,
+							"id_str": "799499146738696192",
+							"indices": [
+								42,
+								65
+							],
+							"media_url": "http://pbs.twimg.com/media/CxhkPO-WgAAK4Dz.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CxhkPO-WgAAK4Dz.jpg",
+							"url": "https://t.co/XJtJDnJHZG",
+							"display_url": "pic.twitter.com/XJtJDnJHZG",
+							"expanded_url": "https://twitter.com/mrkrndvs/status/799499148844236800/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 960,
+									"h": 540,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 960,
+									"h": 540,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 372768752,
+					"id_str": "372768752",
+					"name": "Aaron Davis",
+					"screen_name": "mrkrndvs",
+					"location": "Melbourne, Australia",
+					"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+					"url": "https://t.co/PkNuJdsUBx",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/PkNuJdsUBx",
+									"expanded_url": "http://readwriterespond.com",
+									"display_url": "readwriterespond.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3581,
+					"friends_count": 2793,
+					"listed_count": 370,
+					"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+					"favourites_count": 4617,
+					"utc_offset": 36000,
+					"time_zone": "Brisbane",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 24233,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+					"profile_link_color": "FAB81E",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 799499148844236800,
+		"quoted_status_id_str": "799499148844236800",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 18 06:27:05 +0000 2016",
 		"id": 799499148844236800,
 		"id_str": "799499148844236800",
