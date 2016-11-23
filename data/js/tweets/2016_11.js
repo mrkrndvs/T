@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Wed Nov 23 08:56:39 +0000 2016",
+		"id": 801348725922791400,
+		"id_str": "801348725922791424",
+		"text": "@ohalloran_c any thoughts &amp; perspectives? https://t.co/mlxE7BlQGw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ohalloran_c",
+					"name": "Catherine O'Halloran",
+					"id": 1662288932,
+					"id_str": "1662288932",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mlxE7BlQGw",
+					"expanded_url": "https://twitter.com/taniatorikova/status/801257603678367744",
+					"display_url": "twitter.com/taniatorikova/…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1662288932,
+		"in_reply_to_user_id_str": "1662288932",
+		"in_reply_to_screen_name": "ohalloran_c",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3597,
+			"friends_count": 2801,
+			"listed_count": 370,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4618,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24318,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 801257603678367700,
+		"quoted_status_id_str": "801257603678367744",
+		"quoted_status": {
+			"created_at": "Wed Nov 23 02:54:34 +0000 2016",
+			"id": 801257603678367700,
+			"id_str": "801257603678367744",
+			"text": "Can higher ed people tell me if Turnitin is a good plagiarism option with Canvas (or at all?) pros and cons? #clmooc @Bali_Maha Thanks!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "clmooc",
+						"indices": [
+							109,
+							116
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Bali_Maha",
+						"name": "ℳąhą Bąℓi مها بالي",
+						"id": 1535273520,
+						"id_str": "1535273520",
+						"indices": [
+							117,
+							127
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 91079515,
+				"id_str": "91079515",
+				"name": "Tania Sheko",
+				"screen_name": "taniatorikova",
+				"location": "Melbourne, Australia",
+				"description": "Teacher/learner in the library. I'm not always there. All opinions my own. Yeah right; how can opinions be original?",
+				"url": "http://t.co/X6XPKyo3Yi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/X6XPKyo3Yi",
+								"expanded_url": "http://about.me/tsheko",
+								"display_url": "about.me/tsheko",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1812,
+				"friends_count": 2079,
+				"listed_count": 239,
+				"created_at": "Thu Nov 19 10:47:43 +0000 2009",
+				"favourites_count": 4601,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18835,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/397383752/217579_10150428030539657_837859656_10268320_2366678_n.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/397383752/217579_10150428030539657_837859656_10268320_2366678_n.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/752076244976410625/nCN6AgpS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/752076244976410625/nCN6AgpS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/91079515/1468143966",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 23 05:52:21 +0000 2016",
 		"id": 801302345242046500,
 		"id_str": "801302345242046464",
