@@ -1,6 +1,525 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sat Nov 26 10:40:41 +0000 2016",
+		"id": 802462073015844900,
+		"id_str": "802462073015844864",
+		"text": "RT @margaretsimkin: @galloised @hbailie @sbradbeer @mrkrndvs @JoelBSperanza https://t.co/SAnspJafcC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "margaretsimkin",
+					"name": "Margaret Simkin",
+					"id": 25946833,
+					"id_str": "25946833",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "galloised",
+					"name": "Deborah Welsh",
+					"id": 301926897,
+					"id_str": "301926897",
+					"indices": [
+						20,
+						30
+					]
+				},
+				{
+					"screen_name": "hbailie",
+					"name": "Heather Bailie",
+					"id": 16589509,
+					"id_str": "16589509",
+					"indices": [
+						31,
+						39
+					]
+				},
+				{
+					"screen_name": "sbradbeer",
+					"name": "Suz Bradbeer",
+					"id": 143023692,
+					"id_str": "143023692",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"screen_name": "JoelBSperanza",
+					"name": "Joel Speranza",
+					"id": 469805226,
+					"id_str": "469805226",
+					"indices": [
+						61,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SAnspJafcC",
+					"expanded_url": "https://twitter.com/EduWells/status/802349972381274112",
+					"display_url": "twitter.com/EduWells/statu…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3606,
+			"friends_count": 2802,
+			"listed_count": 373,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24388,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 26 09:37:08 +0000 2016",
+			"id": 802446078616293400,
+			"id_str": "802446078616293376",
+			"text": "@galloised @hbailie @sbradbeer @mrkrndvs @JoelBSperanza https://t.co/SAnspJafcC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "galloised",
+						"name": "Deborah Welsh",
+						"id": 301926897,
+						"id_str": "301926897",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "hbailie",
+						"name": "Heather Bailie",
+						"id": 16589509,
+						"id_str": "16589509",
+						"indices": [
+							11,
+							19
+						]
+					},
+					{
+						"screen_name": "sbradbeer",
+						"name": "Suz Bradbeer",
+						"id": 143023692,
+						"id_str": "143023692",
+						"indices": [
+							20,
+							30
+						]
+					},
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							31,
+							40
+						]
+					},
+					{
+						"screen_name": "JoelBSperanza",
+						"name": "Joel Speranza",
+						"id": 469805226,
+						"id_str": "469805226",
+						"indices": [
+							41,
+							55
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SAnspJafcC",
+						"expanded_url": "https://twitter.com/EduWells/status/802349972381274112",
+						"display_url": "twitter.com/EduWells/statu…",
+						"indices": [
+							56,
+							79
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 301926897,
+			"in_reply_to_user_id_str": "301926897",
+			"in_reply_to_screen_name": "galloised",
+			"user": {
+				"id": 25946833,
+				"id_str": "25946833",
+				"name": "Margaret Simkin",
+				"screen_name": "margaretsimkin",
+				"location": "Victoria, Australia",
+				"description": "Wife, Mother, Teacher Librarian; History & Geography teacher.\nMicrosoft accredited Peer Coach. M.Ed (Knowledge Networks & Digital Innovation). M.Ed (T-L) CSU",
+				"url": "https://t.co/VjyjoBRCQb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VjyjoBRCQb",
+								"expanded_url": "http://digitalli.net/",
+								"display_url": "digitalli.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1964,
+				"friends_count": 2368,
+				"listed_count": 175,
+				"created_at": "Mon Mar 23 03:42:20 +0000 2009",
+				"favourites_count": 17422,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7840,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/219299291/free-twitter-background--un--85288507.br.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/219299291/free-twitter-background--un--85288507.br.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/308070373/PhotoFunia-c2710favatar_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/308070373/PhotoFunia-c2710favatar_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25946833/1368263169",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "326C3C",
+				"profile_sidebar_fill_color": "00FF03",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 802349972381274100,
+			"quoted_status_id_str": "802349972381274112",
+			"quoted_status": {
+				"created_at": "Sat Nov 26 03:15:15 +0000 2016",
+				"id": 802349972381274100,
+				"id_str": "802349972381274112",
+				"text": "21st Century competencies for #Learning: \nhttps://t.co/uXg9y1viCV\n#edChat #edchatnz\n+ The A-Team !!! https://t.co/sVryZW3oQW",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "Learning",
+							"indices": [
+								30,
+								39
+							]
+						},
+						{
+							"text": "edChat",
+							"indices": [
+								66,
+								73
+							]
+						},
+						{
+							"text": "edchatnz",
+							"indices": [
+								74,
+								83
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/uXg9y1viCV",
+							"expanded_url": "https://eduwells.com/2016/11/26/21st-century-key-competencies-for-learning/",
+							"display_url": "eduwells.com/2016/11/26/21s…",
+							"indices": [
+								42,
+								65
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 802349871420219400,
+							"id_str": "802349871420219392",
+							"indices": [
+								101,
+								124
+							],
+							"media_url": "http://pbs.twimg.com/media/CyKE9P-VIAArUsx.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CyKE9P-VIAArUsx.jpg",
+							"url": "https://t.co/sVryZW3oQW",
+							"display_url": "pic.twitter.com/sVryZW3oQW",
+							"expanded_url": "https://twitter.com/EduWells/status/802349972381274112/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1920,
+									"h": 1080,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 802349871420219400,
+							"id_str": "802349871420219392",
+							"indices": [
+								101,
+								124
+							],
+							"media_url": "http://pbs.twimg.com/media/CyKE9P-VIAArUsx.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CyKE9P-VIAArUsx.jpg",
+							"url": "https://t.co/sVryZW3oQW",
+							"display_url": "pic.twitter.com/sVryZW3oQW",
+							"expanded_url": "https://twitter.com/EduWells/status/802349972381274112/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1920,
+									"h": 1080,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 372213543,
+					"id_str": "372213543",
+					"name": "Richard Wells",
+					"screen_name": "EduWells",
+					"location": "Auckland",
+					"description": "Teacher, Author #LearnersParadise, Dep. Principal at #NZ High #School, International #Speaker, #Art grad, @huffpostedu Top #Teacher Blogger #edTech",
+					"url": "https://t.co/j0bDRg8nij",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/j0bDRg8nij",
+									"expanded_url": "http://EduWells.com",
+									"display_url": "EduWells.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 13712,
+					"friends_count": 7965,
+					"listed_count": 799,
+					"created_at": "Mon Sep 12 10:53:20 +0000 2011",
+					"favourites_count": 5774,
+					"utc_offset": -36000,
+					"time_zone": "Hawaii",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 12803,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "1F1B1B",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000084495144/0fd65834b2fd257c9039c5fc2351b270.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000084495144/0fd65834b2fd257c9039c5fc2351b270.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/793194703382470656/YU2cNjkW_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/793194703382470656/YU2cNjkW_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/372213543/1478311817",
+					"profile_link_color": "115E16",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "FFE0D4",
+					"profile_text_color": "851818",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 10,
+				"favorite_count": 12,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 802349972381274100,
+		"quoted_status_id_str": "802349972381274112",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sat Nov 26 09:17:07 +0000 2016",
 		"id": 802441041626337300,
 		"id_str": "802441041626337280",
