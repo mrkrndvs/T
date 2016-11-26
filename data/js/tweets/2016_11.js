@@ -1,6 +1,518 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sat Nov 26 21:08:44 +0000 2016",
+		"id": 802620126843392000,
+		"id_str": "802620126843392000",
+		"text": "RT @IaninSheffield: @mrkrndvs Thanks Aaron. That was an interesting post from so many different perspectives.\nHave left a question for @roy…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IaninSheffield",
+					"name": "Ian Guest",
+					"id": 21324520,
+					"id_str": "21324520",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						20,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3603,
+			"friends_count": 2802,
+			"listed_count": 373,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24393,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 26 20:18:06 +0000 2016",
+			"id": 802607381616230400,
+			"id_str": "802607381616230400",
+			"text": "@mrkrndvs Thanks Aaron. That was an interesting post from so many different perspectives.\nHave left a question for @royanlee",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "royanlee",
+						"name": "royan lee",
+						"id": 30651485,
+						"id_str": "30651485",
+						"indices": [
+							115,
+							124
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 802373600049147900,
+			"in_reply_to_status_id_str": "802373600049147908",
+			"in_reply_to_user_id": 372768752,
+			"in_reply_to_user_id_str": "372768752",
+			"in_reply_to_screen_name": "mrkrndvs",
+			"user": {
+				"id": 21324520,
+				"id_str": "21324520",
+				"name": "Ian Guest",
+				"screen_name": "IaninSheffield",
+				"location": "Sheffield, Yorkshire",
+				"description": "Former Physics teacher, former Head of ELearning ... and still learning. Now doctoral researcher @sheffhallamuni exploring teacher professional learning.",
+				"url": "https://t.co/SUuFhgyQxD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SUuFhgyQxD",
+								"expanded_url": "https://cpdin140.wordpress.com",
+								"display_url": "cpdin140.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2958,
+				"friends_count": 3341,
+				"listed_count": 204,
+				"created_at": "Thu Feb 19 18:28:04 +0000 2009",
+				"favourites_count": 269,
+				"utc_offset": 0,
+				"time_zone": "Edinburgh",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9007,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70341021/twitter_background.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/476823938568163328/boGjK4q1_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21324520/1439662711",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DEDAF4",
+				"profile_text_color": "A05D0E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 26 21:08:37 +0000 2016",
+		"id": 802620096564711400,
+		"id_str": "802620096564711425",
+		"text": "Some sort of visual inspiration #CLMOOC https://t.co/t534EaCDF6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CLMOOC",
+					"indices": [
+						32,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t534EaCDF6",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/802488619269132288",
+					"display_url": "twitter.com/mrkrndvs/statu…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3603,
+			"friends_count": 2802,
+			"listed_count": 373,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24393,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 802488619269132300,
+		"quoted_status_id_str": "802488619269132288",
+		"quoted_status": {
+			"created_at": "Sat Nov 26 12:26:11 +0000 2016",
+			"id": 802488619269132300,
+			"id_str": "802488619269132288",
+			"text": "Copying the Web https://t.co/uL357iTEo2 https://t.co/bDMdIm99XU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uL357iTEo2",
+						"expanded_url": "http://readwriterespond.com/?p=2768",
+						"display_url": "readwriterespond.com/?p=2768",
+						"indices": [
+							16,
+							39
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 802488616567980000,
+						"id_str": "802488616567980033",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/CyMDJR7UQAEUZDq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyMDJR7UQAEUZDq.jpg",
+						"url": "https://t.co/bDMdIm99XU",
+						"display_url": "pic.twitter.com/bDMdIm99XU",
+						"expanded_url": "https://twitter.com/mrkrndvs/status/802488619269132288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 281,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 281,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 281,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 802488616567980000,
+						"id_str": "802488616567980033",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/CyMDJR7UQAEUZDq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyMDJR7UQAEUZDq.jpg",
+						"url": "https://t.co/bDMdIm99XU",
+						"display_url": "pic.twitter.com/bDMdIm99XU",
+						"expanded_url": "https://twitter.com/mrkrndvs/status/802488619269132288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 281,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 281,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 281,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 372768752,
+				"id_str": "372768752",
+				"name": "Aaron Davis",
+				"screen_name": "mrkrndvs",
+				"location": "Melbourne, Australia",
+				"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+				"url": "https://t.co/PkNuJdsUBx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PkNuJdsUBx",
+								"expanded_url": "http://readwriterespond.com",
+								"display_url": "readwriterespond.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3603,
+				"friends_count": 2802,
+				"listed_count": 373,
+				"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+				"favourites_count": 4617,
+				"utc_offset": 36000,
+				"time_zone": "Brisbane",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24393,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 26 13:10:18 +0000 2016",
 		"id": 802499723588411400,
 		"id_str": "802499723588411392",
