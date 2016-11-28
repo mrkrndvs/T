@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Mon Nov 28 12:50:36 +0000 2016",
+		"id": 803219540247089200,
+		"id_str": "803219540247089152",
+		"text": "RT @PeterMDeWitt: @mrkrndvs @danhaesler @GustafsonBrad You should check out the work of @DrRussQ!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PeterMDeWitt",
+					"name": "Peter DeWitt, Ed.D.",
+					"id": 339289291,
+					"id_str": "339289291",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						18,
+						27
+					]
+				},
+				{
+					"screen_name": "danhaesler",
+					"name": "Dan Haesler",
+					"id": 211755009,
+					"id_str": "211755009",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "GustafsonBrad",
+					"name": "Dr. Brad Gustafson",
+					"id": 620322332,
+					"id_str": "620322332",
+					"indices": [
+						40,
+						54
+					]
+				},
+				{
+					"screen_name": "DrRussQ",
+					"name": "Dr. Russell Quaglia",
+					"id": 1924036020,
+					"id_str": "1924036020",
+					"indices": [
+						88,
+						96
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3605,
+			"friends_count": 2804,
+			"listed_count": 374,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4618,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24431,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 28 12:03:11 +0000 2016",
+			"id": 803207606948991000,
+			"id_str": "803207606948990976",
+			"text": "@mrkrndvs @danhaesler @GustafsonBrad You should check out the work of @DrRussQ!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "danhaesler",
+						"name": "Dan Haesler",
+						"id": 211755009,
+						"id_str": "211755009",
+						"indices": [
+							10,
+							21
+						]
+					},
+					{
+						"screen_name": "GustafsonBrad",
+						"name": "Dr. Brad Gustafson",
+						"id": 620322332,
+						"id_str": "620322332",
+						"indices": [
+							22,
+							36
+						]
+					},
+					{
+						"screen_name": "DrRussQ",
+						"name": "Dr. Russell Quaglia",
+						"id": 1924036020,
+						"id_str": "1924036020",
+						"indices": [
+							70,
+							78
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 803164187530694700,
+			"in_reply_to_status_id_str": "803164187530694656",
+			"in_reply_to_user_id": 372768752,
+			"in_reply_to_user_id_str": "372768752",
+			"in_reply_to_screen_name": "mrkrndvs",
+			"user": {
+				"id": 339289291,
+				"id_str": "339289291",
+				"name": "Peter DeWitt, Ed.D.",
+				"screen_name": "PeterMDeWitt",
+				"location": "Albany NY, USA",
+				"description": "Visible Learning, Collaborative Leadership & Instructional Coaching Trainer. Author. Series Editor (Corwin Press). Finding Common Ground blog (Education Week).",
+				"url": "https://t.co/DpkqD04ulD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DpkqD04ulD",
+								"expanded_url": "http://www.petermdewitt.com",
+								"display_url": "petermdewitt.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21260,
+				"friends_count": 1314,
+				"listed_count": 804,
+				"created_at": "Wed Jul 20 21:38:57 +0000 2011",
+				"favourites_count": 1667,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22954,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000160826117/TEK43HtA.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000160826117/TEK43HtA.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/777839195175919616/Y5JjX2Nm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/777839195175919616/Y5JjX2Nm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/339289291/1353786581",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Nov 28 11:17:03 +0000 2016",
 		"id": 803195998994468900,
 		"id_str": "803195998994468864",
