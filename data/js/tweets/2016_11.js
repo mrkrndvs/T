@@ -1,6 +1,714 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Wed Nov 30 19:29:44 +0000 2016",
+		"id": 804044763460579300,
+		"id_str": "804044763460579328",
+		"text": "\"it’s funny what stays with you\" @taniatorikova  https://t.co/axONDuCcOs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "taniatorikova",
+					"name": "Tania Sheko",
+					"id": 91079515,
+					"id_str": "91079515",
+					"indices": [
+						33,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/axONDuCcOs",
+					"expanded_url": "http://taniasheko.com/education/the-seduction-of-censored-material-and-other-memories-from-the-60s/",
+					"display_url": "taniasheko.com/education/the-…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3607,
+			"friends_count": 2808,
+			"listed_count": 377,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4618,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24466,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 30 19:17:30 +0000 2016",
+		"id": 804041685017641000,
+		"id_str": "804041685017640961",
+		"text": "RT @annadelconte: Great to hear about your family as well @mrkrndvs Full stops in music sound like a great idea. https://t.co/JyNXr6jQjo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "annadelconte",
+					"name": "Anne van der Graaf",
+					"id": 1652281850,
+					"id_str": "1652281850",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						58,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JyNXr6jQjo",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/803901230527303680",
+					"display_url": "twitter.com/mrkrndvs/statu…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3607,
+			"friends_count": 2808,
+			"listed_count": 377,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4618,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24466,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 30 16:33:10 +0000 2016",
+			"id": 804000329264046100,
+			"id_str": "804000329264046080",
+			"text": "Great to hear about your family as well @mrkrndvs Full stops in music sound like a great idea. https://t.co/JyNXr6jQjo",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							40,
+							49
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/JyNXr6jQjo",
+						"expanded_url": "https://twitter.com/mrkrndvs/status/803901230527303680",
+						"display_url": "twitter.com/mrkrndvs/statu…",
+						"indices": [
+							95,
+							118
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1652281850,
+				"id_str": "1652281850",
+				"name": "Anne van der Graaf",
+				"screen_name": "annadelconte",
+				"location": "Sydney Australia",
+				"description": "SW Sydney EALD primary school teacher. Passionate about learning being accessible for all. Co-moderator of #tesoloz chat - last Friday of month 8-9 pm AEST",
+				"url": "https://t.co/WInjzMipJq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WInjzMipJq",
+								"expanded_url": "http://annadelconte.wordpress.com",
+								"display_url": "annadelconte.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2107,
+				"friends_count": 1692,
+				"listed_count": 310,
+				"created_at": "Wed Aug 07 07:03:57 +0000 2013",
+				"favourites_count": 39395,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19704,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/767686512204845059/YXXzYLVf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/767686512204845059/YXXzYLVf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1652281850/1473931121",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 803901230527303700,
+			"quoted_status_id_str": "803901230527303680",
+			"quoted_status": {
+				"created_at": "Wed Nov 30 09:59:23 +0000 2016",
+				"id": 803901230527303700,
+				"id_str": "803901230527303680",
+				"text": "Read Write Respond #011 https://t.co/ZnLoomIMhH #edtech #edchat",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "edtech",
+							"indices": [
+								48,
+								55
+							]
+						},
+						{
+							"text": "edchat",
+							"indices": [
+								56,
+								63
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/ZnLoomIMhH",
+							"expanded_url": "http://tinyletter.com/readwriterespond/letters/read-write-respond-011",
+							"display_url": "tinyletter.com/readwriterespo…",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": 793381887020453900,
+				"in_reply_to_status_id_str": "793381887020453888",
+				"in_reply_to_user_id": 372768752,
+				"in_reply_to_user_id_str": "372768752",
+				"in_reply_to_screen_name": "mrkrndvs",
+				"user": {
+					"id": 372768752,
+					"id_str": "372768752",
+					"name": "Aaron Davis",
+					"screen_name": "mrkrndvs",
+					"location": "Melbourne, Australia",
+					"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+					"url": "https://t.co/PkNuJdsUBx",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/PkNuJdsUBx",
+									"expanded_url": "http://readwriterespond.com",
+									"display_url": "readwriterespond.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3607,
+					"friends_count": 2808,
+					"listed_count": 377,
+					"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+					"favourites_count": 4618,
+					"utc_offset": 36000,
+					"time_zone": "Brisbane",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 24466,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+					"profile_link_color": "FAB81E",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 803901230527303700,
+		"quoted_status_id_str": "803901230527303680",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 30 19:16:48 +0000 2016",
+		"id": 804041509494366200,
+		"id_str": "804041509494366209",
+		"text": "RT @duckduckgo: @dajbelshaw @mrkrndvs Thank you! Looks good.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "duckduckgo",
+					"name": "DuckDuckGo",
+					"id": 14504859,
+					"id_str": "14504859",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "dajbelshaw",
+					"name": "Doug Belshaw",
+					"id": 764365,
+					"id_str": "764365",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						28,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3607,
+			"friends_count": 2808,
+			"listed_count": 377,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4618,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24466,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 30 14:14:08 +0000 2016",
+			"id": 803965337934778400,
+			"id_str": "803965337934778368",
+			"text": "@dajbelshaw @mrkrndvs Thank you! Looks good.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dajbelshaw",
+						"name": "Doug Belshaw",
+						"id": 764365,
+						"id_str": "764365",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							12,
+							21
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 803927231449985000,
+			"in_reply_to_status_id_str": "803927231449985024",
+			"in_reply_to_user_id": 764365,
+			"in_reply_to_user_id_str": "764365",
+			"in_reply_to_screen_name": "dajbelshaw",
+			"user": {
+				"id": 14504859,
+				"id_str": "14504859",
+				"name": "DuckDuckGo",
+				"screen_name": "duckduckgo",
+				"location": "Paoli, PA",
+				"description": "DuckDuckGo is the search engine that doesn't track you. Join our community improving search results through https://t.co/ZWlL7gv8mh",
+				"url": "https://t.co/Y8Vlu7kafA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Y8Vlu7kafA",
+								"expanded_url": "https://duckduckgo.com/",
+								"display_url": "duckduckgo.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZWlL7gv8mh",
+								"expanded_url": "http://duckduckhack.com",
+								"display_url": "duckduckhack.com",
+								"indices": [
+									108,
+									131
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 67943,
+				"friends_count": 1389,
+				"listed_count": 1951,
+				"created_at": "Thu Apr 24 01:57:35 +0000 2008",
+				"favourites_count": 5387,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 15032,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "90C4E9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/679046742/26b90c589e1f9429d2af0e3bbdc07fc8.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/679046742/26b90c589e1f9429d2af0e3bbdc07fc8.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/467502291415617536/SP8_ylk9_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/467502291415617536/SP8_ylk9_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14504859/1453390868",
+				"profile_link_color": "DE5833",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 30 12:43:31 +0000 2016",
 		"id": 803942535584448500,
 		"id_str": "803942535584448514",
