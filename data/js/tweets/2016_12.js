@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Wed Dec 07 07:20:05 +0000 2016",
+		"id": 806397855426547700,
+		"id_str": "806397855426547713",
+		"text": "RT @OpenBadges: @mrkrndvs #OpenBadges standard is free to use and free to contribute to through @LearningImpact's process w/public contribu…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OpenBadges",
+					"indices": [
+						26,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OpenBadges",
+					"name": "Open Badges",
+					"id": 437707118,
+					"id_str": "437707118",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"screen_name": "LearningImpact",
+					"name": "IMS Global Learning",
+					"id": 146316919,
+					"id_str": "146316919",
+					"indices": [
+						96,
+						111
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3622,
+			"friends_count": 2812,
+			"listed_count": 377,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24585,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 06 22:37:38 +0000 2016",
+			"id": 806266377543651300,
+			"id_str": "806266377543651329",
+			"text": "@mrkrndvs #OpenBadges standard is free to use and free to contribute to through @LearningImpact's process w/public contributions in 2017.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OpenBadges",
+						"indices": [
+							10,
+							21
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "LearningImpact",
+						"name": "IMS Global Learning",
+						"id": 146316919,
+						"id_str": "146316919",
+						"indices": [
+							80,
+							95
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 806265665770295300,
+			"in_reply_to_status_id_str": "806265665770295297",
+			"in_reply_to_user_id": 437707118,
+			"in_reply_to_user_id_str": "437707118",
+			"in_reply_to_screen_name": "OpenBadges",
+			"user": {
+				"id": 437707118,
+				"id_str": "437707118",
+				"name": "Open Badges",
+				"screen_name": "OpenBadges",
+				"location": "everywhere",
+				"description": "Open Badges makes it possible to recognize and showcase your skills & literacies across the Web, wherever you go. \nv1.1 now at http://t.co/4WkDF3OEtV!",
+				"url": "http://t.co/HEIdQwZRfa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HEIdQwZRfa",
+								"expanded_url": "http://openbadges.org",
+								"display_url": "openbadges.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/4WkDF3OEtV",
+								"expanded_url": "http://openbadgespec.org",
+								"display_url": "openbadgespec.org",
+								"indices": [
+									127,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18926,
+				"friends_count": 7212,
+				"listed_count": 804,
+				"created_at": "Thu Dec 15 18:53:42 +0000 2011",
+				"favourites_count": 2444,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8457,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "182D39",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/813844801/f144e1418a23b5ec59f328d677cc2d47.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/813844801/f144e1418a23b5ec59f328d677cc2d47.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/463669446066728961/6F7Wsud-_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/463669446066728961/6F7Wsud-_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/437707118/1399382400",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Dec 07 03:39:38 +0000 2016",
 		"id": 806342375664554000,
 		"id_str": "806342375664553984",
