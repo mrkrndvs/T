@@ -1,6 +1,409 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Wed Dec 07 23:45:43 +0000 2016",
+		"id": 806645898067353600,
+		"id_str": "806645898067353600",
+		"text": "RT @Obi_Jon_: *NEW POST* PISA Hits Snake Mountain https://t.co/i7ocAySrX2… https://t.co/avZl38CyfJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Obi_Jon_",
+					"name": "Jon Andrews",
+					"id": 817918164,
+					"id_str": "817918164",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/i7ocAySrX2",
+					"expanded_url": "http://jonandrews.edublogs.org/2016/12/07/pis",
+					"display_url": "jonandrews.edublogs.org/2016/12/07/pis",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 806598200987525100,
+					"id_str": "806598200987525120",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CzGcyk5UoAAZR7q.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CzGcyk5UoAAZR7q.jpg",
+					"url": "https://t.co/avZl38CyfJ",
+					"display_url": "pic.twitter.com/avZl38CyfJ",
+					"expanded_url": "https://twitter.com/Obi_Jon_/status/806598467816558592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 370,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 370,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 252,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 806598467816558600,
+					"source_status_id_str": "806598467816558592",
+					"source_user_id": 817918164,
+					"source_user_id_str": "817918164"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 806598200987525100,
+					"id_str": "806598200987525120",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CzGcyk5UoAAZR7q.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CzGcyk5UoAAZR7q.jpg",
+					"url": "https://t.co/avZl38CyfJ",
+					"display_url": "pic.twitter.com/avZl38CyfJ",
+					"expanded_url": "https://twitter.com/Obi_Jon_/status/806598467816558592/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 370,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 370,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 252,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 806598467816558600,
+					"source_status_id_str": "806598467816558592",
+					"source_user_id": 817918164,
+					"source_user_id_str": "817918164",
+					"video_info": {
+						"aspect_ratio": [
+							50,
+							37
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/CzGcyk5UoAAZR7q.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3627,
+			"friends_count": 2810,
+			"listed_count": 378,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24614,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 07 20:37:15 +0000 2016",
+			"id": 806598467816558600,
+			"id_str": "806598467816558592",
+			"text": "*NEW POST* PISA Hits Snake Mountain https://t.co/i7ocAySrX2… https://t.co/avZl38CyfJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/i7ocAySrX2",
+						"expanded_url": "http://jonandrews.edublogs.org/2016/12/07/pis",
+						"display_url": "jonandrews.edublogs.org/2016/12/07/pis",
+						"indices": [
+							36,
+							59
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 806598200987525100,
+						"id_str": "806598200987525120",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CzGcyk5UoAAZR7q.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CzGcyk5UoAAZR7q.jpg",
+						"url": "https://t.co/avZl38CyfJ",
+						"display_url": "pic.twitter.com/avZl38CyfJ",
+						"expanded_url": "https://twitter.com/Obi_Jon_/status/806598467816558592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 370,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 370,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 252,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 806598200987525100,
+						"id_str": "806598200987525120",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CzGcyk5UoAAZR7q.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CzGcyk5UoAAZR7q.jpg",
+						"url": "https://t.co/avZl38CyfJ",
+						"display_url": "pic.twitter.com/avZl38CyfJ",
+						"expanded_url": "https://twitter.com/Obi_Jon_/status/806598467816558592/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 370,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 370,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 252,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								50,
+								37
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/CzGcyk5UoAAZR7q.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 817918164,
+				"id_str": "817918164",
+				"name": "Jon Andrews",
+				"screen_name": "Obi_Jon_",
+				"location": "",
+				"description": "Director of Teaching and Learning, Coaching and Research, Brisbane. Views are my own.",
+				"url": "https://t.co/PnHWGxe2mT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PnHWGxe2mT",
+								"expanded_url": "https://jonandrews.edublogs.org",
+								"display_url": "jonandrews.edublogs.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4472,
+				"friends_count": 551,
+				"listed_count": 175,
+				"created_at": "Tue Sep 11 18:21:31 +0000 2012",
+				"favourites_count": 8185,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8938,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/763149460733952001/nma23J4I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/763149460733952001/nma23J4I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/817918164/1475296808",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Dec 07 12:03:06 +0000 2016",
 		"id": 806469079460524000,
 		"id_str": "806469079460524032",
