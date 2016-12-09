@@ -1,6 +1,658 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Fri Dec 09 04:10:03 +0000 2016",
+		"id": 807074808278061000,
+		"id_str": "807074808278061056",
+		"text": "Recognizing Self-Directed Learners with Open Badge eCredentials https://t.co/M3iPr1swou via @donpresant",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "donpresant",
+					"name": "Don Presant",
+					"id": 22250075,
+					"id_str": "22250075",
+					"indices": [
+						92,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/M3iPr1swou",
+					"expanded_url": "https://littoraly.wordpress.com/2016/03/07/recognizing-self-directed-learners-with-open-badge-ecredentials/",
+					"display_url": "littoraly.wordpress.com/2016/03/07/rec…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3633,
+			"friends_count": 2815,
+			"listed_count": 378,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24636,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Dec 09 03:53:15 +0000 2016",
+		"id": 807070580281180200,
+		"id_str": "807070580281180161",
+		"text": "RT @robbielove79: Can anyone can help this student out by completing a quick research project survey? @largerama @gcouros @mrkrndvs @Tamara…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "robbielove79",
+					"name": "Rob Love",
+					"id": 37404477,
+					"id_str": "37404477",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "largerama",
+					"name": "Nick Jackson",
+					"id": 82992519,
+					"id_str": "82992519",
+					"indices": [
+						102,
+						112
+					]
+				},
+				{
+					"screen_name": "gcouros",
+					"name": "George Couros",
+					"id": 18368680,
+					"id_str": "18368680",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						122,
+						131
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3633,
+			"friends_count": 2815,
+			"listed_count": 378,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24636,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 09 02:50:35 +0000 2016",
+			"id": 807054807303221200,
+			"id_str": "807054807303221249",
+			"text": "Can anyone can help this student out by completing a quick research project survey? @largerama @gcouros @mrkrndvs… https://t.co/h5kBKZXhe0",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "largerama",
+						"name": "Nick Jackson",
+						"id": 82992519,
+						"id_str": "82992519",
+						"indices": [
+							84,
+							94
+						]
+					},
+					{
+						"screen_name": "gcouros",
+						"name": "George Couros",
+						"id": 18368680,
+						"id_str": "18368680",
+						"indices": [
+							95,
+							103
+						]
+					},
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							104,
+							113
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/h5kBKZXhe0",
+						"expanded_url": "https://twitter.com/i/web/status/807054807303221249",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 37404477,
+				"id_str": "37404477",
+				"name": "Rob Love",
+				"screen_name": "robbielove79",
+				"location": "Adelaide, SA, Australia",
+				"description": "Passionate speaker, teacher and leader - excited about the process of innovation, design thinking & the possibilities for school change. My views are my own.",
+				"url": "https://t.co/tL2eghwXYo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tL2eghwXYo",
+								"expanded_url": "https://robbielove79.wordpress.com",
+								"display_url": "robbielove79.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 830,
+				"friends_count": 929,
+				"listed_count": 71,
+				"created_at": "Sun May 03 11:48:45 +0000 2009",
+				"favourites_count": 2842,
+				"utc_offset": 37800,
+				"time_zone": "Adelaide",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4213,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/648014537237467136/MVRhI6a8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/648014537237467136/MVRhI6a8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/37404477/1443333709",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "4e3c0a60cb10372a",
+				"url": "https://api.twitter.com/1.1/geo/id/4e3c0a60cb10372a.json",
+				"place_type": "admin",
+				"name": "South Australia",
+				"full_name": "South Australia, Australia",
+				"country_code": "AU",
+				"country": "Australia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								129.001336997342,
+								-38.0626029901026
+							],
+							[
+								141.002955609625,
+								-38.0626029901026
+							],
+							[
+								141.002955609625,
+								-25.9961464965035
+							],
+							[
+								129.001336997342,
+								-25.9961464965035
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 807001279973068800,
+			"quoted_status_id_str": "807001279973068800",
+			"quoted_status": {
+				"created_at": "Thu Dec 08 23:17:53 +0000 2016",
+				"id": 807001279973068800,
+				"id_str": "807001279973068800",
+				"text": "Pls help my Yr12 student on Independant Research Project/ completing short surveys https://t.co/P3Y7YCOfZr https://t.co/yJin7fT9Rl #tmnsw",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "tmnsw",
+							"indices": [
+								131,
+								137
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/P3Y7YCOfZr",
+							"expanded_url": "https://goo.gl/k2tIGF",
+							"display_url": "goo.gl/k2tIGF",
+							"indices": [
+								83,
+								106
+							]
+						},
+						{
+							"url": "https://t.co/yJin7fT9Rl",
+							"expanded_url": "https://goo.gl/c2kMtA",
+							"display_url": "goo.gl/c2kMtA",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 355445230,
+					"id_str": "355445230",
+					"name": "Simon Harper",
+					"screen_name": "s_harper3",
+					"location": "Sydney",
+					"description": "Passionate educator| Ex Chef | Edutech enthusiast |  Microsoft Innovative Educator Expert | Peer Coach | TeachMeet | Flipped&Blended learning | Views are my own",
+					"url": "https://t.co/0ZTMLPv6Ox",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/0ZTMLPv6Ox",
+									"expanded_url": "http://simonharper3.wordpress.com",
+									"display_url": "simonharper3.wordpress.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1059,
+					"friends_count": 885,
+					"listed_count": 75,
+					"created_at": "Mon Aug 15 11:04:31 +0000 2011",
+					"favourites_count": 1198,
+					"utc_offset": 39600,
+					"time_zone": "Sydney",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 4371,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "0099B9",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/779624352392163328/emFj5qjK_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/779624352392163328/emFj5qjK_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/355445230/1465116127",
+					"profile_link_color": "0099B9",
+					"profile_sidebar_border_color": "5ED4DC",
+					"profile_sidebar_fill_color": "95E8EC",
+					"profile_text_color": "3C3940",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 807001279973068800,
+		"quoted_status_id_str": "807001279973068800",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Dec 09 03:52:48 +0000 2016",
+		"id": 807070467454447600,
+		"id_str": "807070467454447616",
+		"text": "Some thoughts and recommendations on the future of the @OpenBadges backpack and community https://t.co/BrxglLgKXo via @dajbelshaw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OpenBadges",
+					"name": "Open Badges",
+					"id": 437707118,
+					"id_str": "437707118",
+					"indices": [
+						55,
+						66
+					]
+				},
+				{
+					"screen_name": "dajbelshaw",
+					"name": "Doug Belshaw",
+					"id": 764365,
+					"id_str": "764365",
+					"indices": [
+						118,
+						129
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BrxglLgKXo",
+					"expanded_url": "http://dougbelshaw.com/blog/2016/06/02/badges-backpack-community/",
+					"display_url": "dougbelshaw.com/blog/2016/06/0…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3633,
+			"friends_count": 2815,
+			"listed_count": 378,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24636,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 09 02:11:27 +0000 2016",
 		"id": 807044960495095800,
 		"id_str": "807044960495095808",
