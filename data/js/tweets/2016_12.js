@@ -1,6 +1,421 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Fri Dec 09 13:11:59 +0000 2016",
+		"id": 807211190224973800,
+		"id_str": "807211190224973824",
+		"text": "OECD and Pisa tests are damaging education worldwide - academics https://t.co/K1MwFf9Jrs -&gt; a must read #edreform",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edreform",
+					"indices": [
+						107,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K1MwFf9Jrs",
+					"expanded_url": "https://www.theguardian.com/education/2014/may/06/oecd-pisa-tests-damaging-education-academics",
+					"display_url": "theguardian.com/education/2014…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3636,
+			"friends_count": 2815,
+			"listed_count": 378,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24644,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Dec 09 12:37:06 +0000 2016",
+		"id": 807202410439376900,
+		"id_str": "807202410439376896",
+		"text": "What or How - which would you choose? https://t.co/Z06KnYABZW HT @suzyoc01 #edchat #aussieED",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edchat",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"text": "aussieED",
+					"indices": [
+						83,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suzyoc01",
+					"name": "Suzy",
+					"id": 576755346,
+					"id_str": "576755346",
+					"indices": [
+						65,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Z06KnYABZW",
+					"expanded_url": "http://readwriterespond.com/?p=2810",
+					"display_url": "readwriterespond.com/?p=2810",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3636,
+			"friends_count": 2815,
+			"listed_count": 378,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24644,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Dec 09 12:16:47 +0000 2016",
+		"id": 807197297180311600,
+		"id_str": "807197297180311553",
+		"text": "What or How – which would you choose? https://t.co/Z06KnYj18o https://t.co/GCjrsCVh1c",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z06KnYj18o",
+					"expanded_url": "http://readwriterespond.com/?p=2810",
+					"display_url": "readwriterespond.com/?p=2810",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 807197294843990000,
+					"id_str": "807197294843990016",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/CzO9qbbVEAAD8o8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CzO9qbbVEAAD8o8.jpg",
+					"url": "https://t.co/GCjrsCVh1c",
+					"display_url": "pic.twitter.com/GCjrsCVh1c",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/807197297180311553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 281,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 281,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 281,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 807197294843990000,
+					"id_str": "807197294843990016",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/CzO9qbbVEAAD8o8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CzO9qbbVEAAD8o8.jpg",
+					"url": "https://t.co/GCjrsCVh1c",
+					"display_url": "pic.twitter.com/GCjrsCVh1c",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/807197297180311553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 281,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 281,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 281,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "Educator interested in 21CL, ICT, Literacy and History. Actually, interested in learning and how together we are always better. Thoughts are my own.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3636,
+			"friends_count": 2815,
+			"listed_count": 378,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24644,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 09 12:12:21 +0000 2016",
 		"id": 807196180799066100,
 		"id_str": "807196180799066113",
