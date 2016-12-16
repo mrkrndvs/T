@@ -1,6 +1,554 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Fri Dec 16 09:06:30 +0000 2016",
+		"id": 809686124771688400,
+		"id_str": "809686124771688448",
+		"text": "\"The All New Google Sites for Schools - Video Tutorial\" @ericcurts  https://t.co/tRHqhDb7oz #edtech",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						92,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ericcurts",
+					"name": "Eric Curts",
+					"id": 17999593,
+					"id_str": "17999593",
+					"indices": [
+						56,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tRHqhDb7oz",
+					"expanded_url": "http://www.controlaltachieve.com/2016/12/new-google-sites-for-schools.html",
+					"display_url": "controlaltachieve.com/2016/12/new-go…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3658,
+			"friends_count": 2818,
+			"listed_count": 381,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24791,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Dec 16 08:18:37 +0000 2016",
+		"id": 809674075303882800,
+		"id_str": "809674075303882752",
+		"text": "RT @sylviaduckworth: #Seesaw sketchnote (new version) @MrsGadtke @Seesaw #seesawchat https://t.co/ciY5n8R1H2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seesaw",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"text": "seesawchat",
+					"indices": [
+						73,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sylviaduckworth",
+					"name": "Sylvia Duckworth",
+					"id": 241291614,
+					"id_str": "241291614",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "MrsGadtke",
+					"name": "Angela Gadtke",
+					"id": 2181395065,
+					"id_str": "2181395065",
+					"indices": [
+						54,
+						64
+					]
+				},
+				{
+					"screen_name": "Seesaw",
+					"name": "Seesaw",
+					"id": 2896841402,
+					"id_str": "2896841402",
+					"indices": [
+						65,
+						72
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 809598445698895900,
+					"id_str": "809598445698895872",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/CzxFfzaXUAAnKDF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CzxFfzaXUAAnKDF.jpg",
+					"url": "https://t.co/ciY5n8R1H2",
+					"display_url": "pic.twitter.com/ciY5n8R1H2",
+					"expanded_url": "https://twitter.com/sylviaduckworth/status/809598470029971456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 809598470029971500,
+					"source_status_id_str": "809598470029971456",
+					"source_user_id": 241291614,
+					"source_user_id_str": "241291614"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 809598445698895900,
+					"id_str": "809598445698895872",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/CzxFfzaXUAAnKDF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CzxFfzaXUAAnKDF.jpg",
+					"url": "https://t.co/ciY5n8R1H2",
+					"display_url": "pic.twitter.com/ciY5n8R1H2",
+					"expanded_url": "https://twitter.com/sylviaduckworth/status/809598470029971456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 809598470029971500,
+					"source_status_id_str": "809598470029971456",
+					"source_user_id": 241291614,
+					"source_user_id_str": "241291614"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3658,
+			"friends_count": 2818,
+			"listed_count": 381,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24791,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 16 03:18:11 +0000 2016",
+			"id": 809598470029971500,
+			"id_str": "809598470029971456",
+			"text": "#Seesaw sketchnote (new version) @MrsGadtke @Seesaw #seesawchat https://t.co/ciY5n8R1H2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Seesaw",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"text": "seesawchat",
+						"indices": [
+							52,
+							63
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MrsGadtke",
+						"name": "Angela Gadtke",
+						"id": 2181395065,
+						"id_str": "2181395065",
+						"indices": [
+							33,
+							43
+						]
+					},
+					{
+						"screen_name": "Seesaw",
+						"name": "Seesaw",
+						"id": 2896841402,
+						"id_str": "2896841402",
+						"indices": [
+							44,
+							51
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 809598445698895900,
+						"id_str": "809598445698895872",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/CzxFfzaXUAAnKDF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzxFfzaXUAAnKDF.jpg",
+						"url": "https://t.co/ciY5n8R1H2",
+						"display_url": "pic.twitter.com/ciY5n8R1H2",
+						"expanded_url": "https://twitter.com/sylviaduckworth/status/809598470029971456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1800,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 809598445698895900,
+						"id_str": "809598445698895872",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/CzxFfzaXUAAnKDF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzxFfzaXUAAnKDF.jpg",
+						"url": "https://t.co/ciY5n8R1H2",
+						"display_url": "pic.twitter.com/ciY5n8R1H2",
+						"expanded_url": "https://twitter.com/sylviaduckworth/status/809598470029971456/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1800,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 241291614,
+				"id_str": "241291614",
+				"name": "Sylvia Duckworth",
+				"screen_name": "sylviaduckworth",
+				"location": "Toronto",
+				"description": "#AIMlang French teacher. Excited by the creative & collaborative aspects of technology. Always trying to think outside the box. Google Certified Innovator.",
+				"url": "https://t.co/QRAUqy2Bjf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QRAUqy2Bjf",
+								"expanded_url": "http://sylviaduckworth.com",
+								"display_url": "sylviaduckworth.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25658,
+				"friends_count": 3079,
+				"listed_count": 1159,
+				"created_at": "Fri Jan 21 22:37:36 +0000 2011",
+				"favourites_count": 7393,
+				"utc_offset": -14400,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28290,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/195799098/twitter_background.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/195799098/twitter_background.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/641296583905021952/FwNH4vFG_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/641296583905021952/FwNH4vFG_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/241291614/1420952874",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36,
+			"favorite_count": 54,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 16 03:26:32 +0000 2016",
 		"id": 809600570591846400,
 		"id_str": "809600570591846400",
