@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Fri Dec 16 19:12:38 +0000 2016",
+		"id": 809838663811014700,
+		"id_str": "809838663811014656",
+		"text": "RT @Learn_Things: Each individual dot is moving in a straight line https://t.co/AGIixGb3Py",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Learn_Things",
+					"name": "Science GIFs⚛️",
+					"id": 593370001,
+					"id_str": "593370001",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 788530534720933900,
+					"id_str": "788530534720933890",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CvFsV_CXEAI3x2S.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CvFsV_CXEAI3x2S.jpg",
+					"url": "https://t.co/AGIixGb3Py",
+					"display_url": "pic.twitter.com/AGIixGb3Py",
+					"expanded_url": "https://twitter.com/WorldAndScience/status/788530538831372288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 788530538831372300,
+					"source_status_id_str": "788530538831372288",
+					"source_user_id": 511402689,
+					"source_user_id_str": "511402689"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 788530534720933900,
+					"id_str": "788530534720933890",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CvFsV_CXEAI3x2S.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CvFsV_CXEAI3x2S.jpg",
+					"url": "https://t.co/AGIixGb3Py",
+					"display_url": "pic.twitter.com/AGIixGb3Py",
+					"expanded_url": "https://twitter.com/WorldAndScience/status/788530538831372288/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 788530538831372300,
+					"source_status_id_str": "788530538831372288",
+					"source_user_id": 511402689,
+					"source_user_id_str": "511402689",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/CvFsV_CXEAI3x2S.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3659,
+			"friends_count": 2818,
+			"listed_count": 381,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24793,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 11 19:45:08 +0000 2016",
+			"id": 808034903212355600,
+			"id_str": "808034903212355588",
+			"text": "Each individual dot is moving in a straight line https://t.co/AGIixGb3Py",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 788530534720933900,
+						"id_str": "788530534720933890",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CvFsV_CXEAI3x2S.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CvFsV_CXEAI3x2S.jpg",
+						"url": "https://t.co/AGIixGb3Py",
+						"display_url": "pic.twitter.com/AGIixGb3Py",
+						"expanded_url": "https://twitter.com/WorldAndScience/status/788530538831372288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 788530538831372300,
+						"source_status_id_str": "788530538831372288",
+						"source_user_id": 511402689,
+						"source_user_id_str": "511402689"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 788530534720933900,
+						"id_str": "788530534720933890",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CvFsV_CXEAI3x2S.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CvFsV_CXEAI3x2S.jpg",
+						"url": "https://t.co/AGIixGb3Py",
+						"display_url": "pic.twitter.com/AGIixGb3Py",
+						"expanded_url": "https://twitter.com/WorldAndScience/status/788530538831372288/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 788530538831372300,
+						"source_status_id_str": "788530538831372288",
+						"source_user_id": 511402689,
+						"source_user_id_str": "511402689",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/CvFsV_CXEAI3x2S.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 593370001,
+				"id_str": "593370001",
+				"name": "Science GIFs⚛️",
+				"screen_name": "Learn_Things",
+				"location": "",
+				"description": "The best Science GIFs, Vines and videos!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1160023,
+				"friends_count": 29,
+				"listed_count": 3191,
+				"created_at": "Tue May 29 04:49:10 +0000 2012",
+				"favourites_count": 6,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 962,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/541249547385982976/5IYaH6zA_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/541249547385982976/5IYaH6zA_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/593370001/1417880383",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2236,
+			"favorite_count": 3701,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2236,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 16 09:25:55 +0000 2016",
 		"id": 809691013249761300,
 		"id_str": "809691013249761280",
