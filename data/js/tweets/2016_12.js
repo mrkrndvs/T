@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sat Dec 17 11:05:45 +0000 2016",
+		"id": 810078522924372000,
+		"id_str": "810078522924371968",
+		"text": "@markxsyst @GFThommo @Obi_Jon_ @erickalenze if the purpose of edu is socialisation &amp; subjectification, where does 'restricting' sts sit?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "markxsyst",
+					"name": "Lexical Infidelity",
+					"id": 348434001,
+					"id_str": "348434001",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "GFThommo",
+					"name": "Dr Beardface",
+					"id": 488946521,
+					"id_str": "488946521",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "Obi_Jon_",
+					"name": "Jon Andrews",
+					"id": 817918164,
+					"id_str": "817918164",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"screen_name": "erickalenze",
+					"name": "Eric Kalenze",
+					"id": 2458706999,
+					"id_str": "2458706999",
+					"indices": [
+						31,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 809543863899590700,
+		"in_reply_to_status_id_str": "809543863899590657",
+		"in_reply_to_user_id": 348434001,
+		"in_reply_to_user_id_str": "348434001",
+		"in_reply_to_screen_name": "markxsyst",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3659,
+			"friends_count": 2817,
+			"listed_count": 381,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24808,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Dec 17 11:00:52 +0000 2016",
+		"id": 810077294131695600,
+		"id_str": "810077294131695617",
+		"text": "\"iPads are not designed for education &amp; they’re very hard to restrict\" \nMaybe sts shd get Dynabooks? Wondering what… https://t.co/TpuMk0ooZg",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TpuMk0ooZg",
+					"expanded_url": "https://twitter.com/i/web/status/810077294131695617",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3659,
+			"friends_count": 2817,
+			"listed_count": 381,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24808,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 809543863899590700,
+		"quoted_status_id_str": "809543863899590657",
+		"quoted_status": {
+			"created_at": "Thu Dec 15 23:41:12 +0000 2016",
+			"id": 809543863899590700,
+			"id_str": "809543863899590657",
+			"text": "In Apple’s backyard, iPads ignite furor in schools. @GFThommo @Obi_Jon_  https://t.co/YOQBi2EnBh. Thanks @erickalenze for heads up.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GFThommo",
+						"name": "Dr Beardface",
+						"id": 488946521,
+						"id_str": "488946521",
+						"indices": [
+							52,
+							61
+						]
+					},
+					{
+						"screen_name": "Obi_Jon_",
+						"name": "Jon Andrews",
+						"id": 817918164,
+						"id_str": "817918164",
+						"indices": [
+							62,
+							71
+						]
+					},
+					{
+						"screen_name": "erickalenze",
+						"name": "Eric Kalenze",
+						"id": 2458706999,
+						"id_str": "2458706999",
+						"indices": [
+							105,
+							117
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/YOQBi2EnBh",
+						"expanded_url": "http://www.mercurynews.com/2016/12/13/in-apples-backyard-ipads-ignite-furor-in-schools/",
+						"display_url": "mercurynews.com/2016/12/13/in-…",
+						"indices": [
+							73,
+							96
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 348434001,
+				"id_str": "348434001",
+				"name": "Lexical Infidelity",
+				"screen_name": "markxsyst",
+				"location": "",
+				"description": "'It wasn't that you had the wrong kind of government, which was obvious, but that you had the wrong kind of people'. Terry Pratchett",
+				"url": "https://t.co/uWL5SXIrml",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uWL5SXIrml",
+								"expanded_url": "https://disengagededucator.wordpress.com/",
+								"display_url": "disengagededucator.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 981,
+				"friends_count": 625,
+				"listed_count": 68,
+				"created_at": "Thu Aug 04 12:33:49 +0000 2011",
+				"favourites_count": 7123,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15054,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/809318050436521985/QMdyfvso_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/809318050436521985/QMdyfvso_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/348434001/1470573438",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Dec 17 09:49:13 +0000 2016",
 		"id": 810059264081293300,
 		"id_str": "810059264081293312",
