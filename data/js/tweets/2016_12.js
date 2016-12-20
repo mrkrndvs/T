@@ -1,6 +1,532 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Tue Dec 20 07:23:23 +0000 2016",
+		"id": 811109726003961900,
+		"id_str": "811109726003961856",
+		"text": "RT @ScottMillmanEDU: Thanks, @GFThommo. Nice to know that all those lonely nights of crying \"Notice me senpai!\" into my tear-stained pillow…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ScottMillmanEDU",
+					"name": "Scott Millman",
+					"id": 3841010772,
+					"id_str": "3841010772",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "GFThommo",
+					"name": "Dr Beardface",
+					"id": 488946521,
+					"id_str": "488946521",
+					"indices": [
+						29,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3663,
+			"friends_count": 2816,
+			"listed_count": 376,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24874,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 20 07:17:56 +0000 2016",
+			"id": 811108356853088300,
+			"id_str": "811108356853088257",
+			"text": "Thanks, @GFThommo. Nice to know that all those lonely nights of crying \"Notice me senpai!\" into my tear-stained pil… https://t.co/A59hHJNEHx",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GFThommo",
+						"name": "Dr Beardface",
+						"id": 488946521,
+						"id_str": "488946521",
+						"indices": [
+							8,
+							17
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/A59hHJNEHx",
+						"expanded_url": "https://twitter.com/i/web/status/811108356853088257",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": 811043824378081300,
+			"in_reply_to_status_id_str": "811043824378081281",
+			"in_reply_to_user_id": 488946521,
+			"in_reply_to_user_id_str": "488946521",
+			"in_reply_to_screen_name": "GFThommo",
+			"user": {
+				"id": 3841010772,
+				"id_str": "3841010772",
+				"name": "Scott Millman",
+				"screen_name": "ScottMillmanEDU",
+				"location": "Sunshine Coast, Australia",
+				"description": "Head of Department at a P-12 School | Student Thinking & Understanding | Leadership & Organisational Learning | Making & Design | Opinions are my own",
+				"url": "https://t.co/f8M2dorIlN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/f8M2dorIlN",
+								"expanded_url": "https://scottmillman.edublogs.org",
+								"display_url": "scottmillman.edublogs.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 579,
+				"friends_count": 845,
+				"listed_count": 49,
+				"created_at": "Fri Oct 09 22:51:05 +0000 2015",
+				"favourites_count": 1656,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 945,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/782752329636327424/qdo68j4x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/782752329636327424/qdo68j4x_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3841010772/1475457675",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 20 07:22:32 +0000 2016",
+		"id": 811109515605078000,
+		"id_str": "811109515605078017",
+		"text": "RT @visualthinkery: Copyright vs. Creative Commons\nhttps://t.co/u0y6derJ4r - #creativecommons, #edchat @creativecommons, @kasliwowski\n@Brya…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "creativecommons",
+					"indices": [
+						77,
+						93
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						95,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "visualthinkery",
+					"name": "Visual Thinkery",
+					"id": 4872005950,
+					"id_str": "4872005950",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "creativecommons",
+					"name": "Creative Commons",
+					"id": 17462723,
+					"id_str": "17462723",
+					"indices": [
+						103,
+						119
+					]
+				},
+				{
+					"screen_name": "kasliwowski",
+					"name": "Kamil Śliwowski",
+					"id": 30648732,
+					"id_str": "30648732",
+					"indices": [
+						121,
+						133
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/u0y6derJ4r",
+					"expanded_url": "http://bit.ly/2i9Yw3M",
+					"display_url": "bit.ly/2i9Yw3M",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3663,
+			"friends_count": 2816,
+			"listed_count": 376,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4617,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24874,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 20 07:18:57 +0000 2016",
+			"id": 811108611468521500,
+			"id_str": "811108611468521472",
+			"text": "Copyright vs. Creative Commons\nhttps://t.co/u0y6derJ4r - #creativecommons, #edchat @creativecommons, @kasliwowski… https://t.co/kwzd6fTiHW",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "creativecommons",
+						"indices": [
+							57,
+							73
+						]
+					},
+					{
+						"text": "edchat",
+						"indices": [
+							75,
+							82
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "creativecommons",
+						"name": "Creative Commons",
+						"id": 17462723,
+						"id_str": "17462723",
+						"indices": [
+							83,
+							99
+						]
+					},
+					{
+						"screen_name": "kasliwowski",
+						"name": "Kamil Śliwowski",
+						"id": 30648732,
+						"id_str": "30648732",
+						"indices": [
+							101,
+							113
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/u0y6derJ4r",
+						"expanded_url": "http://bit.ly/2i9Yw3M",
+						"display_url": "bit.ly/2i9Yw3M",
+						"indices": [
+							31,
+							54
+						]
+					},
+					{
+						"url": "https://t.co/kwzd6fTiHW",
+						"expanded_url": "https://twitter.com/i/web/status/811108611468521472",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bryanmmathers.com/\" rel=\"nofollow\">Visual Thinkery</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4872005950,
+				"id_str": "4872005950",
+				"name": "Visual Thinkery",
+				"screen_name": "visualthinkery",
+				"location": "England, United Kingdom",
+				"description": "Education / Tech / Startup / Innovation\nArticulating tricky stuff with illustration. \nhttps://t.co/sfwqU9UagB\nLike what we do? Please support us!",
+				"url": "https://t.co/jwB0bRMu2u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jwB0bRMu2u",
+								"expanded_url": "http://visualthinkery.com",
+								"display_url": "visualthinkery.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sfwqU9UagB",
+								"expanded_url": "https://igg.me/at/visualstickery",
+								"display_url": "igg.me/at/visualstick…",
+								"indices": [
+									86,
+									109
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 456,
+				"friends_count": 440,
+				"listed_count": 41,
+				"created_at": "Tue Feb 02 15:27:57 +0000 2016",
+				"favourites_count": 117,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 428,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/695304532960624641/GGEN4zOO_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/695304532960624641/GGEN4zOO_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4872005950/1470136102",
+				"profile_link_color": "3498CD",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Dec 20 06:25:14 +0000 2016",
 		"id": 811095093511716900,
 		"id_str": "811095093511716864",
