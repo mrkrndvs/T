@@ -1,6 +1,538 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Wed Dec 21 11:08:54 +0000 2016",
+		"id": 811528866892169200,
+		"id_str": "811528866892169216",
+		"text": "RT @tonyvincent: 🔰 Draw your own icons with the Polyline tool in Google Drawings and Google Slides…\n#GoogleEDU #gsuiteedu https://t.co/XssX…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleEDU",
+					"indices": [
+						100,
+						110
+					]
+				},
+				{
+					"text": "gsuiteedu",
+					"indices": [
+						111,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tonyvincent",
+					"name": "Tony Vincent",
+					"id": 781121,
+					"id_str": "781121",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3665,
+			"friends_count": 2817,
+			"listed_count": 377,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4619,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24905,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 16 11:20:00 +0000 2016",
+			"id": 809719724280004600,
+			"id_str": "809719724280004610",
+			"text": "🔰 Draw your own icons with the Polyline tool in Google Drawings and Google Slides…\n#GoogleEDU #gsuiteedu https://t.co/XssXG1wNtB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleEDU",
+						"indices": [
+							83,
+							93
+						]
+					},
+					{
+						"text": "gsuiteedu",
+						"indices": [
+							94,
+							104
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 809590660575563800,
+						"id_str": "809590660575563776",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/Czw-apkUkAAissA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Czw-apkUkAAissA.jpg",
+						"url": "https://t.co/XssXG1wNtB",
+						"display_url": "pic.twitter.com/XssXG1wNtB",
+						"expanded_url": "https://twitter.com/tonyvincent/status/809719724280004610/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 809590660575563800,
+						"id_str": "809590660575563776",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/Czw-apkUkAAissA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Czw-apkUkAAissA.jpg",
+						"url": "https://t.co/XssXG1wNtB",
+						"display_url": "pic.twitter.com/XssXG1wNtB",
+						"expanded_url": "https://twitter.com/tonyvincent/status/809719724280004610/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 781121,
+				"id_str": "781121",
+				"name": "Tony Vincent",
+				"screen_name": "tonyvincent",
+				"location": "Council Bluffs, Iowa, USA",
+				"description": "Follow me on Instagram too: https://t.co/M78JiKrfwZ  💥 I do what I can to help teachers be even more awesome.",
+				"url": "https://t.co/gVTH2IlPoR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gVTH2IlPoR",
+								"expanded_url": "http://learninginhand.com",
+								"display_url": "learninginhand.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/M78JiKrfwZ",
+								"expanded_url": "http://instagram.com/learninginhand",
+								"display_url": "instagram.com/learninginhand",
+								"indices": [
+									28,
+									51
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 39912,
+				"friends_count": 15358,
+				"listed_count": 1581,
+				"created_at": "Mon Feb 19 20:42:43 +0000 2007",
+				"favourites_count": 13043,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12760,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000082627409/01cae8e700f7d6a4474aa34e1ee291ab.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000082627409/01cae8e700f7d6a4474aa34e1ee291ab.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000509212281/896f66cd50de6fd94e231ad0c8de6f58_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000509212281/896f66cd50de6fd94e231ad0c8de6f58_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/781121/1405434579",
+				"profile_link_color": "2192C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 51,
+			"favorite_count": 87,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Dec 21 11:08:17 +0000 2016",
+		"id": 811528713980375000,
+		"id_str": "811528713980375042",
+		"text": "RT @tonyvincent: 🎞 Six Ways to Create Videos on Chromebooks from @rmbyrne \n\nIncludes…\n• Adobe Spark\n• WeVideo\n• Wideo\n• PowToon\n• YouTube\n•…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tonyvincent",
+					"name": "Tony Vincent",
+					"id": 781121,
+					"id_str": "781121",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "rmbyrne",
+					"name": "Richard Byrne",
+					"id": 11112092,
+					"id_str": "11112092",
+					"indices": [
+						65,
+						73
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3665,
+			"friends_count": 2817,
+			"listed_count": 377,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4619,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24905,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 19 11:35:01 +0000 2016",
+			"id": 810810665296334800,
+			"id_str": "810810665296334848",
+			"text": "🎞 Six Ways to Create Videos on Chromebooks from @rmbyrne \n\nIncludes…\n• Adobe Spark\n• WeVideo\n• Wideo\n• PowToon\n• YouTube\n• Nimbus Screenshot",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rmbyrne",
+						"name": "Richard Byrne",
+						"id": 11112092,
+						"id_str": "11112092",
+						"indices": [
+							48,
+							56
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 781121,
+				"id_str": "781121",
+				"name": "Tony Vincent",
+				"screen_name": "tonyvincent",
+				"location": "Council Bluffs, Iowa, USA",
+				"description": "Follow me on Instagram too: https://t.co/M78JiKrfwZ  💥 I do what I can to help teachers be even more awesome.",
+				"url": "https://t.co/gVTH2IlPoR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gVTH2IlPoR",
+								"expanded_url": "http://learninginhand.com",
+								"display_url": "learninginhand.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/M78JiKrfwZ",
+								"expanded_url": "http://instagram.com/learninginhand",
+								"display_url": "instagram.com/learninginhand",
+								"indices": [
+									28,
+									51
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 39912,
+				"friends_count": 15358,
+				"listed_count": 1581,
+				"created_at": "Mon Feb 19 20:42:43 +0000 2007",
+				"favourites_count": 13043,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12760,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000082627409/01cae8e700f7d6a4474aa34e1ee291ab.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000082627409/01cae8e700f7d6a4474aa34e1ee291ab.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000509212281/896f66cd50de6fd94e231ad0c8de6f58_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000509212281/896f66cd50de6fd94e231ad0c8de6f58_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/781121/1405434579",
+				"profile_link_color": "2192C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 77,
+			"favorite_count": 110,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Dec 21 09:29:24 +0000 2016",
 		"id": 811503829539618800,
 		"id_str": "811503829539618818",
