@@ -1,6 +1,567 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sat Dec 24 00:16:32 +0000 2016",
+		"id": 812451858593611800,
+		"id_str": "812451858593611776",
+		"text": "RT @White_Adam: Gone Christmas shopping with four year old Campbell for his mum.\n\n\"We should get her a Thermomix,\" he says.\n\nI wonder where…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "White_Adam",
+					"name": "Adam White",
+					"id": 61391941,
+					"id_str": "61391941",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3664,
+			"friends_count": 2816,
+			"listed_count": 379,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4619,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24943,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 23 23:55:43 +0000 2016",
+			"id": 812446620792983600,
+			"id_str": "812446620792983553",
+			"text": "Gone Christmas shopping with four year old Campbell for his mum.\n\n\"We should get her a Thermomix,\" he says.\n\nI wonder where that came from.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 61391941,
+				"id_str": "61391941",
+				"name": "Adam White",
+				"screen_name": "White_Adam",
+				"location": "Melbourne",
+				"description": "I still think I'll play cricket for Australia and play on the PGA Tour. Dangerous forward pocket. Broadcaster/producer. Media training/consultancy.",
+				"url": "https://t.co/WkPLJI0IDk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WkPLJI0IDk",
+								"expanded_url": "https://twitter.com/white_adam",
+								"display_url": "twitter.com/white_adam",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14485,
+				"friends_count": 813,
+				"listed_count": 224,
+				"created_at": "Thu Jul 30 04:37:07 +0000 2009",
+				"favourites_count": 2035,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19853,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1E066B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/497265854627594240/M9kokQEN.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/497265854627594240/M9kokQEN.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/752320386713292800/68tvz8QF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/752320386713292800/68tvz8QF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/61391941/1462522450",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Dec 24 00:15:51 +0000 2016",
+		"id": 812451686883082200,
+		"id_str": "812451686883082240",
+		"text": "RT @timbuckteeth: The #blimage list https://t.co/xnYqPpDMU6 @amyburvall @mrkrndvs @IaninSheffield @debsnet @pomeranian99 @Obi_Jon_ @GFThomm…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "blimage",
+					"indices": [
+						22,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timbuckteeth",
+					"name": "Steve Wheeler",
+					"id": 11435832,
+					"id_str": "11435832",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "amyburvall",
+					"name": "Amy Burvall",
+					"id": 158207707,
+					"id_str": "158207707",
+					"indices": [
+						60,
+						71
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"screen_name": "IaninSheffield",
+					"name": "Ian Guest",
+					"id": 21324520,
+					"id_str": "21324520",
+					"indices": [
+						82,
+						97
+					]
+				},
+				{
+					"screen_name": "debsnet",
+					"name": "Dr Deborah Netolicky",
+					"id": 88375038,
+					"id_str": "88375038",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"screen_name": "pomeranian99",
+					"name": "Clive Thompson",
+					"id": 661403,
+					"id_str": "661403",
+					"indices": [
+						107,
+						120
+					]
+				},
+				{
+					"screen_name": "Obi_Jon_",
+					"name": "Jon Andrews",
+					"id": 817918164,
+					"id_str": "817918164",
+					"indices": [
+						121,
+						130
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xnYqPpDMU6",
+					"expanded_url": "http://www.steve-wheeler.co.uk/2015/07/the-blimage-list.html",
+					"display_url": "steve-wheeler.co.uk/2015/07/the-bl…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3664,
+			"friends_count": 2816,
+			"listed_count": 379,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4619,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24943,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 24 00:00:11 +0000 2016",
+			"id": 812447743302107100,
+			"id_str": "812447743302107136",
+			"text": "The #blimage list https://t.co/xnYqPpDMU6 @amyburvall @mrkrndvs @IaninSheffield @debsnet @pomeranian99 @Obi_Jon_ @GFThommo @cogdog",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "blimage",
+						"indices": [
+							4,
+							12
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "amyburvall",
+						"name": "Amy Burvall",
+						"id": 158207707,
+						"id_str": "158207707",
+						"indices": [
+							42,
+							53
+						]
+					},
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							54,
+							63
+						]
+					},
+					{
+						"screen_name": "IaninSheffield",
+						"name": "Ian Guest",
+						"id": 21324520,
+						"id_str": "21324520",
+						"indices": [
+							64,
+							79
+						]
+					},
+					{
+						"screen_name": "debsnet",
+						"name": "Dr Deborah Netolicky",
+						"id": 88375038,
+						"id_str": "88375038",
+						"indices": [
+							80,
+							88
+						]
+					},
+					{
+						"screen_name": "pomeranian99",
+						"name": "Clive Thompson",
+						"id": 661403,
+						"id_str": "661403",
+						"indices": [
+							89,
+							102
+						]
+					},
+					{
+						"screen_name": "Obi_Jon_",
+						"name": "Jon Andrews",
+						"id": 817918164,
+						"id_str": "817918164",
+						"indices": [
+							103,
+							112
+						]
+					},
+					{
+						"screen_name": "GFThommo",
+						"name": "Dr Beardface",
+						"id": 488946521,
+						"id_str": "488946521",
+						"indices": [
+							113,
+							122
+						]
+					},
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							123,
+							130
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/xnYqPpDMU6",
+						"expanded_url": "http://www.steve-wheeler.co.uk/2015/07/the-blimage-list.html",
+						"display_url": "steve-wheeler.co.uk/2015/07/the-bl…",
+						"indices": [
+							18,
+							41
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 812039506975019000,
+			"in_reply_to_status_id_str": "812039506975019008",
+			"in_reply_to_user_id": 158207707,
+			"in_reply_to_user_id_str": "158207707",
+			"in_reply_to_screen_name": "amyburvall",
+			"user": {
+				"id": 11435832,
+				"id_str": "11435832",
+				"name": "Steve Wheeler",
+				"screen_name": "timbuckteeth",
+				"location": "Plymouth, UK",
+				"description": "Teacher educator, FRSA, author, researcher, international speaker, associate professor, edupunk, open educator.",
+				"url": "http://t.co/qqs4yJXVO7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/qqs4yJXVO7",
+								"expanded_url": "http://about.me/swheeler",
+								"display_url": "about.me/swheeler",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32096,
+				"friends_count": 1905,
+				"listed_count": 2558,
+				"created_at": "Sat Dec 22 17:17:35 +0000 2007",
+				"favourites_count": 631,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 78100,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/731094603/d553ef4c5fd54069fe881759f046c3f6.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/731094603/d553ef4c5fd54069fe881759f046c3f6.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836350581/timbo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836350581/timbo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11435832/1354830803",
+				"profile_link_color": "666666",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FAFAFA",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 23 23:57:26 +0000 2016",
 		"id": 812447050998554600,
 		"id_str": "812447050998554624",
