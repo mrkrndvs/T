@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sun Dec 25 00:30:49 +0000 2016",
+		"id": 812817843343409200,
+		"id_str": "812817843343409152",
+		"text": "RT @JaneCaro: Isn't my daughter clever &amp; honest? Isn't my grandson gorgeous? Here is the 1st published article of @PollyDunning https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JaneCaro",
+					"name": "Jane Caro",
+					"id": 92932981,
+					"id_str": "92932981",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "PollyDunning",
+					"name": "Polly Dunning",
+					"id": 24973215,
+					"id_str": "24973215",
+					"indices": [
+						118,
+						131
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3661,
+			"friends_count": 2816,
+			"listed_count": 379,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4620,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24962,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 20 23:31:16 +0000 2016",
+			"id": 811353305884463100,
+			"id_str": "811353305884463104",
+			"text": "Isn't my daughter clever &amp; honest? Isn't my grandson gorgeous? Here is the 1st published article of @PollyDunning https://t.co/t6qLrZJnIH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PollyDunning",
+						"name": "Polly Dunning",
+						"id": 24973215,
+						"id_str": "24973215",
+						"indices": [
+							104,
+							117
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/t6qLrZJnIH",
+						"expanded_url": "http://www.smh.com.au/lifestyle/news-and-views/opinion/having-a-son-has-gone-from-being-a-dilemma-to-teaching-me-the-most-valuable-lesson-of-my-life-20161220-gtex2e.html",
+						"display_url": "smh.com.au/lifestyle/news…",
+						"indices": [
+							118,
+							141
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 92932981,
+				"id_str": "92932981",
+				"name": "Jane Caro",
+				"screen_name": "JaneCaro",
+				"location": "Sydney, Australia",
+				"description": "Novelist (Just a Girl Just a Queen), author (Plain Speaking Jane, Stupid Country, F Word, What Makes a Good School) feminist, atheist, media tart & stirrer.",
+				"url": "https://t.co/4Mrc6k7Blb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4Mrc6k7Blb",
+								"expanded_url": "http://wallmedia.com.au/jane-caro/",
+								"display_url": "wallmedia.com.au/jane-caro/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 71253,
+				"friends_count": 1735,
+				"listed_count": 1,
+				"created_at": "Fri Nov 27 08:59:27 +0000 2009",
+				"favourites_count": 2328,
+				"utc_offset": 39600,
+				"time_zone": "New Caledonia",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 73848,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2682653926/68b84a2504a6441afd39d5d33b13a442_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2682653926/68b84a2504a6441afd39d5d33b13a442_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/92932981/1476232733",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 126,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Dec 25 00:18:28 +0000 2016",
+		"id": 812814733078188000,
+		"id_str": "812814733078188032",
+		"text": "Top Five Radical Reads of 2016 https://t.co/Ac6UnWIUGx via @plugusin",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "plugusin",
+					"name": "Bill Ferriter",
+					"id": 12165362,
+					"id_str": "12165362",
+					"indices": [
+						59,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ac6UnWIUGx",
+					"expanded_url": "http://blog.williamferriter.com/2016/12/24/top-five-radical-reads-of-2016/",
+					"display_url": "blog.williamferriter.com/2016/12/24/top…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3661,
+			"friends_count": 2816,
+			"listed_count": 379,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4620,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24962,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Dec 24 23:57:18 +0000 2016",
 		"id": 812809407322955800,
 		"id_str": "812809407322955777",
