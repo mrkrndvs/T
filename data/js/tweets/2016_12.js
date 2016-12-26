@@ -1,6 +1,436 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Mon Dec 26 20:36:38 +0000 2016",
+		"id": 813483681440362500,
+		"id_str": "813483681440362496",
+		"text": "RT @SusanMGreig: Apparently I am not behind the curve, but in the 'trough of delusion'@nicolvision https://t.co/la7XlfxrJz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SusanMGreig",
+					"name": "Susan Greig",
+					"id": 28118223,
+					"id_str": "28118223",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "nicolvision",
+					"name": "Stuart Nicol",
+					"id": 409284496,
+					"id_str": "409284496",
+					"indices": [
+						86,
+						98
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/la7XlfxrJz",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/812600425983508480",
+					"display_url": "twitter.com/mrkrndvs/statu…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3668,
+			"friends_count": 2819,
+			"listed_count": 379,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4620,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24971,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 26 07:53:06 +0000 2016",
+			"id": 813291535265648600,
+			"id_str": "813291535265648641",
+			"text": "Apparently I am not behind the curve, but in the 'trough of delusion'@nicolvision https://t.co/la7XlfxrJz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nicolvision",
+						"name": "Stuart Nicol",
+						"id": 409284496,
+						"id_str": "409284496",
+						"indices": [
+							69,
+							81
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/la7XlfxrJz",
+						"expanded_url": "https://twitter.com/mrkrndvs/status/812600425983508480",
+						"display_url": "twitter.com/mrkrndvs/statu…",
+						"indices": [
+							82,
+							105
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28118223,
+				"id_str": "28118223",
+				"name": "Susan Greig",
+				"screen_name": "SusanMGreig",
+				"location": "Edinburgh",
+				"description": "Learning Technologist with a passion for learning. The views expressed here are my own and do not represent the views of the University of Edinburgh.",
+				"url": "http://t.co/8u1z1itbQu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8u1z1itbQu",
+								"expanded_url": "http://www.learningservices.is.ed.ac.uk/wordpress/author/sgreig/",
+								"display_url": "learningservices.is.ed.ac.uk/wordpress/auth…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 316,
+				"friends_count": 385,
+				"listed_count": 17,
+				"created_at": "Wed Apr 01 14:43:07 +0000 2009",
+				"favourites_count": 664,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 485,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/717297317938860032/UYjo4d45_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/717297317938860032/UYjo4d45_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28118223/1459852173",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 812600425983508500,
+			"quoted_status_id_str": "812600425983508480",
+			"quoted_status": {
+				"created_at": "Sat Dec 24 10:06:53 +0000 2016",
+				"id": 812600425983508500,
+				"id_str": "812600425983508480",
+				"text": "A Guide to @OpenBadges https://t.co/K1EgmBO15z HT @ottonomy @donpresant @jgmac1106 @BryanMMathers @mhawksey @cogdog @dthickey @wiobyrne",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "OpenBadges",
+							"name": "Open Badges",
+							"id": 437707118,
+							"id_str": "437707118",
+							"indices": [
+								11,
+								22
+							]
+						},
+						{
+							"screen_name": "ottonomy",
+							"name": "Nate Otto",
+							"id": 14722480,
+							"id_str": "14722480",
+							"indices": [
+								50,
+								59
+							]
+						},
+						{
+							"screen_name": "donpresant",
+							"name": "Don Presant",
+							"id": 22250075,
+							"id_str": "22250075",
+							"indices": [
+								60,
+								71
+							]
+						},
+						{
+							"screen_name": "jgmac1106",
+							"name": "Greg McVerry",
+							"id": 27620289,
+							"id_str": "27620289",
+							"indices": [
+								72,
+								82
+							]
+						},
+						{
+							"screen_name": "BryanMMathers",
+							"name": "Bryan Mathers",
+							"id": 37933636,
+							"id_str": "37933636",
+							"indices": [
+								83,
+								97
+							]
+						},
+						{
+							"screen_name": "mhawksey",
+							"name": "Martin Hawksey",
+							"id": 13046992,
+							"id_str": "13046992",
+							"indices": [
+								98,
+								107
+							]
+						},
+						{
+							"screen_name": "cogdog",
+							"name": "Alan Levine",
+							"id": 740343,
+							"id_str": "740343",
+							"indices": [
+								108,
+								115
+							]
+						},
+						{
+							"screen_name": "dthickey",
+							"name": "Daniel Hickey",
+							"id": 21865039,
+							"id_str": "21865039",
+							"indices": [
+								116,
+								125
+							]
+						},
+						{
+							"screen_name": "wiobyrne",
+							"name": "William Ian O'Byrne",
+							"id": 88676762,
+							"id_str": "88676762",
+							"indices": [
+								126,
+								135
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/K1EgmBO15z",
+							"expanded_url": "http://readwriterespond.com/?p=2847",
+							"display_url": "readwriterespond.com/?p=2847",
+							"indices": [
+								23,
+								46
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 372768752,
+					"id_str": "372768752",
+					"name": "Aaron Davis",
+					"screen_name": "mrkrndvs",
+					"location": "Melbourne, Australia",
+					"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+					"url": "https://t.co/PkNuJdsUBx",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/PkNuJdsUBx",
+									"expanded_url": "http://readwriterespond.com",
+									"display_url": "readwriterespond.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3668,
+					"friends_count": 2819,
+					"listed_count": 379,
+					"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+					"favourites_count": 4620,
+					"utc_offset": 36000,
+					"time_zone": "Brisbane",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 24971,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+					"profile_link_color": "FAB81E",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 8,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "es"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 812600425983508500,
+		"quoted_status_id_str": "812600425983508480",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Dec 26 11:38:01 +0000 2016",
 		"id": 813348137087606800,
 		"id_str": "813348137087606784",
