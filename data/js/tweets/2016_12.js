@@ -1,6 +1,482 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Mon Dec 26 07:04:22 +0000 2016",
+		"id": 813279270655008800,
+		"id_str": "813279270655008768",
+		"text": "RT @aus_teach: Great teachers don't teach 'to' anyone #provocation #pedagogyfirst https://t.co/vE5CUAQm9Q",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "provocation",
+					"indices": [
+						54,
+						66
+					]
+				},
+				{
+					"text": "pedagogyfirst",
+					"indices": [
+						67,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aus_teach",
+					"name": "Simon Keily",
+					"id": 299553438,
+					"id_str": "299553438",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vE5CUAQm9Q",
+					"expanded_url": "https://twitter.com/draalston/status/795672545735376896",
+					"display_url": "twitter.com/draalston/stat…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3666,
+			"friends_count": 2819,
+			"listed_count": 379,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4620,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24968,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 26 07:02:39 +0000 2016",
+			"id": 813278835894415400,
+			"id_str": "813278835894415360",
+			"text": "Great teachers don't teach 'to' anyone #provocation #pedagogyfirst https://t.co/vE5CUAQm9Q",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "provocation",
+						"indices": [
+							39,
+							51
+						]
+					},
+					{
+						"text": "pedagogyfirst",
+						"indices": [
+							52,
+							66
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vE5CUAQm9Q",
+						"expanded_url": "https://twitter.com/draalston/status/795672545735376896",
+						"display_url": "twitter.com/draalston/stat…",
+						"indices": [
+							67,
+							90
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 299553438,
+				"id_str": "299553438",
+				"name": "Simon Keily",
+				"screen_name": "aus_teach",
+				"location": "Melbourne, Australia",
+				"description": "Educator. Photographer. eLearning Coordinator. Learning should be joyful. M.Ed Student @CSU - Knowledge Networks & Digital Innovation My views are my own.",
+				"url": "https://t.co/i3FnW71EUM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/i3FnW71EUM",
+								"expanded_url": "http://about.me/aus_teach",
+								"display_url": "about.me/aus_teach",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1322,
+				"friends_count": 1242,
+				"listed_count": 131,
+				"created_at": "Mon May 16 09:03:37 +0000 2011",
+				"favourites_count": 2273,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5765,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030103",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/805036202/530305ee54dcd37a33244a09f7f62844.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/805036202/530305ee54dcd37a33244a09f7f62844.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1364363382/IMG_0011simonb_normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364363382/IMG_0011simonb_normal.JPG",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/299553438/1398328154",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "ADF1FC",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "FA8459",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01864a8a64df9dc4",
+				"url": "https://api.twitter.com/1.1/geo/id/01864a8a64df9dc4.json",
+				"place_type": "city",
+				"name": "Melbourne",
+				"full_name": "Melbourne, Victoria",
+				"country_code": "AU",
+				"country": "Australia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								144.593741856,
+								-38.433859306
+							],
+							[
+								145.512528832,
+								-38.433859306
+							],
+							[
+								145.512528832,
+								-37.5112737225
+							],
+							[
+								144.593741856,
+								-37.5112737225
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 795672545735376900,
+			"quoted_status_id_str": "795672545735376896",
+			"quoted_status": {
+				"created_at": "Mon Nov 07 17:01:32 +0000 2016",
+				"id": 795672545735376900,
+				"id_str": "795672545735376896",
+				"text": "RT @JeffCharbonneau: Great teachers know more than what to teach. They know who they are teaching it to.\n#edchat https://t.co/YBuPVB01K6",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "edchat",
+							"indices": [
+								105,
+								112
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "JeffCharbonneau",
+							"name": "Jeff Charbonneau",
+							"id": 1177666310,
+							"id_str": "1177666310",
+							"indices": [
+								3,
+								19
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 795414242505752600,
+							"id_str": "795414242505752582",
+							"indices": [
+								113,
+								136
+							],
+							"media_url": "http://pbs.twimg.com/media/CwnhCg3XgAYNEOD.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CwnhCg3XgAYNEOD.jpg",
+							"url": "https://t.co/YBuPVB01K6",
+							"display_url": "pic.twitter.com/YBuPVB01K6",
+							"expanded_url": "https://twitter.com/JeffCharbonneau/status/795414245483618304/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 650,
+									"h": 352,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 650,
+									"h": 352,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 650,
+									"h": 352,
+									"resize": "fit"
+								}
+							},
+							"source_status_id": 795414245483618300,
+							"source_status_id_str": "795414245483618304",
+							"source_user_id": 1177666310,
+							"source_user_id_str": "1177666310"
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 795414242505752600,
+							"id_str": "795414242505752582",
+							"indices": [
+								113,
+								136
+							],
+							"media_url": "http://pbs.twimg.com/media/CwnhCg3XgAYNEOD.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CwnhCg3XgAYNEOD.jpg",
+							"url": "https://t.co/YBuPVB01K6",
+							"display_url": "pic.twitter.com/YBuPVB01K6",
+							"expanded_url": "https://twitter.com/JeffCharbonneau/status/795414245483618304/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 650,
+									"h": 352,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 650,
+									"h": 352,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 650,
+									"h": 352,
+									"resize": "fit"
+								}
+							},
+							"source_status_id": 795414245483618300,
+							"source_status_id_str": "795414245483618304",
+							"source_user_id": 1177666310,
+							"source_user_id_str": "1177666310"
+						}
+					]
+				},
+				"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 911520972,
+					"id_str": "911520972",
+					"name": "Dr. Anael Alston",
+					"screen_name": "DrAAlston",
+					"location": "Greater New York Area",
+					"description": "Education Advocate, Former NYS Principal of the Year, speaker, writer, and co-author of You're Hired: The Inside Secrets of Getting Your School Leadership Job",
+					"url": "https://t.co/8k3BmZ9hE3",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/8k3BmZ9hE3",
+									"expanded_url": "https://www.facebook.com/DrAnaelAlston/?fref=ts",
+									"display_url": "facebook.com/DrAnaelAlston/…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 19171,
+					"friends_count": 11645,
+					"listed_count": 308,
+					"created_at": "Mon Oct 29 01:54:58 +0000 2012",
+					"favourites_count": 452,
+					"utc_offset": -14400,
+					"time_zone": "Atlantic Time (Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 3012,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "352726",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/2778193867/760459d706c9589edfa9c3bab85ad312_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/2778193867/760459d706c9589edfa9c3bab85ad312_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/911520972/1461339600",
+					"profile_link_color": "D02B55",
+					"profile_sidebar_border_color": "829D5E",
+					"profile_sidebar_fill_color": "99CC33",
+					"profile_text_color": "3E4415",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 36,
+				"favorite_count": 45,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 795672545735376900,
+		"quoted_status_id_str": "795672545735376896",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Dec 26 04:24:52 +0000 2016",
 		"id": 813239130863779800,
 		"id_str": "813239130863779840",
