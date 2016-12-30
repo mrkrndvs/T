@@ -1,6 +1,395 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Fri Dec 30 11:03:17 +0000 2016",
+		"id": 814788946307620900,
+		"id_str": "814788946307620864",
+		"text": "@GeoMouldey reminds me of your #moonshot https://t.co/u7ZaGucN7Y",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "moonshot",
+					"indices": [
+						31,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeoMouldey",
+					"name": "Steve Mouldey",
+					"id": 299908186,
+					"id_str": "299908186",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/u7ZaGucN7Y",
+					"expanded_url": "https://twitter.com/PaulDBrowning/status/814651343361241089",
+					"display_url": "twitter.com/PaulDBrowning/…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 299908186,
+		"in_reply_to_user_id_str": "299908186",
+		"in_reply_to_screen_name": "GeoMouldey",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3679,
+			"friends_count": 2821,
+			"listed_count": 381,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4620,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25052,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 814651343361241100,
+		"quoted_status_id_str": "814651343361241089",
+		"quoted_status": {
+			"created_at": "Fri Dec 30 01:56:30 +0000 2016",
+			"id": 814651343361241100,
+			"id_str": "814651343361241089",
+			"text": "@richardolsen @mrphillipsoz11 check out what 1 school is doing to support the development of entrepreneurial skills https://t.co/QrdvOnYBA7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "richardolsen",
+						"name": "Richard Olsen",
+						"id": 11649492,
+						"id_str": "11649492",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "mrphillipsoz11",
+						"name": "Michael Phillips",
+						"id": 320673549,
+						"id_str": "320673549",
+						"indices": [
+							14,
+							29
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QrdvOnYBA7",
+						"expanded_url": "http://stpaulsentrepreneurs.com.au",
+						"display_url": "stpaulsentrepreneurs.com.au",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 814646909054767100,
+			"in_reply_to_status_id_str": "814646909054767104",
+			"in_reply_to_user_id": 11649492,
+			"in_reply_to_user_id_str": "11649492",
+			"in_reply_to_screen_name": "richardolsen",
+			"user": {
+				"id": 1740831469,
+				"id_str": "1740831469",
+				"name": "Paul Browning",
+				"screen_name": "PaulDBrowning",
+				"location": "North Brisbane",
+				"description": "Headmaster of St Paul's School. Passionate about #trust, #leadership, education, creativity and innovation in learning.",
+				"url": "https://t.co/JsNzL4X1OU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JsNzL4X1OU",
+								"expanded_url": "http://compellingleadership.com.au",
+								"display_url": "compellingleadership.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1973,
+				"friends_count": 275,
+				"listed_count": 77,
+				"created_at": "Sat Sep 07 04:58:54 +0000 2013",
+				"favourites_count": 840,
+				"utc_offset": 36000,
+				"time_zone": "Brisbane",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2281,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/567438678406860800/85t6HNU7_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/567438678406860800/85t6HNU7_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1740831469/1454794048",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "004ec16c62325149",
+				"url": "https://api.twitter.com/1.1/geo/id/004ec16c62325149.json",
+				"place_type": "city",
+				"name": "Brisbane",
+				"full_name": "Brisbane, Queensland",
+				"country_code": "AU",
+				"country": "Australia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								152.668522848,
+								-27.767440994
+							],
+							[
+								153.31787024,
+								-27.767440994
+							],
+							[
+								153.31787024,
+								-26.996844991
+							],
+							[
+								152.668522848,
+								-26.996844991
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Dec 30 10:54:16 +0000 2016",
+		"id": 814786677885370400,
+		"id_str": "814786677885370368",
+		"text": "\"Turtle is a logic that works well in computing, though not in the messiness of real life\" @ScottMillmanEDU  https://t.co/zROKJQ93WB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ScottMillmanEDU",
+					"name": "Scott Millman",
+					"id": 3841010772,
+					"id_str": "3841010772",
+					"indices": [
+						91,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zROKJQ93WB",
+					"expanded_url": "https://scottmillman.edublogs.org/2016/12/30/in-which-i-get-everything-exactly-right-every-time/",
+					"display_url": "scottmillman.edublogs.org/2016/12/30/in-…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3679,
+			"friends_count": 2821,
+			"listed_count": 381,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4620,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25052,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 30 10:12:16 +0000 2016",
 		"id": 814776107601801200,
 		"id_str": "814776107601801217",
