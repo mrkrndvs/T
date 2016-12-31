@@ -1,6 +1,515 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sat Dec 31 06:14:46 +0000 2016",
+		"id": 815078728308920300,
+		"id_str": "815078728308920320",
+		"text": "RT @alicekeeler: Edit Images in Google Drive: Pixlr Editor https://t.co/B2ZvzKEVhu https://t.co/kKcZhJIvTH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alicekeeler",
+					"name": "Alice Keeler",
+					"id": 200715240,
+					"id_str": "200715240",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B2ZvzKEVhu",
+					"expanded_url": "http://alicekeeler.com/2016/10/23/edit-photos-google-drive-pixlr-editor/",
+					"display_url": "alicekeeler.com/2016/10/23/edi…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 815078536507748400,
+					"id_str": "815078536507748353",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/C0-9nEiW8AEicyx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C0-9nEiW8AEicyx.jpg",
+					"url": "https://t.co/kKcZhJIvTH",
+					"display_url": "pic.twitter.com/kKcZhJIvTH",
+					"expanded_url": "https://twitter.com/alicekeeler/status/815078538680434688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 815078538680434700,
+					"source_status_id_str": "815078538680434688",
+					"source_user_id": 200715240,
+					"source_user_id_str": "200715240"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 815078536507748400,
+					"id_str": "815078536507748353",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/C0-9nEiW8AEicyx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C0-9nEiW8AEicyx.jpg",
+					"url": "https://t.co/kKcZhJIvTH",
+					"display_url": "pic.twitter.com/kKcZhJIvTH",
+					"expanded_url": "https://twitter.com/alicekeeler/status/815078538680434688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 815078538680434700,
+					"source_status_id_str": "815078538680434688",
+					"source_user_id": 200715240,
+					"source_user_id_str": "200715240"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3682,
+			"friends_count": 2821,
+			"listed_count": 382,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4621,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25079,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 31 06:14:01 +0000 2016",
+			"id": 815078538680434700,
+			"id_str": "815078538680434688",
+			"text": "Edit Images in Google Drive: Pixlr Editor https://t.co/B2ZvzKEVhu https://t.co/kKcZhJIvTH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/B2ZvzKEVhu",
+						"expanded_url": "http://alicekeeler.com/2016/10/23/edit-photos-google-drive-pixlr-editor/",
+						"display_url": "alicekeeler.com/2016/10/23/edi…",
+						"indices": [
+							42,
+							65
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 815078536507748400,
+						"id_str": "815078536507748353",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/C0-9nEiW8AEicyx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0-9nEiW8AEicyx.jpg",
+						"url": "https://t.co/kKcZhJIvTH",
+						"display_url": "pic.twitter.com/kKcZhJIvTH",
+						"expanded_url": "https://twitter.com/alicekeeler/status/815078538680434688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 300,
+								"h": 300,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 300,
+								"h": 300,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 300,
+								"h": 300,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 815078536507748400,
+						"id_str": "815078536507748353",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/C0-9nEiW8AEicyx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0-9nEiW8AEicyx.jpg",
+						"url": "https://t.co/kKcZhJIvTH",
+						"display_url": "pic.twitter.com/kKcZhJIvTH",
+						"expanded_url": "https://twitter.com/alicekeeler/status/815078538680434688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 300,
+								"h": 300,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 300,
+								"h": 300,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 300,
+								"h": 300,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://winthecustomer.com/\" rel=\"nofollow\">Win the Customer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 200715240,
+				"id_str": "200715240",
+				"name": "Alice Keeler",
+				"screen_name": "alicekeeler",
+				"location": "Fresno, CA",
+				"description": "Teacher, Author 50 Things You Can Do With Google Classroom https://t.co/CeGP3gEoaW Google Certified Teacher, NMCk12 Ambassador, MIE, gamification, #coffeeEDU",
+				"url": "http://t.co/bk3TNqWUPo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/bk3TNqWUPo",
+								"expanded_url": "http://www.alicekeeler.com",
+								"display_url": "alicekeeler.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/CeGP3gEoaW",
+								"expanded_url": "http://alicekeeler.com/50",
+								"display_url": "alicekeeler.com/50",
+								"indices": [
+									59,
+									82
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 81728,
+				"friends_count": 3928,
+				"listed_count": 2648,
+				"created_at": "Sun Oct 10 01:43:43 +0000 2010",
+				"favourites_count": 4334,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 164148,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/280651364/alice-logo-final-sm.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/280651364/alice-logo-final-sm.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/691212646004166656/M-VWlkKR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/691212646004166656/M-VWlkKR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/200715240/1475088062",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "tl"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl"
+	},
+	{
+		"created_at": "Sat Dec 31 06:12:16 +0000 2016",
+		"id": 815078098152501200,
+		"id_str": "815078098152501248",
+		"text": "“A billion dollar gift for Twitter” @anildash https://t.co/tZthqY0wG0 cc @IaninSheffield",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anildash",
+					"name": "Anil Dash",
+					"id": 36823,
+					"id_str": "36823",
+					"indices": [
+						36,
+						45
+					]
+				},
+				{
+					"screen_name": "IaninSheffield",
+					"name": "Ian Guest",
+					"id": 21324520,
+					"id_str": "21324520",
+					"indices": [
+						73,
+						88
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tZthqY0wG0",
+					"expanded_url": "https://medium.com/startup-grind/a-billion-dollar-gift-for-twitter-8b3d541b9e1e",
+					"display_url": "medium.com/startup-grind/…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3682,
+			"friends_count": 2821,
+			"listed_count": 382,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4621,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25079,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Dec 31 02:05:06 +0000 2016",
 		"id": 815015895969845200,
 		"id_str": "815015895969845248",
