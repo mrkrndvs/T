@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Mon Jan 02 06:12:48 +0000 2017",
+		"id": 815803006121746400,
+		"id_str": "815803006121746432",
+		"text": "\"Is the effect our own attitudes &amp; biases affect the way which we read &amp; lead us 2 ignore viewpoints that differ fr… https://t.co/DRRKYGG764",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DRRKYGG764",
+					"expanded_url": "https://twitter.com/i/web/status/815803006121746432",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3685,
+			"friends_count": 2821,
+			"listed_count": 382,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4621,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25134,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 813613468918038500,
+		"quoted_status_id_str": "813613468918038530",
+		"quoted_status": {
+			"created_at": "Tue Dec 27 05:12:21 +0000 2016",
+			"id": 813613468918038500,
+			"id_str": "813613468918038530",
+			"text": "https://t.co/wVlGcAN45O something teachers of all students need to be aware of and develop skills 2 tackle… https://t.co/QdphJe1utV",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wVlGcAN45O",
+						"expanded_url": "http://linkis.com/digitalli.net/2016/1/9BPq4",
+						"display_url": "linkis.com/digitalli.net/…",
+						"indices": [
+							0,
+							23
+						]
+					},
+					{
+						"url": "https://t.co/QdphJe1utV",
+						"expanded_url": "https://twitter.com/i/web/status/813613468918038530",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25946833,
+				"id_str": "25946833",
+				"name": "Margaret Simkin",
+				"screen_name": "margaretsimkin",
+				"location": "Victoria, Australia",
+				"description": "Wife, Mother, Teacher Librarian; History & Geography teacher.\nMicrosoft accredited Peer Coach. M.Ed (Knowledge Networks & Digital Innovation). M.Ed (T-L) CSU",
+				"url": "https://t.co/VjyjoBRCQb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VjyjoBRCQb",
+								"expanded_url": "http://digitalli.net/",
+								"display_url": "digitalli.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2022,
+				"friends_count": 2456,
+				"listed_count": 180,
+				"created_at": "Mon Mar 23 03:42:20 +0000 2009",
+				"favourites_count": 17926,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8088,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/219299291/free-twitter-background--un--85288507.br.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/219299291/free-twitter-background--un--85288507.br.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/308070373/PhotoFunia-c2710favatar_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/308070373/PhotoFunia-c2710favatar_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25946833/1368263169",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "326C3C",
+				"profile_sidebar_fill_color": "00FF03",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 813598788988338200,
+			"quoted_status_id_str": "813598788988338176",
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jan 02 05:47:21 +0000 2017",
+		"id": 815796604221333500,
+		"id_str": "815796604221333504",
+		"text": "\"Unlock your camera’s potential with aperture, shutter speed, and ISO settings\" https://t.co/3mGZ4bvey3 cc @justlego101",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "justlego101",
+					"name": "justlego101",
+					"id": 3122282574,
+					"id_str": "3122282574",
+					"indices": [
+						107,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3mGZ4bvey3",
+					"expanded_url": "http://www.digitaltrends.com/photography/understanding-exposure-settings/",
+					"display_url": "digitaltrends.com/photography/un…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3685,
+			"friends_count": 2821,
+			"listed_count": 382,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4621,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25134,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 02 01:51:37 +0000 2017",
 		"id": 815737276751745000,
 		"id_str": "815737276751745024",
