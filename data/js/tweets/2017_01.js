@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sun Jan 01 23:59:03 +0000 2017",
+		"id": 815708948741271600,
+		"id_str": "815708948741271553",
+		"text": "RT @DigiTechHub: Comprehensive guide to robotics in Aus classrooms curated by @rgesthuizen  #STEMed #VicPLN https://t.co/Oqt7mu3oiL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STEMed",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "VicPLN",
+					"indices": [
+						100,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DigiTechHub",
+					"name": "DT Hub",
+					"id": 3811606152,
+					"id_str": "3811606152",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "rgesthuizen",
+					"name": "Roland Gesthuizen",
+					"id": 12685132,
+					"id_str": "12685132",
+					"indices": [
+						78,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Oqt7mu3oiL",
+					"expanded_url": "http://ow.ly/bx6C307lZcu",
+					"display_url": "ow.ly/bx6C307lZcu",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3684,
+			"friends_count": 2822,
+			"listed_count": 382,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4621,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25124,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 01 23:50:09 +0000 2017",
+			"id": 815706709981364200,
+			"id_str": "815706709981364224",
+			"text": "Comprehensive guide to robotics in Aus classrooms curated by @rgesthuizen  #STEMed #VicPLN https://t.co/Oqt7mu3oiL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "STEMed",
+						"indices": [
+							75,
+							82
+						]
+					},
+					{
+						"text": "VicPLN",
+						"indices": [
+							83,
+							90
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rgesthuizen",
+						"name": "Roland Gesthuizen",
+						"id": 12685132,
+						"id_str": "12685132",
+						"indices": [
+							61,
+							73
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Oqt7mu3oiL",
+						"expanded_url": "http://ow.ly/bx6C307lZcu",
+						"display_url": "ow.ly/bx6C307lZcu",
+						"indices": [
+							91,
+							114
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3811606152,
+				"id_str": "3811606152",
+				"name": "DT Hub",
+				"screen_name": "DigiTechHub",
+				"location": "Australia",
+				"description": "The Digital Technologies Hub has the resources you need to unpack the new Australian Curriculum: Digital Technologies for #teachers students & families #edchat",
+				"url": "https://t.co/bVud4GoxwG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bVud4GoxwG",
+								"expanded_url": "http://www.digitaltechnologieshub.edu.au",
+								"display_url": "digitaltechnologieshub.edu.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 317,
+				"friends_count": 490,
+				"listed_count": 24,
+				"created_at": "Wed Oct 07 07:02:12 +0000 2015",
+				"favourites_count": 134,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 82,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/747564780437700609/IhBLxSG7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/747564780437700609/IhBLxSG7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3811606152/1467071808",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jan 01 23:01:33 +0000 2017",
 		"id": 815694477759168500,
 		"id_str": "815694477759168512",
