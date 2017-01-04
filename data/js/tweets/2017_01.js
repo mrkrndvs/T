@@ -1,6 +1,670 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Wed Jan 04 05:24:58 +0000 2017",
+		"id": 816515747480354800,
+		"id_str": "816515747480354816",
+		"text": "RT @datruss: On a different note... A wonderful look at the bright side https://t.co/TLiXXR7rEh @mrkrndvs @ChrisWejr @IaninSheffield @DrNom…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "datruss",
+					"name": "David Truss",
+					"id": 10298552,
+					"id_str": "10298552",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"screen_name": "ChrisWejr",
+					"name": "Chris Wejr",
+					"id": 23236909,
+					"id_str": "23236909",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"screen_name": "IaninSheffield",
+					"name": "Ian Guest",
+					"id": 21324520,
+					"id_str": "21324520",
+					"indices": [
+						117,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TLiXXR7rEh",
+					"expanded_url": "https://twitter.com/bla1ze/status/815310028118687744",
+					"display_url": "twitter.com/bla1ze/status/…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3692,
+			"friends_count": 2822,
+			"listed_count": 385,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4622,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25202,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 04 05:16:18 +0000 2017",
+			"id": 816513565754392600,
+			"id_str": "816513565754392576",
+			"text": "On a different note... A wonderful look at the bright side https://t.co/TLiXXR7rEh @mrkrndvs @ChrisWejr @IaninSheffield @DrNomyn @shareski",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							83,
+							92
+						]
+					},
+					{
+						"screen_name": "ChrisWejr",
+						"name": "Chris Wejr",
+						"id": 23236909,
+						"id_str": "23236909",
+						"indices": [
+							93,
+							103
+						]
+					},
+					{
+						"screen_name": "IaninSheffield",
+						"name": "Ian Guest",
+						"id": 21324520,
+						"id_str": "21324520",
+						"indices": [
+							104,
+							119
+						]
+					},
+					{
+						"screen_name": "DrNomyn",
+						"name": "Naomi Barnes",
+						"id": 24346748,
+						"id_str": "24346748",
+						"indices": [
+							120,
+							128
+						]
+					},
+					{
+						"screen_name": "shareski",
+						"name": "Dean Shareski",
+						"id": 739743,
+						"id_str": "739743",
+						"indices": [
+							129,
+							138
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/TLiXXR7rEh",
+						"expanded_url": "https://twitter.com/bla1ze/status/815310028118687744",
+						"display_url": "twitter.com/bla1ze/status/…",
+						"indices": [
+							59,
+							82
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 816512809122996200,
+			"in_reply_to_status_id_str": "816512809122996224",
+			"in_reply_to_user_id": 10298552,
+			"in_reply_to_user_id_str": "10298552",
+			"in_reply_to_screen_name": "datruss",
+			"user": {
+				"id": 10298552,
+				"id_str": "10298552",
+				"name": "David Truss",
+				"screen_name": "datruss",
+				"location": "Coquitlam, BC, Canada",
+				"description": "A husband, a parent… An educator, a student… A thinker, a dreamer… An agent of change. ∞β  Think Good Thoughts, Say Good Words, Do Good Deeds.",
+				"url": "https://t.co/fwjV4I39wS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fwjV4I39wS",
+								"expanded_url": "http://pairadimes.davidtruss.com",
+								"display_url": "pairadimes.davidtruss.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13135,
+				"friends_count": 11785,
+				"listed_count": 725,
+				"created_at": "Fri Nov 16 08:30:57 +0000 2007",
+				"favourites_count": 1300,
+				"utc_offset": 28800,
+				"time_zone": "Beijing",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24486,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9BE5E9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/180906882/balloon.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/180906882/balloon.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/556901695637041152/frGAXLCX_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/556901695637041152/frGAXLCX_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10298552/1478501130",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "4B0C0C",
+				"profile_sidebar_fill_color": "EEF0BF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 815310028118687700,
+			"quoted_status_id_str": "815310028118687744",
+			"quoted_status": {
+				"created_at": "Sat Dec 31 21:33:53 +0000 2016",
+				"id": 815310028118687700,
+				"id_str": "815310028118687744",
+				"text": "⚡️ “'It’s easy to forget that this year saw a great many positives' - @Cmdr_Hadfield”\n\nhttps://t.co/gSQMe9T5PJ",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "Cmdr_Hadfield",
+							"name": "Chris Hadfield",
+							"id": 186154646,
+							"id_str": "186154646",
+							"indices": [
+								70,
+								84
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/gSQMe9T5PJ",
+							"expanded_url": "https://twitter.com/i/moments/815307888855875584",
+							"display_url": "twitter.com/i/moments/8153…",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 14272198,
+					"id_str": "14272198",
+					"name": "Bla1ze 📎",
+					"screen_name": "Bla1ze",
+					"location": "Halifax, NS, Canada",
+					"description": "EiC @ http://t.co/iKp941rzZM. Often accused of being rude and grumpy. My mom says I'm just special. Your mileage may vary.",
+					"url": "http://t.co/60ofmwXJmj",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/60ofmwXJmj",
+									"expanded_url": "http://about.me/bla1ze",
+									"display_url": "about.me/bla1ze",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "http://t.co/iKp941rzZM",
+									"expanded_url": "http://CrackBerry.com",
+									"display_url": "CrackBerry.com",
+									"indices": [
+										6,
+										28
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 14710,
+					"friends_count": 508,
+					"listed_count": 519,
+					"created_at": "Tue Apr 01 04:21:41 +0000 2008",
+					"favourites_count": 184,
+					"utc_offset": -14400,
+					"time_zone": "Atlantic Time (Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 121142,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "003B6F",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000032485317/1bf6aac62473e94cfb0ba5b5e3118d99.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000032485317/1bf6aac62473e94cfb0ba5b5e3118d99.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/816105520654204928/wdAlY1t9_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/816105520654204928/wdAlY1t9_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/14272198/1468743223",
+					"profile_link_color": "003B6F",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "252429",
+					"profile_text_color": "666666",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 13,
+				"favorite_count": 9,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 815310028118687700,
+		"quoted_status_id_str": "815310028118687744",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 04 05:24:54 +0000 2017",
+		"id": 816515729805586400,
+		"id_str": "816515729805586432",
+		"text": "RT @Bla1ze: ⚡️ “'It’s easy to forget that this year saw a great many positives' - @Cmdr_Hadfield”\n\nhttps://t.co/gSQMe9T5PJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bla1ze",
+					"name": "Bla1ze 📎",
+					"id": 14272198,
+					"id_str": "14272198",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "Cmdr_Hadfield",
+					"name": "Chris Hadfield",
+					"id": 186154646,
+					"id_str": "186154646",
+					"indices": [
+						82,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gSQMe9T5PJ",
+					"expanded_url": "https://twitter.com/i/moments/815307888855875584",
+					"display_url": "twitter.com/i/moments/8153…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3692,
+			"friends_count": 2822,
+			"listed_count": 385,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4622,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25202,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 31 21:33:53 +0000 2016",
+			"id": 815310028118687700,
+			"id_str": "815310028118687744",
+			"text": "⚡️ “'It’s easy to forget that this year saw a great many positives' - @Cmdr_Hadfield”\n\nhttps://t.co/gSQMe9T5PJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Cmdr_Hadfield",
+						"name": "Chris Hadfield",
+						"id": 186154646,
+						"id_str": "186154646",
+						"indices": [
+							70,
+							84
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/gSQMe9T5PJ",
+						"expanded_url": "https://twitter.com/i/moments/815307888855875584",
+						"display_url": "twitter.com/i/moments/8153…",
+						"indices": [
+							87,
+							110
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14272198,
+				"id_str": "14272198",
+				"name": "Bla1ze 📎",
+				"screen_name": "Bla1ze",
+				"location": "Halifax, NS, Canada",
+				"description": "EiC @ http://t.co/iKp941rzZM. Often accused of being rude and grumpy. My mom says I'm just special. Your mileage may vary.",
+				"url": "http://t.co/60ofmwXJmj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/60ofmwXJmj",
+								"expanded_url": "http://about.me/bla1ze",
+								"display_url": "about.me/bla1ze",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/iKp941rzZM",
+								"expanded_url": "http://CrackBerry.com",
+								"display_url": "CrackBerry.com",
+								"indices": [
+									6,
+									28
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 14710,
+				"friends_count": 508,
+				"listed_count": 519,
+				"created_at": "Tue Apr 01 04:21:41 +0000 2008",
+				"favourites_count": 184,
+				"utc_offset": -14400,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 121142,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "003B6F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000032485317/1bf6aac62473e94cfb0ba5b5e3118d99.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000032485317/1bf6aac62473e94cfb0ba5b5e3118d99.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/816105520654204928/wdAlY1t9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/816105520654204928/wdAlY1t9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14272198/1468743223",
+				"profile_link_color": "003B6F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jan 04 05:14:42 +0000 2017",
 		"id": 816513160890892300,
 		"id_str": "816513160890892288",
