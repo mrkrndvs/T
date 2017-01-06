@@ -1,6 +1,617 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Fri Jan 06 21:08:13 +0000 2017",
+		"id": 817477898781085700,
+		"id_str": "817477898781085696",
+		"text": "RT @donpresant: Great! I'm just sad that there's a maximum of only #999 issues 8-&gt; https://t.co/AnikgSpR9e",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "donpresant",
+					"name": "Don Presant",
+					"id": 22250075,
+					"id_str": "22250075",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AnikgSpR9e",
+					"expanded_url": "https://twitter.com/WeAreOpenCoop/status/817385826761998336",
+					"display_url": "twitter.com/WeAreOpenCoop/…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3703,
+			"friends_count": 2823,
+			"listed_count": 387,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4622,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25246,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 06 20:38:36 +0000 2017",
+			"id": 817470443036745700,
+			"id_str": "817470443036745730",
+			"text": "Great! I'm just sad that there's a maximum of only #999 issues 8-&gt; https://t.co/AnikgSpR9e",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AnikgSpR9e",
+						"expanded_url": "https://twitter.com/WeAreOpenCoop/status/817385826761998336",
+						"display_url": "twitter.com/WeAreOpenCoop/…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22250075,
+				"id_str": "22250075",
+				"name": "Don Presant",
+				"screen_name": "donpresant",
+				"location": "Canada",
+				"description": "Mapping lifelong learning & careers with #edtech:  #eCredentials, #OpenBadges (@CanCredCA) #ePortfolio, eLearning #HumanitarianLD https://t.co/FkVXir9VGk",
+				"url": "http://t.co/Odm39ecZ0w",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Odm39ecZ0w",
+								"expanded_url": "http://learningagents.ca",
+								"display_url": "learningagents.ca",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/FkVXir9VGk",
+								"expanded_url": "http://littoraly.wordpress.com",
+								"display_url": "littoraly.wordpress.com",
+								"indices": [
+									130,
+									153
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1210,
+				"friends_count": 1252,
+				"listed_count": 143,
+				"created_at": "Sat Feb 28 12:11:30 +0000 2009",
+				"favourites_count": 647,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4617,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000162988500/RvNeHQIq.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000162988500/RvNeHQIq.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/691379410780327936/N0te688v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/691379410780327936/N0te688v_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22250075/1455552385",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 817385826761998300,
+			"quoted_status_id_str": "817385826761998336",
+			"quoted_status": {
+				"created_at": "Fri Jan 06 15:02:22 +0000 2017",
+				"id": 817385826761998300,
+				"id_str": "817385826761998336",
+				"text": "🎉 Badge News - Issue #001 - Welcome! https://t.co/Gal1wPLwX5",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/Gal1wPLwX5",
+							"expanded_url": "http://eepurl.com/cv9Xqz",
+							"display_url": "eepurl.com/cv9Xqz",
+							"indices": [
+								37,
+								60
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.mailchimp.com\" rel=\"nofollow\">MailChimp</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 722443103613939700,
+					"id_str": "722443103613939713",
+					"name": "We Are Open Co-op",
+					"screen_name": "WeAreOpenCoop",
+					"location": "",
+					"description": "We work to spread the culture, processes & benefits of open wherever we can. Lurk/join our slack channel: https://t.co/So07LLpMkL",
+					"url": "https://t.co/FZsUz9Hwf4",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/FZsUz9Hwf4",
+									"expanded_url": "http://weareopen.coop",
+									"display_url": "weareopen.coop",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/So07LLpMkL",
+									"expanded_url": "https://weareopen-slack.herokuapp.com",
+									"display_url": "weareopen-slack.herokuapp.com",
+									"indices": [
+										106,
+										129
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 455,
+					"friends_count": 4,
+					"listed_count": 30,
+					"created_at": "Tue Apr 19 15:13:53 +0000 2016",
+					"favourites_count": 40,
+					"utc_offset": -28800,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 341,
+					"lang": "en-gb",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/727420810550493184/rNc-qGH4_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/727420810550493184/rNc-qGH4_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/722443103613939713/1462265600",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 6,
+				"favorite_count": 3,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 817385826761998300,
+		"quoted_status_id_str": "817385826761998336",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 06 21:00:46 +0000 2017",
+		"id": 817476023260418000,
+		"id_str": "817476023260418049",
+		"text": "RT @credly: #EdTech commentator @mrkrndvs offers an in-depth guide to #OpenBadges. https://t.co/Xr4SYkPFhk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EdTech",
+					"indices": [
+						12,
+						19
+					]
+				},
+				{
+					"text": "OpenBadges",
+					"indices": [
+						70,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "credly",
+					"name": "Credly",
+					"id": 312932329,
+					"id_str": "312932329",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						32,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Xr4SYkPFhk",
+					"expanded_url": "http://hubs.ly/H05PKqB0",
+					"display_url": "hubs.ly/H05PKqB0",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3703,
+			"friends_count": 2823,
+			"listed_count": 387,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4622,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25246,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 06 20:00:11 +0000 2017",
+			"id": 817460778534113300,
+			"id_str": "817460778534113281",
+			"text": "#EdTech commentator @mrkrndvs offers an in-depth guide to #OpenBadges. https://t.co/Xr4SYkPFhk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EdTech",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"text": "OpenBadges",
+						"indices": [
+							58,
+							69
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							20,
+							29
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Xr4SYkPFhk",
+						"expanded_url": "http://hubs.ly/H05PKqB0",
+						"display_url": "hubs.ly/H05PKqB0",
+						"indices": [
+							71,
+							94
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 312932329,
+				"id_str": "312932329",
+				"name": "Credly",
+				"screen_name": "credly",
+				"location": "",
+				"description": "Life's Achievements. Verified and Shared. Use Credly to issue and manage digital credentials and badges. Developers of Open Credit and http://t.co/S2C5zkCqnF.",
+				"url": "https://t.co/xWoPqs8HYR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xWoPqs8HYR",
+								"expanded_url": "https://credly.com",
+								"display_url": "credly.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/S2C5zkCqnF",
+								"expanded_url": "http://Credly.com",
+								"display_url": "Credly.com",
+								"indices": [
+									135,
+									157
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1866,
+				"friends_count": 169,
+				"listed_count": 90,
+				"created_at": "Tue Jun 07 22:06:12 +0000 2011",
+				"favourites_count": 652,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 623,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3171841999/06000095b42e150421d50891e5262617_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3171841999/06000095b42e150421d50891e5262617_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jan 06 20:12:26 +0000 2017",
 		"id": 817463861313867800,
 		"id_str": "817463861313867776",
