@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Thu Jan 19 03:02:57 +0000 2017",
+		"id": 821915823161778200,
+		"id_str": "821915823161778176",
+		"text": "RT @ccoffa: Looking fwd to Unpacking the #digitech curriculum @scienceworks_mv next week. Another chance on March 7 https://t.co/mCZ5lXfdvj…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digitech",
+					"indices": [
+						41,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ccoffa",
+					"name": "Celia Coffa",
+					"id": 12624992,
+					"id_str": "12624992",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "scienceworks_mv",
+					"name": "Scienceworks",
+					"id": 54822265,
+					"id_str": "54822265",
+					"indices": [
+						62,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mCZ5lXfdvj",
+					"expanded_url": "https://csermvmarch.eventbrite.com.au",
+					"display_url": "csermvmarch.eventbrite.com.au",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3732,
+			"friends_count": 2838,
+			"listed_count": 389,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4622,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25453,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 15 22:14:32 +0000 2017",
+			"id": 820756076081463300,
+			"id_str": "820756076081463296",
+			"text": "Looking fwd to Unpacking the #digitech curriculum @scienceworks_mv next week. Another chance on March 7 https://t.co/mCZ5lXfdvj  #vicpln",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "digitech",
+						"indices": [
+							29,
+							38
+						]
+					},
+					{
+						"text": "vicpln",
+						"indices": [
+							129,
+							136
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "scienceworks_mv",
+						"name": "Scienceworks",
+						"id": 54822265,
+						"id_str": "54822265",
+						"indices": [
+							50,
+							66
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mCZ5lXfdvj",
+						"expanded_url": "https://csermvmarch.eventbrite.com.au",
+						"display_url": "csermvmarch.eventbrite.com.au",
+						"indices": [
+							104,
+							127
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12624992,
+				"id_str": "12624992",
+				"name": "Celia Coffa",
+				"screen_name": "ccoffa",
+				"location": "Melbourne Australia",
+				"description": "Digital Technologies Project Officer (VIC) @cserAdelaide. \nTeacher, lifelong learner, blogging and TeachMeet enthusiast.",
+				"url": "http://t.co/8cuZmfFSql",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8cuZmfFSql",
+								"expanded_url": "http://about.me/celia.coffa",
+								"display_url": "about.me/celia.coffa",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3092,
+				"friends_count": 2471,
+				"listed_count": 149,
+				"created_at": "Thu Jan 24 02:40:04 +0000 2008",
+				"favourites_count": 1046,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4620,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3731100909/3d1d0265cea905397e1c2897557798e3_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3731100909/3d1d0265cea905397e1c2897557798e3_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12624992/1475144529",
+				"profile_link_color": "171515",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jan 18 20:37:13 +0000 2017",
 		"id": 821818749967736800,
 		"id_str": "821818749967736832",
