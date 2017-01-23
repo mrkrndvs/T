@@ -1,6 +1,521 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Mon Jan 23 07:37:37 +0000 2017",
+		"id": 823434498079498200,
+		"id_str": "823434498079498240",
+		"text": "RT @mslavelle215: Using #mymaps to map The Odyssey https://t.co/TA46kzxs7e #edtech #gsuite #gafe #elachat #chromebooks #01524doesmore feedb…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mymaps",
+					"indices": [
+						24,
+						31
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"text": "gsuite",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "gafe",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "elachat",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "chromebooks",
+					"indices": [
+						106,
+						118
+					]
+				},
+				{
+					"text": "01524doesmore",
+					"indices": [
+						119,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mslavelle215",
+					"name": "Ms. Lavelle",
+					"id": 2771837830,
+					"id_str": "2771837830",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TA46kzxs7e",
+					"expanded_url": "https://goo.gl/aQAseF",
+					"display_url": "goo.gl/aQAseF",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3737,
+			"friends_count": 2848,
+			"listed_count": 389,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4625,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25528,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 16 04:04:48 +0000 2016",
+			"id": 809610202500702200,
+			"id_str": "809610202500702208",
+			"text": "Using #mymaps to map The Odyssey https://t.co/TA46kzxs7e #edtech #gsuite #gafe #elachat #chromebooks #01524doesmore feedback welcome!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "mymaps",
+						"indices": [
+							6,
+							13
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							57,
+							64
+						]
+					},
+					{
+						"text": "gsuite",
+						"indices": [
+							65,
+							72
+						]
+					},
+					{
+						"text": "gafe",
+						"indices": [
+							73,
+							78
+						]
+					},
+					{
+						"text": "elachat",
+						"indices": [
+							79,
+							87
+						]
+					},
+					{
+						"text": "chromebooks",
+						"indices": [
+							88,
+							100
+						]
+					},
+					{
+						"text": "01524doesmore",
+						"indices": [
+							101,
+							115
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TA46kzxs7e",
+						"expanded_url": "https://goo.gl/aQAseF",
+						"display_url": "goo.gl/aQAseF",
+						"indices": [
+							33,
+							56
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2771837830,
+				"id_str": "2771837830",
+				"name": "Ms. Lavelle",
+				"screen_name": "mslavelle215",
+				"location": "Leicester, MA",
+				"description": "#EdTech-loving English teacher, L2 Google Cert Educator, bonafide book lover, and owner of two adorable dogs.",
+				"url": "https://t.co/3nlP9rtfsd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3nlP9rtfsd",
+								"expanded_url": "http://www.tech-EDify.com",
+								"display_url": "tech-EDify.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 254,
+				"friends_count": 393,
+				"listed_count": 71,
+				"created_at": "Tue Sep 16 01:10:45 +0000 2014",
+				"favourites_count": 507,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1095,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/787404226922156034/G9LTLZuV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/787404226922156034/G9LTLZuV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2771837830/1479830481",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jan 23 07:28:18 +0000 2017",
+		"id": 823432151701995500,
+		"id_str": "823432151701995520",
+		"text": "RT @TheQCT: Find yourself a mentor. Focus on growing a PLN. Build relationships. Great tips for beginning teachers from the inspirational @…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheQCT",
+					"name": "QldCollegeofTeachers",
+					"id": 284270915,
+					"id_str": "284270915",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3737,
+			"friends_count": 2848,
+			"listed_count": 389,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4625,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25528,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 23 05:56:44 +0000 2017",
+			"id": 823409108724240400,
+			"id_str": "823409108724240384",
+			"text": "Find yourself a mentor. Focus on growing a PLN. Build relationships. Great tips for beginning teachers from the ins… https://t.co/AuXiss2kkV",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AuXiss2kkV",
+						"expanded_url": "https://twitter.com/i/web/status/823409108724240384",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 284270915,
+				"id_str": "284270915",
+				"name": "QldCollegeofTeachers",
+				"screen_name": "TheQCT",
+				"location": "Toowong, Qld",
+				"description": "The QCT upholds the standards of the teaching profession & maintains public confidence in it.  We register teachers, regulate conduct & promote the profession.",
+				"url": "http://t.co/YkcCOpV24D",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YkcCOpV24D",
+								"expanded_url": "http://www.qct.edu.au",
+								"display_url": "qct.edu.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3311,
+				"friends_count": 1981,
+				"listed_count": 57,
+				"created_at": "Tue Apr 19 00:04:02 +0000 2011",
+				"favourites_count": 1191,
+				"utc_offset": 36000,
+				"time_zone": "Brisbane",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1948,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F1F6FA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/236064850/foyer_grapic_large.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/236064850/foyer_grapic_large.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/583862479807094786/PzfdIc6Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/583862479807094786/PzfdIc6Y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/284270915/1477865677",
+				"profile_link_color": "4A0E72",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6D00E",
+				"profile_text_color": "1F1C1F",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 23 06:30:07 +0000 2017",
 		"id": 823417511458705400,
 		"id_str": "823417511458705411",
