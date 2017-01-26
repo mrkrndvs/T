@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Thu Jan 26 20:12:22 +0000 2017",
+		"id": 824711599466221600,
+		"id_str": "824711599466221568",
+		"text": "RT @suewaters: A list of books on leadership that helped guide @mrkrndvs thinking https://t.co/GUgBSq1LMy  #edublogsclub",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edublogsclub",
+					"indices": [
+						107,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suewaters",
+					"name": "Sue Waters",
+					"id": 5550062,
+					"id_str": "5550062",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						63,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GUgBSq1LMy",
+					"expanded_url": "http://readwriterespond.com/?p=3014",
+					"display_url": "readwriterespond.com/?p=3014",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3753,
+			"friends_count": 2852,
+			"listed_count": 390,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4627,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25615,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 26 13:40:02 +0000 2017",
+			"id": 824612864639971300,
+			"id_str": "824612864639971334",
+			"text": "A list of books on leadership that helped guide @mrkrndvs thinking https://t.co/GUgBSq1LMy  #edublogsclub",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edublogsclub",
+						"indices": [
+							92,
+							105
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							48,
+							57
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/GUgBSq1LMy",
+						"expanded_url": "http://readwriterespond.com/?p=3014",
+						"display_url": "readwriterespond.com/?p=3014",
+						"indices": [
+							67,
+							90
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5550062,
+				"id_str": "5550062",
+				"name": "Sue Waters",
+				"screen_name": "suewaters",
+				"location": "Perth, Australia ",
+				"description": "Helping with technology & blogs in the classroom. Edublogs Support Manager - http://t.co/Tby8xt7SMj & WPMU DEV supports WordPress, Multisite & BuddyPress",
+				"url": "http://t.co/J3NwPECp7L",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/J3NwPECp7L",
+								"expanded_url": "http://theedublogger.com",
+								"display_url": "theedublogger.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/Tby8xt7SMj",
+								"expanded_url": "http://edublogs.org",
+								"display_url": "edublogs.org",
+								"indices": [
+									77,
+									99
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 21325,
+				"friends_count": 12726,
+				"listed_count": 1211,
+				"created_at": "Fri Apr 27 10:22:14 +0000 2007",
+				"favourites_count": 589,
+				"utc_offset": 28800,
+				"time_zone": "Perth",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 53137,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/133186718/suebackground.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/133186718/suebackground.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798516149767938050/hudCZUpZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798516149767938050/hudCZUpZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5550062/1474358880",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFF0",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jan 26 17:48:07 +0000 2017",
 		"id": 824675299073949700,
 		"id_str": "824675299073949696",
