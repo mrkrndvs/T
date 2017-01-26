@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Thu Jan 26 00:17:48 +0000 2017",
+		"id": 824410975444930600,
+		"id_str": "824410975444930560",
+		"text": "@justlego101 https://t.co/FMHCOhGo41",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "justlego101",
+					"name": "justlego101",
+					"id": 3122282574,
+					"id_str": "3122282574",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FMHCOhGo41",
+					"expanded_url": "https://twitter.com/NME/status/824399023822045184",
+					"display_url": "twitter.com/NME/status/824…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3122282574,
+		"in_reply_to_user_id_str": "3122282574",
+		"in_reply_to_screen_name": "justlego101",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3747,
+			"friends_count": 2851,
+			"listed_count": 389,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4627,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25593,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 824399023822045200,
+		"quoted_status_id_str": "824399023822045184",
+		"quoted_status": {
+			"created_at": "Wed Jan 25 23:30:18 +0000 2017",
+			"id": 824399023822045200,
+			"id_str": "824399023822045184",
+			"text": "The making of a fight scene in stop-motion – the #Oscar-nominated #KuboAndTheTwoStrings https://t.co/SisPWwm9x5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Oscar",
+						"indices": [
+							49,
+							55
+						]
+					},
+					{
+						"text": "KuboAndTheTwoStrings",
+						"indices": [
+							66,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 824398974689939500,
+						"id_str": "824398974689939456",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C3Daf-eXEAAZ_8-.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C3Daf-eXEAAZ_8-.jpg",
+						"url": "https://t.co/SisPWwm9x5",
+						"display_url": "pic.twitter.com/SisPWwm9x5",
+						"expanded_url": "https://twitter.com/NME/status/824399023822045184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 336,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 190,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 336,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 824398974689939500,
+						"id_str": "824398974689939456",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C3Daf-eXEAAZ_8-.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C3Daf-eXEAAZ_8-.jpg",
+						"url": "https://t.co/SisPWwm9x5",
+						"display_url": "pic.twitter.com/SisPWwm9x5",
+						"expanded_url": "https://twitter.com/NME/status/824399023822045184/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 336,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 190,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 336,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								25,
+								14
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/C3Daf-eXEAAZ_8-.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19063323,
+				"id_str": "19063323",
+				"name": "NME",
+				"screen_name": "NME",
+				"location": "London",
+				"description": "First for music news",
+				"url": "https://t.co/A278qJqyA1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/A278qJqyA1",
+								"expanded_url": "http://www.nme.com",
+								"display_url": "nme.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 869936,
+				"friends_count": 2414,
+				"listed_count": 15406,
+				"created_at": "Fri Jan 16 11:52:57 +0000 2009",
+				"favourites_count": 2200,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 127839,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/644293653922467841/fUTlS2Xr.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/644293653922467841/fUTlS2Xr.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/821997282312732673/bDJIY_Er_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/821997282312732673/bDJIY_Er_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19063323/1484814400",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EDF0F8",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 42,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Wed Jan 25 23:44:42 +0000 2017",
 		"id": 824402647444836400,
 		"id_str": "824402647444836356",
