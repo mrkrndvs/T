@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Mon Jan 30 05:14:01 +0000 2017",
+		"id": 825935072213688300,
+		"id_str": "825935072213688320",
+		"text": "RT @SteveBrophy3: V is for Visuals #EdublogsClub - Read Write Respond The power of visuals - Grt post @mrkrndvs #ttplay #aussieED  https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EdublogsClub",
+					"indices": [
+						35,
+						48
+					]
+				},
+				{
+					"text": "ttplay",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "aussieED",
+					"indices": [
+						120,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SteveBrophy3",
+					"name": "Steve Brophy",
+					"id": 827898170,
+					"id_str": "827898170",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						102,
+						111
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3762,
+			"friends_count": 2854,
+			"listed_count": 389,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4628,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25682,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 29 20:53:24 +0000 2017",
+			"id": 825809091306020900,
+			"id_str": "825809091306020864",
+			"text": "V is for Visuals #EdublogsClub - Read Write Respond The power of visuals - Grt post @mrkrndvs #ttplay #aussieED  https://t.co/BVFpgDR76m",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EdublogsClub",
+						"indices": [
+							17,
+							30
+						]
+					},
+					{
+						"text": "ttplay",
+						"indices": [
+							94,
+							101
+						]
+					},
+					{
+						"text": "aussieED",
+						"indices": [
+							102,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							84,
+							93
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BVFpgDR76m",
+						"expanded_url": "http://readwriterespond.com/?p=3092",
+						"display_url": "readwriterespond.com/?p=3092",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 827898170,
+				"id_str": "827898170",
+				"name": "Steve Brophy",
+				"screen_name": "SteveBrophy3",
+				"location": "Melbourne, Victoria",
+				"description": "Director of ICT & eLearning, MIE Expert, CoHost @TeachTechPlay. 2017 @TouchCastEdu Ambassador, Founder @CoLearnMeetUp",
+				"url": "https://t.co/9IRmrwsnps",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9IRmrwsnps",
+								"expanded_url": "http://stevebrophy.com.au",
+								"display_url": "stevebrophy.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3998,
+				"friends_count": 3871,
+				"listed_count": 282,
+				"created_at": "Sun Sep 16 23:00:37 +0000 2012",
+				"favourites_count": 3619,
+				"utc_offset": 39600,
+				"time_zone": "New Caledonia",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6440,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/711143463190835200/QyLjtVSa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/711143463190835200/QyLjtVSa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/827898170/1476518052",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 30 02:58:00 +0000 2017",
 		"id": 825900842943393800,
 		"id_str": "825900842943393792",
