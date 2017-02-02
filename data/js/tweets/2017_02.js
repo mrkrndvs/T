@@ -1,6 +1,1167 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Thu Feb 02 10:01:10 +0000 2017",
+		"id": 827094502410051600,
+		"id_str": "827094502410051584",
+		"text": "\"Tracing the spaghetti\" @IaninSheffield  https://t.co/ygXzlXeVbZ cc @GFThommo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IaninSheffield",
+					"name": "Ian Guest",
+					"id": 21324520,
+					"id_str": "21324520",
+					"indices": [
+						24,
+						39
+					]
+				},
+				{
+					"screen_name": "GFThommo",
+					"name": "Dr Beardface",
+					"id": 488946521,
+					"id_str": "488946521",
+					"indices": [
+						68,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ygXzlXeVbZ",
+					"expanded_url": "https://cpdin140.wordpress.com/2017/02/01/tracing-the-spaghetti",
+					"display_url": "cpdin140.wordpress.com/2017/02/01/tra…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3774,
+			"friends_count": 2857,
+			"listed_count": 390,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4634,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 02 09:33:12 +0000 2017",
+		"id": 827087462446964700,
+		"id_str": "827087462446964736",
+		"text": "RT @gcouros: \"Failure is overrated.\" Thoughts by @datruss and image by @plugusin. https://t.co/xGZp10D6Sr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gcouros",
+					"name": "George Couros",
+					"id": 18368680,
+					"id_str": "18368680",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "datruss",
+					"name": "David Truss",
+					"id": 10298552,
+					"id_str": "10298552",
+					"indices": [
+						49,
+						57
+					]
+				},
+				{
+					"screen_name": "plugusin",
+					"name": "Bill Ferriter",
+					"id": 12165362,
+					"id_str": "12165362",
+					"indices": [
+						71,
+						80
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 827087061291249700,
+					"id_str": "827087061291249665",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/C3pnTNaWMAEdF-9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3pnTNaWMAEdF-9.jpg",
+					"url": "https://t.co/xGZp10D6Sr",
+					"display_url": "pic.twitter.com/xGZp10D6Sr",
+					"expanded_url": "https://twitter.com/gcouros/status/827087086083776512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 668,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 668,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 473,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 827087086083776500,
+					"source_status_id_str": "827087086083776512",
+					"source_user_id": 18368680,
+					"source_user_id_str": "18368680"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 827087061291249700,
+					"id_str": "827087061291249665",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/C3pnTNaWMAEdF-9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3pnTNaWMAEdF-9.jpg",
+					"url": "https://t.co/xGZp10D6Sr",
+					"display_url": "pic.twitter.com/xGZp10D6Sr",
+					"expanded_url": "https://twitter.com/gcouros/status/827087086083776512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 668,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 668,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 473,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 827087086083776500,
+					"source_status_id_str": "827087086083776512",
+					"source_user_id": 18368680,
+					"source_user_id_str": "18368680"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3774,
+			"friends_count": 2857,
+			"listed_count": 390,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4634,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 02 09:31:42 +0000 2017",
+			"id": 827087086083776500,
+			"id_str": "827087086083776512",
+			"text": "\"Failure is overrated.\" Thoughts by @datruss and image by @plugusin. https://t.co/xGZp10D6Sr",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "datruss",
+						"name": "David Truss",
+						"id": 10298552,
+						"id_str": "10298552",
+						"indices": [
+							36,
+							44
+						]
+					},
+					{
+						"screen_name": "plugusin",
+						"name": "Bill Ferriter",
+						"id": 12165362,
+						"id_str": "12165362",
+						"indices": [
+							58,
+							67
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 827087061291249700,
+						"id_str": "827087061291249665",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/C3pnTNaWMAEdF-9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3pnTNaWMAEdF-9.jpg",
+						"url": "https://t.co/xGZp10D6Sr",
+						"display_url": "pic.twitter.com/xGZp10D6Sr",
+						"expanded_url": "https://twitter.com/gcouros/status/827087086083776512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 960,
+								"h": 668,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 668,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 473,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 827087061291249700,
+						"id_str": "827087061291249665",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/C3pnTNaWMAEdF-9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3pnTNaWMAEdF-9.jpg",
+						"url": "https://t.co/xGZp10D6Sr",
+						"display_url": "pic.twitter.com/xGZp10D6Sr",
+						"expanded_url": "https://twitter.com/gcouros/status/827087086083776512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 960,
+								"h": 668,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 668,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 473,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18368680,
+				"id_str": "18368680",
+				"name": "George Couros",
+				"screen_name": "gcouros",
+				"location": "Edmonton",
+				"description": "The best educators change the trajectories of those they serve. Through learning, teaching, writing, & speaking, I continue to aspire to this. I also love dogs.",
+				"url": "http://t.co/QGNUYorOJ0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/QGNUYorOJ0",
+								"expanded_url": "http://georgecouros.ca",
+								"display_url": "georgecouros.ca",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 149803,
+				"friends_count": 42728,
+				"listed_count": 3827,
+				"created_at": "Thu Dec 25 01:58:12 +0000 2008",
+				"favourites_count": 14835,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 91588,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/725034983392350208/L9XvJ3hx.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/725034983392350208/L9XvJ3hx.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2577433685/9ob36ijk4926indjjs9y_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2577433685/9ob36ijk4926indjjs9y_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18368680/1403624569",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 02 09:23:57 +0000 2017",
+		"id": 827085133639344100,
+		"id_str": "827085133639344128",
+		"text": "RT @whosanktheboat: @mrkrndvs @margaretsimkin @galloised vulnerability is only posible if we r brave or comfortable with the https://t.co/y…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "whosanktheboat",
+					"name": "Mr C ;",
+					"id": 2148930992,
+					"id_str": "2148930992",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						20,
+						29
+					]
+				},
+				{
+					"screen_name": "margaretsimkin",
+					"name": "Margaret Simkin",
+					"id": 25946833,
+					"id_str": "25946833",
+					"indices": [
+						30,
+						45
+					]
+				},
+				{
+					"screen_name": "galloised",
+					"name": "Deborah Welsh",
+					"id": 301926897,
+					"id_str": "301926897",
+					"indices": [
+						46,
+						56
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3774,
+			"friends_count": 2857,
+			"listed_count": 390,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4634,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 02 09:09:44 +0000 2017",
+			"id": 827081559068913700,
+			"id_str": "827081559068913665",
+			"text": "@mrkrndvs @margaretsimkin @galloised vulnerability is only posible if we r brave or comfortable with the https://t.co/yIXzMqb6zF @BreneBrown",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "margaretsimkin",
+						"name": "Margaret Simkin",
+						"id": 25946833,
+						"id_str": "25946833",
+						"indices": [
+							10,
+							25
+						]
+					},
+					{
+						"screen_name": "galloised",
+						"name": "Deborah Welsh",
+						"id": 301926897,
+						"id_str": "301926897",
+						"indices": [
+							26,
+							36
+						]
+					},
+					{
+						"screen_name": "BreneBrown",
+						"name": "Brené Brown",
+						"id": 14717311,
+						"id_str": "14717311",
+						"indices": [
+							129,
+							140
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/yIXzMqb6zF",
+						"expanded_url": "http://risk.Love",
+						"display_url": "risk.Love",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 827080625387556900,
+			"in_reply_to_status_id_str": "827080625387556865",
+			"in_reply_to_user_id": 372768752,
+			"in_reply_to_user_id_str": "372768752",
+			"in_reply_to_screen_name": "mrkrndvs",
+			"user": {
+				"id": 2148930992,
+				"id_str": "2148930992",
+				"name": "Mr C ;",
+				"screen_name": "whosanktheboat",
+				"location": "Australia",
+				"description": "---I like work; it fascinates me. I can sit and look at it for hours.-- Jerome K Jerome 'My wife is not 2 blame 4 my views'",
+				"url": "https://t.co/e3E9PybNMs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/e3E9PybNMs",
+								"expanded_url": "https://mrcsmeanderings.wordpress.com/",
+								"display_url": "mrcsmeanderings.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2084,
+				"friends_count": 2081,
+				"listed_count": 251,
+				"created_at": "Tue Oct 22 12:24:36 +0000 2013",
+				"favourites_count": 17222,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 26517,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/620226966629658624/0kvWLp0p_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/620226966629658624/0kvWLp0p_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2148930992/1436712674",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 02 09:20:22 +0000 2017",
+		"id": 827084235626336300,
+		"id_str": "827084235626336256",
+		"text": "RT @GoogleForEdu: ⏰ for more #GoogleEdu Tuesday Tips:\n\nClassroom https://t.co/wbVHsAgLTx \nForms https://t.co/8t1mIsD7N9 \nExpeditions https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleEdu",
+					"indices": [
+						29,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoogleForEdu",
+					"name": "Google For Education",
+					"id": 254218142,
+					"id_str": "254218142",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wbVHsAgLTx",
+					"expanded_url": "https://goo.gl/WcJdpp",
+					"display_url": "goo.gl/WcJdpp",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/8t1mIsD7N9",
+					"expanded_url": "https://goo.gl/f36Hjz",
+					"display_url": "goo.gl/f36Hjz",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3774,
+			"friends_count": 2857,
+			"listed_count": 390,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4634,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 31 20:46:01 +0000 2017",
+			"id": 826532006951522300,
+			"id_str": "826532006951522304",
+			"text": "⏰ for more #GoogleEdu Tuesday Tips:\n\nClassroom https://t.co/wbVHsAgLTx \nForms https://t.co/8t1mIsD7N9 \nExpeditions… https://t.co/lCWQlmSMZI",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleEdu",
+						"indices": [
+							11,
+							21
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wbVHsAgLTx",
+						"expanded_url": "https://goo.gl/WcJdpp",
+						"display_url": "goo.gl/WcJdpp",
+						"indices": [
+							47,
+							70
+						]
+					},
+					{
+						"url": "https://t.co/8t1mIsD7N9",
+						"expanded_url": "https://goo.gl/f36Hjz",
+						"display_url": "goo.gl/f36Hjz",
+						"indices": [
+							78,
+							101
+						]
+					},
+					{
+						"url": "https://t.co/lCWQlmSMZI",
+						"expanded_url": "https://twitter.com/i/web/status/826532006951522304",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 254218142,
+				"id_str": "254218142",
+				"name": "Google For Education",
+				"screen_name": "GoogleForEdu",
+				"location": "USA",
+				"description": "Helping prepare students to create the future. The best of Google, for education. Follow for product announcements, program updates and industry news #GoogleEdu",
+				"url": "http://t.co/uvx6X92Pm8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/uvx6X92Pm8",
+								"expanded_url": "http://www.google.com/edu",
+								"display_url": "google.com/edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 262957,
+				"friends_count": 522,
+				"listed_count": 3739,
+				"created_at": "Fri Feb 18 21:20:12 +0000 2011",
+				"favourites_count": 1220,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5164,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/207101657/bg-google-white-75.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/207101657/bg-google-white-75.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/638744309345288192/Daix6KET_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/638744309345288192/Daix6KET_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/254218142/1481564555",
+				"profile_link_color": "4286F4",
+				"profile_sidebar_border_color": "BBCCFF",
+				"profile_sidebar_fill_color": "EBEFF9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 80,
+			"favorite_count": 97,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 02 09:15:49 +0000 2017",
+		"id": 827083090493202400,
+		"id_str": "827083090493202432",
+		"text": "Official Google Aus Blog:Did someone say homework? Online safety tips for back-to-sch week https://t.co/cZp5qP4oLa via @googledownunder",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "googledownunder",
+					"name": "Google Australia NZ",
+					"id": 29937112,
+					"id_str": "29937112",
+					"indices": [
+						119,
+						135
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cZp5qP4oLa",
+					"expanded_url": "https://australia.googleblog.com/2017/02/did-someone-say-homework-online-safety.html",
+					"display_url": "australia.googleblog.com/2017/02/did-so…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3774,
+			"friends_count": 2857,
+			"listed_count": 390,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4634,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 02 09:06:02 +0000 2017",
 		"id": 827080625387556900,
 		"id_str": "827080625387556865",
