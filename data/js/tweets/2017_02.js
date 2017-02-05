@@ -1,6 +1,380 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sun Feb 05 08:47:08 +0000 2017",
+		"id": 828163033927032800,
+		"id_str": "828163033927032832",
+		"text": "@FizzicalEd @kphoekman if you are looking for ideas, recommend @ltoddrose 'End of Average' HT @jcorippo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FizzicalEd",
+					"name": "Ross Halliday",
+					"id": 560206530,
+					"id_str": "560206530",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "kphoekman",
+					"name": "Dr Katherine Hoekman",
+					"id": 239261573,
+					"id_str": "239261573",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "ltoddrose",
+					"name": "Todd Rose",
+					"id": 68571646,
+					"id_str": "68571646",
+					"indices": [
+						63,
+						73
+					]
+				},
+				{
+					"screen_name": "jcorippo",
+					"name": "jcorippo ",
+					"id": 14080892,
+					"id_str": "14080892",
+					"indices": [
+						94,
+						103
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 816188021066215400,
+		"in_reply_to_status_id_str": "816188021066215424",
+		"in_reply_to_user_id": 560206530,
+		"in_reply_to_user_id_str": "560206530",
+		"in_reply_to_screen_name": "FizzicalEd",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3785,
+			"friends_count": 2857,
+			"listed_count": 390,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4630,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25793,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 05 08:43:11 +0000 2017",
+		"id": 828162039931555800,
+		"id_str": "828162039931555841",
+		"text": "RT @FizzicalEd: Thank u @simreilly for the book-a-month challenge. Jan has started well, no.3 and another of yours and @kphoekman recommend…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FizzicalEd",
+					"name": "Ross Halliday",
+					"id": 560206530,
+					"id_str": "560206530",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "simreilly",
+					"name": "Simone Reilly",
+					"id": 23857605,
+					"id_str": "23857605",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"screen_name": "kphoekman",
+					"name": "Dr Katherine Hoekman",
+					"id": 239261573,
+					"id_str": "239261573",
+					"indices": [
+						119,
+						129
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3785,
+			"friends_count": 2857,
+			"listed_count": 390,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4630,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25793,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 11 21:00:28 +0000 2017",
+			"id": 819287886658834400,
+			"id_str": "819287886658834433",
+			"text": "Thank u @simreilly for the book-a-month challenge. Jan has started well, no.3 and another of yours and @kphoekman r… https://t.co/4HH5PsKIZv",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "simreilly",
+						"name": "Simone Reilly",
+						"id": 23857605,
+						"id_str": "23857605",
+						"indices": [
+							8,
+							18
+						]
+					},
+					{
+						"screen_name": "kphoekman",
+						"name": "Dr Katherine Hoekman",
+						"id": 239261573,
+						"id_str": "239261573",
+						"indices": [
+							103,
+							113
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4HH5PsKIZv",
+						"expanded_url": "https://twitter.com/i/web/status/819287886658834433",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 560206530,
+				"id_str": "560206530",
+				"name": "Ross Halliday",
+				"screen_name": "FizzicalEd",
+				"location": "Melbourne, Australia",
+				"description": "Life long learner. In endless pursuit of the people, experiences and things that make our classrooms 'FIZZ' Google Certified Innovator.",
+				"url": "https://t.co/DMtYL8Vndt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DMtYL8Vndt",
+								"expanded_url": "http://www.makinglearningfizz.com",
+								"display_url": "makinglearningfizz.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2251,
+				"friends_count": 568,
+				"listed_count": 68,
+				"created_at": "Sun Apr 22 07:25:45 +0000 2012",
+				"favourites_count": 120,
+				"utc_offset": 36000,
+				"time_zone": "Brisbane",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3573,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181034148/42xTiChj.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181034148/42xTiChj.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/514725008975732736/Kf4uRKmL_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/514725008975732736/Kf4uRKmL_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/560206530/1478304448",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Feb 05 04:32:10 +0000 2017",
 		"id": 828098868193529900,
 		"id_str": "828098868193529857",
