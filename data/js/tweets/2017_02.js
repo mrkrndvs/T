@@ -1,6 +1,1013 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sat Feb 11 04:52:44 +0000 2017",
+		"id": 830278371644895200,
+		"id_str": "830278371644895234",
+		"text": "RT @DrSRiddle: Ker-ching! $$$$$ https://t.co/diAtcZDZf4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrSRiddle",
+					"name": "Stewart Riddle",
+					"id": 1315624051,
+					"id_str": "1315624051",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/diAtcZDZf4",
+					"expanded_url": "https://twitter.com/visiblelearning/status/829863088400642048",
+					"display_url": "twitter.com/visiblelearnin…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3805,
+			"friends_count": 2861,
+			"listed_count": 393,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4632,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25903,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 10 03:32:42 +0000 2017",
+			"id": 829895842311999500,
+			"id_str": "829895842311999489",
+			"text": "Ker-ching! $$$$$ https://t.co/diAtcZDZf4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/diAtcZDZf4",
+						"expanded_url": "https://twitter.com/visiblelearning/status/829863088400642048",
+						"display_url": "twitter.com/visiblelearnin…",
+						"indices": [
+							17,
+							40
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1315624051,
+				"id_str": "1315624051",
+				"name": "Stewart Riddle",
+				"screen_name": "DrSRiddle",
+				"location": "Brisbane",
+				"description": "Bass player. Educator. Other stuff.",
+				"url": "https://t.co/ZLjSar1Fiy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZLjSar1Fiy",
+								"expanded_url": "https://eprints.usq.edu.au/view/uniqueauthor/5223.html",
+								"display_url": "eprints.usq.edu.au/view/uniqueaut…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1284,
+				"friends_count": 893,
+				"listed_count": 52,
+				"created_at": "Sat Mar 30 02:27:20 +0000 2013",
+				"favourites_count": 2971,
+				"utc_offset": 36000,
+				"time_zone": "Brisbane",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 285,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/826284577559715840/VeXQQrUq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/826284577559715840/VeXQQrUq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1315624051/1485836771",
+				"profile_link_color": "36454F",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 829863088400642000,
+			"quoted_status_id_str": "829863088400642048",
+			"quoted_status": {
+				"created_at": "Fri Feb 10 01:22:33 +0000 2017",
+				"id": 829863088400642000,
+				"id_str": "829863088400642048",
+				"text": "What is John hattie working on at the moment?\n1. Visible Learning for Parents",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 455500569,
+					"id_str": "455500569",
+					"name": "Visible Learning",
+					"screen_name": "VisibleLearning",
+					"location": "Auckland New Zealand",
+					"description": "Visible Learning in collaboration with John Hattie: Professional learning for in-depth and sustainable school & system change. Powered by @CognitionEdu",
+					"url": "http://t.co/VYcbdQ1anS",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/VYcbdQ1anS",
+									"expanded_url": "http://visiblelearningplus.com",
+									"display_url": "visiblelearningplus.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 32753,
+					"friends_count": 128,
+					"listed_count": 385,
+					"created_at": "Thu Jan 05 05:32:24 +0000 2012",
+					"favourites_count": 223,
+					"utc_offset": 46800,
+					"time_zone": "Wellington",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 3844,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "88BD5D",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/703564509/c022192133b580dbba8bde1d12e4d1bb.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/703564509/c022192133b580dbba8bde1d12e4d1bb.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/2760315297/fc3ef9d16c21ca9787ae9ee7509d1d8f_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/2760315297/fc3ef9d16c21ca9787ae9ee7509d1d8f_normal.png",
+					"profile_link_color": "4F5557",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 47,
+				"favorite_count": 83,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 4,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 829863088400642000,
+		"quoted_status_id_str": "829863088400642048",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Feb 11 04:50:42 +0000 2017",
+		"id": 830277861500006400,
+		"id_str": "830277861500006400",
+		"text": "RT @Obi_Jon_: *TRAFFIC UPDATE* some patches of heavy congestion. Off-road diversions in place. Expect delays. https://t.co/S98CWc2QiN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Obi_Jon_",
+					"name": "Jon Andrews",
+					"id": 817918164,
+					"id_str": "817918164",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 830185321488724000,
+					"id_str": "830185321488723968",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/830185321488723968/pu/img/ixCgapzpqJS1AJeR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/830185321488723968/pu/img/ixCgapzpqJS1AJeR.jpg",
+					"url": "https://t.co/S98CWc2QiN",
+					"display_url": "pic.twitter.com/S98CWc2QiN",
+					"expanded_url": "https://twitter.com/Obi_Jon_/status/830185826642386944/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 830185826642387000,
+					"source_status_id_str": "830185826642386944",
+					"source_user_id": 817918164,
+					"source_user_id_str": "817918164"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 830185321488724000,
+					"id_str": "830185321488723968",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/830185321488723968/pu/img/ixCgapzpqJS1AJeR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/830185321488723968/pu/img/ixCgapzpqJS1AJeR.jpg",
+					"url": "https://t.co/S98CWc2QiN",
+					"display_url": "pic.twitter.com/S98CWc2QiN",
+					"expanded_url": "https://twitter.com/Obi_Jon_/status/830185826642386944/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 830185826642387000,
+					"source_status_id_str": "830185826642386944",
+					"source_user_id": 817918164,
+					"source_user_id_str": "817918164",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 45030,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/830185321488723968/pu/vid/360x640/rEx9sU3ECneCqBR6.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/830185321488723968/pu/vid/720x1280/W-dhc8nwM2MZYbHY.mp4"
+							},
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/ext_tw_video/830185321488723968/pu/pl/V90mjUUTLEfoIuqK.mpd"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/830185321488723968/pu/vid/180x320/erBy98Pj-kT7p01o.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/830185321488723968/pu/pl/V90mjUUTLEfoIuqK.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 817918164,
+							"id_str": "817918164",
+							"name": "Jon Andrews",
+							"screen_name": "Obi_Jon_",
+							"location": "",
+							"description": "Director of Teaching, Learning and Research, Brisbane. Views are my own.",
+							"url": "https://t.co/PnHWGxe2mT",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/PnHWGxe2mT",
+											"expanded_url": "https://jonandrews.edublogs.org",
+											"display_url": "jonandrews.edublogs.org",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 4581,
+							"friends_count": 491,
+							"listed_count": 178,
+							"created_at": "Tue Sep 11 18:21:31 +0000 2012",
+							"favourites_count": 8522,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 9501,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/819664034731413505/X62bOIwv_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/819664034731413505/X62bOIwv_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/817918164/1486466811",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3805,
+			"friends_count": 2861,
+			"listed_count": 393,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4632,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25903,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 10 22:44:59 +0000 2017",
+			"id": 830185826642387000,
+			"id_str": "830185826642386944",
+			"text": "*TRAFFIC UPDATE* some patches of heavy congestion. Off-road diversions in place. Expect delays. https://t.co/S98CWc2QiN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 830185321488724000,
+						"id_str": "830185321488723968",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/830185321488723968/pu/img/ixCgapzpqJS1AJeR.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/830185321488723968/pu/img/ixCgapzpqJS1AJeR.jpg",
+						"url": "https://t.co/S98CWc2QiN",
+						"display_url": "pic.twitter.com/S98CWc2QiN",
+						"expanded_url": "https://twitter.com/Obi_Jon_/status/830185826642386944/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 830185321488724000,
+						"id_str": "830185321488723968",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/830185321488723968/pu/img/ixCgapzpqJS1AJeR.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/830185321488723968/pu/img/ixCgapzpqJS1AJeR.jpg",
+						"url": "https://t.co/S98CWc2QiN",
+						"display_url": "pic.twitter.com/S98CWc2QiN",
+						"expanded_url": "https://twitter.com/Obi_Jon_/status/830185826642386944/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 45030,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/830185321488723968/pu/vid/360x640/rEx9sU3ECneCqBR6.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/830185321488723968/pu/vid/720x1280/W-dhc8nwM2MZYbHY.mp4"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/830185321488723968/pu/pl/V90mjUUTLEfoIuqK.mpd"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/830185321488723968/pu/vid/180x320/erBy98Pj-kT7p01o.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/830185321488723968/pu/pl/V90mjUUTLEfoIuqK.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 817918164,
+				"id_str": "817918164",
+				"name": "Jon Andrews",
+				"screen_name": "Obi_Jon_",
+				"location": "",
+				"description": "Director of Teaching, Learning and Research, Brisbane. Views are my own.",
+				"url": "https://t.co/PnHWGxe2mT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PnHWGxe2mT",
+								"expanded_url": "https://jonandrews.edublogs.org",
+								"display_url": "jonandrews.edublogs.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4581,
+				"friends_count": 491,
+				"listed_count": 178,
+				"created_at": "Tue Sep 11 18:21:31 +0000 2012",
+				"favourites_count": 8522,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9501,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/819664034731413505/X62bOIwv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/819664034731413505/X62bOIwv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/817918164/1486466811",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Feb 11 04:49:46 +0000 2017",
+		"id": 830277625146847200,
+		"id_str": "830277625146847232",
+		"text": "RT @Obi_Jon_: Very sad to see - Rio's Olympic venues six months after the games https://t.co/ypFcLkHlhY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Obi_Jon_",
+					"name": "Jon Andrews",
+					"id": 817918164,
+					"id_str": "817918164",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ypFcLkHlhY",
+					"expanded_url": "https://www.theguardian.com/sport/gallery/2017/feb/10/rios-olympic-venues-six-months-on-in-pictures?CMP=share_btn_tw",
+					"display_url": "theguardian.com/sport/gallery/…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3805,
+			"friends_count": 2861,
+			"listed_count": 393,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4632,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25903,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 11 01:03:05 +0000 2017",
+			"id": 830220578464215000,
+			"id_str": "830220578464215041",
+			"text": "Very sad to see - Rio's Olympic venues six months after the games https://t.co/ypFcLkHlhY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ypFcLkHlhY",
+						"expanded_url": "https://www.theguardian.com/sport/gallery/2017/feb/10/rios-olympic-venues-six-months-on-in-pictures?CMP=share_btn_tw",
+						"display_url": "theguardian.com/sport/gallery/…",
+						"indices": [
+							66,
+							89
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 817918164,
+				"id_str": "817918164",
+				"name": "Jon Andrews",
+				"screen_name": "Obi_Jon_",
+				"location": "",
+				"description": "Director of Teaching, Learning and Research, Brisbane. Views are my own.",
+				"url": "https://t.co/PnHWGxe2mT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PnHWGxe2mT",
+								"expanded_url": "https://jonandrews.edublogs.org",
+								"display_url": "jonandrews.edublogs.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4581,
+				"friends_count": 491,
+				"listed_count": 178,
+				"created_at": "Tue Sep 11 18:21:31 +0000 2012",
+				"favourites_count": 8522,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9501,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/819664034731413505/X62bOIwv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/819664034731413505/X62bOIwv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/817918164/1486466811",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 11 03:33:06 +0000 2017",
 		"id": 830258331474341900,
 		"id_str": "830258331474341888",
