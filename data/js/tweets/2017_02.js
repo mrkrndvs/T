@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sun Feb 12 00:56:22 +0000 2017",
+		"id": 830581276310540300,
+		"id_str": "830581276310540288",
+		"text": "RT @amyburvall: Slide deck from #isabc17 now avail for viewing on Slideshare https://t.co/DO7iY9MMIp #creativity #bced #criticalcreativity…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "isabc17",
+					"indices": [
+						32,
+						40
+					]
+				},
+				{
+					"text": "creativity",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"text": "bced",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "criticalcreativity",
+					"indices": [
+						119,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amyburvall",
+					"name": "Amy Burvall",
+					"id": 158207707,
+					"id_str": "158207707",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DO7iY9MMIp",
+					"expanded_url": "https://www.slideshare.net/mobile/amyburvall/intention-critical-creativity-in-the-k12-classroom-isabc17",
+					"display_url": "slideshare.net/mobile/amyburv…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3804,
+			"friends_count": 2862,
+			"listed_count": 393,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4635,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25923,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 11 15:52:35 +0000 2017",
+			"id": 830444431106990100,
+			"id_str": "830444431106990081",
+			"text": "Slide deck from #isabc17 now avail for viewing on Slideshare https://t.co/DO7iY9MMIp #creativity #bced… https://t.co/7DeEG6Oars",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "isabc17",
+						"indices": [
+							16,
+							24
+						]
+					},
+					{
+						"text": "creativity",
+						"indices": [
+							85,
+							96
+						]
+					},
+					{
+						"text": "bced",
+						"indices": [
+							97,
+							102
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DO7iY9MMIp",
+						"expanded_url": "https://www.slideshare.net/mobile/amyburvall/intention-critical-creativity-in-the-k12-classroom-isabc17",
+						"display_url": "slideshare.net/mobile/amyburv…",
+						"indices": [
+							61,
+							84
+						]
+					},
+					{
+						"url": "https://t.co/7DeEG6Oars",
+						"expanded_url": "https://twitter.com/i/web/status/830444431106990081",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							104,
+							127
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 158207707,
+				"id_str": "158207707",
+				"name": "Amy Burvall",
+				"screen_name": "amyburvall",
+				"location": "Oahu, Hi ",
+				"description": "The Cloud is Our Campfire. Learning & Creative Thinking consultant; professional recombinant connecting dots; History Music Vids @historyteacherz",
+				"url": "https://t.co/RPeoCPA2bm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RPeoCPA2bm",
+								"expanded_url": "http://www.amyburvall.com/",
+								"display_url": "amyburvall.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7500,
+				"friends_count": 4083,
+				"listed_count": 798,
+				"created_at": "Tue Jun 22 02:13:48 +0000 2010",
+				"favourites_count": 9874,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 56233,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "5A5C61",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/591408761/hl8syai22ly8lidazcv6.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/591408761/hl8syai22ly8lidazcv6.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1012621118/amymomsday_blkw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012621118/amymomsday_blkw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/158207707/1398207144",
+				"profile_link_color": "E643B5",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1e5cb4d0509db554",
+				"url": "https://api.twitter.com/1.1/geo/id/1e5cb4d0509db554.json",
+				"place_type": "city",
+				"name": "Vancouver",
+				"full_name": "Vancouver, British Columbia",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-123.224215,
+								49.19854
+							],
+							[
+								-123.022947,
+								49.19854
+							],
+							[
+								-123.022947,
+								49.316738
+							],
+							[
+								-123.224215,
+								49.316738
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 11 22:31:35 +0000 2017",
 		"id": 830544842597896200,
 		"id_str": "830544842597896192",
