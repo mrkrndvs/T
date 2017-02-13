@@ -1,6 +1,399 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Mon Feb 13 11:38:17 +0000 2017",
+		"id": 831105206846840800,
+		"id_str": "831105206846840832",
+		"text": "RT @wpbeginner: How to Properly Switch From Wix to #WordPress (2017) - https://t.co/UrqmGpg6XH https://t.co/jJnGE9H20A",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WordPress",
+					"indices": [
+						51,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wpbeginner",
+					"name": "WordPress Beginner",
+					"id": 40516848,
+					"id_str": "40516848",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UrqmGpg6XH",
+					"expanded_url": "http://wpbeg.in/2lHwgbs",
+					"display_url": "wpbeg.in/2lHwgbs",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 831104621791809500,
+					"id_str": "831104621791809538",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/C4itQAkWEAIOeXh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4itQAkWEAIOeXh.jpg",
+					"url": "https://t.co/jJnGE9H20A",
+					"display_url": "pic.twitter.com/jJnGE9H20A",
+					"expanded_url": "https://twitter.com/wpbeginner/status/831104624417468416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 520,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 520,
+							"h": 340,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 520,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 831104624417468400,
+					"source_status_id_str": "831104624417468416",
+					"source_user_id": 40516848,
+					"source_user_id_str": "40516848"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 831104621791809500,
+					"id_str": "831104621791809538",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/C4itQAkWEAIOeXh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4itQAkWEAIOeXh.jpg",
+					"url": "https://t.co/jJnGE9H20A",
+					"display_url": "pic.twitter.com/jJnGE9H20A",
+					"expanded_url": "https://twitter.com/wpbeginner/status/831104624417468416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 520,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 520,
+							"h": 340,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 520,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 831104624417468400,
+					"source_status_id_str": "831104624417468416",
+					"source_user_id": 40516848,
+					"source_user_id_str": "40516848"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3814,
+			"friends_count": 2863,
+			"listed_count": 393,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4641,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25983,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 13 11:35:58 +0000 2017",
+			"id": 831104624417468400,
+			"id_str": "831104624417468416",
+			"text": "How to Properly Switch From Wix to #WordPress (2017) - https://t.co/UrqmGpg6XH https://t.co/jJnGE9H20A",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WordPress",
+						"indices": [
+							35,
+							45
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UrqmGpg6XH",
+						"expanded_url": "http://wpbeg.in/2lHwgbs",
+						"display_url": "wpbeg.in/2lHwgbs",
+						"indices": [
+							55,
+							78
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 831104621791809500,
+						"id_str": "831104621791809538",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/C4itQAkWEAIOeXh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4itQAkWEAIOeXh.jpg",
+						"url": "https://t.co/jJnGE9H20A",
+						"display_url": "pic.twitter.com/jJnGE9H20A",
+						"expanded_url": "https://twitter.com/wpbeginner/status/831104624417468416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 520,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 520,
+								"h": 340,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 520,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 831104621791809500,
+						"id_str": "831104621791809538",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/C4itQAkWEAIOeXh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4itQAkWEAIOeXh.jpg",
+						"url": "https://t.co/jJnGE9H20A",
+						"display_url": "pic.twitter.com/jJnGE9H20A",
+						"expanded_url": "https://twitter.com/wpbeginner/status/831104624417468416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 520,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 520,
+								"h": 340,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 520,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40516848,
+				"id_str": "40516848",
+				"name": "WordPress Beginner",
+				"screen_name": "wpbeginner",
+				"location": "West Palm Beach, Florida",
+				"description": "WPBeginner is the largest unofficial #WordPress resource site offering WordPress tips, tricks, and other resources.",
+				"url": "http://t.co/s1gd9zjUs1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/s1gd9zjUs1",
+								"expanded_url": "http://www.wpbeginner.com",
+								"display_url": "wpbeginner.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 164847,
+				"friends_count": 53,
+				"listed_count": 5459,
+				"created_at": "Sat May 16 18:37:47 +0000 2009",
+				"favourites_count": 30,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 26243,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F6F6F6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/662700892/5r52wfcv9vutnmla477h.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/662700892/5r52wfcv9vutnmla477h.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/731041180/wpbeginnertwitterimg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/731041180/wpbeginnertwitterimg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40516848/1349108714",
+				"profile_link_color": "AD711C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 13 10:37:31 +0000 2017",
 		"id": 831089916432019500,
 		"id_str": "831089916432019456",
