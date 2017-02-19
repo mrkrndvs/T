@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sun Feb 19 09:04:08 +0000 2017",
+		"id": 833240743850369000,
+		"id_str": "833240743850369024",
+		"text": "RT @josepicardoSHS: Not sure whether the concept of no frills private schools has been thought through. Aren't the frills the whole point o…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "josepicardoSHS",
+					"name": "José Picardo",
+					"id": 12127612,
+					"id_str": "12127612",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3833,
+			"friends_count": 2872,
+			"listed_count": 394,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4649,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26076,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 19 08:55:05 +0000 2017",
+			"id": 833238465785524200,
+			"id_str": "833238465785524225",
+			"text": "Not sure whether the concept of no frills private schools has been thought through. Aren't the frills the whole poi… https://t.co/fGiIKBoyvu",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fGiIKBoyvu",
+						"expanded_url": "https://twitter.com/i/web/status/833238465785524225",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12127612,
+				"id_str": "12127612",
+				"name": "José Picardo",
+				"screen_name": "josepicardoSHS",
+				"location": "London, UK",
+				"description": "Assistant Principal @SurbitonHigh - Interested in pedagogy, digital strategy and the provision of a broad, well-rounded education.",
+				"url": "https://t.co/7cLxPApcx3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7cLxPApcx3",
+								"expanded_url": "http://josepicardo.com",
+								"display_url": "josepicardo.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13048,
+				"friends_count": 6344,
+				"listed_count": 941,
+				"created_at": "Fri Jan 11 19:31:02 +0000 2008",
+				"favourites_count": 6225,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 49079,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/766681083517730816/mFrNqBaN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/766681083517730816/mFrNqBaN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12127612/1398247594",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "65b23b0045f450f6",
+				"url": "https://api.twitter.com/1.1/geo/id/65b23b0045f450f6.json",
+				"place_type": "city",
+				"name": "Kingston upon Thames",
+				"full_name": "Kingston upon Thames, London",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.3229167,
+								51.3428601
+							],
+							[
+								-0.234011,
+								51.3428601
+							],
+							[
+								-0.234011,
+								51.437266
+							],
+							[
+								-0.3229167,
+								51.437266
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 832926717484396500,
+			"quoted_status_id_str": "832926717484396544",
+			"quoted_status": {
+				"created_at": "Sat Feb 18 12:16:19 +0000 2017",
+				"id": 832926717484396500,
+				"id_str": "832926717484396544",
+				"text": "Low cost private school proposed for Durham | Schools Week https://t.co/Ew00mme0qQ .@cyclingkev .@AGavrielatos",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "cyclingkev",
+							"name": "Kevin Courtney (NUT)",
+							"id": 189631331,
+							"id_str": "189631331",
+							"indices": [
+								84,
+								95
+							]
+						},
+						{
+							"screen_name": "AGavrielatos",
+							"name": "Angelo Gavrielatos",
+							"id": 1649067530,
+							"id_str": "1649067530",
+							"indices": [
+								97,
+								110
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/Ew00mme0qQ",
+							"expanded_url": "http://schoolsweek.co.uk/proposals-for-pioneering-low-cost-private-school-in-england-revealed/",
+							"display_url": "schoolsweek.co.uk/proposals-for-…",
+							"indices": [
+								59,
+								82
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 221314544,
+					"id_str": "221314544",
+					"name": "David Wilson",
+					"screen_name": "DavidWilson1975",
+					"location": "London",
+					"description": "Head of Organising at the NUT; part time doctoral student at WLRI. Newcastle United on Saturday, cycling on Sunday, button-downed shirts every day of the week!",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1030,
+					"friends_count": 1274,
+					"listed_count": 15,
+					"created_at": "Tue Nov 30 09:44:07 +0000 2010",
+					"favourites_count": 1323,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 3453,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000085345541/8c5fabffd19b58d7c5722af30f08d8b2.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000085345541/8c5fabffd19b58d7c5722af30f08d8b2.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/378800000528869113/6fec21c14db4d56efa389483f480b166_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000528869113/6fec21c14db4d56efa389483f480b166_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/221314544/1380566549",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 832926717484396500,
+		"quoted_status_id_str": "832926717484396544",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Feb 19 00:48:53 +0000 2017",
 		"id": 833116108022505500,
 		"id_str": "833116108022505473",
