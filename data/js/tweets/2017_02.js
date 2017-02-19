@@ -1,6 +1,484 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sun Feb 19 20:11:45 +0000 2017",
+		"id": 833408753126895600,
+		"id_str": "833408753126895616",
+		"text": "\"Empowerment &amp; ownership need &amp; shd be associated with learning to increase relevancy, value, meaning, and outcomes\" https://t.co/KHmgra00Zw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KHmgra00Zw",
+					"expanded_url": "http://esheninger.blogspot.com/2017/02/agency-important-for-students-and.html",
+					"display_url": "esheninger.blogspot.com/2017/02/agency…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3830,
+			"friends_count": 2872,
+			"listed_count": 394,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4649,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26086,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 19 20:08:59 +0000 2017",
+		"id": 833408055496761300,
+		"id_str": "833408055496761344",
+		"text": "RT @OZEDblogs: Are schools teaching our kids to be redundant? https://t.co/ffIKP9nWRJ https://t.co/PK07IzQ9v9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OZEDblogs",
+					"name": "Raegina Taylor",
+					"id": 1312694131,
+					"id_str": "1312694131",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ffIKP9nWRJ",
+					"expanded_url": "http://australianeducationblogs.com/2017/02/19/are-schools-teaching-our-kids-to-be-redundant",
+					"display_url": "australianeducationblogs.com/2017/02/19/are…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 833119817234145300,
+					"id_str": "833119817234145281",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/C4_WD0mUYAEb4IU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4_WD0mUYAEb4IU.jpg",
+					"url": "https://t.co/PK07IzQ9v9",
+					"display_url": "pic.twitter.com/PK07IzQ9v9",
+					"expanded_url": "https://twitter.com/Raegina_Taylor/status/833119819729870848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 568,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 591,
+							"h": 708,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 591,
+							"h": 708,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 833119819729870800,
+					"source_status_id_str": "833119819729870848",
+					"source_user_id": 1312694131,
+					"source_user_id_str": "1312694131"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 833119817234145300,
+					"id_str": "833119817234145281",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/C4_WD0mUYAEb4IU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4_WD0mUYAEb4IU.jpg",
+					"url": "https://t.co/PK07IzQ9v9",
+					"display_url": "pic.twitter.com/PK07IzQ9v9",
+					"expanded_url": "https://twitter.com/Raegina_Taylor/status/833119819729870848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 568,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 591,
+							"h": 708,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 591,
+							"h": 708,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 833119819729870800,
+					"source_status_id_str": "833119819729870848",
+					"source_user_id": 1312694131,
+					"source_user_id_str": "1312694131"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3830,
+			"friends_count": 2872,
+			"listed_count": 394,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4649,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26086,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 19 01:03:38 +0000 2017",
+			"id": 833119819729870800,
+			"id_str": "833119819729870848",
+			"text": "Are schools teaching our kids to be redundant? https://t.co/ffIKP9nWRJ https://t.co/PK07IzQ9v9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ffIKP9nWRJ",
+						"expanded_url": "http://australianeducationblogs.com/2017/02/19/are-schools-teaching-our-kids-to-be-redundant",
+						"display_url": "australianeducationblogs.com/2017/02/19/are…",
+						"indices": [
+							47,
+							70
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 833119817234145300,
+						"id_str": "833119817234145281",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/C4_WD0mUYAEb4IU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4_WD0mUYAEb4IU.jpg",
+						"url": "https://t.co/PK07IzQ9v9",
+						"display_url": "pic.twitter.com/PK07IzQ9v9",
+						"expanded_url": "https://twitter.com/Raegina_Taylor/status/833119819729870848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 568,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 591,
+								"h": 708,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 591,
+								"h": 708,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 833119817234145300,
+						"id_str": "833119817234145281",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/C4_WD0mUYAEb4IU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4_WD0mUYAEb4IU.jpg",
+						"url": "https://t.co/PK07IzQ9v9",
+						"display_url": "pic.twitter.com/PK07IzQ9v9",
+						"expanded_url": "https://twitter.com/Raegina_Taylor/status/833119819729870848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 568,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 591,
+								"h": 708,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 591,
+								"h": 708,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1312694131,
+				"id_str": "1312694131",
+				"name": "Raegina Taylor",
+				"screen_name": "OZEDblogs",
+				"location": "Canberra",
+				"description": "Educator | researcher | thinker, listener, speaker, dreamer, singer | Creator Australian Education Blogs #OzEdBlogs",
+				"url": "https://t.co/fC0twhdb6Y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fC0twhdb6Y",
+								"expanded_url": "https://australianeducationblogs.com",
+								"display_url": "australianeducationblogs.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 499,
+				"friends_count": 935,
+				"listed_count": 18,
+				"created_at": "Fri Mar 29 05:24:05 +0000 2013",
+				"favourites_count": 706,
+				"utc_offset": 39600,
+				"time_zone": "Canberra",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2551,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/833244359428444160/b3lR0mn6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/833244359428444160/b3lR0mn6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1312694131/1486462458",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Feb 19 18:49:44 +0000 2017",
 		"id": 833388112134955000,
 		"id_str": "833388112134955009",
