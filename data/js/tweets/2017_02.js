@@ -1,6 +1,860 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Mon Feb 20 20:41:37 +0000 2017",
+		"id": 833778657399148500,
+		"id_str": "833778657399148546",
+		"text": "RT @margaretsimkin: Critical friends, mentors, coaches - vital for enriching our professional lives @sbradbeer @mrkrndvs @galloised @hbaili…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "margaretsimkin",
+					"name": "Margaret Simkin",
+					"id": 25946833,
+					"id_str": "25946833",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "sbradbeer",
+					"name": "Suz Bradbeer",
+					"id": 143023692,
+					"id_str": "143023692",
+					"indices": [
+						100,
+						110
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"screen_name": "galloised",
+					"name": "Deborah Welsh",
+					"id": 301926897,
+					"id_str": "301926897",
+					"indices": [
+						121,
+						131
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3830,
+			"friends_count": 2873,
+			"listed_count": 394,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4650,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26103,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 20 20:14:57 +0000 2017",
+			"id": 833771947984949200,
+			"id_str": "833771947984949248",
+			"text": "Critical friends, mentors, coaches - vital for enriching our professional lives @sbradbeer @mrkrndvs @galloised… https://t.co/9QIAOmbidG",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sbradbeer",
+						"name": "Suz Bradbeer",
+						"id": 143023692,
+						"id_str": "143023692",
+						"indices": [
+							80,
+							90
+						]
+					},
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							91,
+							100
+						]
+					},
+					{
+						"screen_name": "galloised",
+						"name": "Deborah Welsh",
+						"id": 301926897,
+						"id_str": "301926897",
+						"indices": [
+							101,
+							111
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/9QIAOmbidG",
+						"expanded_url": "https://twitter.com/i/web/status/833771947984949248",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25946833,
+				"id_str": "25946833",
+				"name": "Margaret Simkin",
+				"screen_name": "margaretsimkin",
+				"location": "Victoria, Australia",
+				"description": "Wife, Mother, Teacher Librarian; History & Geography teacher.\nMicrosoft accredited Peer Coach. M.Ed (Knowledge Networks & Digital Innovation). M.Ed (T-L) CSU",
+				"url": "https://t.co/VjyjoBRCQb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VjyjoBRCQb",
+								"expanded_url": "http://digitalli.net/",
+								"display_url": "digitalli.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2092,
+				"friends_count": 2542,
+				"listed_count": 198,
+				"created_at": "Mon Mar 23 03:42:20 +0000 2009",
+				"favourites_count": 18611,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8554,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/219299291/free-twitter-background--un--85288507.br.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/219299291/free-twitter-background--un--85288507.br.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/308070373/PhotoFunia-c2710favatar_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/308070373/PhotoFunia-c2710favatar_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25946833/1368263169",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "326C3C",
+				"profile_sidebar_fill_color": "00FF03",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 833633421448540200,
+			"quoted_status_id_str": "833633421448540160",
+			"quoted_status": {
+				"created_at": "Mon Feb 20 11:04:30 +0000 2017",
+				"id": 833633421448540200,
+				"id_str": "833633421448540160",
+				"text": "Get a mentor...and hang on to them...https://t.co/7lNCxuzEDE #TeacherMag @acklearn",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "TeacherMag",
+							"indices": [
+								61,
+								72
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/7lNCxuzEDE",
+							"expanded_url": "https://www.teachermagazine.com.au/article/mentors-and-master-teachers-lessons-from-shanghai",
+							"display_url": "teachermagazine.com.au/article/mentor…",
+							"indices": [
+								37,
+								60
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 20136820,
+					"id_str": "20136820",
+					"name": "Kate Fogarty",
+					"screen_name": "katiefoges",
+					"location": "Kilmore, Australia",
+					"description": "Principal of @ACKilmore. Instructional leader. Learner. Runner. Reader. Marist. @CaritasAust National Council.",
+					"url": "https://t.co/Okg4v224w3",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/Okg4v224w3",
+									"expanded_url": "http://iprincipal.edublogs.org/",
+									"display_url": "iprincipal.edublogs.org",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3200,
+					"friends_count": 457,
+					"listed_count": 184,
+					"created_at": "Thu Feb 05 10:46:07 +0000 2009",
+					"favourites_count": 94,
+					"utc_offset": 39600,
+					"time_zone": "Melbourne",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 12909,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/448366885357092864/Hc6v7pqV_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/448366885357092864/Hc6v7pqV_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/20136820/1421311927",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 4,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 833633421448540200,
+		"quoted_status_id_str": "833633421448540160",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Feb 20 20:28:40 +0000 2017",
+		"id": 833775398169088000,
+		"id_str": "833775398169088000",
+		"text": "@TERPodcast really useful discussion in regards to the diff aspects of literacy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TERPodcast",
+					"name": "TER Podcast",
+					"id": 1590760676,
+					"id_str": "1590760676",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 833253023430291500,
+		"in_reply_to_status_id_str": "833253023430291458",
+		"in_reply_to_user_id": 1590760676,
+		"in_reply_to_user_id_str": "1590760676",
+		"in_reply_to_screen_name": "TERPodcast",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3830,
+			"friends_count": 2873,
+			"listed_count": 394,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4650,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26103,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Feb 20 20:27:54 +0000 2017",
+		"id": 833775207391195100,
+		"id_str": "833775207391195137",
+		"text": "RT @TERPodcast: TER #086 – Phonics and Literacy with Misty Adoniou – 19 February 2017 https://t.co/NQhgEuOPW4 https://t.co/u7HyLbzYvk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TERPodcast",
+					"name": "TER Podcast",
+					"id": 1590760676,
+					"id_str": "1590760676",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NQhgEuOPW4",
+					"expanded_url": "http://terpodcast.com/2017/02/18/ter-086-phonics-and-literacy-with-misty-adoniou-19-february-2017/",
+					"display_url": "terpodcast.com/2017/02/18/ter…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 833252965137780700,
+					"id_str": "833252965137780736",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/C5BPKDMUEAAS_A4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5BPKDMUEAAS_A4.jpg",
+					"url": "https://t.co/u7HyLbzYvk",
+					"display_url": "pic.twitter.com/u7HyLbzYvk",
+					"expanded_url": "https://twitter.com/TERPodcast/status/833253023430291458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 342,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 603,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1309,
+							"h": 658,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 833253023430291500,
+					"source_status_id_str": "833253023430291458",
+					"source_user_id": 1590760676,
+					"source_user_id_str": "1590760676"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 833252965137780700,
+					"id_str": "833252965137780736",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/C5BPKDMUEAAS_A4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5BPKDMUEAAS_A4.jpg",
+					"url": "https://t.co/u7HyLbzYvk",
+					"display_url": "pic.twitter.com/u7HyLbzYvk",
+					"expanded_url": "https://twitter.com/TERPodcast/status/833253023430291458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 342,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 603,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1309,
+							"h": 658,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 833253023430291500,
+					"source_status_id_str": "833253023430291458",
+					"source_user_id": 1590760676,
+					"source_user_id_str": "1590760676"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3830,
+			"friends_count": 2873,
+			"listed_count": 394,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4650,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26103,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 19 09:52:56 +0000 2017",
+			"id": 833253023430291500,
+			"id_str": "833253023430291458",
+			"text": "TER #086 – Phonics and Literacy with Misty Adoniou – 19 February 2017 https://t.co/NQhgEuOPW4 https://t.co/u7HyLbzYvk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NQhgEuOPW4",
+						"expanded_url": "http://terpodcast.com/2017/02/18/ter-086-phonics-and-literacy-with-misty-adoniou-19-february-2017/",
+						"display_url": "terpodcast.com/2017/02/18/ter…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 833252965137780700,
+						"id_str": "833252965137780736",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/C5BPKDMUEAAS_A4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5BPKDMUEAAS_A4.jpg",
+						"url": "https://t.co/u7HyLbzYvk",
+						"display_url": "pic.twitter.com/u7HyLbzYvk",
+						"expanded_url": "https://twitter.com/TERPodcast/status/833253023430291458/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 342,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 603,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1309,
+								"h": 658,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 833252965137780700,
+						"id_str": "833252965137780736",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/C5BPKDMUEAAS_A4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5BPKDMUEAAS_A4.jpg",
+						"url": "https://t.co/u7HyLbzYvk",
+						"display_url": "pic.twitter.com/u7HyLbzYvk",
+						"expanded_url": "https://twitter.com/TERPodcast/status/833253023430291458/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 342,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 603,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1309,
+								"h": 658,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1590760676,
+				"id_str": "1590760676",
+				"name": "TER Podcast",
+				"screen_name": "TERPodcast",
+				"location": "Australia",
+				"description": "Teacher's Education Review, Australian podcast for teachers, bridging the gap between research, policy & practice. Tweets from @Capitan_Typo and @corisel",
+				"url": "https://t.co/PTQ9lKBAbe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PTQ9lKBAbe",
+								"expanded_url": "http://www.TERPodcast.com",
+								"display_url": "TERPodcast.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2434,
+				"friends_count": 1087,
+				"listed_count": 50,
+				"created_at": "Sat Jul 13 11:06:02 +0000 2013",
+				"favourites_count": 1300,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8669,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000433433361/7ba5378695adafe20b257831c17b789d_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000433433361/7ba5378695adafe20b257831c17b789d_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1590760676/1373870488",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 20 12:51:11 +0000 2017",
 		"id": 833660270539059200,
 		"id_str": "833660270539059200",
