@@ -1,6 +1,380 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Thu Feb 23 20:30:05 +0000 2017",
+		"id": 834862920135626800,
+		"id_str": "834862920135626752",
+		"text": "RT @drlindagraham: @mrkrndvs @Obi_Jon_ @BenPatrickWill @corisel Yeah, nah... don't anyone try &amp; invade my home with Dojo https://t.co/bPV8c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drlindagraham",
+					"name": "Linda J. Graham",
+					"id": 613376460,
+					"id_str": "613376460",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						19,
+						28
+					]
+				},
+				{
+					"screen_name": "Obi_Jon_",
+					"name": "Jon Andrews",
+					"id": 817918164,
+					"id_str": "817918164",
+					"indices": [
+						29,
+						38
+					]
+				},
+				{
+					"screen_name": "BenPatrickWill",
+					"name": "Ben Williamson",
+					"id": 1884520938,
+					"id_str": "1884520938",
+					"indices": [
+						39,
+						54
+					]
+				},
+				{
+					"screen_name": "corisel",
+					"name": "C L Campbell 🌼",
+					"id": 63471960,
+					"id_str": "63471960",
+					"indices": [
+						55,
+						63
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3827,
+			"friends_count": 2876,
+			"listed_count": 393,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4663,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26164,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 23 11:38:49 +0000 2017",
+			"id": 834729221356351500,
+			"id_str": "834729221356351490",
+			"text": "@mrkrndvs @Obi_Jon_ @BenPatrickWill @corisel Yeah, nah... don't anyone try &amp; invade my home with Dojo https://t.co/bPV8csso85",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "Obi_Jon_",
+						"name": "Jon Andrews",
+						"id": 817918164,
+						"id_str": "817918164",
+						"indices": [
+							10,
+							19
+						]
+					},
+					{
+						"screen_name": "BenPatrickWill",
+						"name": "Ben Williamson",
+						"id": 1884520938,
+						"id_str": "1884520938",
+						"indices": [
+							20,
+							35
+						]
+					},
+					{
+						"screen_name": "corisel",
+						"name": "C L Campbell 🌼",
+						"id": 63471960,
+						"id_str": "63471960",
+						"indices": [
+							36,
+							44
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 834729207045296100,
+						"id_str": "834729207045296129",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C5WNyo2UEAENuib.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C5WNyo2UEAENuib.jpg",
+						"url": "https://t.co/bPV8csso85",
+						"display_url": "pic.twitter.com/bPV8csso85",
+						"expanded_url": "https://twitter.com/drlindagraham/status/834729221356351490/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 834729207045296100,
+						"id_str": "834729207045296129",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C5WNyo2UEAENuib.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C5WNyo2UEAENuib.jpg",
+						"url": "https://t.co/bPV8csso85",
+						"display_url": "pic.twitter.com/bPV8csso85",
+						"expanded_url": "https://twitter.com/drlindagraham/status/834729221356351490/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/C5WNyo2UEAENuib.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 834677763076354000,
+			"in_reply_to_status_id_str": "834677763076354049",
+			"in_reply_to_user_id": 372768752,
+			"in_reply_to_user_id_str": "372768752",
+			"in_reply_to_screen_name": "mrkrndvs",
+			"user": {
+				"id": 613376460,
+				"id_str": "613376460",
+				"name": "Linda J. Graham",
+				"screen_name": "drlindagraham",
+				"location": "Brisbane, QLD",
+				"description": "Assoc Prof & Leader of the Student Engagement, Learning & Behaviour #QUT_SELB Research Group @QUT. I blog at https://t.co/Wd6ThELZfp views my own",
+				"url": "https://t.co/mPi0sxaUZu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mPi0sxaUZu",
+								"expanded_url": "http://staff.qut.edu.au/staff/graham6/",
+								"display_url": "staff.qut.edu.au/staff/graham6/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Wd6ThELZfp",
+								"expanded_url": "https://drlindagraham.wordpress.com/",
+								"display_url": "drlindagraham.wordpress.com",
+								"indices": [
+									109,
+									132
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2985,
+				"friends_count": 2962,
+				"listed_count": 142,
+				"created_at": "Wed Jun 20 09:32:43 +0000 2012",
+				"favourites_count": 12472,
+				"utc_offset": 36000,
+				"time_zone": "Brisbane",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23017,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3525399216/6a207d8962c24eb8ebaca1866e1b6321_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3525399216/6a207d8962c24eb8ebaca1866e1b6321_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/613376460/1385636028",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 23 12:58:25 +0000 2017",
 		"id": 834749254715449300,
 		"id_str": "834749254715449346",
