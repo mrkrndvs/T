@@ -1,6 +1,684 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Mon Feb 27 20:35:57 +0000 2017",
+		"id": 836313947988877300,
+		"id_str": "836313947988877312",
+		"text": "RT @GTeacherTribe: #GAFE4littles with Christine Pinto – GTT006 https://t.co/JUfFSFAB9e #gttribe #ditchbook #SUL #googleedu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GAFE4littles",
+					"indices": [
+						19,
+						32
+					]
+				},
+				{
+					"text": "gttribe",
+					"indices": [
+						87,
+						95
+					]
+				},
+				{
+					"text": "ditchbook",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"text": "SUL",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "googleedu",
+					"indices": [
+						112,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GTeacherTribe",
+					"name": "Google Teacher Tribe",
+					"id": 807242124081107000,
+					"id_str": "807242124081106944",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JUfFSFAB9e",
+					"expanded_url": "http://ift.tt/2lq2O9n",
+					"display_url": "ift.tt/2lq2O9n",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3840,
+			"friends_count": 2878,
+			"listed_count": 394,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4667,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 27 10:11:07 +0000 2017",
+			"id": 836156700218515500,
+			"id_str": "836156700218515456",
+			"text": "#GAFE4littles with Christine Pinto – GTT006 https://t.co/JUfFSFAB9e #gttribe #ditchbook #SUL #googleedu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GAFE4littles",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"text": "gttribe",
+						"indices": [
+							68,
+							76
+						]
+					},
+					{
+						"text": "ditchbook",
+						"indices": [
+							77,
+							87
+						]
+					},
+					{
+						"text": "SUL",
+						"indices": [
+							88,
+							92
+						]
+					},
+					{
+						"text": "googleedu",
+						"indices": [
+							93,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JUfFSFAB9e",
+						"expanded_url": "http://ift.tt/2lq2O9n",
+						"display_url": "ift.tt/2lq2O9n",
+						"indices": [
+							44,
+							67
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 807242124081107000,
+				"id_str": "807242124081106944",
+				"name": "Google Teacher Tribe",
+				"screen_name": "GTeacherTribe",
+				"location": "",
+				"description": "The Google Teacher Tribe Podcast with @ShakeUpLearning and @jmattmiller is a podcast designed to give teachers practical ideas for Google tools. #gttribe",
+				"url": "https://t.co/kHfwJBGJ01",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kHfwJBGJ01",
+								"expanded_url": "http://googleteachertribe.com/",
+								"display_url": "googleteachertribe.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2015,
+				"friends_count": 754,
+				"listed_count": 45,
+				"created_at": "Fri Dec 09 15:14:55 +0000 2016",
+				"favourites_count": 934,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 489,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/811231825204912128/Xg1Msa8l_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/811231825204912128/Xg1Msa8l_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/807242124081106944/1482247900",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Feb 27 20:31:36 +0000 2017",
+		"id": 836312853342625800,
+		"id_str": "836312853342625792",
+		"text": "RT @PintoBeanz11: New Post! Let's create a collaborative eBook and inspire! #gafe4littles https://t.co/c2yNyqYs8b https://t.co/vL8IiiLA5b",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "gafe4littles",
+					"indices": [
+						76,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PintoBeanz11",
+					"name": "Christine Pinto",
+					"id": 708778648195629000,
+					"id_str": "708778648195629056",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/c2yNyqYs8b",
+					"expanded_url": "http://christinepinto.com/2017/02/12/if-you-put-technology-in-the-hands-of-littles/",
+					"display_url": "christinepinto.com/2017/02/12/if-…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 831044639004127200,
+					"id_str": "831044639004127232",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/C4h2sjRVcAAd71l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4h2sjRVcAAd71l.jpg",
+					"url": "https://t.co/vL8IiiLA5b",
+					"display_url": "pic.twitter.com/vL8IiiLA5b",
+					"expanded_url": "https://twitter.com/PintoBeanz11/status/831140878274007040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 748,
+							"h": 421,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 748,
+							"h": 421,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 831140878274007000,
+					"source_status_id_str": "831140878274007040",
+					"source_user_id": 708778648195629000,
+					"source_user_id_str": "708778648195629056"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 831044639004127200,
+					"id_str": "831044639004127232",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/C4h2sjRVcAAd71l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4h2sjRVcAAd71l.jpg",
+					"url": "https://t.co/vL8IiiLA5b",
+					"display_url": "pic.twitter.com/vL8IiiLA5b",
+					"expanded_url": "https://twitter.com/PintoBeanz11/status/831140878274007040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 748,
+							"h": 421,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 748,
+							"h": 421,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 831140878274007000,
+					"source_status_id_str": "831140878274007040",
+					"source_user_id": 708778648195629000,
+					"source_user_id_str": "708778648195629056"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3840,
+			"friends_count": 2878,
+			"listed_count": 394,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4667,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 13 14:00:01 +0000 2017",
+			"id": 831140878274007000,
+			"id_str": "831140878274007040",
+			"text": "New Post! Let's create a collaborative eBook and inspire! #gafe4littles https://t.co/c2yNyqYs8b https://t.co/vL8IiiLA5b",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "gafe4littles",
+						"indices": [
+							58,
+							71
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/c2yNyqYs8b",
+						"expanded_url": "http://christinepinto.com/2017/02/12/if-you-put-technology-in-the-hands-of-littles/",
+						"display_url": "christinepinto.com/2017/02/12/if-…",
+						"indices": [
+							72,
+							95
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 831044639004127200,
+						"id_str": "831044639004127232",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/C4h2sjRVcAAd71l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4h2sjRVcAAd71l.jpg",
+						"url": "https://t.co/vL8IiiLA5b",
+						"display_url": "pic.twitter.com/vL8IiiLA5b",
+						"expanded_url": "https://twitter.com/PintoBeanz11/status/831140878274007040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 748,
+								"h": 421,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 748,
+								"h": 421,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 831044639004127200,
+						"id_str": "831044639004127232",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/C4h2sjRVcAAd71l.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4h2sjRVcAAd71l.jpg",
+						"url": "https://t.co/vL8IiiLA5b",
+						"display_url": "pic.twitter.com/vL8IiiLA5b",
+						"expanded_url": "https://twitter.com/PintoBeanz11/status/831140878274007040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 748,
+								"h": 421,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 748,
+								"h": 421,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 708778648195629000,
+				"id_str": "708778648195629056",
+				"name": "Christine Pinto",
+				"screen_name": "PintoBeanz11",
+				"location": "",
+				"description": "Kinder Teacher @ArcadiaUnified | #gafe4littles | former TK Teacher #GAFEinTK",
+				"url": "https://t.co/9Aq1lrh2xQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9Aq1lrh2xQ",
+								"expanded_url": "http://christinepinto.com",
+								"display_url": "christinepinto.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4052,
+				"friends_count": 1373,
+				"listed_count": 170,
+				"created_at": "Sat Mar 12 22:16:13 +0000 2016",
+				"favourites_count": 3957,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8806,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/756641253593194496/-Fzm5--i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/756641253593194496/-Fzm5--i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/708778648195629056/1468770137",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 27 19:17:56 +0000 2017",
 		"id": 836294313621409800,
 		"id_str": "836294313621409794",
