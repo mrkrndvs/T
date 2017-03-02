@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Thu Mar 02 09:00:24 +0000 2017",
+		"id": 837226067395936300,
+		"id_str": "837226067395936256",
+		"text": "RT @aitsl: Join @aitsl Board Chair, Professor John Hattie, for a twitter chat 6 March 4pm (AEDT) using #myteachimpact @ACARAeduau @EdServAu…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "myteachimpact",
+					"indices": [
+						103,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aitsl",
+					"name": "aitsl",
+					"id": 325328148,
+					"id_str": "325328148",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"screen_name": "aitsl",
+					"name": "aitsl",
+					"id": 325328148,
+					"id_str": "325328148",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"screen_name": "ACARAeduau",
+					"name": "ACARA",
+					"id": 1263139358,
+					"id_str": "1263139358",
+					"indices": [
+						118,
+						129
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3844,
+			"friends_count": 2881,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4667,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26250,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 27 06:50:05 +0000 2017",
+			"id": 836106108779573200,
+			"id_str": "836106108779573254",
+			"text": "Join @aitsl Board Chair, Professor John Hattie, for a twitter chat 6 March 4pm (AEDT) using #myteachimpact… https://t.co/93xDFbvzhm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "myteachimpact",
+						"indices": [
+							92,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "aitsl",
+						"name": "aitsl",
+						"id": 325328148,
+						"id_str": "325328148",
+						"indices": [
+							5,
+							11
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/93xDFbvzhm",
+						"expanded_url": "https://twitter.com/i/web/status/836106108779573254",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 325328148,
+				"id_str": "325328148",
+				"name": "aitsl",
+				"screen_name": "aitsl",
+				"location": "Australia",
+				"description": "Commonwealth Gov't company promoting excellence in profession of teaching & school leadership. RTs ≠ endorsement. We're on Facebook too! 》http://t.co/lC8i3J3ei7",
+				"url": "http://t.co/UdFkU2dLdP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/UdFkU2dLdP",
+								"expanded_url": "http://www.aitsl.edu.au",
+								"display_url": "aitsl.edu.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/lC8i3J3ei7",
+								"expanded_url": "http://www.facebook.com/aitsl",
+								"display_url": "facebook.com/aitsl",
+								"indices": [
+									138,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 29800,
+				"friends_count": 9592,
+				"listed_count": 353,
+				"created_at": "Tue Jun 28 03:32:05 +0000 2011",
+				"favourites_count": 11633,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11250,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BCC419",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/397227057/aitsl.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/397227057/aitsl.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/413524109805367296/-F2zaSKd_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/413524109805367296/-F2zaSKd_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/325328148/1484180912",
+				"profile_link_color": "007276",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 74,
+			"favorite_count": 79,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Mar 02 07:10:45 +0000 2017",
 		"id": 837198474747719700,
 		"id_str": "837198474747719680",
