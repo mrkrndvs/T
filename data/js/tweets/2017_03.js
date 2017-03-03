@@ -1,6 +1,537 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Fri Mar 03 09:12:09 +0000 2017",
+		"id": 837591415563546600,
+		"id_str": "837591415563546625",
+		"text": "@rakt @AdamLavars here is a link to @Tempcol @TEDTalks https://t.co/yj1Ur8Cua5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rakt",
+					"name": "Rick Kayler-Thomson",
+					"id": 21286176,
+					"id_str": "21286176",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"screen_name": "AdamLavars",
+					"name": "Adam Lavars",
+					"id": 34422666,
+					"id_str": "34422666",
+					"indices": [
+						6,
+						17
+					]
+				},
+				{
+					"screen_name": "Tempcol",
+					"name": "Peter Hutton",
+					"id": 1637363858,
+					"id_str": "1637363858",
+					"indices": [
+						36,
+						44
+					]
+				},
+				{
+					"screen_name": "TEDTalks",
+					"name": "TED Talks",
+					"id": 15492359,
+					"id_str": "15492359",
+					"indices": [
+						45,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yj1Ur8Cua5",
+					"expanded_url": "http://ed.ted.com/on/QV92wwCv",
+					"display_url": "ed.ted.com/on/QV92wwCv",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 834683704165273600,
+		"in_reply_to_status_id_str": "834683704165273601",
+		"in_reply_to_user_id": 21286176,
+		"in_reply_to_user_id_str": "21286176",
+		"in_reply_to_screen_name": "rakt",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3845,
+			"friends_count": 2881,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4667,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26259,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 03 09:07:55 +0000 2017",
+		"id": 837590348448727000,
+		"id_str": "837590348448727041",
+		"text": "REVIEW: Any Given Team https://t.co/kwwndDOu95 #2regularteachers cc @rakt @AdamLavars",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2regularteachers",
+					"indices": [
+						47,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rakt",
+					"name": "Rick Kayler-Thomson",
+					"id": 21286176,
+					"id_str": "21286176",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"screen_name": "AdamLavars",
+					"name": "Adam Lavars",
+					"id": 34422666,
+					"id_str": "34422666",
+					"indices": [
+						74,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kwwndDOu95",
+					"expanded_url": "http://readwriterespond.com/?p=3147",
+					"display_url": "readwriterespond.com/?p=3147",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 834683704165273600,
+		"in_reply_to_status_id_str": "834683704165273601",
+		"in_reply_to_user_id": 21286176,
+		"in_reply_to_user_id_str": "21286176",
+		"in_reply_to_screen_name": "rakt",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3845,
+			"friends_count": 2881,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4667,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26259,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 03 09:07:15 +0000 2017",
+		"id": 837590179699273700,
+		"id_str": "837590179699273728",
+		"text": "RT @rakt: #2regularteachers Ep 73 is ready to go! Get it here! Have u heard the new segment? #vicpln #ozteachers #tl21c https://t.co/Gv3rSi…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2regularteachers",
+					"indices": [
+						10,
+						27
+					]
+				},
+				{
+					"text": "vicpln",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"text": "ozteachers",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"text": "tl21c",
+					"indices": [
+						113,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rakt",
+					"name": "Rick Kayler-Thomson",
+					"id": 21286176,
+					"id_str": "21286176",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3845,
+			"friends_count": 2881,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4667,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26259,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 23 08:37:57 +0000 2017",
+			"id": 834683704165273600,
+			"id_str": "834683704165273601",
+			"text": "#2regularteachers Ep 73 is ready to go! Get it here! Have u heard the new segment? #vicpln #ozteachers #tl21c https://t.co/Gv3rSicxRt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "2regularteachers",
+						"indices": [
+							0,
+							17
+						]
+					},
+					{
+						"text": "vicpln",
+						"indices": [
+							83,
+							90
+						]
+					},
+					{
+						"text": "ozteachers",
+						"indices": [
+							91,
+							102
+						]
+					},
+					{
+						"text": "tl21c",
+						"indices": [
+							103,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Gv3rSicxRt",
+						"expanded_url": "https://www.podomatic.com/podcasts/2regularteachers/episodes/2017-02-23T00_34_18-08_00",
+						"display_url": "podomatic.com/podcasts/2regu…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21286176,
+				"id_str": "21286176",
+				"name": "Rick Kayler-Thomson",
+				"screen_name": "rakt",
+				"location": "Bellarine Peninsula, Australia",
+				"description": "A primary teacher on the Bellarine Peninsula, Australia. 1 of '2 Regular Teachers' podcast. Bellarine resident. All views are my own.",
+				"url": "http://t.co/U1mM1DhqaS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/U1mM1DhqaS",
+								"expanded_url": "http://mrrakt.global2.vic.edu.au/",
+								"display_url": "mrrakt.global2.vic.edu.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1305,
+				"friends_count": 870,
+				"listed_count": 56,
+				"created_at": "Thu Feb 19 09:37:33 +0000 2009",
+				"favourites_count": 779,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7718,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1128723646/jan09_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128723646/jan09_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Mar 03 07:53:54 +0000 2017",
 		"id": 837571722186387500,
 		"id_str": "837571722186387457",
