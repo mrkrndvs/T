@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sun Mar 12 08:58:42 +0000 2017",
+		"id": 840849518258139100,
+		"id_str": "840849518258139136",
+		"text": "@mythsysizer going to Auckland &amp; Nth Island. Hope it doesn't flood all the time 🤔 https://t.co/6dsn3UXnE3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mythsysizer",
+					"name": "Nick Brierley",
+					"id": 167835183,
+					"id_str": "167835183",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6dsn3UXnE3",
+					"expanded_url": "https://twitter.com/GabsLeen/status/840758905193943040",
+					"display_url": "twitter.com/GabsLeen/statu…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 840772773446217700,
+		"in_reply_to_status_id_str": "840772773446217728",
+		"in_reply_to_user_id": 167835183,
+		"in_reply_to_user_id_str": "167835183",
+		"in_reply_to_screen_name": "mythsysizer",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3864,
+			"friends_count": 2884,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4675,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26347,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 840758905193943000,
+		"quoted_status_id_str": "840758905193943040",
+		"quoted_status": {
+			"created_at": "Sun Mar 12 02:58:38 +0000 2017",
+			"id": 840758905193943000,
+			"id_str": "840758905193943040",
+			"text": "@brighousefuavao Oh my goodness the flooding in central Auckland is crazy. We got stuck coming home cause of this.… https://t.co/tWj8vZCpn4",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "brighousefuavao",
+						"name": "Litia Brighouse",
+						"id": 728083192272453600,
+						"id_str": "728083192272453632",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/tWj8vZCpn4",
+						"expanded_url": "https://twitter.com/i/web/status/840758905193943040",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 840755696870215700,
+			"in_reply_to_status_id_str": "840755696870215680",
+			"in_reply_to_user_id": 728083192272453600,
+			"in_reply_to_user_id_str": "728083192272453632",
+			"in_reply_to_screen_name": "brighousefuavao",
+			"user": {
+				"id": 4608274814,
+				"id_str": "4608274814",
+				"name": "Pauline Gabriel🌺🌴",
+				"screen_name": "GabsLeen",
+				"location": "Samoa",
+				"description": "No one has ever become poor by Giving #AnneFrank #PaulineGabriel 💯♥️",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 98,
+				"friends_count": 272,
+				"listed_count": 1,
+				"created_at": "Sun Dec 20 02:05:12 +0000 2015",
+				"favourites_count": 571,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 328,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/721871565768380416/F-YnvJM6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/721871565768380416/F-YnvJM6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4608274814/1488357412",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Mar 12 01:26:11 +0000 2017",
 		"id": 840735639997931500,
 		"id_str": "840735639997931520",
