@@ -1,6 +1,2921 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sun Mar 19 11:13:39 +0000 2017",
+		"id": 843420194475200500,
+		"id_str": "843420194475200512",
+		"text": "RT @ericcurts: When Extensions Go Bad https://t.co/5r4zQS0djF Helpful advice from @jrsowash #edtech #GoogleEDU #GSuiteEDU #chromebook https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "GoogleEDU",
+					"indices": [
+						100,
+						110
+					]
+				},
+				{
+					"text": "GSuiteEDU",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"text": "chromebook",
+					"indices": [
+						122,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ericcurts",
+					"name": "Eric Curts",
+					"id": 17999593,
+					"id_str": "17999593",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "jrsowash",
+					"name": "John R. Sowash",
+					"id": 27159349,
+					"id_str": "27159349",
+					"indices": [
+						82,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5r4zQS0djF",
+					"expanded_url": "http://electriceducator.blogspot.com/2017/03/when-extensions-go-bad.html",
+					"display_url": "electriceducator.blogspot.com/2017/03/when-e…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3880,
+			"friends_count": 2890,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4665,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26399,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 09 03:58:54 +0000 2017",
+			"id": 839686910134071300,
+			"id_str": "839686910134071296",
+			"text": "When Extensions Go Bad https://t.co/5r4zQS0djF Helpful advice from @jrsowash #edtech #GoogleEDU #GSuiteEDU… https://t.co/VQu1erMXwx",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edtech",
+						"indices": [
+							77,
+							84
+						]
+					},
+					{
+						"text": "GoogleEDU",
+						"indices": [
+							85,
+							95
+						]
+					},
+					{
+						"text": "GSuiteEDU",
+						"indices": [
+							96,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jrsowash",
+						"name": "John R. Sowash",
+						"id": 27159349,
+						"id_str": "27159349",
+						"indices": [
+							67,
+							76
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/5r4zQS0djF",
+						"expanded_url": "http://electriceducator.blogspot.com/2017/03/when-extensions-go-bad.html",
+						"display_url": "electriceducator.blogspot.com/2017/03/when-e…",
+						"indices": [
+							23,
+							46
+						]
+					},
+					{
+						"url": "https://t.co/VQu1erMXwx",
+						"expanded_url": "https://twitter.com/i/web/status/839686910134071296",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17999593,
+				"id_str": "17999593",
+				"name": "Eric Curts",
+				"screen_name": "ericcurts",
+				"location": "Ohio",
+				"description": "Family man, Tech Integrationist, Writer, Google Apps Certified Trainer and Innovator, Table-top Gamer, Geek, blog at https://t.co/cQtdbBvrt6",
+				"url": "https://t.co/kDrX2TqlMa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kDrX2TqlMa",
+								"expanded_url": "http://www.controlaltachieve.com",
+								"display_url": "controlaltachieve.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/cQtdbBvrt6",
+								"expanded_url": "http://www.controlaltachieve.com/",
+								"display_url": "controlaltachieve.com",
+								"indices": [
+									117,
+									140
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8364,
+				"friends_count": 3541,
+				"listed_count": 423,
+				"created_at": "Tue Dec 09 19:27:22 +0000 2008",
+				"favourites_count": 3063,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4264,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/76568056/Eric_Cartoon_Face_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/76568056/Eric_Cartoon_Face_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17999593/1480818051",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 19 11:04:27 +0000 2017",
+		"id": 843417882419589100,
+		"id_str": "843417882419589121",
+		"text": "@JakeMillerTech @googledocs love the idea, just concerned about loosing quality by adding the image via Drawings?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JakeMillerTech",
+					"name": "Jake Miller",
+					"id": 526481896,
+					"id_str": "526481896",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "googledocs",
+					"name": "Google Docs",
+					"id": 488683847,
+					"id_str": "488683847",
+					"indices": [
+						16,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 842518518990016500,
+		"in_reply_to_status_id_str": "842518518990016515",
+		"in_reply_to_user_id": 526481896,
+		"in_reply_to_user_id_str": "526481896",
+		"in_reply_to_screen_name": "JakeMillerTech",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3880,
+			"friends_count": 2890,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4665,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26399,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 19 11:03:15 +0000 2017",
+		"id": 843417580291289100,
+		"id_str": "843417580291289090",
+		"text": "RT @JakeMillerTech: Inserting Drawings allows students to add captions to images added in their @GoogleDocs. #GSuiteEdu #GoogleEdu #GAFE ht…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteEdu",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"text": "GoogleEdu",
+					"indices": [
+						120,
+						130
+					]
+				},
+				{
+					"text": "GAFE",
+					"indices": [
+						131,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JakeMillerTech",
+					"name": "Jake Miller",
+					"id": 526481896,
+					"id_str": "526481896",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "googledocs",
+					"name": "Google Docs",
+					"id": 488683847,
+					"id_str": "488683847",
+					"indices": [
+						96,
+						107
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3880,
+			"friends_count": 2890,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4665,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26399,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 16 23:30:42 +0000 2017",
+			"id": 842518518990016500,
+			"id_str": "842518518990016515",
+			"text": "Inserting Drawings allows students to add captions to images added in their @GoogleDocs. #GSuiteEdu #GoogleEdu… https://t.co/5t8FdDC5iC",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GSuiteEdu",
+						"indices": [
+							89,
+							99
+						]
+					},
+					{
+						"text": "GoogleEdu",
+						"indices": [
+							100,
+							110
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "googledocs",
+						"name": "Google Docs",
+						"id": 488683847,
+						"id_str": "488683847",
+						"indices": [
+							76,
+							87
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/5t8FdDC5iC",
+						"expanded_url": "https://twitter.com/i/web/status/842518518990016515",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 526481896,
+				"id_str": "526481896",
+				"name": "Jake Miller",
+				"screen_name": "JakeMillerTech",
+				"location": "Kent, OH",
+				"description": "authorized Google Education Trainer, Tech Integration Specialist in OrangeCS, Former #SMFCSD #STEM Math & Sci Teacher, #GAFE Nerd, spreadsheet fan, father of 3.",
+				"url": "https://t.co/lYF9ICIaC2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lYF9ICIaC2",
+								"expanded_url": "http://www.jakemiller.net",
+								"display_url": "jakemiller.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1281,
+				"friends_count": 609,
+				"listed_count": 119,
+				"created_at": "Fri Mar 16 15:03:54 +0000 2012",
+				"favourites_count": 1419,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9191,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/799815031248527360/WMrqdmIC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/799815031248527360/WMrqdmIC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/526481896/1479525739",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 19 10:59:14 +0000 2017",
+		"id": 843416568742604800,
+		"id_str": "843416568742604801",
+		"text": "RT @timcushman: Bringing Google's Culture to Your Classroom https://t.co/vyEzPG0Etp #cue17 #GoogleEdu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cue17",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "GoogleEdu",
+					"indices": [
+						91,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timcushman",
+					"name": "Tim Cushman",
+					"id": 15454076,
+					"id_str": "15454076",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vyEzPG0Etp",
+					"expanded_url": "http://goo.gl/ON534T",
+					"display_url": "goo.gl/ON534T",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3880,
+			"friends_count": 2890,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4665,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26399,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 17 17:07:06 +0000 2017",
+			"id": 842784369550925800,
+			"id_str": "842784369550925824",
+			"text": "Bringing Google's Culture to Your Classroom https://t.co/vyEzPG0Etp #cue17 #GoogleEdu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "cue17",
+						"indices": [
+							68,
+							74
+						]
+					},
+					{
+						"text": "GoogleEdu",
+						"indices": [
+							75,
+							85
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vyEzPG0Etp",
+						"expanded_url": "http://goo.gl/ON534T",
+						"display_url": "goo.gl/ON534T",
+						"indices": [
+							44,
+							67
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15454076,
+				"id_str": "15454076",
+				"name": "Tim Cushman",
+				"screen_name": "timcushman",
+				"location": "Greenville, SC",
+				"description": "Advocate for digital learning, DEN Ambassador, Google Certified Educator, Microsoft Innovative Educator #techcoach | Tweets are my own",
+				"url": "https://t.co/QHjF785jxQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QHjF785jxQ",
+								"expanded_url": "http://timcushman.com",
+								"display_url": "timcushman.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2854,
+				"friends_count": 2712,
+				"listed_count": 119,
+				"created_at": "Wed Jul 16 13:26:21 +0000 2008",
+				"favourites_count": 49,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2429,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/803046559848038400/HL0olYZD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/803046559848038400/HL0olYZD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15454076/1482532970",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 19 10:58:05 +0000 2017",
+		"id": 843416280933646300,
+		"id_str": "843416280933646336",
+		"text": "RT @JenRoberts1: Resources from the Chromando session this morning by @gochemonline  https://t.co/vv6rdDt9bu #cue17 #googleedu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cue17",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "googleedu",
+					"indices": [
+						116,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JenRoberts1",
+					"name": "Jen Roberts",
+					"id": 19162207,
+					"id_str": "19162207",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "gochemonline",
+					"name": "JR",
+					"id": 305028490,
+					"id_str": "305028490",
+					"indices": [
+						70,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vv6rdDt9bu",
+					"expanded_url": "https://www.pddesignmatters.com/",
+					"display_url": "pddesignmatters.com",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3880,
+			"friends_count": 2890,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4665,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26399,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 17 17:11:15 +0000 2017",
+			"id": 842785413781573600,
+			"id_str": "842785413781573632",
+			"text": "Resources from the Chromando session this morning by @gochemonline  https://t.co/vv6rdDt9bu #cue17 #googleedu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "cue17",
+						"indices": [
+							92,
+							98
+						]
+					},
+					{
+						"text": "googleedu",
+						"indices": [
+							99,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "gochemonline",
+						"name": "JR",
+						"id": 305028490,
+						"id_str": "305028490",
+						"indices": [
+							53,
+							66
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vv6rdDt9bu",
+						"expanded_url": "https://www.pddesignmatters.com/",
+						"display_url": "pddesignmatters.com",
+						"indices": [
+							68,
+							91
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19162207,
+				"id_str": "19162207",
+				"name": "Jen Roberts",
+				"screen_name": "JenRoberts1",
+				"location": "San Diego",
+				"description": "Teacher (English), Author (PowerUp: Making the Shift to 1:1 Teaching & Learning). Blogger, (link). Also Learner, speaker, reader, GCI, and finder of lost socks.",
+				"url": "http://t.co/kHJH6DBxjn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/kHJH6DBxjn",
+								"expanded_url": "http://LitandTech.com",
+								"display_url": "LitandTech.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8053,
+				"friends_count": 1863,
+				"listed_count": 621,
+				"created_at": "Sun Jan 18 23:23:25 +0000 2009",
+				"favourites_count": 4130,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21427,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "214465",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000109981360/4e2d606caf62c46a11489120d297dc9e.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000109981360/4e2d606caf62c46a11489120d297dc9e.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/604704695551008768/bHY64sMM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/604704695551008768/bHY64sMM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19162207/1433123861",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 19 10:52:44 +0000 2017",
+		"id": 843414932708237300,
+		"id_str": "843414932708237312",
+		"text": "RT @mwniehoff: Had a great time today co-facilitating w/ my fellow GCI's on \"How To Bring A Google Culture To Your Classroom.\" #cue17 #Goog…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cue17",
+					"indices": [
+						127,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mwniehoff",
+					"name": "Michael W. Niehoff",
+					"id": 233349852,
+					"id_str": "233349852",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3880,
+			"friends_count": 2890,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4665,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26399,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 17 22:11:13 +0000 2017",
+			"id": 842860904236556300,
+			"id_str": "842860904236556289",
+			"text": "Had a great time today co-facilitating w/ my fellow GCI's on \"How To Bring A Google Culture To Your Classroom.\"… https://t.co/O3BZhNu86i",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/O3BZhNu86i",
+						"expanded_url": "https://twitter.com/i/web/status/842860904236556289",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 233349852,
+				"id_str": "233349852",
+				"name": "Michael W. Niehoff",
+				"screen_name": "mwniehoff",
+				"location": "www.michaelniehoff.com",
+				"description": "CTE COS, Student Advocate/PBL Practitioner, Google Certified Innovator, Founding Principal Minarets HS, BIE National Faculty, Blogger, Teach Like A Feral Pig",
+				"url": "https://t.co/Zy7TVjPjKZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Zy7TVjPjKZ",
+								"expanded_url": "http://changingislearning.blogspot.com",
+								"display_url": "changingislearning.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3427,
+				"friends_count": 3787,
+				"listed_count": 335,
+				"created_at": "Mon Jan 03 00:47:26 +0000 2011",
+				"favourites_count": 7785,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12539,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/618144117869015040/vlU4RxwF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/618144117869015040/vlU4RxwF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/233349852/1435788714",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 19 10:49:54 +0000 2017",
+		"id": 843414221647888400,
+		"id_str": "843414221647888385",
+		"text": "RT @kylepace: Can't wait! Join me on the evening of April 5! #googleedu https://t.co/k1zqLGV3Cc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "googleedu",
+					"indices": [
+						61,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kylepace",
+					"name": "Kyle Pace",
+					"id": 16952065,
+					"id_str": "16952065",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/k1zqLGV3Cc",
+					"expanded_url": "https://twitter.com/edtechteam/status/843124903339589632",
+					"display_url": "twitter.com/edtechteam/sta…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3880,
+			"friends_count": 2890,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4665,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26399,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 18 16:11:56 +0000 2017",
+			"id": 843132872647229400,
+			"id_str": "843132872647229440",
+			"text": "Can't wait! Join me on the evening of April 5! #googleedu https://t.co/k1zqLGV3Cc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "googleedu",
+						"indices": [
+							47,
+							57
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/k1zqLGV3Cc",
+						"expanded_url": "https://twitter.com/edtechteam/status/843124903339589632",
+						"display_url": "twitter.com/edtechteam/sta…",
+						"indices": [
+							58,
+							81
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16952065,
+				"id_str": "16952065",
+				"name": "Kyle Pace",
+				"screen_name": "kylepace",
+				"location": "Kansas City, MO",
+				"description": "Instructional Tech Coach at @GV_Schools. \n#GoogleEdu Certified Trainer & Innovator. I like to help connect dots. Striving to be better than who I was yesterday.",
+				"url": "https://t.co/zj2sdyCex9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zj2sdyCex9",
+								"expanded_url": "http://www.kylepace.com",
+								"display_url": "kylepace.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 60417,
+				"friends_count": 4532,
+				"listed_count": 0,
+				"created_at": "Fri Oct 24 16:36:50 +0000 2008",
+				"favourites_count": 4594,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 44525,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/14524231/3287_background.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/14524231/3287_background.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/689526836733222912/50Qd4QJm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/689526836733222912/50Qd4QJm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16952065/1437249414",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 843124903339589600,
+			"quoted_status_id_str": "843124903339589632",
+			"quoted_status": {
+				"created_at": "Sat Mar 18 15:40:16 +0000 2017",
+				"id": 843124903339589600,
+				"id_str": "843124903339589632",
+				"text": "Join @kylepace for @YouTube Webinar April 5th 7PM Eastern! RSVP for a chance to win a @GoPro!… https://t.co/dYocbh4wNF",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "kylepace",
+							"name": "Kyle Pace",
+							"id": 16952065,
+							"id_str": "16952065",
+							"indices": [
+								5,
+								14
+							]
+						},
+						{
+							"screen_name": "YouTube",
+							"name": "YouTube",
+							"id": 10228272,
+							"id_str": "10228272",
+							"indices": [
+								19,
+								27
+							]
+						},
+						{
+							"screen_name": "GoPro",
+							"name": "GoPro",
+							"id": 32340023,
+							"id_str": "32340023",
+							"indices": [
+								86,
+								92
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/dYocbh4wNF",
+							"expanded_url": "https://twitter.com/i/web/status/843124903339589632",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								95,
+								118
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 193749426,
+					"id_str": "193749426",
+					"name": "EdTechTeam, Inc.",
+					"screen_name": "edtechteam",
+					"location": "Irvine, CA",
+					"description": "We inspire and empower educators around the globe.",
+					"url": "http://t.co/4okjz8TAoM",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/4okjz8TAoM",
+									"expanded_url": "http://www.edtechteam.com",
+									"display_url": "edtechteam.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 35242,
+					"friends_count": 38699,
+					"listed_count": 974,
+					"created_at": "Wed Sep 22 16:05:57 +0000 2010",
+					"favourites_count": 60057,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 23553,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/686022679963418625/TSzuFWgv_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/686022679963418625/TSzuFWgv_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/193749426/1481300572",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 4,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 843124903339589600,
+		"quoted_status_id_str": "843124903339589632",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 19 10:48:38 +0000 2017",
+		"id": 843413900938813400,
+		"id_str": "843413900938813440",
+		"text": "@jrsowash #extensify as it helps manage all of them",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "extensify",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jrsowash",
+					"name": "John R. Sowash",
+					"id": 27159349,
+					"id_str": "27159349",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 843160255962013700,
+		"in_reply_to_status_id_str": "843160255962013696",
+		"in_reply_to_user_id": 27159349,
+		"in_reply_to_user_id_str": "27159349",
+		"in_reply_to_screen_name": "jrsowash",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3880,
+			"friends_count": 2890,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4665,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26399,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 19 10:47:31 +0000 2017",
+		"id": 843413619748495400,
+		"id_str": "843413619748495361",
+		"text": "@rcallanan5 #GoogleForms https://t.co/5FnaiQi9xj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleForms",
+					"indices": [
+						12,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rcallanan5",
+					"name": "Richard Callanan",
+					"id": 300775075,
+					"id_str": "300775075",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5FnaiQi9xj",
+					"expanded_url": "https://twitter.com/LISDTechie/status/843205377093242887",
+					"display_url": "twitter.com/LISDTechie/sta…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 300775075,
+		"in_reply_to_user_id_str": "300775075",
+		"in_reply_to_screen_name": "rcallanan5",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3880,
+			"friends_count": 2890,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4665,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26399,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 843205377093242900,
+		"quoted_status_id_str": "843205377093242887",
+		"quoted_status": {
+			"created_at": "Sat Mar 18 21:00:02 +0000 2017",
+			"id": 843205377093242900,
+			"id_str": "843205377093242887",
+			"text": "#gafechat is this Tuesday from 8-9pm CST - All About Google Forms - Invite your friends! https://t.co/2ih5vTD737",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "gafechat",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 839695169238683600,
+						"id_str": "839695169238683648",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/C6cyTroVUAAT6TM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6cyTroVUAAT6TM.jpg",
+						"url": "https://t.co/2ih5vTD737",
+						"display_url": "pic.twitter.com/2ih5vTD737",
+						"expanded_url": "https://twitter.com/LISDTechie/status/843205377093242887/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 839695169238683600,
+						"id_str": "839695169238683648",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/C6cyTroVUAAT6TM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6cyTroVUAAT6TM.jpg",
+						"url": "https://t.co/2ih5vTD737",
+						"display_url": "pic.twitter.com/2ih5vTD737",
+						"expanded_url": "https://twitter.com/LISDTechie/status/843205377093242887/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39873995,
+				"id_str": "39873995",
+				"name": "Kelly Fitzgerald",
+				"screen_name": "LISDTechie",
+				"location": "Leander, TX",
+				"description": "Instructional Coach, Google Trainer, Google Educator ~ #gafechat host, GEG CENTX Leader, Edcamp & GooCamp organizer ~ Dedicated to making a difference.",
+				"url": "https://t.co/MNJk9AVXWF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MNJk9AVXWF",
+								"expanded_url": "http://www.edtechnut.com",
+								"display_url": "edtechnut.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3394,
+				"friends_count": 1163,
+				"listed_count": 258,
+				"created_at": "Wed May 13 23:54:24 +0000 2009",
+				"favourites_count": 6978,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7869,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/707260762272567297/BMmqGmxi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/707260762272567297/BMmqGmxi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39873995/1409673282",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sun Mar 19 10:46:25 +0000 2017",
+		"id": 843413341728981000,
+		"id_str": "843413341728980994",
+		"text": "@rcallanan5 #JuniorGoogle https://t.co/mYsJWF3Gd0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JuniorGoogle",
+					"indices": [
+						12,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rcallanan5",
+					"name": "Richard Callanan",
+					"id": 300775075,
+					"id_str": "300775075",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mYsJWF3Gd0",
+					"expanded_url": "https://twitter.com/alicekeeler/status/843237442882691072",
+					"display_url": "twitter.com/alicekeeler/st…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 300775075,
+		"in_reply_to_user_id_str": "300775075",
+		"in_reply_to_screen_name": "rcallanan5",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3880,
+			"friends_count": 2890,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4665,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26399,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 843237442882691100,
+		"quoted_status_id_str": "843237442882691072",
+		"quoted_status": {
+			"created_at": "Sat Mar 18 23:07:27 +0000 2017",
+			"id": 843237442882691100,
+			"id_str": "843237442882691072",
+			"text": "Type your name directions document. https://t.co/yDtYgHbUH6 #googleclassroom #googleEDU #gafe4littles https://t.co/7pF8AVXHuw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "googleclassroom",
+						"indices": [
+							60,
+							76
+						]
+					},
+					{
+						"text": "googleEDU",
+						"indices": [
+							77,
+							87
+						]
+					},
+					{
+						"text": "gafe4littles",
+						"indices": [
+							88,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yDtYgHbUH6",
+						"expanded_url": "https://docs.google.com/document/d/18SOn0MNmgqDftmySWS7LZHzCn1hCqAYoDz5CRCdrDlg/edit",
+						"display_url": "docs.google.com/document/d/18S…",
+						"indices": [
+							36,
+							59
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 843237441074950100,
+						"id_str": "843237441074950144",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/C7PH_CiU8AAj_gj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7PH_CiU8AAj_gj.jpg",
+						"url": "https://t.co/7pF8AVXHuw",
+						"display_url": "pic.twitter.com/7pF8AVXHuw",
+						"expanded_url": "https://twitter.com/alicekeeler/status/843237442882691072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 534,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 787,
+								"h": 618,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 787,
+								"h": 618,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 843237441074950100,
+						"id_str": "843237441074950144",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/C7PH_CiU8AAj_gj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7PH_CiU8AAj_gj.jpg",
+						"url": "https://t.co/7pF8AVXHuw",
+						"display_url": "pic.twitter.com/7pF8AVXHuw",
+						"expanded_url": "https://twitter.com/alicekeeler/status/843237442882691072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 534,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 787,
+								"h": 618,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 787,
+								"h": 618,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 200715240,
+				"id_str": "200715240",
+				"name": "Alice Keeler",
+				"screen_name": "alicekeeler",
+				"location": "Fresno, CA",
+				"description": "Teacher, Author 50 Things You Can Do With Google Classroom https://t.co/CeGP3gEoaW Google Certified Teacher, NMCk12 Ambassador, MIE, gamification, #coffeeEDU",
+				"url": "http://t.co/bk3TNqWUPo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/bk3TNqWUPo",
+								"expanded_url": "http://www.alicekeeler.com",
+								"display_url": "alicekeeler.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/CeGP3gEoaW",
+								"expanded_url": "http://alicekeeler.com/50",
+								"display_url": "alicekeeler.com/50",
+								"indices": [
+									59,
+									82
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 90893,
+				"friends_count": 4038,
+				"listed_count": 2787,
+				"created_at": "Sun Oct 10 01:43:43 +0000 2010",
+				"favourites_count": 4844,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 177188,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/280651364/alice-logo-final-sm.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/280651364/alice-logo-final-sm.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/691212646004166656/M-VWlkKR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/691212646004166656/M-VWlkKR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/200715240/1475088062",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sun Mar 19 10:44:28 +0000 2017",
+		"id": 843412851008008200,
+		"id_str": "843412851008008193",
+		"text": "RT @alicekeeler: Control Z Animation template https://t.co/HtAtQoFU1M #googleEDU #gafe4littles https://t.co/i6rqMtAqJf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "googleEDU",
+					"indices": [
+						70,
+						80
+					]
+				},
+				{
+					"text": "gafe4littles",
+					"indices": [
+						81,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alicekeeler",
+					"name": "Alice Keeler",
+					"id": 200715240,
+					"id_str": "200715240",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HtAtQoFU1M",
+					"expanded_url": "https://docs.google.com/presentation/d/1h1NcgQgm9wuYIapsa-zG0-4VnsXPwHafLkNvBqA4XJ8/edit#slide=id.p",
+					"display_url": "docs.google.com/presentation/d…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 843252174721175600,
+					"id_str": "843252174721175552",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/C7PVYppU0AAJeKn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C7PVYppU0AAJeKn.jpg",
+					"url": "https://t.co/i6rqMtAqJf",
+					"display_url": "pic.twitter.com/i6rqMtAqJf",
+					"expanded_url": "https://twitter.com/alicekeeler/status/843252177422364672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 868,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1246,
+							"h": 901,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 843252177422364700,
+					"source_status_id_str": "843252177422364672",
+					"source_user_id": 200715240,
+					"source_user_id_str": "200715240"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 843252174721175600,
+					"id_str": "843252174721175552",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/C7PVYppU0AAJeKn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C7PVYppU0AAJeKn.jpg",
+					"url": "https://t.co/i6rqMtAqJf",
+					"display_url": "pic.twitter.com/i6rqMtAqJf",
+					"expanded_url": "https://twitter.com/alicekeeler/status/843252177422364672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 868,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1246,
+							"h": 901,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 843252177422364700,
+					"source_status_id_str": "843252177422364672",
+					"source_user_id": 200715240,
+					"source_user_id_str": "200715240"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3880,
+			"friends_count": 2890,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4665,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26399,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 19 00:06:00 +0000 2017",
+			"id": 843252177422364700,
+			"id_str": "843252177422364672",
+			"text": "Control Z Animation template https://t.co/HtAtQoFU1M #googleEDU #gafe4littles https://t.co/i6rqMtAqJf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "googleEDU",
+						"indices": [
+							53,
+							63
+						]
+					},
+					{
+						"text": "gafe4littles",
+						"indices": [
+							64,
+							77
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HtAtQoFU1M",
+						"expanded_url": "https://docs.google.com/presentation/d/1h1NcgQgm9wuYIapsa-zG0-4VnsXPwHafLkNvBqA4XJ8/edit#slide=id.p",
+						"display_url": "docs.google.com/presentation/d…",
+						"indices": [
+							29,
+							52
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 843252174721175600,
+						"id_str": "843252174721175552",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/C7PVYppU0AAJeKn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7PVYppU0AAJeKn.jpg",
+						"url": "https://t.co/i6rqMtAqJf",
+						"display_url": "pic.twitter.com/i6rqMtAqJf",
+						"expanded_url": "https://twitter.com/alicekeeler/status/843252177422364672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 868,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 492,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1246,
+								"h": 901,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 843252174721175600,
+						"id_str": "843252174721175552",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/C7PVYppU0AAJeKn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7PVYppU0AAJeKn.jpg",
+						"url": "https://t.co/i6rqMtAqJf",
+						"display_url": "pic.twitter.com/i6rqMtAqJf",
+						"expanded_url": "https://twitter.com/alicekeeler/status/843252177422364672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 868,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 492,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1246,
+								"h": 901,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 200715240,
+				"id_str": "200715240",
+				"name": "Alice Keeler",
+				"screen_name": "alicekeeler",
+				"location": "Fresno, CA",
+				"description": "Teacher, Author 50 Things You Can Do With Google Classroom https://t.co/CeGP3gEoaW Google Certified Teacher, NMCk12 Ambassador, MIE, gamification, #coffeeEDU",
+				"url": "http://t.co/bk3TNqWUPo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/bk3TNqWUPo",
+								"expanded_url": "http://www.alicekeeler.com",
+								"display_url": "alicekeeler.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/CeGP3gEoaW",
+								"expanded_url": "http://alicekeeler.com/50",
+								"display_url": "alicekeeler.com/50",
+								"indices": [
+									59,
+									82
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 90893,
+				"friends_count": 4038,
+				"listed_count": 2787,
+				"created_at": "Sun Oct 10 01:43:43 +0000 2010",
+				"favourites_count": 4844,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 177188,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/280651364/alice-logo-final-sm.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/280651364/alice-logo-final-sm.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/691212646004166656/M-VWlkKR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/691212646004166656/M-VWlkKR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/200715240/1475088062",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 45,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "es"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es"
+	},
+	{
 		"created_at": "Sun Mar 19 07:43:19 +0000 2017",
 		"id": 843367263348523000,
 		"id_str": "843367263348523008",
