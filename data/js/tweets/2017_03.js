@@ -1,6 +1,534 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Mon Mar 20 09:59:07 +0000 2017",
+		"id": 843763829297184800,
+		"id_str": "843763829297184768",
+		"text": "RT @tulip_education: @tulip_education \n parental choice? Gillard is actually celebrating education as a market. It's not a celebration of p…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tulip_education",
+					"name": "Marten Koomen",
+					"id": 229783973,
+					"id_str": "229783973",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "tulip_education",
+					"name": "Marten Koomen",
+					"id": 229783973,
+					"id_str": "229783973",
+					"indices": [
+						21,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3886,
+			"friends_count": 2891,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4667,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26412,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 20 03:43:22 +0000 2017",
+			"id": 843669268709302300,
+			"id_str": "843669268709302272",
+			"text": "@tulip_education \n parental choice? Gillard is actually celebrating education as a market. It's not a celebration of public schools. /2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tulip_education",
+						"name": "Marten Koomen",
+						"id": 229783973,
+						"id_str": "229783973",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 843668803175170000,
+			"in_reply_to_status_id_str": "843668803175170048",
+			"in_reply_to_user_id": 229783973,
+			"in_reply_to_user_id_str": "229783973",
+			"in_reply_to_screen_name": "tulip_education",
+			"user": {
+				"id": 229783973,
+				"id_str": "229783973",
+				"name": "Marten Koomen",
+				"screen_name": "tulip_education",
+				"location": "Melbourne, Victoria",
+				"description": "PhD Candidate Victoria University. email: marten.koomen@tulipeducation.com.au",
+				"url": "https://t.co/Ejiejow2MH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ejiejow2MH",
+								"expanded_url": "http://research.tulipeducation.com.au",
+								"display_url": "research.tulipeducation.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 450,
+				"friends_count": 373,
+				"listed_count": 29,
+				"created_at": "Thu Dec 23 09:31:08 +0000 2010",
+				"favourites_count": 7246,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 477,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/763168196060864512/NX_809KA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/763168196060864512/NX_809KA_normal.jpg",
+				"profile_link_color": "262626",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Mar 20 09:58:51 +0000 2017",
+		"id": 843763762188316700,
+		"id_str": "843763762188316672",
+		"text": "RT @tulip_education: Unfortunately Gillard is ignoring the distorting effects of NAPLAN here, e.g. the misleading reports to at least one o…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tulip_education",
+					"name": "Marten Koomen",
+					"id": 229783973,
+					"id_str": "229783973",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3886,
+			"friends_count": 2891,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4667,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26412,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 20 03:38:56 +0000 2017",
+			"id": 843668149677391900,
+			"id_str": "843668149677391872",
+			"text": "Unfortunately Gillard is ignoring the distorting effects of NAPLAN here, e.g. the misleading reports to at least on… https://t.co/8htMdhbauc",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8htMdhbauc",
+						"expanded_url": "https://twitter.com/i/web/status/843668149677391872",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 229783973,
+				"id_str": "229783973",
+				"name": "Marten Koomen",
+				"screen_name": "tulip_education",
+				"location": "Melbourne, Victoria",
+				"description": "PhD Candidate Victoria University. email: marten.koomen@tulipeducation.com.au",
+				"url": "https://t.co/Ejiejow2MH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ejiejow2MH",
+								"expanded_url": "http://research.tulipeducation.com.au",
+								"display_url": "research.tulipeducation.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 450,
+				"friends_count": 373,
+				"listed_count": 29,
+				"created_at": "Thu Dec 23 09:31:08 +0000 2010",
+				"favourites_count": 7246,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 477,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/763168196060864512/NX_809KA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/763168196060864512/NX_809KA_normal.jpg",
+				"profile_link_color": "262626",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 843667403703644200,
+			"quoted_status_id_str": "843667403703644161",
+			"quoted_status": {
+				"created_at": "Mon Mar 20 03:35:58 +0000 2017",
+				"id": 843667403703644200,
+				"id_str": "843667403703644161",
+				"text": "Julia Gillard says NAPLAN, MySchool website changed perceptions of Australian schools https://t.co/KpHuglIaK4 via @smh",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "smh",
+							"name": "smh.com.au",
+							"id": 16675569,
+							"id_str": "16675569",
+							"indices": [
+								114,
+								118
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/KpHuglIaK4",
+							"expanded_url": "http://www.smh.com.au/national/julia-gillard-says-naplan-myschool-website-changed-perceptions-of-australian-schools-20170319-gv1kds.html",
+							"display_url": "smh.com.au/national/julia…",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 92872995,
+					"id_str": "92872995",
+					"name": "Henrietta Cook",
+					"screen_name": "henriettacook",
+					"location": "Melbourne, Australia",
+					"description": "Education editor @theage , cryptic crossword enthusiast, loves Murakami, tigers supporter. Got a tip? henrietta.cook@fairfaxmedia.com.au or 03) 8667 2866",
+					"url": "https://t.co/aFGMIHX2MT",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/aFGMIHX2MT",
+									"expanded_url": "http://www.theage.com.au",
+									"display_url": "theage.com.au",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 7171,
+					"friends_count": 2126,
+					"listed_count": 241,
+					"created_at": "Fri Nov 27 01:05:50 +0000 2009",
+					"favourites_count": 1463,
+					"utc_offset": 39600,
+					"time_zone": "Melbourne",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 10473,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68759272/penguin-covers.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68759272/penguin-covers.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1489690333/hen_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1489690333/hen_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/92872995/1438395488",
+					"profile_link_color": "B30000",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 5,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 843667403703644200,
+		"quoted_status_id_str": "843667403703644161",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Mar 20 07:44:30 +0000 2017",
 		"id": 843729949181853700,
 		"id_str": "843729949181853696",
