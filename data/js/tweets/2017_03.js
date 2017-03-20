@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Mon Mar 20 05:36:39 +0000 2017",
+		"id": 843697775791419400,
+		"id_str": "843697775791419392",
+		"text": "RT @wholeboxndice: Is it something to be celebrated or worth taking credit for? https://t.co/WDb348u87q",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wholeboxndice",
+					"name": "Steve Box",
+					"id": 384207618,
+					"id_str": "384207618",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WDb348u87q",
+					"expanded_url": "https://twitter.com/henriettacook/status/843667403703644161",
+					"display_url": "twitter.com/henriettacook/…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3883,
+			"friends_count": 2891,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4666,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26409,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 20 05:35:33 +0000 2017",
+			"id": 843697497499304000,
+			"id_str": "843697497499303936",
+			"text": "Is it something to be celebrated or worth taking credit for? https://t.co/WDb348u87q",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WDb348u87q",
+						"expanded_url": "https://twitter.com/henriettacook/status/843667403703644161",
+						"display_url": "twitter.com/henriettacook/…",
+						"indices": [
+							61,
+							84
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 384207618,
+				"id_str": "384207618",
+				"name": "Steve Box",
+				"screen_name": "wholeboxndice",
+				"location": "Toowoomba, Australia",
+				"description": "Learner, Primary Teacher, Leader of Professional Practice, Playdough Certified Educator, Father of 3 little Boxes. I tweet on behalf of me. #purposeful",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3508,
+				"friends_count": 3892,
+				"listed_count": 162,
+				"created_at": "Mon Oct 03 08:19:03 +0000 2011",
+				"favourites_count": 4616,
+				"utc_offset": 36000,
+				"time_zone": "Brisbane",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11610,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/566246619037720577/sGfmaMkA_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/566246619037720577/sGfmaMkA_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/384207618/1456751715",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 843667403703644200,
+			"quoted_status_id_str": "843667403703644161",
+			"quoted_status": {
+				"created_at": "Mon Mar 20 03:35:58 +0000 2017",
+				"id": 843667403703644200,
+				"id_str": "843667403703644161",
+				"text": "Julia Gillard says NAPLAN, MySchool website changed perceptions of Australian schools https://t.co/KpHuglIaK4 via @smh",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "smh",
+							"name": "smh.com.au",
+							"id": 16675569,
+							"id_str": "16675569",
+							"indices": [
+								114,
+								118
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/KpHuglIaK4",
+							"expanded_url": "http://www.smh.com.au/national/julia-gillard-says-naplan-myschool-website-changed-perceptions-of-australian-schools-20170319-gv1kds.html",
+							"display_url": "smh.com.au/national/julia…",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 92872995,
+					"id_str": "92872995",
+					"name": "Henrietta Cook",
+					"screen_name": "henriettacook",
+					"location": "Melbourne, Australia",
+					"description": "Education editor @theage , cryptic crossword enthusiast, loves Murakami, tigers supporter. Got a tip? henrietta.cook@fairfaxmedia.com.au or 03) 8667 2866",
+					"url": "https://t.co/aFGMIHX2MT",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/aFGMIHX2MT",
+									"expanded_url": "http://www.theage.com.au",
+									"display_url": "theage.com.au",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 7171,
+					"friends_count": 2126,
+					"listed_count": 241,
+					"created_at": "Fri Nov 27 01:05:50 +0000 2009",
+					"favourites_count": 1462,
+					"utc_offset": 39600,
+					"time_zone": "Melbourne",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 10471,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68759272/penguin-covers.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68759272/penguin-covers.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1489690333/hen_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1489690333/hen_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/92872995/1438395488",
+					"profile_link_color": "B30000",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 843667403703644200,
+		"quoted_status_id_str": "843667403703644161",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Mar 20 02:04:08 +0000 2017",
 		"id": 843644292123959300,
 		"id_str": "843644292123959300",
