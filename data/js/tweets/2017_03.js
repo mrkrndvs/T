@@ -1,6 +1,376 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Thu Mar 23 09:16:39 +0000 2017",
+		"id": 844840301944463400,
+		"id_str": "844840301944463360",
+		"text": "RT @willrich45: Great visual (and story) about learning from @visualthinkery https://t.co/Uyd3PpHMO1 #edchat #changeschool https://t.co/xoS…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edchat",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "changeschool",
+					"indices": [
+						109,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "willrich45",
+					"name": "Will Richardson",
+					"id": 1349941,
+					"id_str": "1349941",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "visualthinkery",
+					"name": "Visual Thinkery",
+					"id": 4872005950,
+					"id_str": "4872005950",
+					"indices": [
+						61,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Uyd3PpHMO1",
+					"expanded_url": "http://buff.ly/2ncZKk9",
+					"display_url": "buff.ly/2ncZKk9",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3893,
+			"friends_count": 2892,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4670,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26432,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 22 13:14:24 +0000 2017",
+			"id": 844537746807017500,
+			"id_str": "844537746807017472",
+			"text": "Great visual (and story) about learning from @visualthinkery https://t.co/Uyd3PpHMO1 #edchat #changeschool https://t.co/xoSnIxxypz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edchat",
+						"indices": [
+							85,
+							92
+						]
+					},
+					{
+						"text": "changeschool",
+						"indices": [
+							93,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "visualthinkery",
+						"name": "Visual Thinkery",
+						"id": 4872005950,
+						"id_str": "4872005950",
+						"indices": [
+							45,
+							60
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Uyd3PpHMO1",
+						"expanded_url": "http://buff.ly/2ncZKk9",
+						"display_url": "buff.ly/2ncZKk9",
+						"indices": [
+							61,
+							84
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 844537743254413300,
+						"id_str": "844537743254413313",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/C7hmmloW4AE6WI4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7hmmloW4AE6WI4.jpg",
+						"url": "https://t.co/xoSnIxxypz",
+						"display_url": "pic.twitter.com/xoSnIxxypz",
+						"expanded_url": "https://twitter.com/willrich45/status/844537746807017472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 844537743254413300,
+						"id_str": "844537743254413313",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/C7hmmloW4AE6WI4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7hmmloW4AE6WI4.jpg",
+						"url": "https://t.co/xoSnIxxypz",
+						"display_url": "pic.twitter.com/xoSnIxxypz",
+						"expanded_url": "https://twitter.com/willrich45/status/844537746807017472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1349941,
+				"id_str": "1349941",
+				"name": "Will Richardson",
+				"screen_name": "willrich45",
+				"location": "Flemington, New Jersey",
+				"description": "Parent, author, speaker, instigator, blogger. Redefining change at https://t.co/u0vb8eeCHf, https://t.co/pDsXj2TTyK and https://t.co/CNh4ibPyUU.",
+				"url": "https://t.co/u0vb8eeCHf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/u0vb8eeCHf",
+								"expanded_url": "http://change.school",
+								"display_url": "change.school",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/u0vb8eeCHf",
+								"expanded_url": "http://change.school",
+								"display_url": "change.school",
+								"indices": [
+									67,
+									90
+								]
+							},
+							{
+								"url": "https://t.co/pDsXj2TTyK",
+								"expanded_url": "http://modernlearners.com",
+								"display_url": "modernlearners.com",
+								"indices": [
+									92,
+									115
+								]
+							},
+							{
+								"url": "https://t.co/CNh4ibPyUU",
+								"expanded_url": "http://willrichardson.com",
+								"display_url": "willrichardson.com",
+								"indices": [
+									120,
+									143
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 68797,
+				"friends_count": 3,
+				"listed_count": 3176,
+				"created_at": "Sat Mar 17 12:56:05 +0000 2007",
+				"favourites_count": 1694,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28735,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/351443538/twilk_background_4ea3f7f4bf1be.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/351443538/twilk_background_4ea3f7f4bf1be.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/837475707013885952/TsQ1f7By_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/837475707013885952/TsQ1f7By_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1349941/1475167714",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Mar 23 08:35:16 +0000 2017",
 		"id": 844829888511017000,
 		"id_str": "844829888511016961",
