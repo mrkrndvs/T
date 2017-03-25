@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sat Mar 25 01:13:55 +0000 2017",
+		"id": 845443593892315100,
+		"id_str": "845443593892315136",
+		"text": "RT @austinkleon: My two best books are $5.99 on Amazon. That’s a... steal. [Ducks] https://t.co/6PBb5SDanu https://t.co/Nf04FBCUga",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "austinkleon",
+					"name": "Austin Kleon",
+					"id": 9698942,
+					"id_str": "9698942",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6PBb5SDanu",
+					"expanded_url": "http://amzn.to/2mRr4RD",
+					"display_url": "amzn.to/2mRr4RD",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 844644134488977400,
+					"id_str": "844644134488977408",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/C7jHXX3VMAAwz_m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C7jHXX3VMAAwz_m.jpg",
+					"url": "https://t.co/Nf04FBCUga",
+					"display_url": "pic.twitter.com/Nf04FBCUga",
+					"expanded_url": "https://twitter.com/austinkleon/status/844644153053065216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 550,
+							"h": 339,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 550,
+							"h": 339,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 339,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 844644153053065200,
+					"source_status_id_str": "844644153053065216",
+					"source_user_id": 9698942,
+					"source_user_id_str": "9698942"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 844644134488977400,
+					"id_str": "844644134488977408",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/C7jHXX3VMAAwz_m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C7jHXX3VMAAwz_m.jpg",
+					"url": "https://t.co/Nf04FBCUga",
+					"display_url": "pic.twitter.com/Nf04FBCUga",
+					"expanded_url": "https://twitter.com/austinkleon/status/844644153053065216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 550,
+							"h": 339,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 550,
+							"h": 339,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 339,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 844644153053065200,
+					"source_status_id_str": "844644153053065216",
+					"source_user_id": 9698942,
+					"source_user_id_str": "9698942"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3899,
+			"friends_count": 2893,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4673,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26452,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 22 20:17:13 +0000 2017",
+			"id": 844644153053065200,
+			"id_str": "844644153053065216",
+			"text": "My two best books are $5.99 on Amazon. That’s a... steal. [Ducks] https://t.co/6PBb5SDanu https://t.co/Nf04FBCUga",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6PBb5SDanu",
+						"expanded_url": "http://amzn.to/2mRr4RD",
+						"display_url": "amzn.to/2mRr4RD",
+						"indices": [
+							66,
+							89
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 844644134488977400,
+						"id_str": "844644134488977408",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/C7jHXX3VMAAwz_m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7jHXX3VMAAwz_m.jpg",
+						"url": "https://t.co/Nf04FBCUga",
+						"display_url": "pic.twitter.com/Nf04FBCUga",
+						"expanded_url": "https://twitter.com/austinkleon/status/844644153053065216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 550,
+								"h": 339,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 550,
+								"h": 339,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 550,
+								"h": 339,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 844644134488977400,
+						"id_str": "844644134488977408",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/C7jHXX3VMAAwz_m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7jHXX3VMAAwz_m.jpg",
+						"url": "https://t.co/Nf04FBCUga",
+						"display_url": "pic.twitter.com/Nf04FBCUga",
+						"expanded_url": "https://twitter.com/austinkleon/status/844644153053065216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 550,
+								"h": 339,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 550,
+								"h": 339,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 550,
+								"h": 339,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9698942,
+				"id_str": "9698942",
+				"name": "Austin Kleon",
+				"screen_name": "austinkleon",
+				"location": "Austin, Texas",
+				"description": "Author of STEAL LIKE AN ARTIST and other books. Newsletters are the new Twitter: https://t.co/cJks9LUC0z",
+				"url": "https://t.co/ER0M6plgH2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ER0M6plgH2",
+								"expanded_url": "http://austinkleon.com/",
+								"display_url": "austinkleon.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/cJks9LUC0z",
+								"expanded_url": "http://austinkleon.com/newsletter",
+								"display_url": "austinkleon.com/newsletter",
+								"indices": [
+									81,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 80451,
+				"friends_count": 1092,
+				"listed_count": 3537,
+				"created_at": "Fri Oct 26 01:03:22 +0000 2007",
+				"favourites_count": 93613,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 77740,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4556469/forget.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4556469/forget.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/681533189307809792/XGchVtcQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/681533189307809792/XGchVtcQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9698942/1413591669",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FF0000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 73,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Mar 24 19:52:45 +0000 2017",
 		"id": 845362772724629500,
 		"id_str": "845362772724629506",
