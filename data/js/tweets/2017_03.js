@@ -1,6 +1,705 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sat Mar 25 02:46:46 +0000 2017",
+		"id": 845466962348040200,
+		"id_str": "845466962348040193",
+		"text": "@DrAnnaSullivan @jolampert @drlindagraham I'm reminded of this post from @PaulDBrowning https://t.co/P4NrRHPXzO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrAnnaSullivan",
+					"name": "Dr Anna Sullivan",
+					"id": 1317207752,
+					"id_str": "1317207752",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "jolampert",
+					"name": "jo lampert",
+					"id": 425380742,
+					"id_str": "425380742",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "drlindagraham",
+					"name": "Linda J. Graham",
+					"id": 613376460,
+					"id_str": "613376460",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "PaulDBrowning",
+					"name": "Paul Browning",
+					"id": 1740831469,
+					"id_str": "1740831469",
+					"indices": [
+						73,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P4NrRHPXzO",
+					"expanded_url": "http://thecentreonline.com.au/2015/01/quality-teaching-elusive-goal/",
+					"display_url": "thecentreonline.com.au/2015/01/qualit…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 845464654981689300,
+		"in_reply_to_status_id_str": "845464654981689344",
+		"in_reply_to_user_id": 1317207752,
+		"in_reply_to_user_id_str": "1317207752",
+		"in_reply_to_screen_name": "DrAnnaSullivan",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3898,
+			"friends_count": 2893,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4673,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26455,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Mar 25 02:43:05 +0000 2017",
+		"id": 845466034995847200,
+		"id_str": "845466034995847168",
+		"text": "RT @DrAnnaSullivan: Our research showed ECTs are often employed after school year begins &amp; miss out on many induction activities @jolampert…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrAnnaSullivan",
+					"name": "Dr Anna Sullivan",
+					"id": 1317207752,
+					"id_str": "1317207752",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "jolampert",
+					"name": "jo lampert",
+					"id": 425380742,
+					"id_str": "425380742",
+					"indices": [
+						133,
+						143
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3898,
+			"friends_count": 2893,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4673,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26455,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 25 02:37:36 +0000 2017",
+			"id": 845464654981689300,
+			"id_str": "845464654981689344",
+			"text": "Our research showed ECTs are often employed after school year begins &amp; miss out on many induction activities @jolampert @drlindagraham",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jolampert",
+						"name": "jo lampert",
+						"id": 425380742,
+						"id_str": "425380742",
+						"indices": [
+							113,
+							123
+						]
+					},
+					{
+						"screen_name": "drlindagraham",
+						"name": "Linda J. Graham",
+						"id": 613376460,
+						"id_str": "613376460",
+						"indices": [
+							124,
+							138
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 845453220906385400,
+			"in_reply_to_status_id_str": "845453220906385408",
+			"in_reply_to_user_id": 425380742,
+			"in_reply_to_user_id_str": "425380742",
+			"in_reply_to_screen_name": "jolampert",
+			"user": {
+				"id": 1317207752,
+				"id_str": "1317207752",
+				"name": "Dr Anna Sullivan",
+				"screen_name": "DrAnnaSullivan",
+				"location": "Adelaide, South Australia",
+				"description": "Educational researcher. Interested in ways schools can be better places for students, teachers and principals.",
+				"url": "https://t.co/Ddl8JCLKkz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ddl8JCLKkz",
+								"expanded_url": "http://people.unisa.edu.au/Anna.Sullivan",
+								"display_url": "people.unisa.edu.au/Anna.Sullivan",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1254,
+				"friends_count": 779,
+				"listed_count": 47,
+				"created_at": "Sat Mar 30 21:23:07 +0000 2013",
+				"favourites_count": 1586,
+				"utc_offset": 37800,
+				"time_zone": "Adelaide",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2557,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/639390717190627328/QxCEAVkq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/639390717190627328/QxCEAVkq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1317207752/1461497950",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Mar 25 02:41:27 +0000 2017",
+		"id": 845465622548918300,
+		"id_str": "845465622548918272",
+		"text": "RT @DalePearce3: They'll fiddle at the edges, find some compromises but won't address real issues, too hard for them. So Aust performance w…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DalePearce3",
+					"name": "Dale Pearce",
+					"id": 1577439920,
+					"id_str": "1577439920",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3898,
+			"friends_count": 2893,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4673,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26455,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 25 02:38:45 +0000 2017",
+			"id": 845464946469040100,
+			"id_str": "845464946469040128",
+			"text": "They'll fiddle at the edges, find some compromises but won't address real issues, too hard for them. So Aust perfor… https://t.co/lSKndiI5Z8",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lSKndiI5Z8",
+						"expanded_url": "https://twitter.com/i/web/status/845464946469040128",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1577439920,
+				"id_str": "1577439920",
+				"name": "Dale Pearce",
+				"screen_name": "DalePearce3",
+				"location": "Bendigo, Victoria, Australia",
+				"description": "Principal of Bendigo Senior Secondary College. VCAA Board Member, Chair https://t.co/kU1URbU8vC. Tweets my own opinions.",
+				"url": "https://t.co/5RktomeOOd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5RktomeOOd",
+								"expanded_url": "http://dalepearce.net/",
+								"display_url": "dalepearce.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/kU1URbU8vC",
+								"expanded_url": "http://www.vln.vic.edu.au/",
+								"display_url": "vln.vic.edu.au",
+								"indices": [
+									72,
+									95
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 967,
+				"friends_count": 389,
+				"listed_count": 48,
+				"created_at": "Mon Jul 08 11:21:55 +0000 2013",
+				"favourites_count": 700,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6664,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/459654886108327936/GJVADHu3_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/459654886108327936/GJVADHu3_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1577439920/1466080088",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 845425042506862600,
+			"quoted_status_id_str": "845425042506862594",
+			"quoted_status": {
+				"created_at": "Sat Mar 25 00:00:12 +0000 2017",
+				"id": 845425042506862600,
+				"id_str": "845425042506862594",
+				"text": "'Overfunded' private schools next on the government's hit list #auspol https://t.co/xGJrh9eGHF",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "auspol",
+							"indices": [
+								63,
+								70
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/xGJrh9eGHF",
+							"expanded_url": "http://ow.ly/9Ddi30af7Le",
+							"display_url": "ow.ly/9Ddi30af7Le",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 32201814,
+					"id_str": "32201814",
+					"name": "The Age",
+					"screen_name": "theage",
+					"location": "Melbourne, Australia",
+					"description": "Australia's leading news service. We're also on Facebook at http://t.co/D7qeFA8NcW",
+					"url": "http://t.co/aFGMIHFZKT",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/aFGMIHFZKT",
+									"expanded_url": "http://www.theage.com.au",
+									"display_url": "theage.com.au",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "http://t.co/D7qeFA8NcW",
+									"expanded_url": "http://www.facebook.com/theageAustralia",
+									"display_url": "facebook.com/theageAustralia",
+									"indices": [
+										60,
+										82
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 770118,
+					"friends_count": 1141,
+					"listed_count": 4181,
+					"created_at": "Thu Apr 16 23:28:23 +0000 2009",
+					"favourites_count": 400,
+					"utc_offset": 39600,
+					"time_zone": "Melbourne",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 77642,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/13863640/logoBG2.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/13863640/logoBG2.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/597976698483658753/fiLSuxTi_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/597976698483658753/fiLSuxTi_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/32201814/1400568401",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "BDDCAD",
+					"profile_sidebar_fill_color": "DDFFCC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 16,
+				"favorite_count": 14,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 845425042506862600,
+		"quoted_status_id_str": "845425042506862594",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 25 01:13:55 +0000 2017",
 		"id": 845443593892315100,
 		"id_str": "845443593892315136",
