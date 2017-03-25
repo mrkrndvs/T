@@ -1,6 +1,842 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sat Mar 25 09:27:13 +0000 2017",
+		"id": 845567739213205500,
+		"id_str": "845567739213205507",
+		"text": "RT @ddonahoo: Could you do the same provocation for teachers, where it is “Current Edu System: Help or Hindrance”? @kynanr @hamishcurry htt…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ddonahoo",
+					"name": "Dan Donahoo",
+					"id": 16051268,
+					"id_str": "16051268",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "kynanr",
+					"name": "Kynan Robinson",
+					"id": 21043806,
+					"id_str": "21043806",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"screen_name": "hamishcurry",
+					"name": "Hamish Curry",
+					"id": 129129249,
+					"id_str": "129129249",
+					"indices": [
+						123,
+						135
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3901,
+			"friends_count": 2894,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4674,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26460,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 07 05:29:42 +0000 2017",
+			"id": 838984986308952000,
+			"id_str": "838984986308952064",
+			"text": "Could you do the same provocation for teachers, where it is “Current Edu System: Help or Hindrance”? @kynanr… https://t.co/bz5jFPiykI",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kynanr",
+						"name": "Kynan Robinson",
+						"id": 21043806,
+						"id_str": "21043806",
+						"indices": [
+							101,
+							108
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/bz5jFPiykI",
+						"expanded_url": "https://twitter.com/i/web/status/838984986308952064",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16051268,
+				"id_str": "16051268",
+				"name": "Dan Donahoo",
+				"screen_name": "ddonahoo",
+				"location": "Australia",
+				"description": "I'm interested in ideas and how and why people do things. I write, a lot - for different audiences. See also @prjct_synthesis | @legopoetry",
+				"url": "http://t.co/ojHz4JRPvV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ojHz4JRPvV",
+								"expanded_url": "http://www.projectsynthesis.com.au",
+								"display_url": "projectsynthesis.com.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3571,
+				"friends_count": 370,
+				"listed_count": 253,
+				"created_at": "Sat Aug 30 03:48:25 +0000 2008",
+				"favourites_count": 637,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25004,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6537948/Flair_Mk4_by_Dean_McDonald.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6537948/Flair_Mk4_by_Dean_McDonald.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3495947360/fafc0197f8acb851d148508efd8ae507_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3495947360/fafc0197f8acb851d148508efd8ae507_normal.jpeg",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 838936220595961900,
+			"quoted_status_id_str": "838936220595961856",
+			"quoted_status": {
+				"created_at": "Tue Mar 07 02:15:56 +0000 2017",
+				"id": 838936220595961900,
+				"id_str": "838936220595961856",
+				"text": "Provocation: 3D printing - Help or Hindrance. Student immersion #designthinking #TTPlay @ivanhoegrammar #leadtheway https://t.co/tInDGeIV9M",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "designthinking",
+							"indices": [
+								64,
+								79
+							]
+						},
+						{
+							"text": "TTPlay",
+							"indices": [
+								80,
+								87
+							]
+						},
+						{
+							"text": "leadtheway",
+							"indices": [
+								104,
+								115
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "ivanhoegrammar",
+							"name": "Ivanhoe Grammar",
+							"id": 93390477,
+							"id_str": "93390477",
+							"indices": [
+								88,
+								103
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 838936204854767600,
+							"id_str": "838936204854767616",
+							"indices": [
+								116,
+								139
+							],
+							"media_url": "http://pbs.twimg.com/media/C6SACI-VMAAM3C2.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C6SACI-VMAAM3C2.jpg",
+							"url": "https://t.co/tInDGeIV9M",
+							"display_url": "pic.twitter.com/tInDGeIV9M",
+							"expanded_url": "https://twitter.com/SteveBrophy3/status/838936220595961856/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1200,
+									"h": 900,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 510,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 2048,
+									"h": 1536,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 838936204854767600,
+							"id_str": "838936204854767616",
+							"indices": [
+								116,
+								139
+							],
+							"media_url": "http://pbs.twimg.com/media/C6SACI-VMAAM3C2.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C6SACI-VMAAM3C2.jpg",
+							"url": "https://t.co/tInDGeIV9M",
+							"display_url": "pic.twitter.com/tInDGeIV9M",
+							"expanded_url": "https://twitter.com/SteveBrophy3/status/838936220595961856/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1200,
+									"h": 900,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 510,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 2048,
+									"h": 1536,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 838936206486327300,
+							"id_str": "838936206486327300",
+							"indices": [
+								116,
+								139
+							],
+							"media_url": "http://pbs.twimg.com/media/C6SACPDU0AQWisu.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C6SACPDU0AQWisu.jpg",
+							"url": "https://t.co/tInDGeIV9M",
+							"display_url": "pic.twitter.com/tInDGeIV9M",
+							"expanded_url": "https://twitter.com/SteveBrophy3/status/838936220595961856/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 1536,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 510,
+									"h": 680,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 900,
+									"h": 1200,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 838936206461186000,
+							"id_str": "838936206461186048",
+							"indices": [
+								116,
+								139
+							],
+							"media_url": "http://pbs.twimg.com/media/C6SACO9VMAAXr2F.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C6SACO9VMAAXr2F.jpg",
+							"url": "https://t.co/tInDGeIV9M",
+							"display_url": "pic.twitter.com/tInDGeIV9M",
+							"expanded_url": "https://twitter.com/SteveBrophy3/status/838936220595961856/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 510,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 2048,
+									"h": 1536,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 900,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 827898170,
+					"id_str": "827898170",
+					"name": "Steve Brophy",
+					"screen_name": "SteveBrophy3",
+					"location": "Melbourne, Victoria",
+					"description": "Director of ICT & eLearning, #MIEExpert, CoHost @TeachTechPlay. 2017 @TouchCastEdu Ambassador, CoHost @designandplay podcast, Founder @CoLearnMeetUp",
+					"url": "https://t.co/9IRmrwsnps",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/9IRmrwsnps",
+									"expanded_url": "http://stevebrophy.com.au",
+									"display_url": "stevebrophy.com.au",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 4219,
+					"friends_count": 4071,
+					"listed_count": 286,
+					"created_at": "Sun Sep 16 23:00:37 +0000 2012",
+					"favourites_count": 3890,
+					"utc_offset": 39600,
+					"time_zone": "New Caledonia",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 6645,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/711143463190835200/QyLjtVSa_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/711143463190835200/QyLjtVSa_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/827898170/1488015939",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 8,
+				"favorite_count": 18,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 838936220595961900,
+		"quoted_status_id_str": "838936220595961856",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Mar 25 09:25:10 +0000 2017",
+		"id": 845567221887778800,
+		"id_str": "845567221887778818",
+		"text": "RT @ddonahoo: An outstanding school recognises that the way it runs might be the issue, not the non-compliant learners (an awful concept) 2…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ddonahoo",
+					"name": "Dan Donahoo",
+					"id": 16051268,
+					"id_str": "16051268",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3901,
+			"friends_count": 2894,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4674,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26460,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 25 03:39:41 +0000 2017",
+			"id": 845480278755700700,
+			"id_str": "845480278755700736",
+			"text": "An outstanding school recognises that the way it runs might be the issue, not the non-compliant learners (an awful… https://t.co/Tf3SoIO2Ke",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Tf3SoIO2Ke",
+						"expanded_url": "https://twitter.com/i/web/status/845480278755700736",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16051268,
+				"id_str": "16051268",
+				"name": "Dan Donahoo",
+				"screen_name": "ddonahoo",
+				"location": "Australia",
+				"description": "I'm interested in ideas and how and why people do things. I write, a lot - for different audiences. See also @prjct_synthesis | @legopoetry",
+				"url": "http://t.co/ojHz4JRPvV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ojHz4JRPvV",
+								"expanded_url": "http://www.projectsynthesis.com.au",
+								"display_url": "projectsynthesis.com.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3571,
+				"friends_count": 370,
+				"listed_count": 253,
+				"created_at": "Sat Aug 30 03:48:25 +0000 2008",
+				"favourites_count": 637,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25004,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6537948/Flair_Mk4_by_Dean_McDonald.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6537948/Flair_Mk4_by_Dean_McDonald.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3495947360/fafc0197f8acb851d148508efd8ae507_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3495947360/fafc0197f8acb851d148508efd8ae507_normal.jpeg",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 845476030462681100,
+			"quoted_status_id_str": "845476030462681089",
+			"quoted_status": {
+				"created_at": "Sat Mar 25 03:22:48 +0000 2017",
+				"id": 845476030462681100,
+				"id_str": "845476030462681089",
+				"text": "An outstanding school is a school that can succeed with all learners, not just the compliant ones. #EducationIssue… https://t.co/Gdsy42K8lJ",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "EducationIssue",
+							"indices": [
+								99,
+								114
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/Gdsy42K8lJ",
+							"expanded_url": "https://twitter.com/i/web/status/845476030462681089",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 36830845,
+					"id_str": "36830845",
+					"name": "Dr David Zyngier",
+					"screen_name": "dzyngier",
+					"location": "Wurrundjerri Land - Melbourne",
+					"description": "Former school teacher & principal, academic, advocating for Public Education & Social Justice | https://t.co/Ld2U3WX37N",
+					"url": "https://t.co/WJxFBc01YZ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/WJxFBc01YZ",
+									"expanded_url": "http://monash.academia.edu/DavidZyngier",
+									"display_url": "monash.academia.edu/DavidZyngier",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/Ld2U3WX37N",
+									"expanded_url": "https://theconversation.com/profiles/david-zyngier-491",
+									"display_url": "theconversation.com/profiles/david…",
+									"indices": [
+										96,
+										119
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 2459,
+					"friends_count": 2124,
+					"listed_count": 48,
+					"created_at": "Fri May 01 00:43:09 +0000 2009",
+					"favourites_count": 1371,
+					"utc_offset": 39600,
+					"time_zone": "Melbourne",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 8226,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C6E2EE",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/449092824223326208/v1ErC8Uz.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/449092824223326208/v1ErC8Uz.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/687045163949019136/O4ZipQB-_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/687045163949019136/O4ZipQB-_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/36830845/1394815298",
+					"profile_link_color": "1F98C7",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DAECF4",
+					"profile_text_color": "663B12",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 845419363142266900,
+				"quoted_status_id_str": "845419363142266880",
+				"retweet_count": 5,
+				"favorite_count": 6,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 845476030462681100,
+		"quoted_status_id_str": "845476030462681089",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 25 04:53:04 +0000 2017",
 		"id": 845498747899564000,
 		"id_str": "845498747899564032",
