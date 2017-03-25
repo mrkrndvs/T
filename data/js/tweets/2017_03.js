@@ -1,6 +1,607 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sat Mar 25 03:28:45 +0000 2017",
+		"id": 845477526461829100,
+		"id_str": "845477526461829120",
+		"text": "RT @dzyngier: An outstanding school is a school that can succeed with all learners, not just the compliant ones. #EducationIssue @EduTweetO…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EducationIssue",
+					"indices": [
+						113,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dzyngier",
+					"name": "Dr David Zyngier",
+					"id": 36830845,
+					"id_str": "36830845",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3898,
+			"friends_count": 2894,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4673,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26457,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 25 03:22:48 +0000 2017",
+			"id": 845476030462681100,
+			"id_str": "845476030462681089",
+			"text": "An outstanding school is a school that can succeed with all learners, not just the compliant ones. #EducationIssue… https://t.co/Gdsy42K8lJ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EducationIssue",
+						"indices": [
+							99,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Gdsy42K8lJ",
+						"expanded_url": "https://twitter.com/i/web/status/845476030462681089",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36830845,
+				"id_str": "36830845",
+				"name": "Dr David Zyngier",
+				"screen_name": "dzyngier",
+				"location": "Wurrundjerri Land - Melbourne",
+				"description": "Former school teacher & principal, academic, advocating for Public Education & Social Justice | https://t.co/Ld2U3WX37N",
+				"url": "https://t.co/WJxFBc01YZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WJxFBc01YZ",
+								"expanded_url": "http://monash.academia.edu/DavidZyngier",
+								"display_url": "monash.academia.edu/DavidZyngier",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Ld2U3WX37N",
+								"expanded_url": "https://theconversation.com/profiles/david-zyngier-491",
+								"display_url": "theconversation.com/profiles/david…",
+								"indices": [
+									96,
+									119
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2454,
+				"friends_count": 2124,
+				"listed_count": 48,
+				"created_at": "Fri May 01 00:43:09 +0000 2009",
+				"favourites_count": 1370,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8225,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/449092824223326208/v1ErC8Uz.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/449092824223326208/v1ErC8Uz.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/687045163949019136/O4ZipQB-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/687045163949019136/O4ZipQB-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36830845/1394815298",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 845419363142266900,
+			"quoted_status_id_str": "845419363142266880",
+			"quoted_status": {
+				"created_at": "Fri Mar 24 23:37:37 +0000 2017",
+				"id": 845419363142266900,
+				"id_str": "845419363142266880",
+				"text": "Our editorial today: How to improve Australia's education system https://t.co/e45yJs9fBc via @theage",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "theage",
+							"name": "The Age",
+							"id": 32201814,
+							"id_str": "32201814",
+							"indices": [
+								93,
+								100
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/e45yJs9fBc",
+							"expanded_url": "http://www.theage.com.au/comment/the-age-editorial/how-to-improve-australias-education-system-20170324-gv5r8g.html",
+							"display_url": "theage.com.au/comment/the-ag…",
+							"indices": [
+								65,
+								88
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 92872995,
+					"id_str": "92872995",
+					"name": "Henrietta Cook",
+					"screen_name": "henriettacook",
+					"location": "Melbourne, Australia",
+					"description": "Education editor @theage , cryptic crossword enthusiast, loves Murakami, tigers supporter. Got a tip? henrietta.cook@fairfaxmedia.com.au or 03) 8667 2866",
+					"url": "https://t.co/aFGMIHX2MT",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/aFGMIHX2MT",
+									"expanded_url": "http://www.theage.com.au",
+									"display_url": "theage.com.au",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 7188,
+					"friends_count": 2129,
+					"listed_count": 241,
+					"created_at": "Fri Nov 27 01:05:50 +0000 2009",
+					"favourites_count": 1472,
+					"utc_offset": 39600,
+					"time_zone": "Melbourne",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 10510,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68759272/penguin-covers.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68759272/penguin-covers.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1489690333/hen_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1489690333/hen_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/92872995/1438395488",
+					"profile_link_color": "B30000",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4,
+				"favorite_count": 4,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 845419363142266900,
+		"quoted_status_id_str": "845419363142266880",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Mar 25 03:25:12 +0000 2017",
+		"id": 845476636128530400,
+		"id_str": "845476636128530433",
+		"text": "@JTGrant81 some more for the list ... https://t.co/eOMrVOqNFY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JTGrant81",
+					"name": "Jordan Grant",
+					"id": 59105341,
+					"id_str": "59105341",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eOMrVOqNFY",
+					"expanded_url": "https://twitter.com/mr_isaacs/status/845467878317064192",
+					"display_url": "twitter.com/mr_isaacs/stat…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 59105341,
+		"in_reply_to_user_id_str": "59105341",
+		"in_reply_to_screen_name": "JTGrant81",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3898,
+			"friends_count": 2894,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4673,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26457,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 845467878317064200,
+		"quoted_status_id_str": "845467878317064192",
+		"quoted_status": {
+			"created_at": "Sat Mar 25 02:50:24 +0000 2017",
+			"id": 845467878317064200,
+			"id_str": "845467878317064192",
+			"text": "Hey #GBL #games4ed #minecraftedu friends - follow @RenatoZandrini and @Syrayama - these guys are part of our tribe! @PlayCraftLearn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GBL",
+						"indices": [
+							4,
+							8
+						]
+					},
+					{
+						"text": "games4ed",
+						"indices": [
+							9,
+							18
+						]
+					},
+					{
+						"text": "minecraftedu",
+						"indices": [
+							19,
+							32
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RenatoZandrini",
+						"name": "Renato Zandrini",
+						"id": 94401826,
+						"id_str": "94401826",
+						"indices": [
+							50,
+							65
+						]
+					},
+					{
+						"screen_name": "Syrayama",
+						"name": "Jonatas Syrayama",
+						"id": 68219121,
+						"id_str": "68219121",
+						"indices": [
+							70,
+							79
+						]
+					},
+					{
+						"screen_name": "PlayCraftLearn",
+						"name": "Minecraft Education",
+						"id": 3253758956,
+						"id_str": "3253758956",
+						"indices": [
+							116,
+							131
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 216900952,
+				"id_str": "216900952",
+				"name": "Steven Isaacs",
+				"screen_name": "mr_isaacs",
+				"location": "New Jersey",
+				"description": "Teacher|Video Game Development|#ISTE2016 Outstanding Teacher |PBS Lead Digital Innovator NJ|@brainpop CBE | #MIE | #minecraft mentor | @minefaire producer",
+				"url": "https://t.co/HbmmPU01tL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HbmmPU01tL",
+								"expanded_url": "http://gamesandlearning1.blogspot.com",
+								"display_url": "gamesandlearning1.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13495,
+				"friends_count": 10031,
+				"listed_count": 1061,
+				"created_at": "Thu Nov 18 01:06:50 +0000 2010",
+				"favourites_count": 31887,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 62853,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/842779066268835840/yApQKdln_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/842779066268835840/yApQKdln_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/216900952/1449620005",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 25 02:46:46 +0000 2017",
 		"id": 845466962348040200,
 		"id_str": "845466962348040193",
