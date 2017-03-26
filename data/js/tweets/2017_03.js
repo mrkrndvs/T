@@ -1,6 +1,479 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sun Mar 26 11:43:06 +0000 2017",
+		"id": 845964320961785900,
+		"id_str": "845964320961785856",
+		"text": "RT @jonathanfinch81: Stop motion video created in @dustin772's breakout session. https://t.co/f5BkYcf4lo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jonathanfinch81",
+					"name": "Jon",
+					"id": 753310533491699700,
+					"id_str": "753310533491699712",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "dustin772",
+					"name": "Dustin Ellis",
+					"id": 946618135,
+					"id_str": "946618135",
+					"indices": [
+						50,
+						60
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 845840372597088300,
+					"id_str": "845840372597088256",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/845840372597088256/pu/img/V76sob3h7gpHD7_i.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/845840372597088256/pu/img/V76sob3h7gpHD7_i.jpg",
+					"url": "https://t.co/f5BkYcf4lo",
+					"display_url": "pic.twitter.com/f5BkYcf4lo",
+					"expanded_url": "https://twitter.com/jonathanfinch81/status/845840406193434624/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 845840406193434600,
+					"source_status_id_str": "845840406193434624",
+					"source_user_id": 753310533491699700,
+					"source_user_id_str": "753310533491699712"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 845840372597088300,
+					"id_str": "845840372597088256",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/845840372597088256/pu/img/V76sob3h7gpHD7_i.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/845840372597088256/pu/img/V76sob3h7gpHD7_i.jpg",
+					"url": "https://t.co/f5BkYcf4lo",
+					"display_url": "pic.twitter.com/f5BkYcf4lo",
+					"expanded_url": "https://twitter.com/jonathanfinch81/status/845840406193434624/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 845840406193434600,
+					"source_status_id_str": "845840406193434624",
+					"source_user_id": 753310533491699700,
+					"source_user_id_str": "753310533491699712",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15569,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/845840372597088256/pu/vid/1280x720/yoCZLIQmGx_o1rxw.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/845840372597088256/pu/pl/ndQeU1RbZKNmBjb6.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/845840372597088256/pu/vid/640x360/cjPjkLsdvKU_VnE-.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/845840372597088256/pu/vid/320x180/XMA0JArgEpezJw2w.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 753310533491699700,
+							"id_str": "753310533491699712",
+							"name": "Jon",
+							"screen_name": "jonathanfinch81",
+							"location": "Camarillo, CA",
+							"description": "",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 6,
+							"friends_count": 33,
+							"listed_count": 0,
+							"created_at": "Wed Jul 13 19:30:02 +0000 2016",
+							"favourites_count": 3,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 3,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/845819359389933568/kSxy5CG1_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/845819359389933568/kSxy5CG1_normal.jpg",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3905,
+			"friends_count": 2896,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4678,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26488,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 26 03:30:42 +0000 2017",
+			"id": 845840406193434600,
+			"id_str": "845840406193434624",
+			"text": "Stop motion video created in @dustin772's breakout session. https://t.co/f5BkYcf4lo",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dustin772",
+						"name": "Dustin Ellis",
+						"id": 946618135,
+						"id_str": "946618135",
+						"indices": [
+							29,
+							39
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 845840372597088300,
+						"id_str": "845840372597088256",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/845840372597088256/pu/img/V76sob3h7gpHD7_i.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/845840372597088256/pu/img/V76sob3h7gpHD7_i.jpg",
+						"url": "https://t.co/f5BkYcf4lo",
+						"display_url": "pic.twitter.com/f5BkYcf4lo",
+						"expanded_url": "https://twitter.com/jonathanfinch81/status/845840406193434624/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 845840372597088300,
+						"id_str": "845840372597088256",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/845840372597088256/pu/img/V76sob3h7gpHD7_i.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/845840372597088256/pu/img/V76sob3h7gpHD7_i.jpg",
+						"url": "https://t.co/f5BkYcf4lo",
+						"display_url": "pic.twitter.com/f5BkYcf4lo",
+						"expanded_url": "https://twitter.com/jonathanfinch81/status/845840406193434624/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 15569,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/845840372597088256/pu/vid/1280x720/yoCZLIQmGx_o1rxw.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/845840372597088256/pu/pl/ndQeU1RbZKNmBjb6.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/845840372597088256/pu/vid/640x360/cjPjkLsdvKU_VnE-.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/845840372597088256/pu/vid/320x180/XMA0JArgEpezJw2w.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 753310533491699700,
+				"id_str": "753310533491699712",
+				"name": "Jon",
+				"screen_name": "jonathanfinch81",
+				"location": "Camarillo, CA",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6,
+				"friends_count": 33,
+				"listed_count": 0,
+				"created_at": "Wed Jul 13 19:30:02 +0000 2016",
+				"favourites_count": 3,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/845819359389933568/kSxy5CG1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/845819359389933568/kSxy5CG1_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Mar 26 11:06:38 +0000 2017",
 		"id": 845955147633115100,
 		"id_str": "845955147633115136",
