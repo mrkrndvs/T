@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Tue Mar 28 07:32:39 +0000 2017",
+		"id": 846626070371549200,
+		"id_str": "846626070371549184",
+		"text": "@JTGrant81 @classroom_tech yeah I realised that after I posted 😬 https://t.co/xn6c6bmMdf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JTGrant81",
+					"name": "Jordan Grant",
+					"id": 59105341,
+					"id_str": "59105341",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "classroom_tech",
+					"name": "Greg Garner",
+					"id": 17258098,
+					"id_str": "17258098",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 846626061454471200,
+					"id_str": "846626061454471170",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C7_R6tKU8AIZTHy.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C7_R6tKU8AIZTHy.jpg",
+					"url": "https://t.co/xn6c6bmMdf",
+					"display_url": "pic.twitter.com/xn6c6bmMdf",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/846626070371549184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 200,
+							"h": 112,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 112,
+							"h": 112,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 112,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 112,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 846626061454471200,
+					"id_str": "846626061454471170",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C7_R6tKU8AIZTHy.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C7_R6tKU8AIZTHy.jpg",
+					"url": "https://t.co/xn6c6bmMdf",
+					"display_url": "pic.twitter.com/xn6c6bmMdf",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/846626070371549184/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 200,
+							"h": 112,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 112,
+							"h": 112,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 112,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 112,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C7_R6tKU8AIZTHy.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 846623933814091800,
+		"in_reply_to_status_id_str": "846623933814091777",
+		"in_reply_to_user_id": 59105341,
+		"in_reply_to_user_id_str": "59105341",
+		"in_reply_to_screen_name": "JTGrant81",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3910,
+			"friends_count": 2899,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4678,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26507,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Mar 28 05:42:28 +0000 2017",
 		"id": 846598343065165800,
 		"id_str": "846598343065165824",
