@@ -1,6 +1,461 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Wed Mar 29 10:13:25 +0000 2017",
+		"id": 847028915277197300,
+		"id_str": "847028915277197312",
+		"text": "@mwniehoff @jcorippo @Alex_Corbitt @techcoachjuarez  made me think about @gbiesta &amp; discussion of a good edu https://t.co/iBTg539xAk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mwniehoff",
+					"name": "Michael W. Niehoff",
+					"id": 233349852,
+					"id_str": "233349852",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "jcorippo",
+					"name": "jcorippo ",
+					"id": 14080892,
+					"id_str": "14080892",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "Alex_Corbitt",
+					"name": "Alex Corbitt",
+					"id": 2895054004,
+					"id_str": "2895054004",
+					"indices": [
+						21,
+						34
+					]
+				},
+				{
+					"screen_name": "techcoachjuarez",
+					"name": "Adam Juarez",
+					"id": 382835502,
+					"id_str": "382835502",
+					"indices": [
+						35,
+						51
+					]
+				},
+				{
+					"screen_name": "gbiesta",
+					"name": "gert biesta",
+					"id": 19742565,
+					"id_str": "19742565",
+					"indices": [
+						73,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iBTg539xAk",
+					"expanded_url": "http://readwriterespond.com/?p=2762",
+					"display_url": "readwriterespond.com/?p=2762",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 846811315544846300,
+		"in_reply_to_status_id_str": "846811315544846336",
+		"in_reply_to_user_id": 233349852,
+		"in_reply_to_user_id_str": "233349852",
+		"in_reply_to_screen_name": "mwniehoff",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3913,
+			"friends_count": 2901,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4678,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26523,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Mar 29 10:11:58 +0000 2017",
+		"id": 847028553258430500,
+		"id_str": "847028553258430464",
+		"text": "RT @mwniehoff: @jcorippo @mrkrndvs @Alex_Corbitt @techcoachjuarez @Curiosity_Films Let's Drop 'College Ready' &amp; Be 'Career Ready'\nhttps://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mwniehoff",
+					"name": "Michael W. Niehoff",
+					"id": 233349852,
+					"id_str": "233349852",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "jcorippo",
+					"name": "jcorippo ",
+					"id": 14080892,
+					"id_str": "14080892",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						25,
+						34
+					]
+				},
+				{
+					"screen_name": "Alex_Corbitt",
+					"name": "Alex Corbitt",
+					"id": 2895054004,
+					"id_str": "2895054004",
+					"indices": [
+						35,
+						48
+					]
+				},
+				{
+					"screen_name": "techcoachjuarez",
+					"name": "Adam Juarez",
+					"id": 382835502,
+					"id_str": "382835502",
+					"indices": [
+						49,
+						65
+					]
+				},
+				{
+					"screen_name": "Curiosity_Films",
+					"name": "Jim Bentley",
+					"id": 75387050,
+					"id_str": "75387050",
+					"indices": [
+						66,
+						82
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3913,
+			"friends_count": 2901,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4678,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26523,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 28 19:48:45 +0000 2017",
+			"id": 846811315544846300,
+			"id_str": "846811315544846336",
+			"text": "@jcorippo @mrkrndvs @Alex_Corbitt @techcoachjuarez @Curiosity_Films Let's Drop 'College Ready' &amp; Be 'Career Ready'… https://t.co/XBScjcQJig",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jcorippo",
+						"name": "jcorippo ",
+						"id": 14080892,
+						"id_str": "14080892",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							10,
+							19
+						]
+					},
+					{
+						"screen_name": "Alex_Corbitt",
+						"name": "Alex Corbitt",
+						"id": 2895054004,
+						"id_str": "2895054004",
+						"indices": [
+							20,
+							33
+						]
+					},
+					{
+						"screen_name": "techcoachjuarez",
+						"name": "Adam Juarez",
+						"id": 382835502,
+						"id_str": "382835502",
+						"indices": [
+							34,
+							50
+						]
+					},
+					{
+						"screen_name": "Curiosity_Films",
+						"name": "Jim Bentley",
+						"id": 75387050,
+						"id_str": "75387050",
+						"indices": [
+							51,
+							67
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XBScjcQJig",
+						"expanded_url": "https://twitter.com/i/web/status/846811315544846336",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 14080892,
+			"in_reply_to_user_id_str": "14080892",
+			"in_reply_to_screen_name": "jcorippo",
+			"user": {
+				"id": 233349852,
+				"id_str": "233349852",
+				"name": "Michael W. Niehoff",
+				"screen_name": "mwniehoff",
+				"location": "www.michaelniehoff.com",
+				"description": "CTE COS, Student Advocate/PBL Practitioner, Google Certified Innovator, Founding Principal Minarets HS, BIE National Faculty, Blogger, Teach Like A Feral Pig",
+				"url": "https://t.co/Zy7TVjPjKZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Zy7TVjPjKZ",
+								"expanded_url": "http://changingislearning.blogspot.com",
+								"display_url": "changingislearning.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3454,
+				"friends_count": 3809,
+				"listed_count": 335,
+				"created_at": "Mon Jan 03 00:47:26 +0000 2011",
+				"favourites_count": 7928,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12654,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/618144117869015040/vlU4RxwF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/618144117869015040/vlU4RxwF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/233349852/1435788714",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 29 08:45:58 +0000 2017",
 		"id": 847006908993089500,
 		"id_str": "847006908993089536",
