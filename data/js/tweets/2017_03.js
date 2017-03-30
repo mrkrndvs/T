@@ -1,6 +1,514 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Thu Mar 30 05:49:23 +0000 2017",
+		"id": 847324857540804600,
+		"id_str": "847324857540804608",
+		"text": "@kelly_moore80 #vlookup are pretty handy. Worth a look #GoogleSheets #SheetsGeek https://t.co/4rLZEHmDzD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "vlookup",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "GoogleSheets",
+					"indices": [
+						55,
+						68
+					]
+				},
+				{
+					"text": "SheetsGeek",
+					"indices": [
+						69,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kelly_moore80",
+					"name": "Kelly Moore",
+					"id": 2825162736,
+					"id_str": "2825162736",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4rLZEHmDzD",
+					"expanded_url": "https://twitter.com/jayatwood/status/831292687605116928",
+					"display_url": "twitter.com/jayatwood/stat…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 2825162736,
+		"in_reply_to_user_id_str": "2825162736",
+		"in_reply_to_screen_name": "kelly_moore80",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3917,
+			"friends_count": 2902,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4675,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26538,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 831292687605116900,
+		"quoted_status_id_str": "831292687605116928",
+		"quoted_status": {
+			"created_at": "Tue Feb 14 00:03:16 +0000 2017",
+			"id": 831292687605116900,
+			"id_str": "831292687605116928",
+			"text": "#sheetsgeeks beware:\"VLOOKUP is the gateway drug of spreadsheet formulas.\" @losersHQ #truth https://t.co/zMmjyJHWzR #edtechteam",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sheetsgeeks",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"text": "truth",
+						"indices": [
+							85,
+							91
+						]
+					},
+					{
+						"text": "edtechteam",
+						"indices": [
+							116,
+							127
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "losersHQ",
+						"name": "Coding is for Losers",
+						"id": 4472228655,
+						"id_str": "4472228655",
+						"indices": [
+							75,
+							84
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zMmjyJHWzR",
+						"expanded_url": "http://codingisforlosers.com",
+						"display_url": "codingisforlosers.com",
+						"indices": [
+							92,
+							115
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 43616483,
+				"id_str": "43616483",
+				"name": "Jay Atwood",
+				"screen_name": "jayatwood",
+				"location": "Sydney, Australia",
+				"description": "Ameri-Aussie Ed Tech Geek, Google Certified Innovator & Trainer, ADE, former IB Psych Dep Chief Examiner, #travelnerd, photographer, problem solver",
+				"url": "https://t.co/8DqJFEJUP6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8DqJFEJUP6",
+								"expanded_url": "http://google.com/+JayAtwood",
+								"display_url": "google.com/+JayAtwood",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4890,
+				"friends_count": 1408,
+				"listed_count": 257,
+				"created_at": "Sat May 30 23:39:21 +0000 2009",
+				"favourites_count": 542,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3412,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/717306837004001280/KQZem7nt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/717306837004001280/KQZem7nt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/43616483/1361366212",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Mar 30 05:47:15 +0000 2017",
+		"id": 847324321538129900,
+		"id_str": "847324321538129920",
+		"text": "@kelly_moore80 might be worth a look #GoogleSheets #SheetsGeek https://t.co/2378fR3fM0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleSheets",
+					"indices": [
+						37,
+						50
+					]
+				},
+				{
+					"text": "SheetsGeek",
+					"indices": [
+						51,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kelly_moore80",
+					"name": "Kelly Moore",
+					"id": 2825162736,
+					"id_str": "2825162736",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2378fR3fM0",
+					"expanded_url": "https://twitter.com/benlcollins/status/690881884021243905",
+					"display_url": "twitter.com/benlcollins/st…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 2825162736,
+		"in_reply_to_user_id_str": "2825162736",
+		"in_reply_to_screen_name": "kelly_moore80",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3917,
+			"friends_count": 2902,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4675,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26538,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 690881884021243900,
+		"quoted_status_id_str": "690881884021243905",
+		"quoted_status": {
+			"created_at": "Sat Jan 23 13:00:51 +0000 2016",
+			"id": 690881884021243900,
+			"id_str": "690881884021243905",
+			"text": "SPICE UP YOUR SHEET LIFE: Grab a copy of my ebook with 35 #Excel &amp; Google Sheets tips &amp; tricks https://t.co/MDqxrgTorb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Excel",
+						"indices": [
+							58,
+							64
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MDqxrgTorb",
+						"expanded_url": "http://www.benlcollins.com/ebook_35_tips_gifs/ebook_landing.html",
+						"display_url": "benlcollins.com/ebook_35_tips_…",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19338407,
+				"id_str": "19338407",
+				"name": "Ben Collins",
+				"screen_name": "benlcollins",
+				"location": "Washington, D.C.",
+				"description": "Husband & Dad. Spreadsheet developer, data analyst, currently freelance consulting and teaching for @GA_DC. Love cycling, mountains and drinking tea.",
+				"url": "https://t.co/zOwpq7XOAl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zOwpq7XOAl",
+								"expanded_url": "http://www.benlcollins.com",
+								"display_url": "benlcollins.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1944,
+				"friends_count": 969,
+				"listed_count": 223,
+				"created_at": "Thu Jan 22 13:43:22 +0000 2009",
+				"favourites_count": 2953,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5412,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CFCFCF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/93920162/morocco_twitter_background__1_.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/93920162/morocco_twitter_background__1_.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/451187758719979520/eoUByp08_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/451187758719979520/eoUByp08_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19338407/1415055908",
+				"profile_link_color": "619DE6",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "ECFFD6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Mar 30 02:00:06 +0000 2017",
 		"id": 847267155888427000,
 		"id_str": "847267155888427013",
