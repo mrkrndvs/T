@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sun Apr 02 06:54:49 +0000 2017",
+		"id": 848428488977662000,
+		"id_str": "848428488977661953",
+		"text": "@deanpearman @CameronRoss3 @TeachTechPlay @SteveBrophy3 @coreyaylen @misskyritsis I noticed it in the pics, only us… https://t.co/ms2OlGXbr5",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "deanpearman",
+					"name": "Dean Pearman",
+					"id": 31024798,
+					"id_str": "31024798",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "CameronRoss3",
+					"name": "Cameron Ross",
+					"id": 285014911,
+					"id_str": "285014911",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "TeachTechPlay",
+					"name": "TeachTechPlay",
+					"id": 2568780559,
+					"id_str": "2568780559",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "SteveBrophy3",
+					"name": "Steve Brophy",
+					"id": 827898170,
+					"id_str": "827898170",
+					"indices": [
+						42,
+						55
+					]
+				},
+				{
+					"screen_name": "coreyaylen",
+					"name": "Corey Aylen",
+					"id": 1450917120,
+					"id_str": "1450917120",
+					"indices": [
+						56,
+						67
+					]
+				},
+				{
+					"screen_name": "misskyritsis",
+					"name": "Eleni Kyritsis",
+					"id": 1461879277,
+					"id_str": "1461879277",
+					"indices": [
+						68,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ms2OlGXbr5",
+					"expanded_url": "https://twitter.com/i/web/status/848428488977661953",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 848425945417433100,
+		"in_reply_to_status_id_str": "848425945417433088",
+		"in_reply_to_user_id": 31024798,
+		"in_reply_to_user_id_str": "31024798",
+		"in_reply_to_screen_name": "deanpearman",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3922,
+			"friends_count": 2902,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4673,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26564,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 02 06:43:58 +0000 2017",
+		"id": 848425760259952600,
+		"id_str": "848425760259952640",
+		"text": "@deanpearman @CameronRoss3 @TeachTechPlay @SteveBrophy3 @coreyaylen @misskyritsis What is different about 2.0 Dean?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "deanpearman",
+					"name": "Dean Pearman",
+					"id": 31024798,
+					"id_str": "31024798",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "CameronRoss3",
+					"name": "Cameron Ross",
+					"id": 285014911,
+					"id_str": "285014911",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "TeachTechPlay",
+					"name": "TeachTechPlay",
+					"id": 2568780559,
+					"id_str": "2568780559",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "SteveBrophy3",
+					"name": "Steve Brophy",
+					"id": 827898170,
+					"id_str": "827898170",
+					"indices": [
+						42,
+						55
+					]
+				},
+				{
+					"screen_name": "coreyaylen",
+					"name": "Corey Aylen",
+					"id": 1450917120,
+					"id_str": "1450917120",
+					"indices": [
+						56,
+						67
+					]
+				},
+				{
+					"screen_name": "misskyritsis",
+					"name": "Eleni Kyritsis",
+					"id": 1461879277,
+					"id_str": "1461879277",
+					"indices": [
+						68,
+						81
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 848420351017074700,
+		"in_reply_to_status_id_str": "848420351017074688",
+		"in_reply_to_user_id": 31024798,
+		"in_reply_to_user_id_str": "31024798",
+		"in_reply_to_screen_name": "deanpearman",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3922,
+			"friends_count": 2902,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4673,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26564,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 02 03:11:07 +0000 2017",
 		"id": 848372194090434600,
 		"id_str": "848372194090434560",
