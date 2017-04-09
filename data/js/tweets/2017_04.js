@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sun Apr 09 20:52:41 +0000 2017",
+		"id": 851176061643640800,
+		"id_str": "851176061643640832",
+		"text": "RT @NeilGortz: Sometimes I sit there overthinking LOTR and wonder where this orc learned the word 'menu' let alone the concept https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NeilGortz",
+					"name": "Neil Gorton",
+					"id": 297903598,
+					"id_str": "297903598",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3936,
+			"friends_count": 2910,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4671,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26745,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 09 09:36:34 +0000 2017",
+			"id": 851005908679356400,
+			"id_str": "851005908679356416",
+			"text": "Sometimes I sit there overthinking LOTR and wonder where this orc learned the word 'menu' let alone the concept https://t.co/8nqI0d9MmJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 851005895794405400,
+						"id_str": "851005895794405378",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C89hWniWsAIA8lr.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C89hWniWsAIA8lr.jpg",
+						"url": "https://t.co/8nqI0d9MmJ",
+						"display_url": "pic.twitter.com/8nqI0d9MmJ",
+						"expanded_url": "https://twitter.com/NeilGortz/status/851005908679356416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 300,
+								"h": 124,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 124,
+								"h": 124,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 300,
+								"h": 124,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 300,
+								"h": 124,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 851005895794405400,
+						"id_str": "851005895794405378",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C89hWniWsAIA8lr.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C89hWniWsAIA8lr.jpg",
+						"url": "https://t.co/8nqI0d9MmJ",
+						"display_url": "pic.twitter.com/8nqI0d9MmJ",
+						"expanded_url": "https://twitter.com/NeilGortz/status/851005908679356416/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 300,
+								"h": 124,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 124,
+								"h": 124,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 300,
+								"h": 124,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 300,
+								"h": 124,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								75,
+								31
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/C89hWniWsAIA8lr.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 297903598,
+				"id_str": "297903598",
+				"name": "Neil Gorton",
+				"screen_name": "NeilGortz",
+				"location": "London",
+				"description": "Community Manager for @JustCause at @Square_Enix_EU - sworn to carry your burdens. 1/3 of @BAMComicscast (ex Capcom's most powerful unit)",
+				"url": "https://t.co/QaxrV8UHiF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QaxrV8UHiF",
+								"expanded_url": "http://eu.square-enix.com/en/home",
+								"display_url": "eu.square-enix.com/en/home",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4889,
+				"friends_count": 721,
+				"listed_count": 111,
+				"created_at": "Fri May 13 09:55:01 +0000 2011",
+				"favourites_count": 46070,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 73783,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000111892663/ee1dbfa48b755d039699afd1a01160ba.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000111892663/ee1dbfa48b755d039699afd1a01160ba.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/794122982763458560/OsaFuedf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/794122982763458560/OsaFuedf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/297903598/1478808536",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3097,
+			"favorite_count": 5976,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3097,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 09 16:33:17 +0000 2017",
 		"id": 851110781538115600,
 		"id_str": "851110781538115584",
