@@ -1,6 +1,734 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Mon Apr 10 10:07:06 +0000 2017",
+		"id": 851375980555849700,
+		"id_str": "851375980555849728",
+		"text": "\"2017 iPad 1:1 App List.\" @CorrieB  https://t.co/jflbRZSpy1 #vicpln #ipaded",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "vicpln",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"text": "ipaded",
+					"indices": [
+						68,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CorrieB",
+					"name": "Corrie Barclay",
+					"id": 196529471,
+					"id_str": "196529471",
+					"indices": [
+						26,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jflbRZSpy1",
+					"expanded_url": "http://cbarclay.global2.vic.edu.au/2017/04/10/our-2017-ipad-11-app-list/",
+					"display_url": "cbarclay.global2.vic.edu.au/2017/04/10/our…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3935,
+			"friends_count": 2910,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4671,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26753,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 10 09:39:53 +0000 2017",
+		"id": 851369133815939100,
+		"id_str": "851369133815939072",
+		"text": "RT @stuartkellynz: @mrkrndvs @Juliet_Revell @GeoMouldey @EduWells @ClaireAmosNZ It doesn't exist LOL I meant SILO Park. #digitaledchat",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digitaledchat",
+					"indices": [
+						120,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stuartkellynz",
+					"name": "Stuart Kelly",
+					"id": 3150519919,
+					"id_str": "3150519919",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						19,
+						28
+					]
+				},
+				{
+					"screen_name": "Juliet_Revell",
+					"name": "Juliet Revell",
+					"id": 32837785,
+					"id_str": "32837785",
+					"indices": [
+						29,
+						43
+					]
+				},
+				{
+					"screen_name": "GeoMouldey",
+					"name": "Steve Mouldey",
+					"id": 299908186,
+					"id_str": "299908186",
+					"indices": [
+						44,
+						55
+					]
+				},
+				{
+					"screen_name": "EduWells",
+					"name": "Richard Wells",
+					"id": 372213543,
+					"id_str": "372213543",
+					"indices": [
+						56,
+						65
+					]
+				},
+				{
+					"screen_name": "ClaireAmosNZ",
+					"name": "Claire Amos",
+					"id": 22454921,
+					"id_str": "22454921",
+					"indices": [
+						66,
+						79
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3935,
+			"friends_count": 2910,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4671,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26753,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 10 09:37:05 +0000 2017",
+			"id": 851368429856579600,
+			"id_str": "851368429856579584",
+			"text": "@mrkrndvs @Juliet_Revell @GeoMouldey @EduWells @ClaireAmosNZ It doesn't exist LOL I meant SILO Park. #digitaledchat",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "digitaledchat",
+						"indices": [
+							101,
+							115
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "Juliet_Revell",
+						"name": "Juliet Revell",
+						"id": 32837785,
+						"id_str": "32837785",
+						"indices": [
+							10,
+							24
+						]
+					},
+					{
+						"screen_name": "GeoMouldey",
+						"name": "Steve Mouldey",
+						"id": 299908186,
+						"id_str": "299908186",
+						"indices": [
+							25,
+							36
+						]
+					},
+					{
+						"screen_name": "EduWells",
+						"name": "Richard Wells",
+						"id": 372213543,
+						"id_str": "372213543",
+						"indices": [
+							37,
+							46
+						]
+					},
+					{
+						"screen_name": "ClaireAmosNZ",
+						"name": "Claire Amos",
+						"id": 22454921,
+						"id_str": "22454921",
+						"indices": [
+							47,
+							60
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 851368240819322900,
+			"in_reply_to_status_id_str": "851368240819322880",
+			"in_reply_to_user_id": 372768752,
+			"in_reply_to_user_id_str": "372768752",
+			"in_reply_to_screen_name": "mrkrndvs",
+			"user": {
+				"id": 3150519919,
+				"id_str": "3150519919",
+				"name": "Stuart Kelly",
+				"screen_name": "stuartkellynz",
+				"location": "",
+				"description": "Deputy Principal, #edtech teacher & advocate, GoogleET, ICDL, #digitaledchat host. #connectED, #studentvoice. Dreamer!",
+				"url": "https://t.co/uOAj6hwF2B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uOAj6hwF2B",
+								"expanded_url": "http://stuartkellynz.com",
+								"display_url": "stuartkellynz.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7065,
+				"friends_count": 5427,
+				"listed_count": 404,
+				"created_at": "Sat Apr 11 20:41:27 +0000 2015",
+				"favourites_count": 33335,
+				"utc_offset": 43200,
+				"time_zone": "Auckland",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28580,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/622169776400416769/pIWvBjrv.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/622169776400416769/pIWvBjrv.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/840870964376215553/ZYbGBONS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/840870964376215553/ZYbGBONS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3150519919/1460266104",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 10 09:39:10 +0000 2017",
+		"id": 851368952773070800,
+		"id_str": "851368952773070848",
+		"text": "@Juliet_Revell @GeoMouldey @stuartkellynz @EduWells @ClaireAmosNZ Thank you all for the ideas, now to join the dots https://t.co/iTmqxbE9eU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Juliet_Revell",
+					"name": "Juliet Revell",
+					"id": 32837785,
+					"id_str": "32837785",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "GeoMouldey",
+					"name": "Steve Mouldey",
+					"id": 299908186,
+					"id_str": "299908186",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "stuartkellynz",
+					"name": "Stuart Kelly",
+					"id": 3150519919,
+					"id_str": "3150519919",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "EduWells",
+					"name": "Richard Wells",
+					"id": 372213543,
+					"id_str": "372213543",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"screen_name": "ClaireAmosNZ",
+					"name": "Claire Amos",
+					"id": 22454921,
+					"id_str": "22454921",
+					"indices": [
+						52,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iTmqxbE9eU",
+					"expanded_url": "https://www.google.com/maps/placelists/list/1ishNYb8hiLWzAM1F8cZpdCzlPcU",
+					"display_url": "google.com/maps/placelist…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 851351793137197000,
+		"in_reply_to_status_id_str": "851351793137197057",
+		"in_reply_to_user_id": 372768752,
+		"in_reply_to_user_id_str": "372768752",
+		"in_reply_to_screen_name": "mrkrndvs",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3935,
+			"friends_count": 2910,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4671,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26753,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 10 09:36:20 +0000 2017",
+		"id": 851368240819322900,
+		"id_str": "851368240819322880",
+		"text": "@stuartkellynz @Juliet_Revell @GeoMouldey @EduWells @ClaireAmosNZ Where is 'quay park' Stuart, all I find is a surgical centre 🤔",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stuartkellynz",
+					"name": "Stuart Kelly",
+					"id": 3150519919,
+					"id_str": "3150519919",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Juliet_Revell",
+					"name": "Juliet Revell",
+					"id": 32837785,
+					"id_str": "32837785",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "GeoMouldey",
+					"name": "Steve Mouldey",
+					"id": 299908186,
+					"id_str": "299908186",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"screen_name": "EduWells",
+					"name": "Richard Wells",
+					"id": 372213543,
+					"id_str": "372213543",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"screen_name": "ClaireAmosNZ",
+					"name": "Claire Amos",
+					"id": 22454921,
+					"id_str": "22454921",
+					"indices": [
+						52,
+						65
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 851356104898428900,
+		"in_reply_to_status_id_str": "851356104898428929",
+		"in_reply_to_user_id": 3150519919,
+		"in_reply_to_user_id_str": "3150519919",
+		"in_reply_to_screen_name": "stuartkellynz",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3935,
+			"friends_count": 2910,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4671,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26753,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 10 08:30:59 +0000 2017",
 		"id": 851351793137197000,
 		"id_str": "851351793137197057",
