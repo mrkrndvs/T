@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sun Apr 16 04:50:51 +0000 2017",
+		"id": 853470720252272600,
+		"id_str": "853470720252272640",
+		"text": "RT @digitallearnin: Yay! CU Thurs #GTASYD14 @chrisbetcher  @GeekyAusTeacher @anthsperanza @mrkrndvs @kehall16 @bethlambnz @Juliet_Revell @b…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GTASYD14",
+					"indices": [
+						34,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "digitallearnin",
+					"name": "Justine Driver",
+					"id": 10174062,
+					"id_str": "10174062",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "chrisbetcher",
+					"name": "Chris Betcher",
+					"id": 55837450,
+					"id_str": "55837450",
+					"indices": [
+						44,
+						57
+					]
+				},
+				{
+					"screen_name": "GeekyAusTeacher",
+					"name": "Alfina Jackson",
+					"id": 34549638,
+					"id_str": "34549638",
+					"indices": [
+						59,
+						75
+					]
+				},
+				{
+					"screen_name": "anthsperanza",
+					"name": "Anthony Speranza",
+					"id": 130416490,
+					"id_str": "130416490",
+					"indices": [
+						76,
+						89
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"screen_name": "kehall16",
+					"name": "Kimberley Hall",
+					"id": 781672224,
+					"id_str": "781672224",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"screen_name": "bethlambnz",
+					"name": "Bethl",
+					"id": 138216218,
+					"id_str": "138216218",
+					"indices": [
+						110,
+						121
+					]
+				},
+				{
+					"screen_name": "Juliet_Revell",
+					"name": "Juliet Revell",
+					"id": 32837785,
+					"id_str": "32837785",
+					"indices": [
+						122,
+						136
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3939,
+			"friends_count": 2912,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4675,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26802,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 16 03:37:20 +0000 2017",
+			"id": 853452221450600400,
+			"id_str": "853452221450600449",
+			"text": "Yay! CU Thurs #GTASYD14 @chrisbetcher  @GeekyAusTeacher @anthsperanza @mrkrndvs @kehall16 @bethlambnz @Juliet_Revell @barbs1 @nzleeangela",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GTASYD14",
+						"indices": [
+							14,
+							23
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "chrisbetcher",
+						"name": "Chris Betcher",
+						"id": 55837450,
+						"id_str": "55837450",
+						"indices": [
+							24,
+							37
+						]
+					},
+					{
+						"screen_name": "GeekyAusTeacher",
+						"name": "Alfina Jackson",
+						"id": 34549638,
+						"id_str": "34549638",
+						"indices": [
+							39,
+							55
+						]
+					},
+					{
+						"screen_name": "anthsperanza",
+						"name": "Anthony Speranza",
+						"id": 130416490,
+						"id_str": "130416490",
+						"indices": [
+							56,
+							69
+						]
+					},
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							70,
+							79
+						]
+					},
+					{
+						"screen_name": "kehall16",
+						"name": "Kimberley Hall",
+						"id": 781672224,
+						"id_str": "781672224",
+						"indices": [
+							80,
+							89
+						]
+					},
+					{
+						"screen_name": "bethlambnz",
+						"name": "Bethl",
+						"id": 138216218,
+						"id_str": "138216218",
+						"indices": [
+							90,
+							101
+						]
+					},
+					{
+						"screen_name": "Juliet_Revell",
+						"name": "Juliet Revell",
+						"id": 32837785,
+						"id_str": "32837785",
+						"indices": [
+							102,
+							116
+						]
+					},
+					{
+						"screen_name": "barbs1",
+						"name": "Barb Reid ",
+						"id": 9315212,
+						"id_str": "9315212",
+						"indices": [
+							117,
+							124
+						]
+					},
+					{
+						"screen_name": "nzleeangela",
+						"name": "Angela Lee",
+						"id": 36308151,
+						"id_str": "36308151",
+						"indices": [
+							125,
+							137
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10174062,
+				"id_str": "10174062",
+				"name": "Justine Driver",
+				"screen_name": "digitallearnin",
+				"location": "New Zealand",
+				"description": "Principal @SunnyhillsSch, AKL, NZ. MEdLM w Teaching as Inquiry. Google Certified Innovator (GTASYD14), @GEG_NZ Leader & Creator of @CLVRCK",
+				"url": "https://t.co/PMiRihc97j",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PMiRihc97j",
+								"expanded_url": "http://digitallearningnz.blogspot.co.nz/",
+								"display_url": "digitallearningnz.blogspot.co.nz",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2411,
+				"friends_count": 1236,
+				"listed_count": 173,
+				"created_at": "Mon Nov 12 07:19:55 +0000 2007",
+				"favourites_count": 3973,
+				"utc_offset": 43200,
+				"time_zone": "Auckland",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8085,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4E464B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3738762/bg_twittergallery.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3738762/bg_twittergallery.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/542881902/me_patriot_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/542881902/me_patriot_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10174062/1398900131",
+				"profile_link_color": "EB2711",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFFAFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0022e3c837579650",
+				"url": "https://api.twitter.com/1.1/geo/id/0022e3c837579650.json",
+				"place_type": "city",
+				"name": "Auckland",
+				"full_name": "Auckland, New Zealand",
+				"country_code": "NZ",
+				"country": "New Zealand",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								174.161834,
+								-37.292621
+							],
+							[
+								175.550653,
+								-37.292621
+							],
+							[
+								175.550653,
+								-35.898837
+							],
+							[
+								174.161834,
+								-35.898837
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 16 03:35:34 +0000 2017",
 		"id": 853451774937538600,
 		"id_str": "853451774937538561",
