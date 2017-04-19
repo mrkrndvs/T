@@ -1,6 +1,459 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Wed Apr 19 21:02:49 +0000 2017",
+		"id": 854802489861742600,
+		"id_str": "854802489861742592",
+		"text": "RT @stuartkellynz: #gafesummit AKL @aorerecollege is ready to rock and roll! Let's go @edtechteam #oneteam #oneclassroom https://t.co/5w0m3…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "gafesummit",
+					"indices": [
+						19,
+						30
+					]
+				},
+				{
+					"text": "oneteam",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "oneclassroom",
+					"indices": [
+						107,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stuartkellynz",
+					"name": "Stuart Kelly",
+					"id": 3150519919,
+					"id_str": "3150519919",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "AorereCollege",
+					"name": "Aorere College",
+					"id": 3220686595,
+					"id_str": "3220686595",
+					"indices": [
+						35,
+						49
+					]
+				},
+				{
+					"screen_name": "edtechteam",
+					"name": "EdTechTeam, Inc.",
+					"id": 193749426,
+					"id_str": "193749426",
+					"indices": [
+						86,
+						97
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3948,
+			"friends_count": 2913,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4677,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26856,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 19 20:27:58 +0000 2017",
+			"id": 854793719005945900,
+			"id_str": "854793719005945856",
+			"text": "#gafesummit AKL @aorerecollege is ready to rock and roll! Let's go @edtechteam #oneteam #oneclassroom https://t.co/5w0m3c911Q",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "gafesummit",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"text": "oneteam",
+						"indices": [
+							79,
+							87
+						]
+					},
+					{
+						"text": "oneclassroom",
+						"indices": [
+							88,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AorereCollege",
+						"name": "Aorere College",
+						"id": 3220686595,
+						"id_str": "3220686595",
+						"indices": [
+							16,
+							30
+						]
+					},
+					{
+						"screen_name": "edtechteam",
+						"name": "EdTechTeam, Inc.",
+						"id": 193749426,
+						"id_str": "193749426",
+						"indices": [
+							67,
+							78
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 854793682012094500,
+						"id_str": "854793682012094464",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/C9zWUyyUQAA_jYX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9zWUyyUQAA_jYX.jpg",
+						"url": "https://t.co/5w0m3c911Q",
+						"display_url": "pic.twitter.com/5w0m3c911Q",
+						"expanded_url": "https://twitter.com/stuartkellynz/status/854793719005945856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 854793682012094500,
+						"id_str": "854793682012094464",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/C9zWUyyUQAA_jYX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9zWUyyUQAA_jYX.jpg",
+						"url": "https://t.co/5w0m3c911Q",
+						"display_url": "pic.twitter.com/5w0m3c911Q",
+						"expanded_url": "https://twitter.com/stuartkellynz/status/854793719005945856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3150519919,
+				"id_str": "3150519919",
+				"name": "Stuart Kelly",
+				"screen_name": "stuartkellynz",
+				"location": "",
+				"description": "Deputy Principal, #edtech teacher & advocate, GoogleET, ICDL, #digitaledchat host. #connectED, #studentvoice. Dreamer!",
+				"url": "https://t.co/uOAj6hwF2B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uOAj6hwF2B",
+								"expanded_url": "http://stuartkellynz.com",
+								"display_url": "stuartkellynz.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7112,
+				"friends_count": 5449,
+				"listed_count": 403,
+				"created_at": "Sat Apr 11 20:41:27 +0000 2015",
+				"favourites_count": 33358,
+				"utc_offset": 43200,
+				"time_zone": "Auckland",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28612,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/622169776400416769/pIWvBjrv.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/622169776400416769/pIWvBjrv.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/853179776915210240/I2Pv6uJx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/853179776915210240/I2Pv6uJx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3150519919/1460266104",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 19 20:59:58 +0000 2017",
+		"id": 854801771222360000,
+		"id_str": "854801771222360064",
+		"text": "What an experience to start Auckland #edtechteam Summit with a Powhiri",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtechteam",
+					"indices": [
+						37,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3948,
+			"friends_count": 2913,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4677,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26856,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Apr 19 17:35:45 +0000 2017",
 		"id": 854750379820679200,
 		"id_str": "854750379820679168",
