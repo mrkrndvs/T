@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sat Apr 22 10:08:17 +0000 2017",
+		"id": 855724935171289100,
+		"id_str": "855724935171289088",
+		"text": "RT @EduWells: Great to finally meet and chat with @mrkrndvs this week. #EdTechTeam https://t.co/9QGyVoz55o",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EdTechTeam",
+					"indices": [
+						71,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EduWells",
+					"name": "Richard Wells",
+					"id": 372213543,
+					"id_str": "372213543",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						50,
+						59
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 855549590853959700,
+					"id_str": "855549590853959680",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/C9-F0eqUwAAofrZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9-F0eqUwAAofrZ.jpg",
+					"url": "https://t.co/9QGyVoz55o",
+					"display_url": "pic.twitter.com/9QGyVoz55o",
+					"expanded_url": "https://twitter.com/EduWells/status/855549595413135360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 256,
+							"h": 192,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 256,
+							"h": 192,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 256,
+							"h": 192,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 855549595413135400,
+					"source_status_id_str": "855549595413135360",
+					"source_user_id": 372213543,
+					"source_user_id_str": "372213543"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 855549590853959700,
+					"id_str": "855549590853959680",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/C9-F0eqUwAAofrZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9-F0eqUwAAofrZ.jpg",
+					"url": "https://t.co/9QGyVoz55o",
+					"display_url": "pic.twitter.com/9QGyVoz55o",
+					"expanded_url": "https://twitter.com/EduWells/status/855549595413135360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 256,
+							"h": 192,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 256,
+							"h": 192,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 256,
+							"h": 192,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 855549595413135400,
+					"source_status_id_str": "855549595413135360",
+					"source_user_id": 372213543,
+					"source_user_id_str": "372213543"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3966,
+			"friends_count": 2918,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4681,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26917,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 21 22:31:33 +0000 2017",
+			"id": 855549595413135400,
+			"id_str": "855549595413135360",
+			"text": "Great to finally meet and chat with @mrkrndvs this week. #EdTechTeam https://t.co/9QGyVoz55o",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EdTechTeam",
+						"indices": [
+							57,
+							68
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							36,
+							45
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 855549590853959700,
+						"id_str": "855549590853959680",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/C9-F0eqUwAAofrZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9-F0eqUwAAofrZ.jpg",
+						"url": "https://t.co/9QGyVoz55o",
+						"display_url": "pic.twitter.com/9QGyVoz55o",
+						"expanded_url": "https://twitter.com/EduWells/status/855549595413135360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 256,
+								"h": 192,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 256,
+								"h": 192,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 256,
+								"h": 192,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 855549590853959700,
+						"id_str": "855549590853959680",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/C9-F0eqUwAAofrZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9-F0eqUwAAofrZ.jpg",
+						"url": "https://t.co/9QGyVoz55o",
+						"display_url": "pic.twitter.com/9QGyVoz55o",
+						"expanded_url": "https://twitter.com/EduWells/status/855549595413135360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 256,
+								"h": 192,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 256,
+								"h": 192,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 256,
+								"h": 192,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 372213543,
+				"id_str": "372213543",
+				"name": "Richard Wells",
+				"screen_name": "EduWells",
+				"location": "Auckland",
+				"description": "Teacher, Author #LearnersParadise, Dep. Principal #NZ High #School, International #Speaker, #EdChatNZ Moderator, @huffpostedu Top #Teacher Blogger #EdTech #Art",
+				"url": "https://t.co/j0bDRg8nij",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/j0bDRg8nij",
+								"expanded_url": "http://EduWells.com",
+								"display_url": "EduWells.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15143,
+				"friends_count": 8621,
+				"listed_count": 813,
+				"created_at": "Mon Sep 12 10:53:20 +0000 2011",
+				"favourites_count": 6199,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13451,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1F1B1B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000084495144/0fd65834b2fd257c9039c5fc2351b270.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000084495144/0fd65834b2fd257c9039c5fc2351b270.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793194703382470656/YU2cNjkW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793194703382470656/YU2cNjkW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/372213543/1480805102",
+				"profile_link_color": "115E16",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFE0D4",
+				"profile_text_color": "851818",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 22 08:39:33 +0000 2017",
 		"id": 855702604692811800,
 		"id_str": "855702604692811776",
