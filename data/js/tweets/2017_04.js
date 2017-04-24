@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Mon Apr 24 20:58:16 +0000 2017",
+		"id": 856613283532464100,
+		"id_str": "856613283532464128",
+		"text": "RT @Juliet_Revell: Here's to reigniting the flame @mrkrndvs @betchaboy\n #Moonshot #GTASYD https://t.co/INw6SolDWJ #edchatNZ https://t.co/4s…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Moonshot",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"text": "GTASYD",
+					"indices": [
+						82,
+						89
+					]
+				},
+				{
+					"text": "edchatNZ",
+					"indices": [
+						114,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Juliet_Revell",
+					"name": "Juliet Revell",
+					"id": 32837785,
+					"id_str": "32837785",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						50,
+						59
+					]
+				},
+				{
+					"screen_name": "betchaboy",
+					"name": "Chris Betcher",
+					"id": 779452,
+					"id_str": "779452",
+					"indices": [
+						60,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/INw6SolDWJ",
+					"expanded_url": "http://readwriterespond.com/?p=3241#aussieED",
+					"display_url": "readwriterespond.com/?p=3241#aussie…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3970,
+			"friends_count": 2929,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4681,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26935,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 24 19:29:25 +0000 2017",
+			"id": 856590924956131300,
+			"id_str": "856590924956131329",
+			"text": "Here's to reigniting the flame @mrkrndvs @betchaboy\n #Moonshot #GTASYD https://t.co/INw6SolDWJ #edchatNZ https://t.co/4s15fEOb40",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Moonshot",
+						"indices": [
+							53,
+							62
+						]
+					},
+					{
+						"text": "GTASYD",
+						"indices": [
+							63,
+							70
+						]
+					},
+					{
+						"text": "edchatNZ",
+						"indices": [
+							95,
+							104
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							31,
+							40
+						]
+					},
+					{
+						"screen_name": "betchaboy",
+						"name": "Chris Betcher",
+						"id": 779452,
+						"id_str": "779452",
+						"indices": [
+							41,
+							51
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/INw6SolDWJ",
+						"expanded_url": "http://readwriterespond.com/?p=3241#aussieED",
+						"display_url": "readwriterespond.com/?p=3241#aussie…",
+						"indices": [
+							71,
+							94
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 856590911068819500,
+						"id_str": "856590911068819456",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/C-M45SwV0AAWpY2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-M45SwV0AAWpY2.jpg",
+						"url": "https://t.co/4s15fEOb40",
+						"display_url": "pic.twitter.com/4s15fEOb40",
+						"expanded_url": "https://twitter.com/Juliet_Revell/status/856590924956131329/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 380,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 817,
+								"h": 456,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 817,
+								"h": 456,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 856590911068819500,
+						"id_str": "856590911068819456",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/C-M45SwV0AAWpY2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-M45SwV0AAWpY2.jpg",
+						"url": "https://t.co/4s15fEOb40",
+						"display_url": "pic.twitter.com/4s15fEOb40",
+						"expanded_url": "https://twitter.com/Juliet_Revell/status/856590924956131329/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 380,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 817,
+								"h": 456,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 817,
+								"h": 456,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 32837785,
+				"id_str": "32837785",
+				"name": "Juliet Revell",
+				"screen_name": "Juliet_Revell",
+				"location": "Hawke's Bay, New Zealand",
+				"description": "Teacher of mindful Y2 thinkers @MahoraRm15 @MahoraSchool Google for Education Certified Innovator #GoogleEI #GTASYD14 Post Grad @NZMindLab 2017",
+				"url": "https://t.co/FYix0pcTI0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FYix0pcTI0",
+								"expanded_url": "http://julietrevell.blogspot.co.nz/",
+								"display_url": "julietrevell.blogspot.co.nz",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2993,
+				"friends_count": 3047,
+				"listed_count": 172,
+				"created_at": "Sat Apr 18 09:09:09 +0000 2009",
+				"favourites_count": 5546,
+				"utc_offset": 43200,
+				"time_zone": "Auckland",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8442,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1384718963/JMR_Small2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384718963/JMR_Small2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/32837785/1461785379",
+				"profile_link_color": "4F99E8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 24 14:45:50 +0000 2017",
 		"id": 856519556994551800,
 		"id_str": "856519556994551812",
