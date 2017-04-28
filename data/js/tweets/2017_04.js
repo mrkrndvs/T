@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Fri Apr 28 00:16:53 +0000 2017",
+		"id": 857750431857909800,
+		"id_str": "857750431857909760",
+		"text": "Thanks @twhitford. If you are interested, I recommend @EduWells book https://t.co/ZEUI6q9znQ #edtechteam #edreform",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtechteam",
+					"indices": [
+						93,
+						104
+					]
+				},
+				{
+					"text": "edreform",
+					"indices": [
+						105,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "twhitford",
+					"name": "Tom Whitford",
+					"id": 503908132,
+					"id_str": "503908132",
+					"indices": [
+						7,
+						17
+					]
+				},
+				{
+					"screen_name": "EduWells",
+					"name": "Richard Wells",
+					"id": 372213543,
+					"id_str": "372213543",
+					"indices": [
+						54,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZEUI6q9znQ",
+					"expanded_url": "http://readwriterespond.com/?p=2630",
+					"display_url": "readwriterespond.com/?p=2630",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 857720020213911600,
+		"in_reply_to_status_id_str": "857720020213911552",
+		"in_reply_to_user_id": 503908132,
+		"in_reply_to_user_id_str": "503908132",
+		"in_reply_to_screen_name": "twhitford",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3986,
+			"friends_count": 2933,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4687,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27027,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Apr 27 23:56:34 +0000 2017",
 		"id": 857745316736450600,
 		"id_str": "857745316736450560",
