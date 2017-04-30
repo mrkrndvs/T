@@ -1,6 +1,603 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sun Apr 30 10:55:29 +0000 2017",
+		"id": 858635914087612400,
+		"id_str": "858635914087612416",
+		"text": "RT @misterwootube: @MRsalakas Sorry to throw this in Brett, but #aussieED folks may be interested in this episode of @AustralianStory tomor…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aussieED",
+					"indices": [
+						64,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "misterwootube",
+					"name": "Eddie Woo",
+					"id": 1425288158,
+					"id_str": "1425288158",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "MRsalakas",
+					"name": "Brett Salakas",
+					"id": 302870540,
+					"id_str": "302870540",
+					"indices": [
+						19,
+						29
+					]
+				},
+				{
+					"screen_name": "AustralianStory",
+					"name": "Australian Story",
+					"id": 221584601,
+					"id_str": "221584601",
+					"indices": [
+						117,
+						133
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3995,
+			"friends_count": 2937,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4696,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27064,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 30 10:53:50 +0000 2017",
+			"id": 858635499673538600,
+			"id_str": "858635499673538561",
+			"text": "@MRsalakas Sorry to throw this in Brett, but #aussieED folks may be interested in this episode of @AustralianStory… https://t.co/Y9pAlP85ZY",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "aussieED",
+						"indices": [
+							45,
+							54
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MRsalakas",
+						"name": "Brett Salakas",
+						"id": 302870540,
+						"id_str": "302870540",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "AustralianStory",
+						"name": "Australian Story",
+						"id": 221584601,
+						"id_str": "221584601",
+						"indices": [
+							98,
+							114
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Y9pAlP85ZY",
+						"expanded_url": "https://twitter.com/i/web/status/858635499673538561",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 858634556101894100,
+			"in_reply_to_status_id_str": "858634556101894145",
+			"in_reply_to_user_id": 302870540,
+			"in_reply_to_user_id_str": "302870540",
+			"in_reply_to_screen_name": "MRsalakas",
+			"user": {
+				"id": 1425288158,
+				"id_str": "1425288158",
+				"name": "Eddie Woo",
+				"screen_name": "misterwootube",
+				"location": "Sydney, Australia",
+				"description": "Head Teacher Mathematics at public comprehensive school. Tweets for @MathsNSW. Unskilled but prolific videographer at https://t.co/hTMgfuE0iY",
+				"url": "https://t.co/z0XlaKytuW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/z0XlaKytuW",
+								"expanded_url": "http://www.misterwootube.com",
+								"display_url": "misterwootube.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/hTMgfuE0iY",
+								"expanded_url": "http://youtube.com/misterwootube",
+								"display_url": "youtube.com/misterwootube",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3427,
+				"friends_count": 217,
+				"listed_count": 72,
+				"created_at": "Mon May 13 11:24:50 +0000 2013",
+				"favourites_count": 1963,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7236,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/775568833687883776/jSwwF_GX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/775568833687883776/jSwwF_GX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1425288158/1368447667",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 857478383835291600,
+			"quoted_status_id_str": "857478383835291648",
+			"quoted_status": {
+				"created_at": "Thu Apr 27 06:15:52 +0000 2017",
+				"id": 857478383835291600,
+				"id_str": "857478383835291648",
+				"text": "This Mon on #AustralianStory, how a Sydney maths teacher is wooing students with technology https://t.co/EFvLmVojVO… https://t.co/G7qiXRhwm5",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "AustralianStory",
+							"indices": [
+								12,
+								28
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/EFvLmVojVO",
+							"expanded_url": "http://ab.co/1uS9M9t",
+							"display_url": "ab.co/1uS9M9t",
+							"indices": [
+								92,
+								115
+							]
+						},
+						{
+							"url": "https://t.co/G7qiXRhwm5",
+							"expanded_url": "https://twitter.com/i/web/status/857478383835291648",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 221584601,
+					"id_str": "221584601",
+					"name": "Australian Story",
+					"screen_name": "AustralianStory",
+					"location": "Australia",
+					"description": "Australian Story is an acclaimed documentary series - 8pm Mondays on ABC. This is an official @ABCaustralia account.",
+					"url": "https://t.co/zEohtAgVZo",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/zEohtAgVZo",
+									"expanded_url": "http://www.abc.net.au/austory",
+									"display_url": "abc.net.au/austory",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 26746,
+					"friends_count": 1022,
+					"listed_count": 326,
+					"created_at": "Wed Dec 01 01:42:24 +0000 2010",
+					"favourites_count": 7273,
+					"utc_offset": 36000,
+					"time_zone": "Brisbane",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 13174,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/420041438/Aus_Story-Twitter-background.JPG",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/420041438/Aus_Story-Twitter-background.JPG",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/743625227863621632/ETx7BqbM_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/743625227863621632/ETx7BqbM_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/221584601/1493341966",
+					"profile_link_color": "C56930",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 40,
+				"favorite_count": 53,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 5,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 857478383835291600,
+		"quoted_status_id_str": "857478383835291648",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 30 10:54:39 +0000 2017",
+		"id": 858635705672544300,
+		"id_str": "858635705672544256",
+		"text": "RT @richardolsen: A2 People still really believe that students learn along a linear path.. learning doesn't work that way! #aussieED",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aussieED",
+					"indices": [
+						123,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "richardolsen",
+					"name": "Richard Olsen",
+					"id": 11649492,
+					"id_str": "11649492",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3995,
+			"friends_count": 2937,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4696,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27064,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 30 10:52:50 +0000 2017",
+			"id": 858635248539586600,
+			"id_str": "858635248539586560",
+			"text": "A2 People still really believe that students learn along a linear path.. learning doesn't work that way! #aussieED",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "aussieED",
+						"indices": [
+							105,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11649492,
+				"id_str": "11649492",
+				"name": "Richard Olsen",
+				"screen_name": "richardolsen",
+				"location": "Melbourne, Australia",
+				"description": "Exploring pedagogical capacity, effectiveness and quality in a changing world.... Primary school teacher, PhD candidate at Monash University",
+				"url": "https://t.co/4FLxubgJFo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4FLxubgJFo",
+								"expanded_url": "http://www.modernlearningcanvas.com",
+								"display_url": "modernlearningcanvas.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2397,
+				"friends_count": 1228,
+				"listed_count": 128,
+				"created_at": "Sun Dec 30 04:14:05 +0000 2007",
+				"favourites_count": 1545,
+				"utc_offset": 36000,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11242,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/476974449669844992/MxG_G-x3_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/476974449669844992/MxG_G-x3_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 30 05:53:44 +0000 2017",
 		"id": 858559976230596600,
 		"id_str": "858559976230596609",
