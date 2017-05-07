@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sun May 07 05:57:38 +0000 2017",
+		"id": 861097672102469600,
+		"id_str": "861097672102469633",
+		"text": "RT @dajbelshaw: 🎆 Thought Shrapnel [#257]: Jetlag -  https://t.co/4YpAiyXi3u",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dajbelshaw",
+					"name": "Doug Belshaw",
+					"id": 764365,
+					"id_str": "764365",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4YpAiyXi3u",
+					"expanded_url": "http://mailchi.mp/dougbelshaw/thought-shrapnel-256-canada-eh-3084829",
+					"display_url": "mailchi.mp/dougbelshaw/th…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4010,
+			"friends_count": 2950,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4701,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27205,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 07 05:30:49 +0000 2017",
+			"id": 861090926239809500,
+			"id_str": "861090926239809536",
+			"text": "🎆 Thought Shrapnel [#257]: Jetlag -  https://t.co/4YpAiyXi3u",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4YpAiyXi3u",
+						"expanded_url": "http://mailchi.mp/dougbelshaw/thought-shrapnel-256-canada-eh-3084829",
+						"display_url": "mailchi.mp/dougbelshaw/th…",
+						"indices": [
+							37,
+							60
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.mailchimp.com\" rel=\"nofollow\">MailChimp</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 764365,
+				"id_str": "764365",
+				"name": "Doug Belshaw",
+				"screen_name": "dajbelshaw",
+				"location": "Morpeth, England",
+				"description": "Open Educational Thinkerer. @WeAreOpenCoop co-founder. Spending May 2017 on Mastodon: https://t.co/aql0lsgj9V 🇪🇺 ☠️ ✊ #digilit #openbadges",
+				"url": "https://t.co/Y5ZxAMGZ5A",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Y5ZxAMGZ5A",
+								"expanded_url": "https://dougbelshaw.com",
+								"display_url": "dougbelshaw.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/aql0lsgj9V",
+								"expanded_url": "http://mastodon.cloud/@dajbelshaw",
+								"display_url": "mastodon.cloud/@dajbelshaw",
+								"indices": [
+									86,
+									109
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 14114,
+				"friends_count": 3720,
+				"listed_count": 1207,
+				"created_at": "Sun Feb 11 10:23:13 +0000 2007",
+				"favourites_count": 31816,
+				"utc_offset": 3600,
+				"time_zone": "Europe/London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 77313,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815476502821294080/ep0D7iCJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815476502821294080/ep0D7iCJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/764365/1483612001",
+				"profile_link_color": "2C3444",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun May 07 00:06:38 +0000 2017",
 		"id": 861009340500758500,
 		"id_str": "861009340500758528",
