@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Wed May 10 21:42:59 +0000 2017",
+		"id": 862422741420359700,
+		"id_str": "862422741420359680",
+		"text": "@SteveBrophy3 @designandplay @deanpearman @athwaites provides an interesting perspective on #BYOD https://t.co/BmvCjdBmBR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BYOD",
+					"indices": [
+						92,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SteveBrophy3",
+					"name": "Steve Brophy",
+					"id": 827898170,
+					"id_str": "827898170",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "designandplay",
+					"name": "Design and Play",
+					"id": 783093186373689300,
+					"id_str": "783093186373689344",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "deanpearman",
+					"name": "Dean Pearman",
+					"id": 31024798,
+					"id_str": "31024798",
+					"indices": [
+						29,
+						41
+					]
+				},
+				{
+					"screen_name": "athwaites",
+					"name": "Alan Thwaites",
+					"id": 33767270,
+					"id_str": "33767270",
+					"indices": [
+						42,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BmvCjdBmBR",
+					"expanded_url": "https://no2pisa.wordpress.com/2014/12/15/the-terrifying-vast-ocean-of-byod-chaos/",
+					"display_url": "no2pisa.wordpress.com/2014/12/15/the…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 862420974171324400,
+		"in_reply_to_status_id_str": "862420974171324417",
+		"in_reply_to_user_id": 372768752,
+		"in_reply_to_user_id_str": "372768752",
+		"in_reply_to_screen_name": "mrkrndvs",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4018,
+			"friends_count": 2952,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4700,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27251,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed May 10 21:35:57 +0000 2017",
+		"id": 862420974171324400,
+		"id_str": "862420974171324417",
+		"text": "@SteveBrophy3 @designandplay @deanpearman Was/Is #BYOD a ruse designed as some sort of faux equity? It would be int… https://t.co/qic9uXf2NO",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BYOD",
+					"indices": [
+						49,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SteveBrophy3",
+					"name": "Steve Brophy",
+					"id": 827898170,
+					"id_str": "827898170",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "designandplay",
+					"name": "Design and Play",
+					"id": 783093186373689300,
+					"id_str": "783093186373689344",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "deanpearman",
+					"name": "Dean Pearman",
+					"id": 31024798,
+					"id_str": "31024798",
+					"indices": [
+						29,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qic9uXf2NO",
+					"expanded_url": "https://twitter.com/i/web/status/862420974171324417",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 861537102273458200,
+		"in_reply_to_status_id_str": "861537102273458177",
+		"in_reply_to_user_id": 827898170,
+		"in_reply_to_user_id_str": "827898170",
+		"in_reply_to_screen_name": "SteveBrophy3",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4018,
+			"friends_count": 2952,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4700,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27251,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 10 18:11:47 +0000 2017",
 		"id": 862369593758593000,
 		"id_str": "862369593758593024",
