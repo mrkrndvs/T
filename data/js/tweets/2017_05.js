@@ -1,6 +1,398 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Fri May 12 07:08:24 +0000 2017",
+		"id": 862927423754481700,
+		"id_str": "862927423754481664",
+		"text": "@apievangelist Thanks. Just occured to me after looking through your Google API Collection.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "apievangelist",
+					"name": "API Evangelist",
+					"id": 601369792,
+					"id_str": "601369792",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 862924076519530500,
+		"in_reply_to_status_id_str": "862924076519530497",
+		"in_reply_to_user_id": 601369792,
+		"in_reply_to_user_id_str": "601369792",
+		"in_reply_to_screen_name": "apievangelist",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4021,
+			"friends_count": 2951,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4703,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 12 06:20:33 +0000 2017",
+		"id": 862915381471490000,
+		"id_str": "862915381471490049",
+		"text": "RT @tombarrett: Sign up for my newsletter to get this week's issue, sent out every Friday afternoon https://t.co/R5NZE6Xkqp https://t.co/K1…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tombarrett",
+					"name": "Tom Barrett",
+					"id": 9912742,
+					"id_str": "9912742",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/R5NZE6Xkqp",
+					"expanded_url": "http://buff.ly/2bUNIrR",
+					"display_url": "buff.ly/2bUNIrR",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4021,
+			"friends_count": 2951,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4703,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 01 08:32:31 +0000 2016",
+			"id": 771264460522659800,
+			"id_str": "771264460522659840",
+			"text": "Sign up for my newsletter to get this week's issue, sent out every Friday afternoon https://t.co/R5NZE6Xkqp https://t.co/K1Zu9XbTWE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/R5NZE6Xkqp",
+						"expanded_url": "http://buff.ly/2bUNIrR",
+						"display_url": "buff.ly/2bUNIrR",
+						"indices": [
+							84,
+							107
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 771264457242665000,
+						"id_str": "771264457242664960",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/CrQU8AHVYAAxQCu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrQU8AHVYAAxQCu.jpg",
+						"url": "https://t.co/K1Zu9XbTWE",
+						"display_url": "pic.twitter.com/K1Zu9XbTWE",
+						"expanded_url": "https://twitter.com/tombarrett/status/771264460522659840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 771264457242665000,
+						"id_str": "771264457242664960",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/CrQU8AHVYAAxQCu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrQU8AHVYAAxQCu.jpg",
+						"url": "https://t.co/K1Zu9XbTWE",
+						"display_url": "pic.twitter.com/K1Zu9XbTWE",
+						"expanded_url": "https://twitter.com/tombarrett/status/771264460522659840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9912742,
+				"id_str": "9912742",
+				"name": "Tom Barrett",
+				"screen_name": "tombarrett",
+				"location": "Melbourne, Australia",
+				"description": "Helping people re-discover the curiosity they had when they were 6 years old; designing learning that uses that curiosity to change the world around us.",
+				"url": "https://t.co/IG31j0rebd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IG31j0rebd",
+								"expanded_url": "http://dialogiclearning.com",
+								"display_url": "dialogiclearning.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38143,
+				"friends_count": 23230,
+				"listed_count": 2039,
+				"created_at": "Sat Nov 03 11:45:50 +0000 2007",
+				"favourites_count": 1481,
+				"utc_offset": 36000,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 39074,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3186172/norfolk.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3186172/norfolk.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/479451130426961920/DNl6usVk_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/479451130426961920/DNl6usVk_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9912742/1441253396",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 12 06:14:11 +0000 2017",
 		"id": 862913777209159700,
 		"id_str": "862913777209159680",
