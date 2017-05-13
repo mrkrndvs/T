@@ -1,6 +1,505 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sat May 13 05:48:30 +0000 2017",
+		"id": 863269704260911100,
+		"id_str": "863269704260911104",
+		"text": "RT @benlcollins: Had 200+ Google Form replies about my new #googlesheets data course. Replying to everyone, directly from my Sheet with hel…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "googlesheets",
+					"indices": [
+						59,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4020,
+			"friends_count": 2951,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4702,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27281,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 11 15:46:01 +0000 2017",
+			"id": 862695296370921500,
+			"id_str": "862695296370921474",
+			"text": "Had 200+ Google Form replies about my new #googlesheets data course. Replying to everyone, directly from my Sheet with help of apps script",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "googlesheets",
+						"indices": [
+							42,
+							55
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19338407,
+				"id_str": "19338407",
+				"name": "Ben Collins",
+				"screen_name": "benlcollins",
+				"location": "Washington, D.C.",
+				"description": "Husband & Dad. Google Sheets/Apps Script developer and data analyst. Work freelance and teaching online courses. Love cycling, mountains and drinking tea.",
+				"url": "https://t.co/zOwpq7XOAl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zOwpq7XOAl",
+								"expanded_url": "http://www.benlcollins.com",
+								"display_url": "benlcollins.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1979,
+				"friends_count": 1008,
+				"listed_count": 222,
+				"created_at": "Thu Jan 22 13:43:22 +0000 2009",
+				"favourites_count": 3111,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5535,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CFCFCF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/93920162/morocco_twitter_background__1_.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/93920162/morocco_twitter_background__1_.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/451187758719979520/eoUByp08_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/451187758719979520/eoUByp08_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19338407/1415055908",
+				"profile_link_color": "619DE6",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "ECFFD6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat May 13 05:16:57 +0000 2017",
+		"id": 863261763294318600,
+		"id_str": "863261763294318593",
+		"text": "Now that is a steal! https://t.co/II4VjxDOHs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/II4VjxDOHs",
+					"expanded_url": "https://twitter.com/austinkleon/status/862486558431162368",
+					"display_url": "twitter.com/austinkleon/st…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4020,
+			"friends_count": 2951,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4702,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27281,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 862486558431162400,
+		"quoted_status_id_str": "862486558431162368",
+		"quoted_status": {
+			"created_at": "Thu May 11 01:56:34 +0000 2017",
+			"id": 862486558431162400,
+			"id_str": "862486558431162368",
+			"text": "This is getting ridiculous. STEAL LIKE AN ARTIST is $1.13 on Kindle right now. Yes, $1.13. https://t.co/LtOnBaxji4 https://t.co/sYdSiNTHvk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LtOnBaxji4",
+						"expanded_url": "http://amzn.to/2r1U9vR",
+						"display_url": "amzn.to/2r1U9vR",
+						"indices": [
+							91,
+							114
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 862486530476003300,
+						"id_str": "862486530476003329",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/C_gq7giU0AE8MDs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_gq7giU0AE8MDs.jpg",
+						"url": "https://t.co/sYdSiNTHvk",
+						"display_url": "pic.twitter.com/sYdSiNTHvk",
+						"expanded_url": "https://twitter.com/austinkleon/status/862486558431162368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 466,
+								"h": 295,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 466,
+								"h": 295,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 466,
+								"h": 295,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 862486530476003300,
+						"id_str": "862486530476003329",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/C_gq7giU0AE8MDs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_gq7giU0AE8MDs.jpg",
+						"url": "https://t.co/sYdSiNTHvk",
+						"display_url": "pic.twitter.com/sYdSiNTHvk",
+						"expanded_url": "https://twitter.com/austinkleon/status/862486558431162368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 466,
+								"h": 295,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 466,
+								"h": 295,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 466,
+								"h": 295,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9698942,
+				"id_str": "9698942",
+				"name": "Austin Kleon",
+				"screen_name": "austinkleon",
+				"location": "Austin, Texas",
+				"description": "Author of STEAL LIKE AN ARTIST and other books. Newsletters are the new Twitter: https://t.co/cJks9LUC0z",
+				"url": "https://t.co/ER0M6plgH2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ER0M6plgH2",
+								"expanded_url": "http://austinkleon.com/",
+								"display_url": "austinkleon.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/cJks9LUC0z",
+								"expanded_url": "http://austinkleon.com/newsletter",
+								"display_url": "austinkleon.com/newsletter",
+								"indices": [
+									81,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 86396,
+				"friends_count": 1109,
+				"listed_count": 3556,
+				"created_at": "Fri Oct 26 01:03:22 +0000 2007",
+				"favourites_count": 95801,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 79140,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4556469/forget.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4556469/forget.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/681533189307809792/XGchVtcQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/681533189307809792/XGchVtcQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9698942/1413591669",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FF0000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 51,
+			"favorite_count": 106,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 13 03:54:55 +0000 2017",
 		"id": 863241117935976400,
 		"id_str": "863241117935976448",
