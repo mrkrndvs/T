@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Fri May 19 11:02:48 +0000 2017",
+		"id": 865523126485962800,
+		"id_str": "865523126485962758",
+		"text": "RT @wendy_harmer: Looking at @Colvinius Twitter profile:169,464k tweets @140 words each...That's an opus he shared with us.\nSuch generosity…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wendy_harmer",
+					"name": "Wendy Harmer",
+					"id": 327347231,
+					"id_str": "327347231",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "Colvinius",
+					"name": "Mark Colvin",
+					"id": 21749564,
+					"id_str": "21749564",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"screen_name": "140",
+					"name": "The 140",
+					"id": 1511161,
+					"id_str": "1511161",
+					"indices": [
+						72,
+						76
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4037,
+			"friends_count": 2954,
+			"listed_count": 398,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4715,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27405,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 11 07:08:05 +0000 2017",
+			"id": 862564954615849000,
+			"id_str": "862564954615848960",
+			"text": "Looking at @Colvinius Twitter profile:169,464k tweets @140 words each...That's an opus he shared with us.\nSuch generosity.\n#RIPMarkColvin",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RIPMarkColvin",
+						"indices": [
+							123,
+							137
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Colvinius",
+						"name": "Mark Colvin",
+						"id": 21749564,
+						"id_str": "21749564",
+						"indices": [
+							11,
+							21
+						]
+					},
+					{
+						"screen_name": "140",
+						"name": "The 140",
+						"id": 1511161,
+						"id_str": "1511161",
+						"indices": [
+							54,
+							58
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 327347231,
+				"id_str": "327347231",
+				"name": "Wendy Harmer",
+				"screen_name": "wendy_harmer",
+				"location": "Coll-a-bloody-roy, Sydney",
+				"description": "Broadcaster, author, stand-up, bigmouth. @abcsydney mornings - 8.30 am -11 am. Columnist for Yours magazine. Opinions my own, not ABC's",
+				"url": "https://t.co/Y5OMsdzuL7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Y5OMsdzuL7",
+								"expanded_url": "http://www.abc.net.au/sydney/",
+								"display_url": "abc.net.au/sydney/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 50930,
+				"friends_count": 2398,
+				"listed_count": 661,
+				"created_at": "Fri Jul 01 12:21:16 +0000 2011",
+				"favourites_count": 17561,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 37351,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/713750076/30b83b63aa3fab683319f4c0e8f9f8f3.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/713750076/30b83b63aa3fab683319f4c0e8f9f8f3.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/788918134413463552/2a6wretc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/788918134413463552/2a6wretc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/327347231/1400916316",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 50,
+			"favorite_count": 241,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 19 09:25:15 +0000 2017",
 		"id": 865498577019093000,
 		"id_str": "865498577019092992",
