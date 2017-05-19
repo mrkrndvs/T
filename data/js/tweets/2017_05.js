@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Fri May 19 03:57:11 +0000 2017",
+		"id": 865416014674014200,
+		"id_str": "865416014674014209",
+		"text": "RT @edtechsr: Ep 52: @techsavvyteach @bhwilkoff @wfryer talking #Googleio2017, our privacy free future, WCry ransomware &amp; more! https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Googleio2017",
+					"indices": [
+						64,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "edtechsr",
+					"name": "EdTech Situation Rm",
+					"id": 4856148070,
+					"id_str": "4856148070",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "techsavvyteach",
+					"name": "Jason Neiffer",
+					"id": 15283328,
+					"id_str": "15283328",
+					"indices": [
+						21,
+						36
+					]
+				},
+				{
+					"screen_name": "bhwilkoff",
+					"name": "Ben Wilkoff",
+					"id": 1710871,
+					"id_str": "1710871",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"screen_name": "wfryer",
+					"name": "Wesley Fryer 🌎",
+					"id": 7095342,
+					"id_str": "7095342",
+					"indices": [
+						48,
+						55
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4037,
+			"friends_count": 2954,
+			"listed_count": 398,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4713,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27399,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 18 04:42:22 +0000 2017",
+			"id": 865064998925516800,
+			"id_str": "865064998925516805",
+			"text": "Ep 52: @techsavvyteach @bhwilkoff @wfryer talking #Googleio2017, our privacy free future, WCry ransomware &amp; more!… https://t.co/cdEXvWBZp5",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Googleio2017",
+						"indices": [
+							50,
+							63
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "techsavvyteach",
+						"name": "Jason Neiffer",
+						"id": 15283328,
+						"id_str": "15283328",
+						"indices": [
+							7,
+							22
+						]
+					},
+					{
+						"screen_name": "bhwilkoff",
+						"name": "Ben Wilkoff",
+						"id": 1710871,
+						"id_str": "1710871",
+						"indices": [
+							23,
+							33
+						]
+					},
+					{
+						"screen_name": "wfryer",
+						"name": "Wesley Fryer 🌎",
+						"id": 7095342,
+						"id_str": "7095342",
+						"indices": [
+							34,
+							41
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/cdEXvWBZp5",
+						"expanded_url": "https://twitter.com/i/web/status/865064998925516805",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							119,
+							142
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4856148070,
+				"id_str": "4856148070",
+				"name": "EdTech Situation Rm",
+				"screen_name": "edtechsr",
+				"location": "Montana and Oklahoma",
+				"description": "Where technology news meets educational analysis. #edtechSR The EdTech Situation Room is a podcast & webshow hosted by @techsavvyteach & @wfryer.",
+				"url": "https://t.co/pbvm7MarXU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pbvm7MarXU",
+								"expanded_url": "http://edtechSR.com",
+								"display_url": "edtechSR.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 244,
+				"friends_count": 13,
+				"listed_count": 25,
+				"created_at": "Thu Jan 28 04:21:25 +0000 2016",
+				"favourites_count": 38,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 375,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/692572461272031235/glM1bCpP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/692572461272031235/glM1bCpP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4856148070/1453965368",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 19 01:29:44 +0000 2017",
 		"id": 865378909868638200,
 		"id_str": "865378909868638208",
