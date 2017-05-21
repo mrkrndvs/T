@@ -1,6 +1,380 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sun May 21 01:14:05 +0000 2017",
+		"id": 866099745873313800,
+		"id_str": "866099745873313792",
+		"text": "@debsnet Kohn's comments remind me a little of Biesta's argument about the learnification of education?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debsnet",
+					"name": "Dr Deborah Netolicky",
+					"id": 88375038,
+					"id_str": "88375038",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 865692508805673000,
+		"in_reply_to_status_id_str": "865692508805672960",
+		"in_reply_to_user_id": 88375038,
+		"in_reply_to_user_id_str": "88375038",
+		"in_reply_to_screen_name": "debsnet",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4040,
+			"friends_count": 2953,
+			"listed_count": 401,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4720,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27455,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun May 21 01:11:03 +0000 2017",
+		"id": 866098981310312400,
+		"id_str": "866098981310312449",
+		"text": "RT @debsnet: NEW POST: What is formative assessment &amp; is it overrated? https://t.co/OYVuQlOb9E #aussieED #satchat #edchat #assessment #feed…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aussieED",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"text": "satchat",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "assessment",
+					"indices": [
+						126,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debsnet",
+					"name": "Dr Deborah Netolicky",
+					"id": 88375038,
+					"id_str": "88375038",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OYVuQlOb9E",
+					"expanded_url": "https://theeduflaneuse.com/2017/05/19/formative-assessment/",
+					"display_url": "theeduflaneuse.com/2017/05/19/for…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers..",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4040,
+			"friends_count": 2953,
+			"listed_count": 401,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4720,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27455,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 19 22:15:52 +0000 2017",
+			"id": 865692508805673000,
+			"id_str": "865692508805672960",
+			"text": "NEW POST: What is formative assessment &amp; is it overrated? https://t.co/OYVuQlOb9E #aussieED #satchat #edchat… https://t.co/ri5LdmgQry",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "aussieED",
+						"indices": [
+							86,
+							95
+						]
+					},
+					{
+						"text": "satchat",
+						"indices": [
+							96,
+							104
+						]
+					},
+					{
+						"text": "edchat",
+						"indices": [
+							105,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OYVuQlOb9E",
+						"expanded_url": "https://theeduflaneuse.com/2017/05/19/formative-assessment/",
+						"display_url": "theeduflaneuse.com/2017/05/19/for…",
+						"indices": [
+							62,
+							85
+						]
+					},
+					{
+						"url": "https://t.co/ri5LdmgQry",
+						"expanded_url": "https://twitter.com/i/web/status/865692508805672960",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 88375038,
+				"id_str": "88375038",
+				"name": "Dr Deborah Netolicky",
+				"screen_name": "debsnet",
+				"location": "Australia",
+				"description": "Doctor of Philosophy. Researcher. School leader. Teacher. Writer. Speaker. Coach. Storyteller. Disruptor. Cyborg. Flâneuse.",
+				"url": "https://t.co/DiUVU2xOxW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DiUVU2xOxW",
+								"expanded_url": "http://theeduflaneuse.com",
+								"display_url": "theeduflaneuse.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3582,
+				"friends_count": 1147,
+				"listed_count": 390,
+				"created_at": "Sun Nov 08 07:47:07 +0000 2009",
+				"favourites_count": 10435,
+				"utc_offset": 28800,
+				"time_zone": "Perth",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18467,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/263965597/xe866c453e94c144f504e941daa99916.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/263965597/xe866c453e94c144f504e941daa99916.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/865196342200553473/TF0JnMKm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/865196342200553473/TF0JnMKm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/88375038/1482219971",
+				"profile_link_color": "4D6DA3",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 20 23:52:40 +0000 2017",
 		"id": 866079257348329500,
 		"id_str": "866079257348329472",
