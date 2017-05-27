@@ -1,6 +1,391 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sat May 27 14:38:13 +0000 2017",
+		"id": 868476442132205600,
+		"id_str": "868476442132205568",
+		"text": "RT @holden: Ariana Grande puts panicking conservatives to shame. This is a beautiful response which acknowledges fear but goes beyond it to…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "holden",
+					"name": "Mike Caulfield",
+					"id": 1912681,
+					"id_str": "1912681",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4051,
+			"friends_count": 2953,
+			"listed_count": 401,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4726,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27557,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 27 14:27:26 +0000 2017",
+			"id": 868473728207732700,
+			"id_str": "868473728207732736",
+			"text": "Ariana Grande puts panicking conservatives to shame. This is a beautiful response which acknowledges fear but goes… https://t.co/RCPQ441TTl",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RCPQ441TTl",
+						"expanded_url": "https://twitter.com/i/web/status/868473728207732736",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1912681,
+				"id_str": "1912681",
+				"name": "Mike Caulfield",
+				"screen_name": "holden",
+				"location": "Vancouver, WA",
+				"description": "Info literacy & net-enabled learning guy. Latvian Pop Star. Heads Digital Polarization Initiative @ American Democracy Project. Book: https://t.co/mYlNbddwMR",
+				"url": "https://t.co/ty2GJPfEz8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ty2GJPfEz8",
+								"expanded_url": "http://hapgood.us",
+								"display_url": "hapgood.us",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/mYlNbddwMR",
+								"expanded_url": "http://webliteracy.pressbooks.com",
+								"display_url": "webliteracy.pressbooks.com",
+								"indices": [
+									134,
+									157
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3629,
+				"friends_count": 652,
+				"listed_count": 320,
+				"created_at": "Thu Mar 22 17:38:27 +0000 2007",
+				"favourites_count": 4137,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7317,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/139766123/44368_580871661697_32604365_33940784_1819190_n_1_.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/139766123/44368_580871661697_32604365_33940784_1819190_n_1_.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/846851213094109184/FUWo1zRZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/846851213094109184/FUWo1zRZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1912681/1486329115",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 868164986887176200,
+			"quoted_status_id_str": "868164986887176192",
+			"quoted_status": {
+				"created_at": "Fri May 26 18:00:37 +0000 2017",
+				"id": 868164986887176200,
+				"id_str": "868164986887176192",
+				"text": "https://t.co/c03xrX3iIv",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 868164979803000800,
+							"id_str": "868164979803000833",
+							"indices": [
+								0,
+								23
+							],
+							"media_url": "http://pbs.twimg.com/media/DAxXcwuXkAEDrAV.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DAxXcwuXkAEDrAV.jpg",
+							"url": "https://t.co/c03xrX3iIv",
+							"display_url": "pic.twitter.com/c03xrX3iIv",
+							"expanded_url": "https://twitter.com/ArianaGrande/status/868164986887176192/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 592,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1046,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1394,
+									"h": 1600,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 868164979803000800,
+							"id_str": "868164979803000833",
+							"indices": [
+								0,
+								23
+							],
+							"media_url": "http://pbs.twimg.com/media/DAxXcwuXkAEDrAV.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DAxXcwuXkAEDrAV.jpg",
+							"url": "https://t.co/c03xrX3iIv",
+							"display_url": "pic.twitter.com/c03xrX3iIv",
+							"expanded_url": "https://twitter.com/ArianaGrande/status/868164986887176192/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 592,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1046,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1394,
+									"h": 1600,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 34507480,
+					"id_str": "34507480",
+					"name": "Ariana Grande",
+					"screen_name": "ArianaGrande",
+					"location": "Honeymoon ãve. ",
+					"description": "dangerous woman",
+					"url": "https://t.co/3OmQampmGD",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/3OmQampmGD",
+									"expanded_url": "http://dangerouswoman.com",
+									"display_url": "dangerouswoman.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 46275916,
+					"friends_count": 65857,
+					"listed_count": 54323,
+					"created_at": "Thu Apr 23 02:56:31 +0000 2009",
+					"favourites_count": 32268,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 40157,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": true,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/571171475973869568/-TmdB2Wz.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/571171475973869568/-TmdB2Wz.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/865339032154370051/FwLUpBg0_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/865339032154370051/FwLUpBg0_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/34507480/1493062346",
+					"profile_link_color": "AD92D1",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "F6F6F6",
+					"profile_text_color": "D8A0C1",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 352614,
+				"favorite_count": 756011,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "und"
+			},
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 868164986887176200,
+		"quoted_status_id_str": "868164986887176192",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 27 13:56:41 +0000 2017",
 		"id": 868465988190310400,
 		"id_str": "868465988190310400",
