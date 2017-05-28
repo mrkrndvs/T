@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sun May 28 05:44:00 +0000 2017",
+		"id": 868704386972655600,
+		"id_str": "868704386972655616",
+		"text": "RT @DiPrato: + Alma Harris is on #aussieED chat tonight. Read this first: https://t.co/mdLLa7dlSD #DistributedLeadership https://t.co/cNuCP…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aussieED",
+					"indices": [
+						33,
+						42
+					]
+				},
+				{
+					"text": "DistributedLeadership",
+					"indices": [
+						98,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DiPrato",
+					"name": "Adriano Di Prato",
+					"id": 30232777,
+					"id_str": "30232777",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mdLLa7dlSD",
+					"expanded_url": "https://drive.google.com/file/d/0B84EFc-s8GxXbFRpLUZQMGV2Qlk/view",
+					"display_url": "drive.google.com/file/d/0B84EFc…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4052,
+			"friends_count": 2955,
+			"listed_count": 401,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4725,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27560,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 28 01:54:46 +0000 2017",
+			"id": 868646699970908200,
+			"id_str": "868646699970908160",
+			"text": "+ Alma Harris is on #aussieED chat tonight. Read this first: https://t.co/mdLLa7dlSD #DistributedLeadership https://t.co/cNuCPGA8lf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "aussieED",
+						"indices": [
+							20,
+							29
+						]
+					},
+					{
+						"text": "DistributedLeadership",
+						"indices": [
+							85,
+							107
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mdLLa7dlSD",
+						"expanded_url": "https://drive.google.com/file/d/0B84EFc-s8GxXbFRpLUZQMGV2Qlk/view",
+						"display_url": "drive.google.com/file/d/0B84EFc…",
+						"indices": [
+							61,
+							84
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 868646691288645600,
+						"id_str": "868646691288645636",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DA4NkD2UAAQUBi6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DA4NkD2UAAQUBi6.jpg",
+						"url": "https://t.co/cNuCPGA8lf",
+						"display_url": "pic.twitter.com/cNuCPGA8lf",
+						"expanded_url": "https://twitter.com/DiPrato/status/868646699970908160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 868646691288645600,
+						"id_str": "868646691288645636",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DA4NkD2UAAQUBi6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DA4NkD2UAAQUBi6.jpg",
+						"url": "https://t.co/cNuCPGA8lf",
+						"display_url": "pic.twitter.com/cNuCPGA8lf",
+						"expanded_url": "https://twitter.com/DiPrato/status/868646699970908160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30232777,
+				"id_str": "30232777",
+				"name": "Adriano Di Prato",
+				"screen_name": "DiPrato",
+				"location": "Somewhere over the Rainbow ",
+				"description": "DP @Marcellin | MACE | Marist Association | @VCSSDPA Life Membership | Faith | Fashion | Food | Flâneur | Fun | Wanderlust | Design. #permissionistriumph",
+				"url": "https://t.co/eNE2TiKWdi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eNE2TiKWdi",
+								"expanded_url": "http://www.diprato.tumblr.com",
+								"display_url": "diprato.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2004,
+				"friends_count": 2000,
+				"listed_count": 139,
+				"created_at": "Fri Apr 10 15:05:57 +0000 2009",
+				"favourites_count": 7650,
+				"utc_offset": 36000,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17787,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/435196978410946560/ygCvmyup.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/435196978410946560/ygCvmyup.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/738878887912865792/ILoIc4Mq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/738878887912865792/ILoIc4Mq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30232777/1458682418",
+				"profile_link_color": "78C6F0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun May 28 00:44:40 +0000 2017",
 		"id": 868629056572588000,
 		"id_str": "868629056572588032",
