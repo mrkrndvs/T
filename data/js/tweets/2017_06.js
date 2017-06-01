@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Thu Jun 01 09:09:42 +0000 2017",
+		"id": 870205704241520600,
+		"id_str": "870205704241520640",
+		"text": "@samjirwin any thoughts? https://t.co/9gLUpiI60c",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "samjirwin",
+					"name": "Sam Irwin",
+					"id": 198727323,
+					"id_str": "198727323",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9gLUpiI60c",
+					"expanded_url": "https://twitter.com/EduTweetOz/status/870196264410808320",
+					"display_url": "twitter.com/EduTweetOz/sta…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 198727323,
+		"in_reply_to_user_id_str": "198727323",
+		"in_reply_to_screen_name": "samjirwin",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4071,
+			"friends_count": 2959,
+			"listed_count": 401,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4735,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27683,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 870196264410808300,
+		"quoted_status_id_str": "870196264410808320",
+		"quoted_status": {
+			"created_at": "Thu Jun 01 08:32:11 +0000 2017",
+			"id": 870196264410808300,
+			"id_str": "870196264410808320",
+			"text": "I am interested in talking about school promotion tonight. As a small school with only 10 sts, opportunity for growth is limited.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1361688518,
+				"id_str": "1361688518",
+				"name": "Michael Sky",
+				"screen_name": "EduTweetOz",
+				"location": "Australia",
+				"description": "A rotating curation account with Australian educators sharing ideas, experiences & questions about education. Current host: @michaelJSky",
+				"url": "https://t.co/uBJwldlG6j",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uBJwldlG6j",
+								"expanded_url": "http://edutweetoz.org/",
+								"display_url": "edutweetoz.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11587,
+				"friends_count": 4890,
+				"listed_count": 560,
+				"created_at": "Thu Apr 18 11:33:48 +0000 2013",
+				"favourites_count": 25863,
+				"utc_offset": 36000,
+				"time_zone": "Brisbane",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 77242,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "447CCF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/469054975927406592/LgwBzYLI.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/469054975927406592/LgwBzYLI.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/817507472336261120/oQj4eXtl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/817507472336261120/oQj4eXtl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1361688518/1484097572",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 01 07:02:09 +0000 2017",
 		"id": 870173608580075500,
 		"id_str": "870173608580075520",
