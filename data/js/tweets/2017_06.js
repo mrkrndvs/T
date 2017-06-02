@@ -1,6 +1,524 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Fri Jun 02 07:40:40 +0000 2017",
+		"id": 870545689473761300,
+		"id_str": "870545689473761281",
+		"text": "RT @CmunroOz: Storify archive of #CoachEd2017 ft. @ChristianvN @SimonBreakspear @Andy__Buck @DrRLofthouse @ProfLeaWaters + more! https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CoachEd2017",
+					"indices": [
+						33,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CmunroOz",
+					"name": "Chris Munro",
+					"id": 476340029,
+					"id_str": "476340029",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "ChristianvN",
+					"name": "C J van Nieuwerburgh",
+					"id": 257149868,
+					"id_str": "257149868",
+					"indices": [
+						50,
+						62
+					]
+				},
+				{
+					"screen_name": "SimonBreakspear",
+					"name": "Dr Simon Breakspear",
+					"id": 40627862,
+					"id_str": "40627862",
+					"indices": [
+						63,
+						79
+					]
+				},
+				{
+					"screen_name": "Andy__Buck",
+					"name": "Andy Buck",
+					"id": 311382372,
+					"id_str": "311382372",
+					"indices": [
+						80,
+						91
+					]
+				},
+				{
+					"screen_name": "DrRLofthouse",
+					"name": "Rachel Lofthouse",
+					"id": 101561070,
+					"id_str": "101561070",
+					"indices": [
+						92,
+						105
+					]
+				},
+				{
+					"screen_name": "ProfLeaWaters",
+					"name": "Lea Waters, PhD",
+					"id": 3247810224,
+					"id_str": "3247810224",
+					"indices": [
+						106,
+						120
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4070,
+			"friends_count": 2959,
+			"listed_count": 401,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4737,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27707,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 02 03:23:27 +0000 2017",
+			"id": 870480958637592600,
+			"id_str": "870480958637592576",
+			"text": "Storify archive of #CoachEd2017 ft. @ChristianvN @SimonBreakspear @Andy__Buck @DrRLofthouse @ProfLeaWaters + more! https://t.co/r0Z6d09mRO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CoachEd2017",
+						"indices": [
+							19,
+							31
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ChristianvN",
+						"name": "C J van Nieuwerburgh",
+						"id": 257149868,
+						"id_str": "257149868",
+						"indices": [
+							36,
+							48
+						]
+					},
+					{
+						"screen_name": "SimonBreakspear",
+						"name": "Dr Simon Breakspear",
+						"id": 40627862,
+						"id_str": "40627862",
+						"indices": [
+							49,
+							65
+						]
+					},
+					{
+						"screen_name": "Andy__Buck",
+						"name": "Andy Buck",
+						"id": 311382372,
+						"id_str": "311382372",
+						"indices": [
+							66,
+							77
+						]
+					},
+					{
+						"screen_name": "DrRLofthouse",
+						"name": "Rachel Lofthouse",
+						"id": 101561070,
+						"id_str": "101561070",
+						"indices": [
+							78,
+							91
+						]
+					},
+					{
+						"screen_name": "ProfLeaWaters",
+						"name": "Lea Waters, PhD",
+						"id": 3247810224,
+						"id_str": "3247810224",
+						"indices": [
+							92,
+							106
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/r0Z6d09mRO",
+						"expanded_url": "https://storify.com/CmunroOz/5th-national-coaching-in-education-conference",
+						"display_url": "storify.com/CmunroOz/5th-n…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 476340029,
+				"id_str": "476340029",
+				"name": "Chris Munro",
+				"screen_name": "CmunroOz",
+				"location": "Melbourne, Australia",
+				"description": "Coaching in Education | Professional Learning | Leadership | Coach | Facilitator | Senior Consultant @gcieducation | #educoachOC co-moderator",
+				"url": "https://t.co/desH8hElqy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/desH8hElqy",
+								"expanded_url": "https://chrisreflects.wordpress.com/",
+								"display_url": "chrisreflects.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4187,
+				"friends_count": 3451,
+				"listed_count": 116,
+				"created_at": "Sat Jan 28 01:24:28 +0000 2012",
+				"favourites_count": 5216,
+				"utc_offset": 36000,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7859,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/829592969321730048/Pbm4C4j4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/829592969321730048/Pbm4C4j4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/476340029/1473219780",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 02 07:39:42 +0000 2017",
+		"id": 870545446036324400,
+		"id_str": "870545446036324352",
+		"text": "RT @stringer_andrea: Coaching is about professional growth and not a benchmark. Improve not prove. Rating &amp; judging tchrs is NOT part of co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stringer_andrea",
+					"name": "Andrea Stringer 🇦🇺",
+					"id": 585586447,
+					"id_str": "585586447",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4070,
+			"friends_count": 2959,
+			"listed_count": 401,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4737,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27707,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 29 02:12:06 +0000 2017",
+			"id": 869013451238068200,
+			"id_str": "869013451238068224",
+			"text": "Coaching is about professional growth and not a benchmark. Improve not prove. Rating &amp; judging tchrs is NOT part of coaching. #CoachEd2017",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CoachEd2017",
+						"indices": [
+							130,
+							142
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 585586447,
+				"id_str": "585586447",
+				"name": "Andrea Stringer 🇦🇺",
+				"screen_name": "stringer_andrea",
+				"location": "Sydney, Australia",
+				"description": "Connect, learn & build relationships. Professional Learning Coach who personalises learning to empower educators. Views are influenced by many but always my own",
+				"url": "https://t.co/XJoziX3TE6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XJoziX3TE6",
+								"expanded_url": "http://andreastringer.blogspot.com.au",
+								"display_url": "andreastringer.blogspot.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7060,
+				"friends_count": 3501,
+				"listed_count": 261,
+				"created_at": "Sun May 20 11:14:31 +0000 2012",
+				"favourites_count": 13799,
+				"utc_offset": 36000,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30815,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/764951771080908800/ghw_xv1Q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/764951771080908800/ghw_xv1Q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/585586447/1410261884",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 02 06:49:57 +0000 2017",
 		"id": 870532925292396500,
 		"id_str": "870532925292396544",
