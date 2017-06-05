@@ -1,6 +1,816 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sun Jun 04 23:59:55 +0000 2017",
+		"id": 871516898105499600,
+		"id_str": "871516898105499649",
+		"text": "RT @gregwhitby: Hattie calls 4 reboot: a call 2 transform schooling.@australian  @john_hattie  https://t.co/glmToJt0bh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gregwhitby",
+					"name": "Greg Whitby",
+					"id": 18018397,
+					"id_str": "18018397",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "australian",
+					"name": "The Australian",
+					"id": 9609632,
+					"id_str": "9609632",
+					"indices": [
+						68,
+						79
+					]
+				},
+				{
+					"screen_name": "john_hattie",
+					"name": "John Hattie",
+					"id": 3317142750,
+					"id_str": "3317142750",
+					"indices": [
+						81,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/glmToJt0bh",
+					"expanded_url": "http://www.theaustralian.com.au/news/inquirer/when-will-we-ever-learn/news-story/98c962f1789f70673f49a6f4f42d2339?login=1",
+					"display_url": "theaustralian.com.au/news/inquirer/…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4069,
+			"friends_count": 2959,
+			"listed_count": 402,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4745,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27777,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 04 22:19:26 +0000 2017",
+			"id": 871491613461102600,
+			"id_str": "871491613461102592",
+			"text": "Hattie calls 4 reboot: a call 2 transform schooling.@australian  @john_hattie  https://t.co/glmToJt0bh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "australian",
+						"name": "The Australian",
+						"id": 9609632,
+						"id_str": "9609632",
+						"indices": [
+							52,
+							63
+						]
+					},
+					{
+						"screen_name": "john_hattie",
+						"name": "John Hattie",
+						"id": 3317142750,
+						"id_str": "3317142750",
+						"indices": [
+							65,
+							77
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/glmToJt0bh",
+						"expanded_url": "http://www.theaustralian.com.au/news/inquirer/when-will-we-ever-learn/news-story/98c962f1789f70673f49a6f4f42d2339?login=1",
+						"display_url": "theaustralian.com.au/news/inquirer/…",
+						"indices": [
+							79,
+							102
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18018397,
+				"id_str": "18018397",
+				"name": "Greg Whitby",
+				"screen_name": "gregwhitby",
+				"location": "",
+				"description": "Executive Director of Schools, Diocese of Parramatta",
+				"url": "http://t.co/g6jPMt2Lre",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/g6jPMt2Lre",
+								"expanded_url": "http://bluyonder.wordpress.com",
+								"display_url": "bluyonder.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14555,
+				"friends_count": 7724,
+				"listed_count": 358,
+				"created_at": "Wed Dec 10 13:05:04 +0000 2008",
+				"favourites_count": 128,
+				"utc_offset": 36000,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9205,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000630399495/120fbffd72e0b3e77f41fd66ee9d7dcb_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000630399495/120fbffd72e0b3e77f41fd66ee9d7dcb_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jun 04 23:55:33 +0000 2017",
+		"id": 871515799206322200,
+		"id_str": "871515799206322177",
+		"text": "@mesterman @stringer_andrea @Obi_Jon_ @debsnet @cpaterso @EduTweetOz @Capitan_Typo \"Hattie has a cliche: beware of… https://t.co/4SMDKOqeur",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mesterman",
+					"name": "Matt Esterman",
+					"id": 14906194,
+					"id_str": "14906194",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "stringer_andrea",
+					"name": "Andrea Stringer 🇦🇺",
+					"id": 585586447,
+					"id_str": "585586447",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "Obi_Jon_",
+					"name": "Jon Andrews",
+					"id": 817918164,
+					"id_str": "817918164",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"screen_name": "debsnet",
+					"name": "Dr Deborah Netolicky",
+					"id": 88375038,
+					"id_str": "88375038",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"screen_name": "cpaterso",
+					"name": "Cameron",
+					"id": 16181607,
+					"id_str": "16181607",
+					"indices": [
+						47,
+						56
+					]
+				},
+				{
+					"screen_name": "EduTweetOz",
+					"name": "Angie Taylor",
+					"id": 1361688518,
+					"id_str": "1361688518",
+					"indices": [
+						57,
+						68
+					]
+				},
+				{
+					"screen_name": "Capitan_Typo",
+					"name": "Cameron Malcher",
+					"id": 295070137,
+					"id_str": "295070137",
+					"indices": [
+						69,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4SMDKOqeur",
+					"expanded_url": "https://twitter.com/i/web/status/871515799206322177",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 871494452514234400,
+		"in_reply_to_status_id_str": "871494452514234368",
+		"in_reply_to_user_id": 14906194,
+		"in_reply_to_user_id_str": "14906194",
+		"in_reply_to_screen_name": "mesterman",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4069,
+			"friends_count": 2959,
+			"listed_count": 402,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4745,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27777,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jun 04 23:50:39 +0000 2017",
+		"id": 871514565602713600,
+		"id_str": "871514565602713600",
+		"text": "I swear last time I looked at the list of plugins available in @edublogs there wasn't as many as there is now… https://t.co/q9UHxQzffX",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "edublogs",
+					"name": "edublogs",
+					"id": 14091545,
+					"id_str": "14091545",
+					"indices": [
+						63,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/q9UHxQzffX",
+					"expanded_url": "https://twitter.com/i/web/status/871514565602713600",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4069,
+			"friends_count": 2959,
+			"listed_count": 402,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4745,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27777,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jun 04 23:47:33 +0000 2017",
+		"id": 871513787198709800,
+		"id_str": "871513787198709760",
+		"text": "RT @danielkilback: Using #tags by @mhawksey and #awesometable to create a custom Twitter archive for display using new @GoogleSites. #WorkA…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tags",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "awesometable",
+					"indices": [
+						48,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danielkilback",
+					"name": "Daniel Kilback",
+					"id": 14647379,
+					"id_str": "14647379",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						34,
+						43
+					]
+				},
+				{
+					"screen_name": "googlesites",
+					"name": "Google Sites",
+					"id": 23129300,
+					"id_str": "23129300",
+					"indices": [
+						119,
+						131
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4069,
+			"friends_count": 2959,
+			"listed_count": 402,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4745,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27777,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 04 23:46:56 +0000 2017",
+			"id": 871513633309638700,
+			"id_str": "871513633309638656",
+			"text": "Using #tags by @mhawksey and #awesometable to create a custom Twitter archive for display using new @GoogleSites.… https://t.co/kVg9A2HAyU",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tags",
+						"indices": [
+							6,
+							11
+						]
+					},
+					{
+						"text": "awesometable",
+						"indices": [
+							29,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							15,
+							24
+						]
+					},
+					{
+						"screen_name": "googlesites",
+						"name": "Google Sites",
+						"id": 23129300,
+						"id_str": "23129300",
+						"indices": [
+							100,
+							112
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/kVg9A2HAyU",
+						"expanded_url": "https://twitter.com/i/web/status/871513633309638656",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14647379,
+				"id_str": "14647379",
+				"name": "Daniel Kilback",
+				"screen_name": "danielkilback",
+				"location": "Seoul, South Korea",
+				"description": "Director of Technology at Korea International School. I tweet about education, technology, leadership, innovation, music, politics & photography.",
+				"url": "https://t.co/IOSiXHgJVF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IOSiXHgJVF",
+								"expanded_url": "http://www.danielkilback.com",
+								"display_url": "danielkilback.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2775,
+				"friends_count": 625,
+				"listed_count": 92,
+				"created_at": "Sun May 04 12:11:19 +0000 2008",
+				"favourites_count": 753,
+				"utc_offset": 10800,
+				"time_zone": "Kuwait",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1276,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/541505539339857922/8YwE-XKj_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/541505539339857922/8YwE-XKj_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14647379/1488253475",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 04 21:52:59 +0000 2017",
 		"id": 871484955821563900,
 		"id_str": "871484955821563904",
