@@ -1,6 +1,514 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Tue Jun 06 06:55:52 +0000 2017",
+		"id": 871983963123793900,
+		"id_str": "871983963123793920",
+		"text": "RT @AlmaHarris1: Take a minute to watch this and to reflect on the real threat to public education. https://t.co/p748rqUzBY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlmaHarris1",
+					"name": "Alma Harris",
+					"id": 342121975,
+					"id_str": "342121975",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/p748rqUzBY",
+					"expanded_url": "https://twitter.com/GrahamBM/status/871652674831253504",
+					"display_url": "twitter.com/GrahamBM/statu…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/PkNuJdsUBx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4076,
+			"friends_count": 2959,
+			"listed_count": 400,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4749,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27820,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 05 09:07:56 +0000 2017",
+			"id": 871654812714250200,
+			"id_str": "871654812714250240",
+			"text": "Take a minute to watch this and to reflect on the real threat to public education. https://t.co/p748rqUzBY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/p748rqUzBY",
+						"expanded_url": "https://twitter.com/GrahamBM/status/871652674831253504",
+						"display_url": "twitter.com/GrahamBM/statu…",
+						"indices": [
+							83,
+							106
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 342121975,
+				"id_str": "342121975",
+				"name": "Alma Harris",
+				"screen_name": "AlmaHarris1",
+				"location": "",
+				"description": "Researcher, thinker & writer. Interested in ed policy. Believe in success for all students in all settings. Views are my own. Retweets are not an endorsement.",
+				"url": "https://t.co/IdgZ849l04",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IdgZ849l04",
+								"expanded_url": "http://almaharris.com",
+								"display_url": "almaharris.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4999,
+				"friends_count": 824,
+				"listed_count": 129,
+				"created_at": "Mon Jul 25 14:33:05 +0000 2011",
+				"favourites_count": 8157,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9600,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/797040495209771008/yeRXv7y__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/797040495209771008/yeRXv7y__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/342121975/1483400375",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 871652674831253500,
+			"quoted_status_id_str": "871652674831253504",
+			"quoted_status": {
+				"created_at": "Mon Jun 05 08:59:26 +0000 2017",
+				"id": 871652674831253500,
+				"id_str": "871652674831253504",
+				"text": "The Privatisation of Public Education\n\n#WeTheEducators #Education #GE2017\n\nhttps://t.co/TjaEKD9XZw",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "WeTheEducators",
+							"indices": [
+								39,
+								54
+							]
+						},
+						{
+							"text": "Education",
+							"indices": [
+								55,
+								65
+							]
+						},
+						{
+							"text": "GE2017",
+							"indices": [
+								66,
+								73
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 860837066023817200,
+							"id_str": "860837066023817217",
+							"indices": [
+								75,
+								98
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/860837066023817217/pu/img/QZ4zAvi9PBp_1JIk.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/860837066023817217/pu/img/QZ4zAvi9PBp_1JIk.jpg",
+							"url": "https://t.co/TjaEKD9XZw",
+							"display_url": "pic.twitter.com/TjaEKD9XZw",
+							"expanded_url": "https://twitter.com/WeTheEducators/status/860837430101979136/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 600,
+									"h": 338,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 191,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1024,
+									"h": 576,
+									"resize": "fit"
+								}
+							},
+							"source_status_id": 860837430101979100,
+							"source_status_id_str": "860837430101979136",
+							"source_user_id": 839119083954122800,
+							"source_user_id_str": "839119083954122752"
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 860837066023817200,
+							"id_str": "860837066023817217",
+							"indices": [
+								75,
+								98
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/860837066023817217/pu/img/QZ4zAvi9PBp_1JIk.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/860837066023817217/pu/img/QZ4zAvi9PBp_1JIk.jpg",
+							"url": "https://t.co/TjaEKD9XZw",
+							"display_url": "pic.twitter.com/TjaEKD9XZw",
+							"expanded_url": "https://twitter.com/WeTheEducators/status/860837430101979136/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 600,
+									"h": 338,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 191,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1024,
+									"h": 576,
+									"resize": "fit"
+								}
+							},
+							"source_status_id": 860837430101979100,
+							"source_status_id_str": "860837430101979136",
+							"source_user_id": 839119083954122800,
+							"source_user_id_str": "839119083954122752",
+							"video_info": {
+								"aspect_ratio": [
+									16,
+									9
+								],
+								"duration_millis": 83967,
+								"variants": [
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/860837066023817217/pu/vid/640x360/_832evI5EDq5PYti.mp4"
+									},
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/ext_tw_video/860837066023817217/pu/pl/7x2y1lyXM3q_2klb.m3u8"
+									},
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/860837066023817217/pu/vid/320x180/zdjwrFS3odnWY_4C.mp4"
+									},
+									{
+										"bitrate": 2176000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/860837066023817217/pu/vid/1280x720/pGohoDZsElHR2I-Y.mp4"
+									}
+								]
+							},
+							"additional_media_info": {
+								"monetizable": false,
+								"source_user": {
+									"id": 839119083954122800,
+									"id_str": "839119083954122752",
+									"name": "WeTheEducators",
+									"screen_name": "WeTheEducators",
+									"location": "Global",
+									"description": "A new conversation about the future of public education",
+									"url": "https://t.co/cKwgHWX7vN",
+									"entities": {
+										"url": {
+											"urls": [
+												{
+													"url": "https://t.co/cKwgHWX7vN",
+													"expanded_url": "https://WeTheEducators.com",
+													"display_url": "WeTheEducators.com",
+													"indices": [
+														0,
+														23
+													]
+												}
+											]
+										},
+										"description": {
+											"urls": []
+										}
+									},
+									"protected": false,
+									"followers_count": 352,
+									"friends_count": 23,
+									"listed_count": 5,
+									"created_at": "Tue Mar 07 14:22:34 +0000 2017",
+									"favourites_count": 35,
+									"utc_offset": null,
+									"time_zone": null,
+									"geo_enabled": false,
+									"verified": false,
+									"statuses_count": 81,
+									"lang": "en",
+									"contributors_enabled": false,
+									"is_translator": false,
+									"is_translation_enabled": false,
+									"profile_background_color": "000000",
+									"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+									"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+									"profile_background_tile": false,
+									"profile_image_url": "http://pbs.twimg.com/profile_images/856472738030080000/3WORqZHu_normal.jpg",
+									"profile_image_url_https": "https://pbs.twimg.com/profile_images/856472738030080000/3WORqZHu_normal.jpg",
+									"profile_banner_url": "https://pbs.twimg.com/profile_banners/839119083954122752/1493034075",
+									"profile_link_color": "469D89",
+									"profile_sidebar_border_color": "000000",
+									"profile_sidebar_fill_color": "000000",
+									"profile_text_color": "000000",
+									"profile_use_background_image": false,
+									"has_extended_profile": false,
+									"default_profile": false,
+									"default_profile_image": false,
+									"following": false,
+									"follow_request_sent": false,
+									"notifications": false,
+									"translator_type": "none"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 7460872,
+					"id_str": "7460872",
+					"name": "Graham Brown-Martin",
+					"screen_name": "GrahamBM",
+					"location": "London",
+					"description": "Foresight & Anticipatory Research | Author : Learning {Re}imagined | #innovation #education #society #design #edtech #FutureOfWork #FRSA #ENTP #ADHD #ASD #DMT",
+					"url": "https://t.co/2EIDWPoHCb",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/2EIDWPoHCb",
+									"expanded_url": "https://grahambrownmartin.com",
+									"display_url": "grahambrownmartin.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 44139,
+					"friends_count": 1471,
+					"listed_count": 1075,
+					"created_at": "Fri Jul 13 21:55:53 +0000 2007",
+					"favourites_count": 7811,
+					"utc_offset": 3600,
+					"time_zone": "London",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 49981,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/551549478961152000/TdCoGpuk_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/551549478961152000/TdCoGpuk_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/7460872/1360434682",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 10,
+				"favorite_count": 8,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 871652674831253500,
+		"quoted_status_id_str": "871652674831253504",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jun 06 03:51:52 +0000 2017",
 		"id": 871937659102298100,
 		"id_str": "871937659102298112",
