@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Wed Jun 07 09:17:07 +0000 2017",
+		"id": 872381900589084700,
+		"id_str": "872381900589084676",
+		"text": "RT @onlmaps: Subway-style diagram of major Roman roads  #map #maps https://t.co/eyefwh8tYk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "map",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "maps",
+					"indices": [
+						61,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "onlmaps",
+					"name": "OnlMaps",
+					"id": 268829174,
+					"id_str": "268829174",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 871922113585623000,
+					"id_str": "871922113585623041",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DBmwiuwUMAEMvx7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DBmwiuwUMAEMvx7.jpg",
+					"url": "https://t.co/eyefwh8tYk",
+					"display_url": "pic.twitter.com/eyefwh8tYk",
+					"expanded_url": "https://twitter.com/onlmaps/status/871922117763227648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 903,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1541,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 871922117763227600,
+					"source_status_id_str": "871922117763227648",
+					"source_user_id": 268829174,
+					"source_user_id_str": "268829174"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 871922113585623000,
+					"id_str": "871922113585623041",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DBmwiuwUMAEMvx7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DBmwiuwUMAEMvx7.jpg",
+					"url": "https://t.co/eyefwh8tYk",
+					"display_url": "pic.twitter.com/eyefwh8tYk",
+					"expanded_url": "https://twitter.com/onlmaps/status/871922117763227648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 903,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1541,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 871922117763227600,
+					"source_status_id_str": "871922117763227648",
+					"source_user_id": 268829174,
+					"source_user_id_str": "268829174"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/PkNuJdbjJZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdbjJZ",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4079,
+			"friends_count": 2959,
+			"listed_count": 400,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4752,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27848,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 06 02:50:07 +0000 2017",
+			"id": 871922117763227600,
+			"id_str": "871922117763227648",
+			"text": "Subway-style diagram of major Roman roads  #map #maps https://t.co/eyefwh8tYk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "map",
+						"indices": [
+							43,
+							47
+						]
+					},
+					{
+						"text": "maps",
+						"indices": [
+							48,
+							53
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 871922113585623000,
+						"id_str": "871922113585623041",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DBmwiuwUMAEMvx7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBmwiuwUMAEMvx7.jpg",
+						"url": "https://t.co/eyefwh8tYk",
+						"display_url": "pic.twitter.com/eyefwh8tYk",
+						"expanded_url": "https://twitter.com/onlmaps/status/871922117763227648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 903,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1541,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 871922113585623000,
+						"id_str": "871922113585623041",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DBmwiuwUMAEMvx7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBmwiuwUMAEMvx7.jpg",
+						"url": "https://t.co/eyefwh8tYk",
+						"display_url": "pic.twitter.com/eyefwh8tYk",
+						"expanded_url": "https://twitter.com/onlmaps/status/871922117763227648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 903,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1541,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://github.com/abraham/twitteroauth\" rel=\"nofollow\">APPindev</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 268829174,
+				"id_str": "268829174",
+				"name": "OnlMaps",
+				"screen_name": "onlmaps",
+				"location": "",
+				"description": "News on maps, online maps, route planners from around the world. Tweeting about geography, space, science, news, and occasionally affiliates.",
+				"url": "https://t.co/rTVnu4G9dT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rTVnu4G9dT",
+								"expanded_url": "http://mapsontheweb.zoom-maps.com",
+								"display_url": "mapsontheweb.zoom-maps.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23900,
+				"friends_count": 2836,
+				"listed_count": 646,
+				"created_at": "Sat Mar 19 15:08:50 +0000 2011",
+				"favourites_count": 92,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 26049,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/661305396/mxoeeiw7k3g7ft1j9ad5.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/661305396/mxoeeiw7k3g7ft1j9ad5.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1280113480/twlogo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280113480/twlogo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/268829174/1348754661",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2526,
+			"favorite_count": 3596,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2526,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jun 07 09:07:09 +0000 2017",
 		"id": 872379392198144000,
 		"id_str": "872379392198144000",
