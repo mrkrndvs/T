@@ -1,6 +1,476 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Thu Jun 08 10:11:24 +0000 2017",
+		"id": 872757948103012400,
+		"id_str": "872757948103012352",
+		"text": "RT @dzyngier: But did you read my 2014 research paper. I definitely found that smaller classes have great impact for low SES especially in…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dzyngier",
+					"name": "Dr David Zyngier",
+					"id": 36830845,
+					"id_str": "36830845",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4082,
+			"friends_count": 2958,
+			"listed_count": 400,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4755,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27865,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 08 09:58:33 +0000 2017",
+			"id": 872754712528920600,
+			"id_str": "872754712528920577",
+			"text": "But did you read my 2014 research paper. I definitely found that smaller classes have great impact for low SES espe… https://t.co/LRWr8c012T",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LRWr8c012T",
+						"expanded_url": "https://twitter.com/i/web/status/872754712528920577",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36830845,
+				"id_str": "36830845",
+				"name": "Dr David Zyngier",
+				"screen_name": "dzyngier",
+				"location": "Wurrundjerri Land - Melbourne",
+				"description": "Former school teacher & principal, academic, advocating for Public Education & Social Justice | https://t.co/Ld2U3WX37N",
+				"url": "https://t.co/WJxFBc01YZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WJxFBc01YZ",
+								"expanded_url": "http://monash.academia.edu/DavidZyngier",
+								"display_url": "monash.academia.edu/DavidZyngier",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Ld2U3WX37N",
+								"expanded_url": "https://theconversation.com/profiles/david-zyngier-491",
+								"display_url": "theconversation.com/profiles/david…",
+								"indices": [
+									96,
+									119
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2693,
+				"friends_count": 2249,
+				"listed_count": 49,
+				"created_at": "Fri May 01 00:43:09 +0000 2009",
+				"favourites_count": 2061,
+				"utc_offset": 36000,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9984,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/449092824223326208/v1ErC8Uz.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/449092824223326208/v1ErC8Uz.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/687045163949019136/O4ZipQB-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/687045163949019136/O4ZipQB-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36830845/1394815298",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 872739706294812700,
+			"quoted_status_id_str": "872739706294812672",
+			"quoted_status": {
+				"created_at": "Thu Jun 08 08:58:55 +0000 2017",
+				"id": 872739706294812700,
+				"id_str": "872739706294812672",
+				"text": "@dickfaber @dzyngier @JaneCaro I told everyone how to find it, you're basically asking me for unpaid labour. But OK… https://t.co/e3dzyJirqn",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "dickfaber",
+							"name": "dickfaber",
+							"id": 165740914,
+							"id_str": "165740914",
+							"indices": [
+								0,
+								10
+							]
+						},
+						{
+							"screen_name": "dzyngier",
+							"name": "Dr David Zyngier",
+							"id": 36830845,
+							"id_str": "36830845",
+							"indices": [
+								11,
+								20
+							]
+						},
+						{
+							"screen_name": "JaneCaro",
+							"name": "Jane Caro",
+							"id": 92932981,
+							"id_str": "92932981",
+							"indices": [
+								21,
+								30
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/e3dzyJirqn",
+							"expanded_url": "https://twitter.com/i/web/status/872739706294812672",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": 872738626542510100,
+				"in_reply_to_status_id_str": "872738626542510081",
+				"in_reply_to_user_id": 165740914,
+				"in_reply_to_user_id_str": "165740914",
+				"in_reply_to_screen_name": "dickfaber",
+				"user": {
+					"id": 14902049,
+					"id_str": "14902049",
+					"name": "Caitlin Fitzsimmons",
+					"screen_name": "niltiac",
+					"location": "Sydney",
+					"description": "Adventurer. Columnist @SMH @TheAge on money & work. Editor @FairfaxMoney. Believer in truth & imagination. Hard-headed not hard-hearted. Singing makes me happy!",
+					"url": "https://t.co/lcq280vWeY",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/lcq280vWeY",
+									"expanded_url": "http://www.caitlinfitzsimmons.blog",
+									"display_url": "caitlinfitzsimmons.blog",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 15573,
+					"friends_count": 3831,
+					"listed_count": 819,
+					"created_at": "Sun May 25 21:22:02 +0000 2008",
+					"favourites_count": 5906,
+					"utc_offset": 36000,
+					"time_zone": "Sydney",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 81085,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EDECE9",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/868287089636327425/u34DSNRk_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/868287089636327425/u34DSNRk_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/14902049/1410420393",
+					"profile_link_color": "088253",
+					"profile_sidebar_border_color": "D3D2CF",
+					"profile_sidebar_fill_color": "E3E2DE",
+					"profile_text_color": "634047",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 872739706294812700,
+		"quoted_status_id_str": "872739706294812672",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 08 10:10:57 +0000 2017",
+		"id": 872757832612839400,
+		"id_str": "872757832612839425",
+		"text": "@dickfaber @dzyngier I am wondering what these magical solutions are to easing workplace.stress 🤔 maybe we shd have… https://t.co/39wGw6MijT",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dickfaber",
+					"name": "dickfaber",
+					"id": 165740914,
+					"id_str": "165740914",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "dzyngier",
+					"name": "Dr David Zyngier",
+					"id": 36830845,
+					"id_str": "36830845",
+					"indices": [
+						11,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/39wGw6MijT",
+					"expanded_url": "https://twitter.com/i/web/status/872757832612839425",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 872740128166481900,
+		"in_reply_to_status_id_str": "872740128166481920",
+		"in_reply_to_user_id": 165740914,
+		"in_reply_to_user_id_str": "165740914",
+		"in_reply_to_screen_name": "dickfaber",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4082,
+			"friends_count": 2958,
+			"listed_count": 400,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4755,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27865,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 08 09:11:40 +0000 2017",
 		"id": 872742915952353300,
 		"id_str": "872742915952353281",
