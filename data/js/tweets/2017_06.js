@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Wed Jun 07 23:31:38 +0000 2017",
+		"id": 872596943926513700,
+		"id_str": "872596943926513664",
+		"text": "RT @penpln: @C21_Teaching Relax now! Looking forward to your tweets as l’m opting out of #edutechau stream to filter out hype &amp; advertising…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edutechau",
+					"indices": [
+						89,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "penpln",
+					"name": "Penny Bentley",
+					"id": 139954634,
+					"id_str": "139954634",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "C21_Teaching",
+					"name": "Brendan Mitchell",
+					"id": 2574647358,
+					"id_str": "2574647358",
+					"indices": [
+						12,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/PkNuJdbjJZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdbjJZ",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4082,
+			"friends_count": 2958,
+			"listed_count": 401,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4754,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27860,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 07 23:26:50 +0000 2017",
+			"id": 872595737351082000,
+			"id_str": "872595737351081984",
+			"text": "@C21_Teaching Relax now! Looking forward to your tweets as l’m opting out of #edutechau stream to filter out hype &amp; advertising. Enjoy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edutechau",
+						"indices": [
+							77,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "C21_Teaching",
+						"name": "Brendan Mitchell",
+						"id": 2574647358,
+						"id_str": "2574647358",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": 872592089388904400,
+			"in_reply_to_status_id_str": "872592089388904448",
+			"in_reply_to_user_id": 2574647358,
+			"in_reply_to_user_id_str": "2574647358",
+			"in_reply_to_screen_name": "C21_Teaching",
+			"user": {
+				"id": 139954634,
+				"id_str": "139954634",
+				"name": "Penny Bentley",
+				"screen_name": "penpln",
+				"location": "Victoria, Australia",
+				"description": "Ex maths/science teacher now PhD candidate exploring tchr experience of prof learning through openness, my pics https://t.co/jE539CAHf1",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/jE539CAHf1",
+								"expanded_url": "https://www.flickr.com/photos/penbentley/albums",
+								"display_url": "flickr.com/photos/penbent…",
+								"indices": [
+									112,
+									135
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1775,
+				"friends_count": 872,
+				"listed_count": 186,
+				"created_at": "Tue May 04 04:22:52 +0000 2010",
+				"favourites_count": 694,
+				"utc_offset": 36000,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10346,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "223049",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/204738827/x6c12e29a2cbee9089ac2195f38c6a54.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/204738827/x6c12e29a2cbee9089ac2195f38c6a54.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/767637028934606848/z4bKtujL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/767637028934606848/z4bKtujL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/139954634/1471618213",
+				"profile_link_color": "B884C2",
+				"profile_sidebar_border_color": "2280A9",
+				"profile_sidebar_fill_color": "080C12",
+				"profile_text_color": "FFFFFF",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jun 07 21:56:38 +0000 2017",
 		"id": 872573036108677100,
 		"id_str": "872573036108677123",
