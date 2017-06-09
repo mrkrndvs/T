@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Fri Jun 09 12:24:10 +0000 2017",
+		"id": 873153746666049500,
+		"id_str": "873153746666049536",
+		"text": "RT @NomadWarMachine: @dogtrax @mrkrndvs @eSmart_AMF I definitely agree with this. We're more like neighbours than followers imo -\n but that…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "dogtrax",
+					"name": "KevinHodgson",
+					"id": 13307352,
+					"id_str": "13307352",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						30,
+						39
+					]
+				},
+				{
+					"screen_name": "eSmart_AMF",
+					"name": "eSmart",
+					"id": 2154219157,
+					"id_str": "2154219157",
+					"indices": [
+						40,
+						51
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4088,
+			"friends_count": 2958,
+			"listed_count": 404,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4757,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27887,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 09 12:06:38 +0000 2017",
+			"id": 873149337043390500,
+			"id_str": "873149337043390465",
+			"text": "@dogtrax @mrkrndvs @eSmart_AMF I definitely agree with this. We're more like neighbours than followers imo -\n but t… https://t.co/Gj2ko2jwK7",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dogtrax",
+						"name": "KevinHodgson",
+						"id": 13307352,
+						"id_str": "13307352",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							9,
+							18
+						]
+					},
+					{
+						"screen_name": "eSmart_AMF",
+						"name": "eSmart",
+						"id": 2154219157,
+						"id_str": "2154219157",
+						"indices": [
+							19,
+							30
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Gj2ko2jwK7",
+						"expanded_url": "https://twitter.com/i/web/status/873149337043390465",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 873133378618490900,
+			"in_reply_to_status_id_str": "873133378618490882",
+			"in_reply_to_user_id": 13307352,
+			"in_reply_to_user_id_str": "13307352",
+			"in_reply_to_screen_name": "dogtrax",
+			"user": {
+				"id": 558091832,
+				"id_str": "558091832",
+				"name": "Sarah Honeychurch",
+				"screen_name": "NomadWarMachine",
+				"location": "Glasgow",
+				"description": "Philosopher, Doctor Who geek, knitter, uke player.  Good Practice Adviser @UofGlasgow;  Editor @HybridPed. #jisc50social  https://t.co/FaYghV5n1R",
+				"url": "http://t.co/nA2gSr6RKc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/nA2gSr6RKc",
+								"expanded_url": "http://about.me/sarahhoneychurch",
+								"display_url": "about.me/sarahhoneychur…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/FaYghV5n1R",
+								"expanded_url": "http://bit.ly/1Le3tna",
+								"display_url": "bit.ly/1Le3tna",
+								"indices": [
+									122,
+									145
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1464,
+				"friends_count": 1226,
+				"listed_count": 101,
+				"created_at": "Thu Apr 19 21:58:27 +0000 2012",
+				"favourites_count": 8364,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11058,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/432156551516667904/lcrkBwug.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/432156551516667904/lcrkBwug.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/660495239220748289/yaCgTOMP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/660495239220748289/yaCgTOMP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/558091832/1455631695",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 09 11:20:27 +0000 2017",
 		"id": 873137712517087200,
 		"id_str": "873137712517087232",
