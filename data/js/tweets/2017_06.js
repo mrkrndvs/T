@@ -1,6 +1,700 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sun Jun 11 09:19:06 +0000 2017",
+		"id": 873831950213156900,
+		"id_str": "873831950213156864",
+		"text": "RT @MarieAnnUK: Jon Snow excellent as usual... https://t.co/qZ15gExGbO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarieAnnUK",
+					"name": "*Marie-Ann*",
+					"id": 1657761703,
+					"id_str": "1657761703",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 873245832602161200,
+					"id_str": "873245832602161153",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/873245832602161153/img/ar1Co2OOcdQxmfAX.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/873245832602161153/img/ar1Co2OOcdQxmfAX.jpg",
+					"url": "https://t.co/qZ15gExGbO",
+					"display_url": "pic.twitter.com/qZ15gExGbO",
+					"expanded_url": "https://twitter.com/Channel4News/status/873263750836613120/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 873263750836613100,
+					"source_status_id_str": "873263750836613120",
+					"source_user_id": 14569869,
+					"source_user_id_str": "14569869"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 873245832602161200,
+					"id_str": "873245832602161153",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/873245832602161153/img/ar1Co2OOcdQxmfAX.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/873245832602161153/img/ar1Co2OOcdQxmfAX.jpg",
+					"url": "https://t.co/qZ15gExGbO",
+					"display_url": "pic.twitter.com/qZ15gExGbO",
+					"expanded_url": "https://twitter.com/Channel4News/status/873263750836613120/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 873263750836613100,
+					"source_status_id_str": "873263750836613120",
+					"source_user_id": 14569869,
+					"source_user_id_str": "14569869",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 61840,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/873245832602161153/vid/240x240/JCuHl5W3sLK2qDH1.mp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/873245832602161153/vid/720x720/P51LC95s-W-hhBOk.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/873245832602161153/vid/480x480/dQRsU7hiAcbGnSo3.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/873245832602161153/pl/X0YGWDS4kTkeIQT6.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "The real Jon Snow's Game of Thrones take on the general election",
+						"description": "“I know nothing. We know nothing. We the media, the pundits, the experts know nothing.”\n \nSometimes the news is so unreal that the real Jon Snow has to draw on Game of Thrones.",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 14569869,
+							"id_str": "14569869",
+							"name": "Channel 4 News",
+							"screen_name": "Channel4News",
+							"location": "",
+							"description": "Stories that reveal and inspire, challenging expectations.",
+							"url": "http://t.co/YO0ZZvoyrC",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/YO0ZZvoyrC",
+											"expanded_url": "http://www.channel4.com/news",
+											"display_url": "channel4.com/news",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1549518,
+							"friends_count": 3978,
+							"listed_count": 8698,
+							"created_at": "Mon Apr 28 14:29:37 +0000 2008",
+							"favourites_count": 442,
+							"utc_offset": 3600,
+							"time_zone": "London",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 84606,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "2C1C36",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/648955077240164352/qBTtGdoJ.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/648955077240164352/qBTtGdoJ.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/670009107924037634/D7bwdn6Q_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/670009107924037634/D7bwdn6Q_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/14569869/1464103587",
+							"profile_link_color": "3C105E",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "FAF0F6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4085,
+			"friends_count": 2958,
+			"listed_count": 400,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4754,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27904,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 11 09:10:20 +0000 2017",
+			"id": 873829743484862500,
+			"id_str": "873829743484862464",
+			"text": "Jon Snow excellent as usual... https://t.co/qZ15gExGbO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 873245832602161200,
+						"id_str": "873245832602161153",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/873245832602161153/img/ar1Co2OOcdQxmfAX.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/873245832602161153/img/ar1Co2OOcdQxmfAX.jpg",
+						"url": "https://t.co/qZ15gExGbO",
+						"display_url": "pic.twitter.com/qZ15gExGbO",
+						"expanded_url": "https://twitter.com/Channel4News/status/873263750836613120/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 873263750836613100,
+						"source_status_id_str": "873263750836613120",
+						"source_user_id": 14569869,
+						"source_user_id_str": "14569869"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 873245832602161200,
+						"id_str": "873245832602161153",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/873245832602161153/img/ar1Co2OOcdQxmfAX.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/873245832602161153/img/ar1Co2OOcdQxmfAX.jpg",
+						"url": "https://t.co/qZ15gExGbO",
+						"display_url": "pic.twitter.com/qZ15gExGbO",
+						"expanded_url": "https://twitter.com/Channel4News/status/873263750836613120/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 873263750836613100,
+						"source_status_id_str": "873263750836613120",
+						"source_user_id": 14569869,
+						"source_user_id_str": "14569869",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 61840,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/873245832602161153/vid/240x240/JCuHl5W3sLK2qDH1.mp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/873245832602161153/vid/720x720/P51LC95s-W-hhBOk.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/873245832602161153/vid/480x480/dQRsU7hiAcbGnSo3.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/873245832602161153/pl/X0YGWDS4kTkeIQT6.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "The real Jon Snow's Game of Thrones take on the general election",
+							"description": "“I know nothing. We know nothing. We the media, the pundits, the experts know nothing.”\n \nSometimes the news is so unreal that the real Jon Snow has to draw on Game of Thrones.",
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 14569869,
+								"id_str": "14569869",
+								"name": "Channel 4 News",
+								"screen_name": "Channel4News",
+								"location": "",
+								"description": "Stories that reveal and inspire, challenging expectations.",
+								"url": "http://t.co/YO0ZZvoyrC",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "http://t.co/YO0ZZvoyrC",
+												"expanded_url": "http://www.channel4.com/news",
+												"display_url": "channel4.com/news",
+												"indices": [
+													0,
+													22
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1549518,
+								"friends_count": 3978,
+								"listed_count": 8698,
+								"created_at": "Mon Apr 28 14:29:37 +0000 2008",
+								"favourites_count": 442,
+								"utc_offset": 3600,
+								"time_zone": "London",
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 84606,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "2C1C36",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/648955077240164352/qBTtGdoJ.png",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/648955077240164352/qBTtGdoJ.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/670009107924037634/D7bwdn6Q_normal.png",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/670009107924037634/D7bwdn6Q_normal.png",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/14569869/1464103587",
+								"profile_link_color": "3C105E",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "FAF0F6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1657761703,
+				"id_str": "1657761703",
+				"name": "*Marie-Ann*",
+				"screen_name": "MarieAnnUK",
+				"location": "DORSET",
+				"description": "20 Something Brit Girl I'm NOT a Leftie or a Brexidiot",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44138,
+				"friends_count": 37900,
+				"listed_count": 154,
+				"created_at": "Fri Aug 09 13:15:37 +0000 2013",
+				"favourites_count": 11984,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39069,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793859033446973440/4byzhNa-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793859033446973440/4byzhNa-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1657761703/1495369625",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 87,
+			"favorite_count": 148,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jun 11 09:15:45 +0000 2017",
+		"id": 873831105962573800,
+		"id_str": "873831105962573825",
+		"text": "@annadelconte @r_nd_f__ld @MrMCimino @karentao2 You might like this too from @BecSpink \n\nDeath by Anchor Chart!  https://t.co/Qy67hjbMFj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "annadelconte",
+					"name": "Anne van der Graaf",
+					"id": 1652281850,
+					"id_str": "1652281850",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "r_nd_f__ld",
+					"name": "rondargh",
+					"id": 3020323974,
+					"id_str": "3020323974",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "MrMCimino",
+					"name": "Marco Cimino",
+					"id": 3070802660,
+					"id_str": "3070802660",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"screen_name": "karentao2",
+					"name": "Karen Tao",
+					"id": 3012142201,
+					"id_str": "3012142201",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"screen_name": "BecSpink",
+					"name": "Bec Spink",
+					"id": 27118111,
+					"id_str": "27118111",
+					"indices": [
+						77,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Qy67hjbMFj",
+					"expanded_url": "http://becspink.com/2013/07/09/death-by-anchor-chart/",
+					"display_url": "becspink.com/2013/07/09/dea…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 873819794302148600,
+		"in_reply_to_status_id_str": "873819794302148608",
+		"in_reply_to_user_id": 1652281850,
+		"in_reply_to_user_id_str": "1652281850",
+		"in_reply_to_screen_name": "annadelconte",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4085,
+			"friends_count": 2958,
+			"listed_count": 400,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4754,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27904,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 11 08:44:39 +0000 2017",
 		"id": 873823278216888300,
 		"id_str": "873823278216888320",
