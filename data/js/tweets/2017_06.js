@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Mon Jun 12 23:01:40 +0000 2017",
+		"id": 874401345263906800,
+		"id_str": "874401345263906817",
+		"text": "RT @dzyngier: Sums up neo liberal capitalism!  https://t.co/lAlR0ylQsr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dzyngier",
+					"name": "Dr David Zyngier",
+					"id": 36830845,
+					"id_str": "36830845",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 872722100808671200,
+					"id_str": "872722100808671232",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/DByIIHZVYAAJA9s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DByIIHZVYAAJA9s.jpg",
+					"url": "https://t.co/lAlR0ylQsr",
+					"display_url": "pic.twitter.com/lAlR0ylQsr",
+					"expanded_url": "https://twitter.com/rhysam/status/872722102532546560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 693,
+							"h": 693,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 693,
+							"h": 693,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 872722102532546600,
+					"source_status_id_str": "872722102532546560",
+					"source_user_id": 17867050,
+					"source_user_id_str": "17867050"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 872722100808671200,
+					"id_str": "872722100808671232",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/DByIIHZVYAAJA9s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DByIIHZVYAAJA9s.jpg",
+					"url": "https://t.co/lAlR0ylQsr",
+					"display_url": "pic.twitter.com/lAlR0ylQsr",
+					"expanded_url": "https://twitter.com/rhysam/status/872722102532546560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 693,
+							"h": 693,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 693,
+							"h": 693,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 872722102532546600,
+					"source_status_id_str": "872722102532546560",
+					"source_user_id": 17867050,
+					"source_user_id_str": "17867050"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4091,
+			"friends_count": 2958,
+			"listed_count": 402,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4755,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27913,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 12 13:36:03 +0000 2017",
+			"id": 874259001579421700,
+			"id_str": "874259001579421696",
+			"text": "Sums up neo liberal capitalism!  https://t.co/lAlR0ylQsr",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 872722100808671200,
+						"id_str": "872722100808671232",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/DByIIHZVYAAJA9s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DByIIHZVYAAJA9s.jpg",
+						"url": "https://t.co/lAlR0ylQsr",
+						"display_url": "pic.twitter.com/lAlR0ylQsr",
+						"expanded_url": "https://twitter.com/rhysam/status/872722102532546560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 693,
+								"h": 693,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 693,
+								"h": 693,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 872722102532546600,
+						"source_status_id_str": "872722102532546560",
+						"source_user_id": 17867050,
+						"source_user_id_str": "17867050"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 872722100808671200,
+						"id_str": "872722100808671232",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/DByIIHZVYAAJA9s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DByIIHZVYAAJA9s.jpg",
+						"url": "https://t.co/lAlR0ylQsr",
+						"display_url": "pic.twitter.com/lAlR0ylQsr",
+						"expanded_url": "https://twitter.com/rhysam/status/872722102532546560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 693,
+								"h": 693,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 693,
+								"h": 693,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 872722102532546600,
+						"source_status_id_str": "872722102532546560",
+						"source_user_id": 17867050,
+						"source_user_id_str": "17867050"
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36830845,
+				"id_str": "36830845",
+				"name": "Dr David Zyngier",
+				"screen_name": "dzyngier",
+				"location": "Wurrundjerri Land - Melbourne",
+				"description": "Former school teacher & principal, academic, advocating for Public Education & Social Justice | https://t.co/Ld2U3WX37N",
+				"url": "https://t.co/WJxFBc01YZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WJxFBc01YZ",
+								"expanded_url": "http://monash.academia.edu/DavidZyngier",
+								"display_url": "monash.academia.edu/DavidZyngier",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Ld2U3WX37N",
+								"expanded_url": "https://theconversation.com/profiles/david-zyngier-491",
+								"display_url": "theconversation.com/profiles/david…",
+								"indices": [
+									96,
+									119
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2713,
+				"friends_count": 2265,
+				"listed_count": 49,
+				"created_at": "Fri May 01 00:43:09 +0000 2009",
+				"favourites_count": 2099,
+				"utc_offset": 36000,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10068,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/449092824223326208/v1ErC8Uz.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/449092824223326208/v1ErC8Uz.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/687045163949019136/O4ZipQB-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/687045163949019136/O4ZipQB-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36830845/1394815298",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jun 12 19:01:14 +0000 2017",
 		"id": 874340837613871100,
 		"id_str": "874340837613871104",
