@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sat Jun 17 11:48:52 +0000 2017",
+		"id": 876043967187476500,
+		"id_str": "876043967187476480",
+		"text": "RT @robeanne: If you show people you value them, you can get them to change. #relationships #changeleadership #shiftingthinking",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "relationships",
+					"indices": [
+						77,
+						91
+					]
+				},
+				{
+					"text": "changeleadership",
+					"indices": [
+						92,
+						109
+					]
+				},
+				{
+					"text": "shiftingthinking",
+					"indices": [
+						110,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "robeanne",
+					"name": "Anne Robertson",
+					"id": 19274582,
+					"id_str": "19274582",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4102,
+			"friends_count": 2959,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4760,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27975,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 17 11:30:00 +0000 2017",
+			"id": 876039217117253600,
+			"id_str": "876039217117253632",
+			"text": "If you show people you value them, you can get them to change. #relationships #changeleadership #shiftingthinking",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "relationships",
+						"indices": [
+							63,
+							77
+						]
+					},
+					{
+						"text": "changeleadership",
+						"indices": [
+							78,
+							95
+						]
+					},
+					{
+						"text": "shiftingthinking",
+						"indices": [
+							96,
+							113
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19274582,
+				"id_str": "19274582",
+				"name": "Anne Robertson",
+				"screen_name": "robeanne",
+				"location": "New Zealand",
+				"description": "Connected Learning Advisor. Passionate about my family, @easegill languages, learning, travel & curious to know more about lots of things! #efellow14",
+				"url": "https://t.co/jFITxbkC3L",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jFITxbkC3L",
+								"expanded_url": "http://aboxofthistles.wordpress.com",
+								"display_url": "aboxofthistles.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1284,
+				"friends_count": 1071,
+				"listed_count": 186,
+				"created_at": "Wed Jan 21 03:48:09 +0000 2009",
+				"favourites_count": 6499,
+				"utc_offset": 43200,
+				"time_zone": "Wellington",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13777,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3992475/IMG_5221crop.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3992475/IMG_5221crop.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/761723100132089856/bQ44XGWV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/761723100132089856/bQ44XGWV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19274582/1430993662",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0103586d1639ca97",
+				"url": "https://api.twitter.com/1.1/geo/id/0103586d1639ca97.json",
+				"place_type": "city",
+				"name": "Hamilton City",
+				"full_name": "Hamilton City, New Zealand",
+				"country_code": "NZ",
+				"country": "New Zealand",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								175.184301,
+								-37.846039
+							],
+							[
+								175.344877,
+								-37.846039
+							],
+							[
+								175.344877,
+								-37.69933
+							],
+							[
+								175.184301,
+								-37.69933
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jun 17 11:11:02 +0000 2017",
 		"id": 876034445660176400,
 		"id_str": "876034445660176384",
