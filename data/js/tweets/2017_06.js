@@ -1,6 +1,1009 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sat Jun 17 05:10:08 +0000 2017",
+		"id": 875943624344617000,
+		"id_str": "875943624344616964",
+		"text": "RT @Bali_Maha: Lines Not Drawn – and Invitations of Sailors #digciz https://t.co/7YphDJqPtW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digciz",
+					"indices": [
+						60,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi مها بالي",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7YphDJqPtW",
+					"expanded_url": "https://blog.mahabali.me/citizenship-2/lines-not-drawn-and-invitations-of-sailors-digciz/",
+					"display_url": "blog.mahabali.me/citizenship-2/…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4100,
+			"friends_count": 2959,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4757,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27955,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 17 03:03:41 +0000 2017",
+			"id": 875911798603432000,
+			"id_str": "875911798603431936",
+			"text": "Lines Not Drawn – and Invitations of Sailors #digciz https://t.co/7YphDJqPtW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "digciz",
+						"indices": [
+							45,
+							52
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7YphDJqPtW",
+						"expanded_url": "https://blog.mahabali.me/citizenship-2/lines-not-drawn-and-invitations-of-sailors-digciz/",
+						"display_url": "blog.mahabali.me/citizenship-2/…",
+						"indices": [
+							53,
+							76
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1535273520,
+				"id_str": "1535273520",
+				"name": "ℳąhą Bąℓi مها بالي",
+				"screen_name": "Bali_Maha",
+				"location": "AUC, Cairo, #Egypt",
+				"description": "Writaholic/Learnaholic. Assoc Prof prac #facdev. Part of @VConnecting @HybridPed @DigPedLab @ProfHacker @dmlresearchhub Was #PhDmum @SheffieldUni",
+				"url": "https://t.co/pjHqig6ctM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pjHqig6ctM",
+								"expanded_url": "http://blog.mahabali.me",
+								"display_url": "blog.mahabali.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4837,
+				"friends_count": 4081,
+				"listed_count": 426,
+				"created_at": "Thu Jun 20 23:42:32 +0000 2013",
+				"favourites_count": 56074,
+				"utc_offset": 7200,
+				"time_zone": "Cairo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 46656,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/457652639686090754/OQUJ2Nt9.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/457652639686090754/OQUJ2Nt9.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/523419361185234944/kWBLJiqq_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/523419361185234944/kWBLJiqq_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1535273520/1380017817",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jun 17 04:40:12 +0000 2017",
+		"id": 875936091232063500,
+		"id_str": "875936091232063488",
+		"text": "RT @SteveBrophy3: Thoroughly enjoyed this chat with @Capitan_Typo discussing @designandplay and @TeachTechPlay #ttplay #aussieED Ping @dean…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ttplay",
+					"indices": [
+						111,
+						118
+					]
+				},
+				{
+					"text": "aussieED",
+					"indices": [
+						119,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SteveBrophy3",
+					"name": "Steve Brophy",
+					"id": 827898170,
+					"id_str": "827898170",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "Capitan_Typo",
+					"name": "Cameron Malcher",
+					"id": 295070137,
+					"id_str": "295070137",
+					"indices": [
+						52,
+						65
+					]
+				},
+				{
+					"screen_name": "designandplay",
+					"name": "Design and Play",
+					"id": 783093186373689300,
+					"id_str": "783093186373689344",
+					"indices": [
+						77,
+						91
+					]
+				},
+				{
+					"screen_name": "TeachTechPlay",
+					"name": "TeachTechPlay",
+					"id": 2568780559,
+					"id_str": "2568780559",
+					"indices": [
+						96,
+						110
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4100,
+			"friends_count": 2959,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4757,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27955,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 15 07:20:13 +0000 2017",
+			"id": 864017561297444900,
+			"id_str": "864017561297444864",
+			"text": "Thoroughly enjoyed this chat with @Capitan_Typo discussing @designandplay and @TeachTechPlay #ttplay #aussieED Ping… https://t.co/d0t4gS8XK6",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ttplay",
+						"indices": [
+							93,
+							100
+						]
+					},
+					{
+						"text": "aussieED",
+						"indices": [
+							101,
+							110
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Capitan_Typo",
+						"name": "Cameron Malcher",
+						"id": 295070137,
+						"id_str": "295070137",
+						"indices": [
+							34,
+							47
+						]
+					},
+					{
+						"screen_name": "designandplay",
+						"name": "Design and Play",
+						"id": 783093186373689300,
+						"id_str": "783093186373689344",
+						"indices": [
+							59,
+							73
+						]
+					},
+					{
+						"screen_name": "TeachTechPlay",
+						"name": "TeachTechPlay",
+						"id": 2568780559,
+						"id_str": "2568780559",
+						"indices": [
+							78,
+							92
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/d0t4gS8XK6",
+						"expanded_url": "https://twitter.com/i/web/status/864017561297444864",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 827898170,
+				"id_str": "827898170",
+				"name": "Steve Brophy",
+				"screen_name": "SteveBrophy3",
+				"location": "Melbourne, Victoria",
+				"description": "Director of ICT & eLearning, #MIEExpert, CoHost @TeachTechPlay. 2017 @TouchCastEdu Ambassador, CoHost @designandplay podcast & Apple Distinguished Educator ",
+				"url": "https://t.co/9IRmrwaMxU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9IRmrwaMxU",
+								"expanded_url": "http://stevebrophy.com.au",
+								"display_url": "stevebrophy.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4662,
+				"friends_count": 4502,
+				"listed_count": 291,
+				"created_at": "Sun Sep 16 23:00:37 +0000 2012",
+				"favourites_count": 4398,
+				"utc_offset": 39600,
+				"time_zone": "New Caledonia",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7054,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/855353610678312960/XY6e42_R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/855353610678312960/XY6e42_R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/827898170/1488015939",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 863739936247119900,
+			"quoted_status_id_str": "863739936247119872",
+			"quoted_status": {
+				"created_at": "Sun May 14 12:57:02 +0000 2017",
+				"id": 863739936247119900,
+				"id_str": "863739936247119872",
+				"text": "TER #092 - Student Motivation, Engagement &amp; Wellbeing - 14 May 2017\nhttps://t.co/EopliWlu2x https://t.co/XmUBEDdALG",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/EopliWlu2x",
+							"expanded_url": "http://terpodcast.com/2017/05/14/ter-092-student-motivation-engagement-wellbeing-14-may-2017/",
+							"display_url": "terpodcast.com/2017/05/14/ter…",
+							"indices": [
+								72,
+								95
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 863738411483410400,
+							"id_str": "863738411483410432",
+							"indices": [
+								96,
+								119
+							],
+							"media_url": "http://pbs.twimg.com/media/C_ydgktUMAAGD8Q.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C_ydgktUMAAGD8Q.jpg",
+							"url": "https://t.co/XmUBEDdALG",
+							"display_url": "pic.twitter.com/XmUBEDdALG",
+							"expanded_url": "https://twitter.com/Capitan_Typo/status/863739936247119872/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 980,
+									"h": 492,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 341,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 980,
+									"h": 492,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 863738411483410400,
+							"id_str": "863738411483410432",
+							"indices": [
+								96,
+								119
+							],
+							"media_url": "http://pbs.twimg.com/media/C_ydgktUMAAGD8Q.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C_ydgktUMAAGD8Q.jpg",
+							"url": "https://t.co/XmUBEDdALG",
+							"display_url": "pic.twitter.com/XmUBEDdALG",
+							"expanded_url": "https://twitter.com/Capitan_Typo/status/863739936247119872/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 980,
+									"h": 492,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 341,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 980,
+									"h": 492,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 295070137,
+					"id_str": "295070137",
+					"name": "Cameron Malcher",
+					"screen_name": "Capitan_Typo",
+					"location": "Sydney, Australia",
+					"description": "Teacher, Student, Storyteller. Communications Officer of @teachersfed. Producer & Host of @TERPodcast. All posts are opinionated.",
+					"url": "https://t.co/b0PxY8JPcf",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/b0PxY8JPcf",
+									"expanded_url": "http://www.learningoutloud.net.au",
+									"display_url": "learningoutloud.net.au",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2119,
+					"friends_count": 2932,
+					"listed_count": 74,
+					"created_at": "Sun May 08 09:29:56 +0000 2011",
+					"favourites_count": 5516,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 9526,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "709397",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/475897907648815104/UySPEtnz_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/475897907648815104/UySPEtnz_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/295070137/1469834601",
+					"profile_link_color": "FF3300",
+					"profile_sidebar_border_color": "86A4A6",
+					"profile_sidebar_fill_color": "A0C5C7",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 6,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 863739936247119900,
+		"quoted_status_id_str": "863739936247119872",
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jun 17 04:39:09 +0000 2017",
+		"id": 875935825246117900,
+		"id_str": "875935825246117889",
+		"text": "RT @designandplay: Episode 9 of @designandplay with the brilliant @EduSum from @EduChangemakers https://t.co/jUYAkLaTNN #podcast #edtechcha…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "podcast",
+					"indices": [
+						120,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "designandplay",
+					"name": "Design and Play",
+					"id": 783093186373689300,
+					"id_str": "783093186373689344",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "designandplay",
+					"name": "Design and Play",
+					"id": 783093186373689300,
+					"id_str": "783093186373689344",
+					"indices": [
+						32,
+						46
+					]
+				},
+				{
+					"screen_name": "EduSum",
+					"name": "Summer Howarth",
+					"id": 136169487,
+					"id_str": "136169487",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"screen_name": "EduChangemakers",
+					"name": "Edu Changemakers",
+					"id": 393847292,
+					"id_str": "393847292",
+					"indices": [
+						79,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jUYAkLaTNN",
+					"expanded_url": "http://bit.ly/2rv27gW",
+					"display_url": "bit.ly/2rv27gW",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4100,
+			"friends_count": 2959,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4757,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27955,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 14 11:14:28 +0000 2017",
+			"id": 874948145901256700,
+			"id_str": "874948145901256706",
+			"text": "Episode 9 of @designandplay with the brilliant @EduSum from @EduChangemakers https://t.co/jUYAkLaTNN #podcast… https://t.co/tUrRHl84vZ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "podcast",
+						"indices": [
+							101,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "designandplay",
+						"name": "Design and Play",
+						"id": 783093186373689300,
+						"id_str": "783093186373689344",
+						"indices": [
+							13,
+							27
+						]
+					},
+					{
+						"screen_name": "EduSum",
+						"name": "Summer Howarth",
+						"id": 136169487,
+						"id_str": "136169487",
+						"indices": [
+							47,
+							54
+						]
+					},
+					{
+						"screen_name": "EduChangemakers",
+						"name": "Edu Changemakers",
+						"id": 393847292,
+						"id_str": "393847292",
+						"indices": [
+							60,
+							76
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/jUYAkLaTNN",
+						"expanded_url": "http://bit.ly/2rv27gW",
+						"display_url": "bit.ly/2rv27gW",
+						"indices": [
+							77,
+							100
+						]
+					},
+					{
+						"url": "https://t.co/tUrRHl84vZ",
+						"expanded_url": "https://twitter.com/i/web/status/874948145901256706",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 783093186373689300,
+				"id_str": "783093186373689344",
+				"name": "Design and Play",
+				"screen_name": "designandplay",
+				"location": "Melbourne, Victoria",
+				"description": "A podcast all about education, technology, innovation, pedagogy, design and creativity. Hosted by @stevebrophy3 and @deanpearman \n\niTunes, Soundcloud & Stitcher",
+				"url": "https://t.co/lXGXco4jlE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lXGXco4jlE",
+								"expanded_url": "https://designandplay.podbean.com",
+								"display_url": "designandplay.podbean.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 284,
+				"friends_count": 317,
+				"listed_count": 6,
+				"created_at": "Mon Oct 03 23:55:39 +0000 2016",
+				"favourites_count": 94,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 75,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/832903905851830272/fHF1av0e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/832903905851830272/fHF1av0e_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jun 17 04:09:27 +0000 2017",
 		"id": 875928351969484800,
 		"id_str": "875928351969484800",
