@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sun Jun 18 02:05:50 +0000 2017",
+		"id": 876259631391100900,
+		"id_str": "876259631391100928",
+		"text": "@NomadWarMachine @dogtrax @apievangelist @KateMfD @Bali_Maha @jimgroom I found this post from @apievangelist inform… https://t.co/hFZHGId4Xj",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "dogtrax",
+					"name": "KevinHodgson",
+					"id": 13307352,
+					"id_str": "13307352",
+					"indices": [
+						17,
+						25
+					]
+				},
+				{
+					"screen_name": "apievangelist",
+					"name": "API Evangelist",
+					"id": 601369792,
+					"id_str": "601369792",
+					"indices": [
+						26,
+						40
+					]
+				},
+				{
+					"screen_name": "KateMfD",
+					"name": "Kate Bowles",
+					"id": 379065166,
+					"id_str": "379065166",
+					"indices": [
+						41,
+						49
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi مها بالي",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						61,
+						70
+					]
+				},
+				{
+					"screen_name": "apievangelist",
+					"name": "API Evangelist",
+					"id": 601369792,
+					"id_str": "601369792",
+					"indices": [
+						94,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hFZHGId4Xj",
+					"expanded_url": "https://twitter.com/i/web/status/876259631391100928",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 876223592656228400,
+		"in_reply_to_status_id_str": "876223592656228352",
+		"in_reply_to_user_id": 558091832,
+		"in_reply_to_user_id_str": "558091832",
+		"in_reply_to_screen_name": "NomadWarMachine",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4101,
+			"friends_count": 2959,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4760,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jun 18 01:26:52 +0000 2017",
+		"id": 876249822763728900,
+		"id_str": "876249822763728896",
+		"text": "@dogtrax @NomadWarMachine @apievangelist @KateMfD @Bali_Maha @jimgroom Another example is Hapara… https://t.co/qMoOhVbNAB",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dogtrax",
+					"name": "KevinHodgson",
+					"id": 13307352,
+					"id_str": "13307352",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						9,
+						25
+					]
+				},
+				{
+					"screen_name": "apievangelist",
+					"name": "API Evangelist",
+					"id": 601369792,
+					"id_str": "601369792",
+					"indices": [
+						26,
+						40
+					]
+				},
+				{
+					"screen_name": "KateMfD",
+					"name": "Kate Bowles",
+					"id": 379065166,
+					"id_str": "379065166",
+					"indices": [
+						41,
+						49
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi مها بالي",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						61,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qMoOhVbNAB",
+					"expanded_url": "https://twitter.com/i/web/status/876249822763728896",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 876249237524172800,
+		"in_reply_to_status_id_str": "876249237524172800",
+		"in_reply_to_user_id": 372768752,
+		"in_reply_to_user_id_str": "372768752",
+		"in_reply_to_screen_name": "mrkrndvs",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4101,
+			"friends_count": 2959,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4760,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jun 18 01:24:32 +0000 2017",
+		"id": 876249237524172800,
+		"id_str": "876249237524172800",
+		"text": "@dogtrax @NomadWarMachine @apievangelist @KateMfD @Bali_Maha @jimgroom Not sure where Kin was going with Takeout, I… https://t.co/Ods8IdBuJv",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dogtrax",
+					"name": "KevinHodgson",
+					"id": 13307352,
+					"id_str": "13307352",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						9,
+						25
+					]
+				},
+				{
+					"screen_name": "apievangelist",
+					"name": "API Evangelist",
+					"id": 601369792,
+					"id_str": "601369792",
+					"indices": [
+						26,
+						40
+					]
+				},
+				{
+					"screen_name": "KateMfD",
+					"name": "Kate Bowles",
+					"id": 379065166,
+					"id_str": "379065166",
+					"indices": [
+						41,
+						49
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi مها بالي",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						61,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ods8IdBuJv",
+					"expanded_url": "https://twitter.com/i/web/status/876249237524172800",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 876240161985769500,
+		"in_reply_to_status_id_str": "876240161985769472",
+		"in_reply_to_user_id": 13307352,
+		"in_reply_to_user_id_str": "13307352",
+		"in_reply_to_screen_name": "dogtrax",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4101,
+			"friends_count": 2959,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4760,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 18 01:04:44 +0000 2017",
 		"id": 876244252942098400,
 		"id_str": "876244252942098432",
