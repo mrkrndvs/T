@@ -1,6 +1,768 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Mon Jun 19 21:13:48 +0000 2017",
+		"id": 876910912732397600,
+		"id_str": "876910912732397569",
+		"text": "RT @daveowhite: Very happy that #vandr is helping to frame some of these discussions. I like the direction @amcollier's thinking is taking…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "vandr",
+					"indices": [
+						32,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "daveowhite",
+					"name": "David White",
+					"id": 16230279,
+					"id_str": "16230279",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "amcollier",
+					"name": "Amy Collier",
+					"id": 17300374,
+					"id_str": "17300374",
+					"indices": [
+						107,
+						117
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4109,
+			"friends_count": 2961,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4764,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28011,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 19 13:54:41 +0000 2017",
+			"id": 876800407212879900,
+			"id_str": "876800407212879874",
+			"text": "Very happy that #vandr is helping to frame some of these discussions. I like the direction @amcollier's thinking is… https://t.co/caZffWR6EQ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "vandr",
+						"indices": [
+							16,
+							22
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "amcollier",
+						"name": "Amy Collier",
+						"id": 17300374,
+						"id_str": "17300374",
+						"indices": [
+							91,
+							101
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/caZffWR6EQ",
+						"expanded_url": "https://twitter.com/i/web/status/876800407212879874",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16230279,
+				"id_str": "16230279",
+				"name": "David White",
+				"screen_name": "daveowhite",
+				"location": "London, Oxford",
+				"description": "Head of Digital Learning @UniArtsLondon. Came up with that Visitors & Residents idea. [The 'o' is Hitchcockian] - see also @daveobotic",
+				"url": "http://t.co/pUpbA1l2uh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/pUpbA1l2uh",
+								"expanded_url": "http://daveowhite.com",
+								"display_url": "daveowhite.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5489,
+				"friends_count": 1002,
+				"listed_count": 385,
+				"created_at": "Wed Sep 10 23:43:19 +0000 2008",
+				"favourites_count": 2759,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 20103,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D1DCDE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/879167119/f8343f12ba1de18cbcdea9fcab95fdde.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/879167119/f8343f12ba1de18cbcdea9fcab95fdde.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/730339442972610560/8y8JqwrI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/730339442972610560/8y8JqwrI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16230279/1489681664",
+				"profile_link_color": "244165",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F4ECC8",
+				"profile_text_color": "343F51",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 875889445806817300,
+			"quoted_status_id_str": "875889445806817280",
+			"quoted_status": {
+				"created_at": "Sat Jun 17 01:34:51 +0000 2017",
+				"id": 875889445806817300,
+				"id_str": "875889445806817280",
+				"text": "NEW POST: The Risk of Hospitality https://t.co/kPG1Wp1FR0 HT @peterskillen @daveowhite @kinlane @davecormier @jennymackness @jondron @terguy",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "peterskillen",
+							"name": "Peter Skillen",
+							"id": 22155739,
+							"id_str": "22155739",
+							"indices": [
+								61,
+								74
+							]
+						},
+						{
+							"screen_name": "daveowhite",
+							"name": "David White",
+							"id": 16230279,
+							"id_str": "16230279",
+							"indices": [
+								75,
+								86
+							]
+						},
+						{
+							"screen_name": "kinlane",
+							"name": "Kin Lane",
+							"id": 5954192,
+							"id_str": "5954192",
+							"indices": [
+								87,
+								95
+							]
+						},
+						{
+							"screen_name": "davecormier",
+							"name": "dave cormier",
+							"id": 789991,
+							"id_str": "789991",
+							"indices": [
+								96,
+								108
+							]
+						},
+						{
+							"screen_name": "jennymackness",
+							"name": "jennymackness",
+							"id": 15310216,
+							"id_str": "15310216",
+							"indices": [
+								109,
+								123
+							]
+						},
+						{
+							"screen_name": "jondron",
+							"name": "Jon Dron",
+							"id": 1258181,
+							"id_str": "1258181",
+							"indices": [
+								124,
+								132
+							]
+						},
+						{
+							"screen_name": "terguy",
+							"name": "Terry Anderson",
+							"id": 19681352,
+							"id_str": "19681352",
+							"indices": [
+								133,
+								140
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/kPG1Wp1FR0",
+							"expanded_url": "http://readwriterespond.com/2017/06/the-risk-of-hospitality/",
+							"display_url": "readwriterespond.com/2017/06/the-ri…",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 372768752,
+					"id_str": "372768752",
+					"name": "Aaron Davis 🏘️",
+					"screen_name": "mrkrndvs",
+					"location": "Melbourne, Australia",
+					"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+					"url": "https://t.co/uTlsCeAwJ7",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/uTlsCeAwJ7",
+									"expanded_url": "https://readwriterespond.com",
+									"display_url": "readwriterespond.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 4109,
+					"friends_count": 2961,
+					"listed_count": 399,
+					"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+					"favourites_count": 4764,
+					"utc_offset": 36000,
+					"time_zone": "Brisbane",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 28011,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+					"profile_link_color": "FAB81E",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 4,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 875889445806817300,
+		"quoted_status_id_str": "875889445806817280",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 19 21:13:44 +0000 2017",
+		"id": 876910897389752300,
+		"id_str": "876910897389752320",
+		"text": "RT @DonnaLanclos: I usually prefer a word other than \"tribe\" when talking about people, because of its essentializing and colonial connotat…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DonnaLanclos",
+					"name": "Donna Lanclos",
+					"id": 436886909,
+					"id_str": "436886909",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4109,
+			"friends_count": 2961,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4764,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28011,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 19 13:21:53 +0000 2017",
+			"id": 876792151786520600,
+			"id_str": "876792151786520578",
+			"text": "I usually prefer a word other than \"tribe\" when talking about people, because of its essentializing and colonial co… https://t.co/wrcsscd6I8",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wrcsscd6I8",
+						"expanded_url": "https://twitter.com/i/web/status/876792151786520578",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 436886909,
+				"id_str": "436886909",
+				"name": "Donna Lanclos",
+				"screen_name": "DonnaLanclos",
+				"location": "Charlotte, NC",
+				"description": "An anthropologist for as long as I can remember, I just can't help myself. Bawdy. Profane. Raucous. Feminist. I don't give a shit about your hierarchy.",
+				"url": "https://t.co/zW0FaNkjfG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zW0FaNkjfG",
+								"expanded_url": "http://www.donnalanclos.com/",
+								"display_url": "donnalanclos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3298,
+				"friends_count": 1048,
+				"listed_count": 425,
+				"created_at": "Wed Dec 14 18:09:12 +0000 2011",
+				"favourites_count": 6444,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 95369,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/613511087967862784/q08coZEv.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/613511087967862784/q08coZEv.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/853752528000995330/TNhTDzty_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/853752528000995330/TNhTDzty_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/436886909/1486573202",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 876690264340836400,
+			"quoted_status_id_str": "876690264340836352",
+			"quoted_status": {
+				"created_at": "Mon Jun 19 06:37:01 +0000 2017",
+				"id": 876690264340836400,
+				"id_str": "876690264340836352",
+				"text": "@grammasheri @NomadWarMachine @Bali_Maha In regards to @NomadWarMachine I am left wondering if Tribes are a choice?… https://t.co/G5fq9rh2fW",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "grammasheri",
+							"name": "Sheri Edwards",
+							"id": 8373192,
+							"id_str": "8373192",
+							"indices": [
+								0,
+								12
+							]
+						},
+						{
+							"screen_name": "NomadWarMachine",
+							"name": "Sarah Honeychurch",
+							"id": 558091832,
+							"id_str": "558091832",
+							"indices": [
+								13,
+								29
+							]
+						},
+						{
+							"screen_name": "Bali_Maha",
+							"name": "ℳąhą Bąℓi مها بالي",
+							"id": 1535273520,
+							"id_str": "1535273520",
+							"indices": [
+								30,
+								40
+							]
+						},
+						{
+							"screen_name": "NomadWarMachine",
+							"name": "Sarah Honeychurch",
+							"id": 558091832,
+							"id_str": "558091832",
+							"indices": [
+								55,
+								71
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/G5fq9rh2fW",
+							"expanded_url": "https://twitter.com/i/web/status/876690264340836352",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": 876598853826355200,
+				"in_reply_to_status_id_str": "876598853826355200",
+				"in_reply_to_user_id": 8373192,
+				"in_reply_to_user_id_str": "8373192",
+				"in_reply_to_screen_name": "grammasheri",
+				"user": {
+					"id": 372768752,
+					"id_str": "372768752",
+					"name": "Aaron Davis 🏘️",
+					"screen_name": "mrkrndvs",
+					"location": "Melbourne, Australia",
+					"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+					"url": "https://t.co/uTlsCeAwJ7",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/uTlsCeAwJ7",
+									"expanded_url": "https://readwriterespond.com",
+									"display_url": "readwriterespond.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 4109,
+					"friends_count": 2961,
+					"listed_count": 399,
+					"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+					"favourites_count": 4764,
+					"utc_offset": 36000,
+					"time_zone": "Brisbane",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 28011,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+					"profile_link_color": "FAB81E",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 3,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 876690264340836400,
+		"quoted_status_id_str": "876690264340836352",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jun 19 13:05:53 +0000 2017",
 		"id": 876788123035947000,
 		"id_str": "876788123035947010",
