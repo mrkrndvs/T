@@ -1,6 +1,920 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Wed Jun 21 06:51:21 +0000 2017",
+		"id": 877418647609790500,
+		"id_str": "877418647609790464",
+		"text": "RT @SteveBrophy3: Episode 10 of @designandplay live now. https://t.co/9A3Svzi9qp Discussion on ILEs, VCE and Flow #TTPlay #ISTE17 #aussieED…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TTPlay",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"text": "ISTE17",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "aussieED",
+					"indices": [
+						130,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SteveBrophy3",
+					"name": "Steve Brophy",
+					"id": 827898170,
+					"id_str": "827898170",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "designandplay",
+					"name": "Design and Play",
+					"id": 783093186373689300,
+					"id_str": "783093186373689344",
+					"indices": [
+						32,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9A3Svzi9qp",
+					"expanded_url": "http://apple.co/2rODImD",
+					"display_url": "apple.co/2rODImD",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4108,
+			"friends_count": 2962,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4772,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28039,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 19 21:59:45 +0000 2017",
+			"id": 876922476797673500,
+			"id_str": "876922476797673472",
+			"text": "Episode 10 of @designandplay live now. https://t.co/9A3Svzi9qp Discussion on ILEs, VCE and Flow #TTPlay #ISTE17… https://t.co/FKQKJgMotR",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TTPlay",
+						"indices": [
+							96,
+							103
+						]
+					},
+					{
+						"text": "ISTE17",
+						"indices": [
+							104,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "designandplay",
+						"name": "Design and Play",
+						"id": 783093186373689300,
+						"id_str": "783093186373689344",
+						"indices": [
+							14,
+							28
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/9A3Svzi9qp",
+						"expanded_url": "http://apple.co/2rODImD",
+						"display_url": "apple.co/2rODImD",
+						"indices": [
+							39,
+							62
+						]
+					},
+					{
+						"url": "https://t.co/FKQKJgMotR",
+						"expanded_url": "https://twitter.com/i/web/status/876922476797673472",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 827898170,
+				"id_str": "827898170",
+				"name": "Steve Brophy",
+				"screen_name": "SteveBrophy3",
+				"location": "Melbourne, Victoria",
+				"description": "Director of ICT & eLearning, #MIEExpert, CoHost @TeachTechPlay. 2017 @TouchCastEdu Ambassador, CoHost @designandplay podcast & Apple Distinguished Educator ",
+				"url": "https://t.co/9IRmrwaMxU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9IRmrwaMxU",
+								"expanded_url": "http://stevebrophy.com.au",
+								"display_url": "stevebrophy.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4676,
+				"friends_count": 4514,
+				"listed_count": 291,
+				"created_at": "Sun Sep 16 23:00:37 +0000 2012",
+				"favourites_count": 4419,
+				"utc_offset": 39600,
+				"time_zone": "New Caledonia",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7067,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/855353610678312960/XY6e42_R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/855353610678312960/XY6e42_R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/827898170/1488015939",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 21 06:45:12 +0000 2017",
+		"id": 877417098854539300,
+		"id_str": "877417098854539265",
+		"text": "\"It isn’t something I enjoy but like pretty everyone else, it is not a cord I am going 2b able 2 cut anytime soon\" https://t.co/Wvu2FELSqq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wvu2FELSqq",
+					"expanded_url": "http://apievangelist.com/2017/06/08/tight-coupling-to-our-mobile-phones/",
+					"display_url": "apievangelist.com/2017/06/08/tig…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4108,
+			"friends_count": 2962,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4772,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28039,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 21 06:36:38 +0000 2017",
+		"id": 877414943565389800,
+		"id_str": "877414943565389824",
+		"text": "@ModernLearners @adriancamm @willrich45 @bruceadixon wondering if @edublogs is an interim to #DOOO &amp; student agency… https://t.co/s8KvIGhWD4",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DOOO",
+					"indices": [
+						93,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ModernLearners",
+					"name": "Modern Learners",
+					"id": 1222486764,
+					"id_str": "1222486764",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "adriancamm",
+					"name": "Adrian Camm",
+					"id": 17730865,
+					"id_str": "17730865",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "willrich45",
+					"name": "Will Richardson",
+					"id": 1349941,
+					"id_str": "1349941",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "bruceadixon",
+					"name": "Bruce Dixon",
+					"id": 9622952,
+					"id_str": "9622952",
+					"indices": [
+						40,
+						52
+					]
+				},
+				{
+					"screen_name": "edublogs",
+					"name": "edublogs",
+					"id": 14091545,
+					"id_str": "14091545",
+					"indices": [
+						66,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/s8KvIGhWD4",
+					"expanded_url": "https://twitter.com/i/web/status/877414943565389824",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 877414096051748900,
+		"in_reply_to_status_id_str": "877414096051748864",
+		"in_reply_to_user_id": 372768752,
+		"in_reply_to_user_id_str": "372768752",
+		"in_reply_to_screen_name": "mrkrndvs",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4108,
+			"friends_count": 2962,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4772,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28039,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 21 06:33:16 +0000 2017",
+		"id": 877414096051748900,
+		"id_str": "877414096051748864",
+		"text": "@ModernLearners Podcast response to @mburtis &amp; #dooo  https://t.co/91UK3RYwx6 cc @wiobyrne @adriancamm @robert_schuetz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dooo",
+					"indices": [
+						51,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ModernLearners",
+					"name": "Modern Learners",
+					"id": 1222486764,
+					"id_str": "1222486764",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "mburtis",
+					"name": "Martha",
+					"id": 744533,
+					"id_str": "744533",
+					"indices": [
+						36,
+						44
+					]
+				},
+				{
+					"screen_name": "wiobyrne",
+					"name": "William Ian O'Byrne",
+					"id": 88676762,
+					"id_str": "88676762",
+					"indices": [
+						85,
+						94
+					]
+				},
+				{
+					"screen_name": "adriancamm",
+					"name": "Adrian Camm",
+					"id": 17730865,
+					"id_str": "17730865",
+					"indices": [
+						95,
+						106
+					]
+				},
+				{
+					"screen_name": "robert_schuetz",
+					"name": "Robert Schuetz",
+					"id": 386183993,
+					"id_str": "386183993",
+					"indices": [
+						107,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/91UK3RYwx6",
+					"expanded_url": "https://modernlearners.com/modern-learners-podcast-16-helping-students-build-a-presence-online/",
+					"display_url": "modernlearners.com/modern-learner…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1222486764,
+		"in_reply_to_user_id_str": "1222486764",
+		"in_reply_to_screen_name": "ModernLearners",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4108,
+			"friends_count": 2962,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4772,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28039,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 21 06:25:20 +0000 2017",
+		"id": 877412098455687200,
+		"id_str": "877412098455687169",
+		"text": "RT @guardiantech: Uber CEO Travis Kalanick resigns following months of chaos https://t.co/ePY0GlSmK1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardiantech",
+					"name": "Guardian Tech",
+					"id": 7905122,
+					"id_str": "7905122",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ePY0GlSmK1",
+					"expanded_url": "http://d.gu.com/PNvLpg",
+					"display_url": "d.gu.com/PNvLpg",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4108,
+			"friends_count": 2962,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4772,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28039,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 21 06:23:38 +0000 2017",
+			"id": 877411672742182900,
+			"id_str": "877411672742182913",
+			"text": "Uber CEO Travis Kalanick resigns following months of chaos https://t.co/ePY0GlSmK1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ePY0GlSmK1",
+						"expanded_url": "http://d.gu.com/PNvLpg",
+						"display_url": "d.gu.com/PNvLpg",
+						"indices": [
+							59,
+							82
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7905122,
+				"id_str": "7905122",
+				"name": "Guardian Tech",
+				"screen_name": "guardiantech",
+				"location": "London, UK",
+				"description": "News and comment from the @Guardian's technology team",
+				"url": "http://t.co/OEvaPZ8n3c",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/OEvaPZ8n3c",
+								"expanded_url": "http://www.theguardian.com/technology",
+								"display_url": "theguardian.com/technology",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2721346,
+				"friends_count": 22772,
+				"listed_count": 31101,
+				"created_at": "Thu Aug 02 11:23:13 +0000 2007",
+				"favourites_count": 178,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 29535,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/704092878/ff996aa3bc2009a2f9b97cdd43e8b5b7.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/704092878/ff996aa3bc2009a2f9b97cdd43e8b5b7.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/564801097869426693/4SqRzoTD_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/564801097869426693/4SqRzoTD_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7905122/1423494064",
+				"profile_link_color": "005789",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CAE3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jun 21 05:38:50 +0000 2017",
 		"id": 877400398545338400,
 		"id_str": "877400398545338369",
