@@ -1,6 +1,1020 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Thu Jun 22 21:04:01 +0000 2017",
+		"id": 877995612557393900,
+		"id_str": "877995612557393922",
+		"text": "RT @doctorow: Stasi radio monitoring department, hard at work, 1980s #1yrago https://t.co/8JaDN1gUQ8 https://t.co/VEiBytdGp2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1yrago",
+					"indices": [
+						69,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "doctorow",
+					"name": "Cory Doctorow",
+					"id": 2729061,
+					"id_str": "2729061",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8JaDN1gUQ8",
+					"expanded_url": "https://boingboing.net/2016/06/25/stasi-radio-monitoring-departm.html",
+					"display_url": "boingboing.net/2016/06/25/sta…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 877994701265260500,
+					"id_str": "877994701265260544",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DC9Dh2uXUAAbcCV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DC9Dh2uXUAAbcCV.jpg",
+					"url": "https://t.co/VEiBytdGp2",
+					"display_url": "pic.twitter.com/VEiBytdGp2",
+					"expanded_url": "https://twitter.com/doctorow/status/877994704067063809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 565,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 565,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 877994704067063800,
+					"source_status_id_str": "877994704067063809",
+					"source_user_id": 2729061,
+					"source_user_id_str": "2729061"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 877994701265260500,
+					"id_str": "877994701265260544",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DC9Dh2uXUAAbcCV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DC9Dh2uXUAAbcCV.jpg",
+					"url": "https://t.co/VEiBytdGp2",
+					"display_url": "pic.twitter.com/VEiBytdGp2",
+					"expanded_url": "https://twitter.com/doctorow/status/877994704067063809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 565,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 565,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 877994704067063800,
+					"source_status_id_str": "877994704067063809",
+					"source_user_id": 2729061,
+					"source_user_id_str": "2729061"
+				},
+				{
+					"id": 877994701223333900,
+					"id_str": "877994701223333888",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DC9Dh2kXkAAGbus.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DC9Dh2kXkAAGbus.jpg",
+					"url": "https://t.co/VEiBytdGp2",
+					"display_url": "pic.twitter.com/VEiBytdGp2",
+					"expanded_url": "https://twitter.com/doctorow/status/877994704067063809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 541,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 541,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 877994704067063800,
+					"source_status_id_str": "877994704067063809",
+					"source_user_id": 2729061,
+					"source_user_id_str": "2729061"
+				},
+				{
+					"id": 877994701185577000,
+					"id_str": "877994701185576960",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DC9Dh2bXcAAPHBC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DC9Dh2bXcAAPHBC.jpg",
+					"url": "https://t.co/VEiBytdGp2",
+					"display_url": "pic.twitter.com/VEiBytdGp2",
+					"expanded_url": "https://twitter.com/doctorow/status/877994704067063809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 541,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 541,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 877994704067063800,
+					"source_status_id_str": "877994704067063809",
+					"source_user_id": 2729061,
+					"source_user_id_str": "2729061"
+				},
+				{
+					"id": 877994701076533200,
+					"id_str": "877994701076533254",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DC9Dh2BXkAYyIF0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DC9Dh2BXkAYyIF0.jpg",
+					"url": "https://t.co/VEiBytdGp2",
+					"display_url": "pic.twitter.com/VEiBytdGp2",
+					"expanded_url": "https://twitter.com/doctorow/status/877994704067063809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 528,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 877994704067063800,
+					"source_status_id_str": "877994704067063809",
+					"source_user_id": 2729061,
+					"source_user_id_str": "2729061"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4111,
+			"friends_count": 2966,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4788,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28078,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 22 21:00:24 +0000 2017",
+			"id": 877994704067063800,
+			"id_str": "877994704067063809",
+			"text": "Stasi radio monitoring department, hard at work, 1980s #1yrago https://t.co/8JaDN1gUQ8 https://t.co/VEiBytdGp2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "1yrago",
+						"indices": [
+							55,
+							62
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8JaDN1gUQ8",
+						"expanded_url": "https://boingboing.net/2016/06/25/stasi-radio-monitoring-departm.html",
+						"display_url": "boingboing.net/2016/06/25/sta…",
+						"indices": [
+							63,
+							86
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 877994701265260500,
+						"id_str": "877994701265260544",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DC9Dh2uXUAAbcCV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DC9Dh2uXUAAbcCV.jpg",
+						"url": "https://t.co/VEiBytdGp2",
+						"display_url": "pic.twitter.com/VEiBytdGp2",
+						"expanded_url": "https://twitter.com/doctorow/status/877994704067063809/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 565,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 565,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 877994701265260500,
+						"id_str": "877994701265260544",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DC9Dh2uXUAAbcCV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DC9Dh2uXUAAbcCV.jpg",
+						"url": "https://t.co/VEiBytdGp2",
+						"display_url": "pic.twitter.com/VEiBytdGp2",
+						"expanded_url": "https://twitter.com/doctorow/status/877994704067063809/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 565,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 565,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 877994701223333900,
+						"id_str": "877994701223333888",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DC9Dh2kXkAAGbus.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DC9Dh2kXkAAGbus.jpg",
+						"url": "https://t.co/VEiBytdGp2",
+						"display_url": "pic.twitter.com/VEiBytdGp2",
+						"expanded_url": "https://twitter.com/doctorow/status/877994704067063809/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 460,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 541,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 541,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 877994701185577000,
+						"id_str": "877994701185576960",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DC9Dh2bXcAAPHBC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DC9Dh2bXcAAPHBC.jpg",
+						"url": "https://t.co/VEiBytdGp2",
+						"display_url": "pic.twitter.com/VEiBytdGp2",
+						"expanded_url": "https://twitter.com/doctorow/status/877994704067063809/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 541,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 541,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 460,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 877994701076533200,
+						"id_str": "877994701076533254",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DC9Dh2BXkAYyIF0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DC9Dh2BXkAYyIF0.jpg",
+						"url": "https://t.co/VEiBytdGp2",
+						"display_url": "pic.twitter.com/VEiBytdGp2",
+						"expanded_url": "https://twitter.com/doctorow/status/877994704067063809/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 449,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 528,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 528,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2729061,
+				"id_str": "2729061",
+				"name": "Cory Doctorow",
+				"screen_name": "doctorow",
+				"location": "Beautiful Downtown Burbank",
+				"description": "Writer, blogger, activist. If you want a reply, use email. Blog suggestions here: http://t.co/rS9kTnTcWs     0BC4 700A 06E2 072D 3A77 F8E2 9026 DBBE 1FC2 37AF",
+				"url": "http://t.co/x4ih0X9WgH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/x4ih0X9WgH",
+								"expanded_url": "http://craphound.com",
+								"display_url": "craphound.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/rS9kTnTcWs",
+								"expanded_url": "http://boingboing.net/s",
+								"display_url": "boingboing.net/s",
+								"indices": [
+									82,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 430875,
+				"friends_count": 1476,
+				"listed_count": 13262,
+				"created_at": "Wed Mar 28 21:40:55 +0000 2007",
+				"favourites_count": 67,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 106523,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/624066725/98x7v5ui9rwka1cc41ku.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/624066725/98x7v5ui9rwka1cc41ku.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/675023052812378112/Ly7VsGa6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/675023052812378112/Ly7VsGa6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2729061/1398312817",
+				"profile_link_color": "3F3FC4",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 22 21:02:24 +0000 2017",
+		"id": 877995207211458600,
+		"id_str": "877995207211458560",
+		"text": "RT @justinmullaly: But given they need @PaulineHansonOz's vote we've seen no criticism from @Birmo or @TurnbullMalcolm #auspol https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "auspol",
+					"indices": [
+						119,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "justinmullaly",
+					"name": "Justin Mullaly",
+					"id": 273376845,
+					"id_str": "273376845",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "PaulineHansonOz",
+					"name": "Pauline Hanson",
+					"id": 1471232930,
+					"id_str": "1471232930",
+					"indices": [
+						39,
+						55
+					]
+				},
+				{
+					"screen_name": "Birmo",
+					"name": "Simon Birmingham",
+					"id": 22196776,
+					"id_str": "22196776",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"screen_name": "TurnbullMalcolm",
+					"name": "Malcolm Turnbull",
+					"id": 16734909,
+					"id_str": "16734909",
+					"indices": [
+						102,
+						118
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4111,
+			"friends_count": 2966,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4788,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28078,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 22 12:59:05 +0000 2017",
+			"id": 877873575901839400,
+			"id_str": "877873575901839360",
+			"text": "But given they need @PaulineHansonOz's vote we've seen no criticism from @Birmo or @TurnbullMalcolm #auspol https://t.co/TUUxWc7EeJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "auspol",
+						"indices": [
+							100,
+							107
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PaulineHansonOz",
+						"name": "Pauline Hanson",
+						"id": 1471232930,
+						"id_str": "1471232930",
+						"indices": [
+							20,
+							36
+						]
+					},
+					{
+						"screen_name": "Birmo",
+						"name": "Simon Birmingham",
+						"id": 22196776,
+						"id_str": "22196776",
+						"indices": [
+							73,
+							79
+						]
+					},
+					{
+						"screen_name": "TurnbullMalcolm",
+						"name": "Malcolm Turnbull",
+						"id": 16734909,
+						"id_str": "16734909",
+						"indices": [
+							83,
+							99
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/TUUxWc7EeJ",
+						"expanded_url": "https://twitter.com/robbulldog/status/877872116451860482",
+						"display_url": "twitter.com/robbulldog/sta…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 273376845,
+				"id_str": "273376845",
+				"name": "Justin Mullaly",
+				"screen_name": "justinmullaly",
+				"location": "West Footscray, Melbourne",
+				"description": "Deputy President, Australian Education Union - Victoria and huge Sydney Swans supporter",
+				"url": "https://t.co/JtQMV4xsc1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JtQMV4xsc1",
+								"expanded_url": "http://aeuvic.asn.au",
+								"display_url": "aeuvic.asn.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1101,
+				"friends_count": 2700,
+				"listed_count": 27,
+				"created_at": "Mon Mar 28 11:18:34 +0000 2011",
+				"favourites_count": 14,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3731,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/806612938/44c65cd42f5ad817cefbdc8af4f44fcb.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/806612938/44c65cd42f5ad817cefbdc8af4f44fcb.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000814936712/5070cad1b28463384b672735676a3a8a_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000814936712/5070cad1b28463384b672735676a3a8a_normal.jpeg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 877872116451860500,
+			"quoted_status_id_str": "877872116451860482",
+			"quoted_status": {
+				"created_at": "Thu Jun 22 12:53:17 +0000 2017",
+				"id": 877872116451860500,
+				"id_str": "877872116451860482",
+				"text": "Hanson under fire for 'repulsive, bigoted' comments on children with disabilities.\nDespicable… https://t.co/2caxALY68K",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/2caxALY68K",
+							"expanded_url": "https://twitter.com/i/web/status/877872116451860482",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								95,
+								118
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 245603034,
+					"id_str": "245603034",
+					"name": "rob stary",
+					"screen_name": "robbulldog",
+					"location": "melbourne",
+					"description": "I don't judge, I don't prosecute, I defend",
+					"url": "https://t.co/24dkL55nV7",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/24dkL55nV7",
+									"expanded_url": "http://www.starylaw.com",
+									"display_url": "starylaw.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1448,
+					"friends_count": 673,
+					"listed_count": 18,
+					"created_at": "Tue Feb 01 02:08:45 +0000 2011",
+					"favourites_count": 279,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 2993,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/821650389187624962/-l4J2tdI_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/821650389187624962/-l4J2tdI_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/245603034/1493558736",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 4,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 877872116451860500,
+		"quoted_status_id_str": "877872116451860482",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 22 13:07:11 +0000 2017",
 		"id": 877875613918416900,
 		"id_str": "877875613918416897",
