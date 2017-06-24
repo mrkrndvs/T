@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sat Jun 24 20:26:38 +0000 2017",
+		"id": 878710982725386200,
+		"id_str": "878710982725386244",
+		"text": "RT @OUMindsetPlay: new #growthmindset cat today inspired by wonderful blog post about daily learning habits by Aaron Davis @mrkrndvs : http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "growthmindset",
+					"indices": [
+						23,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OUMindsetPlay",
+					"name": "MindsetPlay",
+					"id": 730506341710712800,
+					"id_str": "730506341710712832",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						123,
+						132
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4118,
+			"friends_count": 2966,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4789,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28106,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 24 15:38:17 +0000 2017",
+			"id": 878638416224813000,
+			"id_str": "878638416224813056",
+			"text": "new #growthmindset cat today inspired by wonderful blog post about daily learning habits by Aaron Davis @mrkrndvs :… https://t.co/KOUiRdGikH",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "growthmindset",
+						"indices": [
+							4,
+							18
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							104,
+							113
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/KOUiRdGikH",
+						"expanded_url": "https://twitter.com/i/web/status/878638416224813056",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 730506341710712800,
+				"id_str": "730506341710712832",
+				"name": "MindsetPlay",
+				"screen_name": "OUMindsetPlay",
+				"location": "",
+				"description": "a Growth Mindset project by Laura Gibbs, online instructor at the University of Oklahoma: https://t.co/ctKA2DwnOx",
+				"url": "https://t.co/0iOLAPcVrO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0iOLAPcVrO",
+								"expanded_url": "http://growthmindsetmemes.blogspot.com/",
+								"display_url": "growthmindsetmemes.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ctKA2DwnOx",
+								"expanded_url": "http://MythFolklore.net",
+								"display_url": "MythFolklore.net",
+								"indices": [
+									90,
+									113
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 134,
+				"friends_count": 98,
+				"listed_count": 76,
+				"created_at": "Wed May 11 21:14:18 +0000 2016",
+				"favourites_count": 571,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1338,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/730507003475329024/8hE8l4YV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/730507003475329024/8hE8l4YV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/730506341710712832/1463003444",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jun 24 19:08:30 +0000 2017",
 		"id": 878691319719264300,
 		"id_str": "878691319719264257",
