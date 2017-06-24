@@ -1,6 +1,610 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sat Jun 24 06:00:13 +0000 2017",
+		"id": 878492941106335700,
+		"id_str": "878492941106335744",
+		"text": "RT @mdvfunes: @stephliverani @cogdog @eliast05 @mrkrndvs @unsplash @creativecommons :) It is easy to have views about 'best' licenses, Step…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mdvfunes",
+					"name": "ⓜariana ⓕunes",
+					"id": 1556094044,
+					"id_str": "1556094044",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "stephliverani",
+					"name": "Steph Liverani",
+					"id": 45079107,
+					"id_str": "45079107",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						29,
+						36
+					]
+				},
+				{
+					"screen_name": "eliast05",
+					"name": "Tanya Dorey-Elias",
+					"id": 206925887,
+					"id_str": "206925887",
+					"indices": [
+						37,
+						46
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						47,
+						56
+					]
+				},
+				{
+					"screen_name": "unsplash",
+					"name": "Unsplash",
+					"id": 1520228526,
+					"id_str": "1520228526",
+					"indices": [
+						57,
+						66
+					]
+				},
+				{
+					"screen_name": "creativecommons",
+					"name": "Creative Commons",
+					"id": 17462723,
+					"id_str": "17462723",
+					"indices": [
+						67,
+						83
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4113,
+			"friends_count": 2966,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4788,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28098,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 24 05:39:46 +0000 2017",
+			"id": 878487793151995900,
+			"id_str": "878487793151995904",
+			"text": "@stephliverani @cogdog @eliast05 @mrkrndvs @unsplash @creativecommons :) It is easy to have views about 'best' lice… https://t.co/h46YzLTw7z",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stephliverani",
+						"name": "Steph Liverani",
+						"id": 45079107,
+						"id_str": "45079107",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							15,
+							22
+						]
+					},
+					{
+						"screen_name": "eliast05",
+						"name": "Tanya Dorey-Elias",
+						"id": 206925887,
+						"id_str": "206925887",
+						"indices": [
+							23,
+							32
+						]
+					},
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							33,
+							42
+						]
+					},
+					{
+						"screen_name": "unsplash",
+						"name": "Unsplash",
+						"id": 1520228526,
+						"id_str": "1520228526",
+						"indices": [
+							43,
+							52
+						]
+					},
+					{
+						"screen_name": "creativecommons",
+						"name": "Creative Commons",
+						"id": 17462723,
+						"id_str": "17462723",
+						"indices": [
+							53,
+							69
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/h46YzLTw7z",
+						"expanded_url": "https://twitter.com/i/web/status/878487793151995904",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": 878395555176734700,
+			"in_reply_to_status_id_str": "878395555176734720",
+			"in_reply_to_user_id": 45079107,
+			"in_reply_to_user_id_str": "45079107",
+			"in_reply_to_screen_name": "stephliverani",
+			"user": {
+				"id": 1556094044,
+				"id_str": "1556094044",
+				"name": "ⓜariana ⓕunes",
+				"screen_name": "mdvfunes",
+				"location": "United Kingdom ",
+				"description": "Chartered Research Psychologist #contemplativepedagogy #stillweb #highered  #cyberpsychology #CriticalInternetStudies  #DigitalArt #ds106",
+				"url": "https://t.co/cdiLWY7zv2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cdiLWY7zv2",
+								"expanded_url": "http://stillweb.org",
+								"display_url": "stillweb.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 626,
+				"friends_count": 193,
+				"listed_count": 54,
+				"created_at": "Sat Jun 29 16:53:03 +0000 2013",
+				"favourites_count": 3797,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15551,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/838451485822304257/p46czauQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/838451485822304257/p46czauQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1556094044/1488737597",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jun 24 06:00:02 +0000 2017",
+		"id": 878492894474125300,
+		"id_str": "878492894474125312",
+		"text": "RT @mdvfunes: @stephliverani @eliast05 @cogdog @mrkrndvs Thanks for this, Steph. I really get it. It is complex and I am glad I followed up…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mdvfunes",
+					"name": "ⓜariana ⓕunes",
+					"id": 1556094044,
+					"id_str": "1556094044",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "stephliverani",
+					"name": "Steph Liverani",
+					"id": 45079107,
+					"id_str": "45079107",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "eliast05",
+					"name": "Tanya Dorey-Elias",
+					"id": 206925887,
+					"id_str": "206925887",
+					"indices": [
+						29,
+						38
+					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						39,
+						46
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						47,
+						56
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4113,
+			"friends_count": 2966,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4788,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28098,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 24 05:36:52 +0000 2017",
+			"id": 878487066287497200,
+			"id_str": "878487066287497217",
+			"text": "@stephliverani @eliast05 @cogdog @mrkrndvs Thanks for this, Steph. I really get it. It is complex and I am glad I f… https://t.co/xfpzRqmaZM",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stephliverani",
+						"name": "Steph Liverani",
+						"id": 45079107,
+						"id_str": "45079107",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"screen_name": "eliast05",
+						"name": "Tanya Dorey-Elias",
+						"id": 206925887,
+						"id_str": "206925887",
+						"indices": [
+							15,
+							24
+						]
+					},
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							25,
+							32
+						]
+					},
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							33,
+							42
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/xfpzRqmaZM",
+						"expanded_url": "https://twitter.com/i/web/status/878487066287497217",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": 878397460477071400,
+			"in_reply_to_status_id_str": "878397460477071360",
+			"in_reply_to_user_id": 45079107,
+			"in_reply_to_user_id_str": "45079107",
+			"in_reply_to_screen_name": "stephliverani",
+			"user": {
+				"id": 1556094044,
+				"id_str": "1556094044",
+				"name": "ⓜariana ⓕunes",
+				"screen_name": "mdvfunes",
+				"location": "United Kingdom ",
+				"description": "Chartered Research Psychologist #contemplativepedagogy #stillweb #highered  #cyberpsychology #CriticalInternetStudies  #DigitalArt #ds106",
+				"url": "https://t.co/cdiLWY7zv2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cdiLWY7zv2",
+								"expanded_url": "http://stillweb.org",
+								"display_url": "stillweb.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 626,
+				"friends_count": 193,
+				"listed_count": 54,
+				"created_at": "Sat Jun 29 16:53:03 +0000 2013",
+				"favourites_count": 3797,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15551,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/838451485822304257/p46czauQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/838451485822304257/p46czauQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1556094044/1488737597",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jun 24 01:08:20 +0000 2017",
 		"id": 878419488370303000,
 		"id_str": "878419488370302977",
