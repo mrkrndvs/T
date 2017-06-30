@@ -1,6 +1,585 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Fri Jun 30 12:49:00 +0000 2017",
+		"id": 880770144347148300,
+		"id_str": "880770144347148288",
+		"text": "MEMORIES, DREAMS, REFLECTIONS by Carl Jung #flickr https://t.co/VcqXDldeL7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "flickr",
+					"indices": [
+						43,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VcqXDldeL7",
+					"expanded_url": "https://flic.kr/p/62LMpy",
+					"display_url": "flic.kr/p/62LMpy",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4131,
+			"friends_count": 2967,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4795,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 30 12:32:39 +0000 2017",
+		"id": 880766028493475800,
+		"id_str": "880766028493475841",
+		"text": "RT @goldengateblond: everything is terrible so here's the Muppets channeling the Beastie Boys https://t.co/ZHlItVTME4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "goldengateblond",
+					"name": "shauna",
+					"id": 15576928,
+					"id_str": "15576928",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 878787271075348500,
+					"id_str": "878787271075348480",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/878787271075348480/pu/img/85Yoik1jOauhFPMD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/878787271075348480/pu/img/85Yoik1jOauhFPMD.jpg",
+					"url": "https://t.co/ZHlItVTME4",
+					"display_url": "pic.twitter.com/ZHlItVTME4",
+					"expanded_url": "https://twitter.com/goldengateblond/status/878788608253087745/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 490,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 490,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 878788608253087700,
+					"source_status_id_str": "878788608253087745",
+					"source_user_id": 15576928,
+					"source_user_id_str": "15576928"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 878787271075348500,
+					"id_str": "878787271075348480",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/878787271075348480/pu/img/85Yoik1jOauhFPMD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/878787271075348480/pu/img/85Yoik1jOauhFPMD.jpg",
+					"url": "https://t.co/ZHlItVTME4",
+					"display_url": "pic.twitter.com/ZHlItVTME4",
+					"expanded_url": "https://twitter.com/goldengateblond/status/878788608253087745/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 490,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 490,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 878788608253087700,
+					"source_status_id_str": "878788608253087745",
+					"source_user_id": 15576928,
+					"source_user_id_str": "15576928",
+					"video_info": {
+						"aspect_ratio": [
+							49,
+							36
+						],
+						"duration_millis": 61395,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/878787271075348480/pu/vid/244x180/R4opbwZ1kGreSSD_.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/878787271075348480/pu/pl/zx4-Du4OE4VMLHEw.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/878787271075348480/pu/vid/490x360/HbyjadyNGNVDF7G8.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 15576928,
+							"id_str": "15576928",
+							"name": "shauna",
+							"screen_name": "goldengateblond",
+							"location": "San Francisco, CA",
+							"description": "rouser of rabble / liker of sports, politics & drag queens / sommelier of gifs / @someecards contributor / no diggity",
+							"url": "https://t.co/WLbpm9W5A9",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/WLbpm9W5A9",
+											"expanded_url": "https://5calls.org",
+											"display_url": "5calls.org",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 117044,
+							"friends_count": 1242,
+							"listed_count": 2543,
+							"created_at": "Thu Jul 24 03:44:09 +0000 2008",
+							"favourites_count": 200933,
+							"utc_offset": -25200,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 28891,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "352726",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623337495036456960/bRQlpyPm.jpg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623337495036456960/bRQlpyPm.jpg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/548586934319071232/JkfxEiRT_normal.jpeg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/548586934319071232/JkfxEiRT_normal.jpeg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/15576928/1487898459",
+							"profile_link_color": "960014",
+							"profile_sidebar_border_color": "1F2616",
+							"profile_sidebar_fill_color": "D5DE6D",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4131,
+			"friends_count": 2967,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4795,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 25 01:35:05 +0000 2017",
+			"id": 878788608253087700,
+			"id_str": "878788608253087745",
+			"text": "everything is terrible so here's the Muppets channeling the Beastie Boys https://t.co/ZHlItVTME4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 878787271075348500,
+						"id_str": "878787271075348480",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/878787271075348480/pu/img/85Yoik1jOauhFPMD.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/878787271075348480/pu/img/85Yoik1jOauhFPMD.jpg",
+						"url": "https://t.co/ZHlItVTME4",
+						"display_url": "pic.twitter.com/ZHlItVTME4",
+						"expanded_url": "https://twitter.com/goldengateblond/status/878788608253087745/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 250,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 490,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 490,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 878787271075348500,
+						"id_str": "878787271075348480",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/878787271075348480/pu/img/85Yoik1jOauhFPMD.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/878787271075348480/pu/img/85Yoik1jOauhFPMD.jpg",
+						"url": "https://t.co/ZHlItVTME4",
+						"display_url": "pic.twitter.com/ZHlItVTME4",
+						"expanded_url": "https://twitter.com/goldengateblond/status/878788608253087745/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 250,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 490,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 490,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								49,
+								36
+							],
+							"duration_millis": 61395,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/878787271075348480/pu/vid/244x180/R4opbwZ1kGreSSD_.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/878787271075348480/pu/pl/zx4-Du4OE4VMLHEw.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/878787271075348480/pu/vid/490x360/HbyjadyNGNVDF7G8.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15576928,
+				"id_str": "15576928",
+				"name": "shauna",
+				"screen_name": "goldengateblond",
+				"location": "San Francisco, CA",
+				"description": "rouser of rabble / liker of sports, politics & drag queens / sommelier of gifs / @someecards contributor / no diggity",
+				"url": "https://t.co/WLbpm9W5A9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WLbpm9W5A9",
+								"expanded_url": "https://5calls.org",
+								"display_url": "5calls.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 117044,
+				"friends_count": 1242,
+				"listed_count": 2543,
+				"created_at": "Thu Jul 24 03:44:09 +0000 2008",
+				"favourites_count": 200933,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 28891,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623337495036456960/bRQlpyPm.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623337495036456960/bRQlpyPm.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/548586934319071232/JkfxEiRT_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/548586934319071232/JkfxEiRT_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15576928/1487898459",
+				"profile_link_color": "960014",
+				"profile_sidebar_border_color": "1F2616",
+				"profile_sidebar_fill_color": "D5DE6D",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7635,
+			"favorite_count": 13827,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7635,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 30 12:01:39 +0000 2017",
 		"id": 880758228019060700,
 		"id_str": "880758228019060736",
