@@ -1,6 +1,439 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Tue Jul 04 11:54:05 +0000 2017",
+		"id": 882205873057046500,
+		"id_str": "882205873057046528",
+		"text": "@margaretsimkin @sbradbeer @jatosha @ray_trent Maybe we will have a ban?https://t.co/pmWsM5mYkx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "margaretsimkin",
+					"name": "Margaret Simkin",
+					"id": 25946833,
+					"id_str": "25946833",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "sbradbeer",
+					"name": "Suz Bradbeer",
+					"id": 143023692,
+					"id_str": "143023692",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "jatosha",
+					"name": "Janie @ Digra17",
+					"id": 42015059,
+					"id_str": "42015059",
+					"indices": [
+						27,
+						35
+					]
+				},
+				{
+					"screen_name": "ray_trent",
+					"name": "Trent Ray",
+					"id": 590603724,
+					"id_str": "590603724",
+					"indices": [
+						36,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pmWsM5mYkx",
+					"expanded_url": "https://consequenceofsound.net/2016/06/apple-patents-technology-that-would-disable-cell-phones-from-taking-video-at-concerts/",
+					"display_url": "consequenceofsound.net/2016/06/apple-…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 882201367242088400,
+		"in_reply_to_status_id_str": "882201367242088448",
+		"in_reply_to_user_id": 25946833,
+		"in_reply_to_user_id_str": "25946833",
+		"in_reply_to_screen_name": "margaretsimkin",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4144,
+			"friends_count": 2966,
+			"listed_count": 401,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4797,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28276,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 04 11:49:09 +0000 2017",
+		"id": 882204630238855200,
+		"id_str": "882204630238855168",
+		"text": "@IaninSheffield ever seen anything like this? https://t.co/UKOqjDap5V",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IaninSheffield",
+					"name": "Ian Guest",
+					"id": 21324520,
+					"id_str": "21324520",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UKOqjDap5V",
+					"expanded_url": "https://twitter.com/jatosha/status/882028070487572480",
+					"display_url": "twitter.com/jatosha/status…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 21324520,
+		"in_reply_to_user_id_str": "21324520",
+		"in_reply_to_screen_name": "IaninSheffield",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4144,
+			"friends_count": 2966,
+			"listed_count": 401,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4797,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28276,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 882028070487572500,
+		"quoted_status_id_str": "882028070487572480",
+		"quoted_status": {
+			"created_at": "Tue Jul 04 00:07:33 +0000 2017",
+			"id": 882028070487572500,
+			"id_str": "882028070487572480",
+			"text": "First time I've seen this social media policy at a conference - great stuff #DiGRA17! https://t.co/zdgMmZBhyu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DiGRA17",
+						"indices": [
+							76,
+							84
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 882028058340765700,
+						"id_str": "882028058340765696",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/DD2X2ItUMAAgnFy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DD2X2ItUMAAgnFy.jpg",
+						"url": "https://t.co/zdgMmZBhyu",
+						"display_url": "pic.twitter.com/zdgMmZBhyu",
+						"expanded_url": "https://twitter.com/jatosha/status/882028070487572480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 882028058340765700,
+						"id_str": "882028058340765696",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/DD2X2ItUMAAgnFy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DD2X2ItUMAAgnFy.jpg",
+						"url": "https://t.co/zdgMmZBhyu",
+						"display_url": "pic.twitter.com/zdgMmZBhyu",
+						"expanded_url": "https://twitter.com/jatosha/status/882028070487572480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42015059,
+				"id_str": "42015059",
+				"name": "Janie @ Digra17",
+				"screen_name": "jatosha",
+				"location": "Adelaide, South Australia",
+				"description": "Mum of 3. Researcher of Psychology, Games & Stories. PhD Candidate. Clear eyes, full hearts, can't lose. 🐬❤️",
+				"url": "https://t.co/haRVf5fKTB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/haRVf5fKTB",
+								"expanded_url": "http://janecocks.com/",
+								"display_url": "janecocks.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2282,
+				"friends_count": 1203,
+				"listed_count": 118,
+				"created_at": "Sat May 23 11:57:25 +0000 2009",
+				"favourites_count": 38736,
+				"utc_offset": 34200,
+				"time_zone": "Adelaide",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29064,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ECECEA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/866678675906977793/mYjDdXqM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/866678675906977793/mYjDdXqM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42015059/1485767195",
+				"profile_link_color": "A92159",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 38,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 04 09:33:55 +0000 2017",
 		"id": 882170600977907700,
 		"id_str": "882170600977907714",
