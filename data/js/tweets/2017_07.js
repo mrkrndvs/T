@@ -1,6 +1,953 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Tue Jul 04 09:33:55 +0000 2017",
+		"id": 882170600977907700,
+		"id_str": "882170600977907714",
+		"text": "RT @corisel: Here's @ahogie1 @maurie_mulheron and me on @channeltennews about commercialisation of public education https://t.co/Q983wu61WJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "corisel",
+					"name": "Corinne Campbell",
+					"id": 63471960,
+					"id_str": "63471960",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "ahogie1",
+					"name": "Anna Hogan",
+					"id": 158732881,
+					"id_str": "158732881",
+					"indices": [
+						20,
+						28
+					]
+				},
+				{
+					"screen_name": "maurie_mulheron",
+					"name": "Maurie Mulheron",
+					"id": 739666178759524400,
+					"id_str": "739666178759524352",
+					"indices": [
+						29,
+						45
+					]
+				},
+				{
+					"screen_name": "channeltennews",
+					"name": "TEN Eyewitness News",
+					"id": 25887412,
+					"id_str": "25887412",
+					"indices": [
+						56,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q983wu61WJ",
+					"expanded_url": "https://twitter.com/channeltennews/status/882138684098662400",
+					"display_url": "twitter.com/channeltennews…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4144,
+			"friends_count": 2966,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4797,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28274,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 04 07:41:59 +0000 2017",
+			"id": 882142432162332700,
+			"id_str": "882142432162332673",
+			"text": "Here's @ahogie1 @maurie_mulheron and me on @channeltennews about commercialisation of public education https://t.co/Q983wu61WJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ahogie1",
+						"name": "Anna Hogan",
+						"id": 158732881,
+						"id_str": "158732881",
+						"indices": [
+							7,
+							15
+						]
+					},
+					{
+						"screen_name": "maurie_mulheron",
+						"name": "Maurie Mulheron",
+						"id": 739666178759524400,
+						"id_str": "739666178759524352",
+						"indices": [
+							16,
+							32
+						]
+					},
+					{
+						"screen_name": "channeltennews",
+						"name": "TEN Eyewitness News",
+						"id": 25887412,
+						"id_str": "25887412",
+						"indices": [
+							43,
+							58
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Q983wu61WJ",
+						"expanded_url": "https://twitter.com/channeltennews/status/882138684098662400",
+						"display_url": "twitter.com/channeltennews…",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63471960,
+				"id_str": "63471960",
+				"name": "Corinne Campbell",
+				"screen_name": "corisel",
+				"location": "Sydney, Australia",
+				"description": "Teacher. Interested in public education, policy and it's commercialisation. Wanting to see an end to Australia's inhumane treatment of asylum seekers.",
+				"url": "https://t.co/aKzvy3upSk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aKzvy3upSk",
+								"expanded_url": "http://corinnecampbell.net",
+								"display_url": "corinnecampbell.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6563,
+				"friends_count": 1420,
+				"listed_count": 259,
+				"created_at": "Thu Aug 06 12:48:59 +0000 2009",
+				"favourites_count": 16991,
+				"utc_offset": 36000,
+				"time_zone": "Sydney",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31517,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/779914831486939136/RRB8p0RO.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/779914831486939136/RRB8p0RO.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875867910907936769/DIAfisLz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875867910907936769/DIAfisLz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63471960/1497658070",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 882138684098662400,
+			"quoted_status_id_str": "882138684098662400",
+			"quoted_status": {
+				"created_at": "Tue Jul 04 07:27:06 +0000 2017",
+				"id": 882138684098662400,
+				"id_str": "882138684098662400",
+				"text": "Teachers claim big business is dictating what kids are learning at school. #TenNews @LetishaMarambio https://t.co/qfJtUjMSG7",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "TenNews",
+							"indices": [
+								75,
+								83
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "LetishaMarambio",
+							"name": "Letisha Marambio",
+							"id": 497579727,
+							"id_str": "497579727",
+							"indices": [
+								84,
+								100
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 882138489097134100,
+							"id_str": "882138489097134080",
+							"indices": [
+								101,
+								124
+							],
+							"media_url": "http://pbs.twimg.com/media/DD38c_7V0AAySlz.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DD38c_7V0AAySlz.jpg",
+							"url": "https://t.co/qfJtUjMSG7",
+							"display_url": "pic.twitter.com/qfJtUjMSG7",
+							"expanded_url": "https://twitter.com/channeltennews/status/882138684098662400/video/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1280,
+									"h": 720,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 882138489097134100,
+							"id_str": "882138489097134080",
+							"indices": [
+								101,
+								124
+							],
+							"media_url": "http://pbs.twimg.com/media/DD38c_7V0AAySlz.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DD38c_7V0AAySlz.jpg",
+							"url": "https://t.co/qfJtUjMSG7",
+							"display_url": "pic.twitter.com/qfJtUjMSG7",
+							"expanded_url": "https://twitter.com/channeltennews/status/882138684098662400/video/1",
+							"type": "video",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1280,
+									"h": 720,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									16,
+									9
+								],
+								"duration_millis": 99901,
+								"variants": [
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/882138489097134080/vid/640x360/fPkayDuqYXM9g-f7.mp4"
+									},
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/amplify_video/882138489097134080/pl/BC4cKB4ndQARzuIi.m3u8"
+									},
+									{
+										"bitrate": 2176000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/882138489097134080/vid/1280x720/bWn0EoxtjVmw_lFT.mp4"
+									},
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/882138489097134080/vid/320x180/a13t7T9Xrqumh8Zo.mp4"
+									}
+								]
+							},
+							"additional_media_info": {
+								"title": "Big business",
+								"description": "Teachers claim big business is dictating what kids are learning at school. ",
+								"call_to_actions": {
+									"visit_site": {
+										"url": "http://tenplay.com.au/news/sydney"
+									}
+								},
+								"embeddable": true,
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 25887412,
+					"id_str": "25887412",
+					"name": "TEN Eyewitness News",
+					"screen_name": "channeltennews",
+					"location": "Australia",
+					"description": "The official Twitter page for TEN Eyewitness News, featuring top national stories, breaking news and good discussion. Retweets are not endorsements.",
+					"url": "http://t.co/b2eHzADKEZ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/b2eHzADKEZ",
+									"expanded_url": "http://tenplay.com.au/news/national",
+									"display_url": "tenplay.com.au/news/national",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 175257,
+					"friends_count": 928,
+					"listed_count": 803,
+					"created_at": "Sun Mar 22 21:46:24 +0000 2009",
+					"favourites_count": 1364,
+					"utc_offset": 36000,
+					"time_zone": "Sydney",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 61413,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000075562181/49557445791e4e11ad6303fcca49de0d.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000075562181/49557445791e4e11ad6303fcca49de0d.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/473275087886372864/B22Le77C_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/473275087886372864/B22Le77C_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/25887412/1401672555",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 19,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 8,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 882138684098662400,
+		"quoted_status_id_str": "882138684098662400",
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 04 09:29:40 +0000 2017",
+		"id": 882169529937166300,
+		"id_str": "882169529937166336",
+		"text": "RT @poppyshel: Great to hear from educators and researchers about this issue. @corisel  https://t.co/PCVB5GLnI3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "poppyshel",
+					"name": "Michelle Hostrup",
+					"id": 28696003,
+					"id_str": "28696003",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "corisel",
+					"name": "Corinne Campbell",
+					"id": 63471960,
+					"id_str": "63471960",
+					"indices": [
+						78,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PCVB5GLnI3",
+					"expanded_url": "http://www.smh.com.au/national/education/private-companies-accessing-student-data-fuels-commercialisation-fears-20170629-gx1ekv.html",
+					"display_url": "smh.com.au/national/educa…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4144,
+			"friends_count": 2966,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4797,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28274,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 04 09:10:58 +0000 2017",
+			"id": 882164825425457200,
+			"id_str": "882164825425457152",
+			"text": "Great to hear from educators and researchers about this issue. @corisel  https://t.co/PCVB5GLnI3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "corisel",
+						"name": "Corinne Campbell",
+						"id": 63471960,
+						"id_str": "63471960",
+						"indices": [
+							63,
+							71
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/PCVB5GLnI3",
+						"expanded_url": "http://www.smh.com.au/national/education/private-companies-accessing-student-data-fuels-commercialisation-fears-20170629-gx1ekv.html",
+						"display_url": "smh.com.au/national/educa…",
+						"indices": [
+							73,
+							96
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28696003,
+				"id_str": "28696003",
+				"name": "Michelle Hostrup",
+				"screen_name": "poppyshel",
+				"location": "Sydney",
+				"description": "Public School Principal in Sydney. Opinions my own, retweets not endorsements",
+				"url": "https://t.co/I4UY4JdTC9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/I4UY4JdTC9",
+								"expanded_url": "http://educationinoz.wordpress.com",
+								"display_url": "educationinoz.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2900,
+				"friends_count": 1729,
+				"listed_count": 65,
+				"created_at": "Sat Apr 04 00:22:32 +0000 2009",
+				"favourites_count": 3001,
+				"utc_offset": 36000,
+				"time_zone": "Sydney",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15893,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/683029498636288000/6Un9B6Az_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/683029498636288000/6Un9B6Az_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28696003/1429011111",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 04 09:23:28 +0000 2017",
+		"id": 882167969861713900,
+		"id_str": "882167969861713920",
+		"text": "RT @samjirwin: @mrkrndvs You need to be doing things that other, bigger schools can't. Build pride in what your little school CAN do becaus…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "samjirwin",
+					"name": "Sam Irwin",
+					"id": 198727323,
+					"id_str": "198727323",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4144,
+			"friends_count": 2966,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4797,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28274,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 04 07:29:59 +0000 2017",
+			"id": 882139410942316500,
+			"id_str": "882139410942316545",
+			"text": "@mrkrndvs You need to be doing things that other, bigger schools can't. Build pride in what your little school CAN… https://t.co/nRRBTOYRyS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/nRRBTOYRyS",
+						"expanded_url": "https://twitter.com/i/web/status/882139410942316545",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 870205704241520600,
+			"in_reply_to_status_id_str": "870205704241520640",
+			"in_reply_to_user_id": 372768752,
+			"in_reply_to_user_id_str": "372768752",
+			"in_reply_to_screen_name": "mrkrndvs",
+			"user": {
+				"id": 198727323,
+				"id_str": "198727323",
+				"name": "Sam Irwin",
+				"screen_name": "samjirwin",
+				"location": "",
+				"description": "A small school Principal with a large scale vision. @CapeClearPS",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 215,
+				"friends_count": 215,
+				"listed_count": 15,
+				"created_at": "Tue Oct 05 02:27:57 +0000 2010",
+				"favourites_count": 23,
+				"utc_offset": 36000,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 578,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/504926801672404992/w1xd6qZp_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/504926801672404992/w1xd6qZp_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 04 07:42:53 +0000 2017",
 		"id": 882142655114760200,
 		"id_str": "882142655114760192",
