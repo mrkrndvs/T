@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Wed Jul 05 01:32:59 +0000 2017",
+		"id": 882411957202042900,
+		"id_str": "882411957202042880",
+		"text": "RT @cpezaro: @tulip_education @DrSRiddle @janehunter01 @MoronicInferno @feersumenjin Further, a \"good\" teacher, by any definition, affects…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cpezaro",
+					"name": "Charlotte Pezaro",
+					"id": 826268699262799900,
+					"id_str": "826268699262799873",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "tulip_education",
+					"name": "Marten Koomen",
+					"id": 229783973,
+					"id_str": "229783973",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "DrSRiddle",
+					"name": "Stewart Riddle",
+					"id": 1315624051,
+					"id_str": "1315624051",
+					"indices": [
+						30,
+						40
+					]
+				},
+				{
+					"screen_name": "janehunter01",
+					"name": "Jane Hunter",
+					"id": 2313382398,
+					"id_str": "2313382398",
+					"indices": [
+						41,
+						54
+					]
+				},
+				{
+					"screen_name": "MoronicInferno",
+					"name": "p f stargide",
+					"id": 362262243,
+					"id_str": "362262243",
+					"indices": [
+						55,
+						70
+					]
+				},
+				{
+					"screen_name": "feersumenjin",
+					"name": "KatrinaMacDonald",
+					"id": 21473694,
+					"id_str": "21473694",
+					"indices": [
+						71,
+						84
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4144,
+			"friends_count": 2967,
+			"listed_count": 401,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4802,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28291,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 05 00:39:59 +0000 2017",
+			"id": 882398619030044700,
+			"id_str": "882398619030044672",
+			"text": "@tulip_education @DrSRiddle @janehunter01 @MoronicInferno @feersumenjin Further, a \"good\" teacher, by any definitio… https://t.co/XZuAe6mSrB",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tulip_education",
+						"name": "Marten Koomen",
+						"id": 229783973,
+						"id_str": "229783973",
+						"indices": [
+							0,
+							16
+						]
+					},
+					{
+						"screen_name": "DrSRiddle",
+						"name": "Stewart Riddle",
+						"id": 1315624051,
+						"id_str": "1315624051",
+						"indices": [
+							17,
+							27
+						]
+					},
+					{
+						"screen_name": "janehunter01",
+						"name": "Jane Hunter",
+						"id": 2313382398,
+						"id_str": "2313382398",
+						"indices": [
+							28,
+							41
+						]
+					},
+					{
+						"screen_name": "MoronicInferno",
+						"name": "p f stargide",
+						"id": 362262243,
+						"id_str": "362262243",
+						"indices": [
+							42,
+							57
+						]
+					},
+					{
+						"screen_name": "feersumenjin",
+						"name": "KatrinaMacDonald",
+						"id": 21473694,
+						"id_str": "21473694",
+						"indices": [
+							58,
+							71
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XZuAe6mSrB",
+						"expanded_url": "https://twitter.com/i/web/status/882398619030044672",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 882398314221588500,
+			"in_reply_to_status_id_str": "882398314221588480",
+			"in_reply_to_user_id": 229783973,
+			"in_reply_to_user_id_str": "229783973",
+			"in_reply_to_screen_name": "tulip_education",
+			"user": {
+				"id": 826268699262799900,
+				"id_str": "826268699262799873",
+				"name": "Charlotte Pezaro",
+				"screen_name": "cpezaro",
+				"location": "Meanjin Country",
+				"description": "I'm not allowed to leave; it'll break @ScottMillmanEDU's heart.",
+				"url": "https://t.co/GIUcdxwW9y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GIUcdxwW9y",
+								"expanded_url": "http://cpezaro.wordpress.com",
+								"display_url": "cpezaro.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 240,
+				"friends_count": 350,
+				"listed_count": 3,
+				"created_at": "Tue Jan 31 03:19:44 +0000 2017",
+				"favourites_count": 2093,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2056,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/882054723506798593/Q_TI43ns_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/882054723506798593/Q_TI43ns_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/826268699262799873/1493936490",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 05 01:26:45 +0000 2017",
+		"id": 882410388729479200,
+		"id_str": "882410388729479168",
+		"text": "A new Google feature for searching newspapers by location https://t.co/d3VjEN7pSY #GSuiteEDU #GAFEChat https://t.co/SzgedgkTZQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSuiteEDU",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "GAFEChat",
+					"indices": [
+						93,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d3VjEN7pSY",
+					"expanded_url": "https://hapgood.us/2017/07/03/how-to-find-out-if-a-local-newspaper-site-is-fake-using-a-new-ish-google-feature/",
+					"display_url": "hapgood.us/2017/07/03/how…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 882410174522171400,
+					"id_str": "882410174522171392",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DD7zYOaVoAA4WIN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DD7zYOaVoAA4WIN.jpg",
+					"url": "https://t.co/SzgedgkTZQ",
+					"display_url": "pic.twitter.com/SzgedgkTZQ",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/882410388729479168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 445,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 252,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1764,
+							"h": 654,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 882410174522171400,
+					"id_str": "882410174522171392",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DD7zYOaVoAA4WIN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DD7zYOaVoAA4WIN.jpg",
+					"url": "https://t.co/SzgedgkTZQ",
+					"display_url": "pic.twitter.com/SzgedgkTZQ",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/882410388729479168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 445,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 252,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1764,
+							"h": 654,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4144,
+			"friends_count": 2967,
+			"listed_count": 401,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4802,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28291,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jul 05 00:41:45 +0000 2017",
 		"id": 882399062745432000,
 		"id_str": "882399062745432064",
