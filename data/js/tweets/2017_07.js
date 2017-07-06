@@ -1,6 +1,711 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Thu Jul 06 22:10:19 +0000 2017",
+		"id": 883085728602759200,
+		"id_str": "883085728602759168",
+		"text": "RT @dajbelshaw: Thanks to the nudging of @EduQuinn, I've pre-recorded my #digilit talk today: https://t.co/NBMi9kp2fz https://t.co/GIyMB4y7…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digilit",
+					"indices": [
+						73,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dajbelshaw",
+					"name": "Doug Belshaw",
+					"id": 764365,
+					"id_str": "764365",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "EduQuinn",
+					"name": "Dave Quinn",
+					"id": 1596753367,
+					"id_str": "1596753367",
+					"indices": [
+						41,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NBMi9kp2fz",
+					"expanded_url": "http://literaci.es/WCCE2017",
+					"display_url": "literaci.es/WCCE2017",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4147,
+			"friends_count": 2968,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4802,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28321,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 04 10:22:56 +0000 2017",
+			"id": 882182935566319600,
+			"id_str": "882182935566319617",
+			"text": "Thanks to the nudging of @EduQuinn, I've pre-recorded my #digilit talk today: https://t.co/NBMi9kp2fz https://t.co/GIyMB4y7lp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "digilit",
+						"indices": [
+							57,
+							65
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EduQuinn",
+						"name": "Dave Quinn",
+						"id": 1596753367,
+						"id_str": "1596753367",
+						"indices": [
+							25,
+							34
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/NBMi9kp2fz",
+						"expanded_url": "http://literaci.es/WCCE2017",
+						"display_url": "literaci.es/WCCE2017",
+						"indices": [
+							78,
+							101
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 882182904721399800,
+						"id_str": "882182904721399808",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DD4krYbXYAAbPuH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DD4krYbXYAAbPuH.jpg",
+						"url": "https://t.co/GIyMB4y7lp",
+						"display_url": "pic.twitter.com/GIyMB4y7lp",
+						"expanded_url": "https://twitter.com/dajbelshaw/status/882182935566319617/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 882182904721399800,
+						"id_str": "882182904721399808",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DD4krYbXYAAbPuH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DD4krYbXYAAbPuH.jpg",
+						"url": "https://t.co/GIyMB4y7lp",
+						"display_url": "pic.twitter.com/GIyMB4y7lp",
+						"expanded_url": "https://twitter.com/dajbelshaw/status/882182935566319617/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 764365,
+				"id_str": "764365",
+				"name": "Doug Belshaw",
+				"screen_name": "dajbelshaw",
+				"location": "Morpeth, England",
+				"description": "Open Educational Thinkerer. @WeAreOpenCoop co-founder. 🇪🇺 ☠️ ✊ I only use Twitter to post links to my work - and the occasional DM! #digilit #openbadges #coops",
+				"url": "https://t.co/Y5ZxAMGZ5A",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Y5ZxAMGZ5A",
+								"expanded_url": "https://dougbelshaw.com",
+								"display_url": "dougbelshaw.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14208,
+				"friends_count": 3740,
+				"listed_count": 1200,
+				"created_at": "Sun Feb 11 10:23:13 +0000 2007",
+				"favourites_count": 31728,
+				"utc_offset": 3600,
+				"time_zone": "Europe/London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 77377,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/867441170250690571/wt2omfAn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/867441170250690571/wt2omfAn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/764365/1495649254",
+				"profile_link_color": "2C3444",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jul 06 22:09:34 +0000 2017",
+		"id": 883085538701463600,
+		"id_str": "883085538701463552",
+		"text": "RT @dajbelshaw: Why I’ve just ditched my cloud-based password manager\n\nhttps://t.co/BCrFlu0y8q https://t.co/PR3jxfSv8a",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dajbelshaw",
+					"name": "Doug Belshaw",
+					"id": 764365,
+					"id_str": "764365",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BCrFlu0y8q",
+					"expanded_url": "http://dougbelshaw.com/blog/2017/07/06/lastpass-to-lesspass/",
+					"display_url": "dougbelshaw.com/blog/2017/07/0…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 882921993703743500,
+					"id_str": "882921993703743488",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DEDE4BcXYAAweAq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEDE4BcXYAAweAq.jpg",
+					"url": "https://t.co/PR3jxfSv8a",
+					"display_url": "pic.twitter.com/PR3jxfSv8a",
+					"expanded_url": "https://twitter.com/dajbelshaw/status/882922014234869760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 749,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1279,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 882922014234869800,
+					"source_status_id_str": "882922014234869760",
+					"source_user_id": 764365,
+					"source_user_id_str": "764365"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 882921993703743500,
+					"id_str": "882921993703743488",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DEDE4BcXYAAweAq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEDE4BcXYAAweAq.jpg",
+					"url": "https://t.co/PR3jxfSv8a",
+					"display_url": "pic.twitter.com/PR3jxfSv8a",
+					"expanded_url": "https://twitter.com/dajbelshaw/status/882922014234869760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 749,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1279,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 882922014234869800,
+					"source_status_id_str": "882922014234869760",
+					"source_user_id": 764365,
+					"source_user_id_str": "764365"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4147,
+			"friends_count": 2968,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4802,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28321,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 06 11:19:46 +0000 2017",
+			"id": 882922014234869800,
+			"id_str": "882922014234869760",
+			"text": "Why I’ve just ditched my cloud-based password manager\n\nhttps://t.co/BCrFlu0y8q https://t.co/PR3jxfSv8a",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BCrFlu0y8q",
+						"expanded_url": "http://dougbelshaw.com/blog/2017/07/06/lastpass-to-lesspass/",
+						"display_url": "dougbelshaw.com/blog/2017/07/0…",
+						"indices": [
+							55,
+							78
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 882921993703743500,
+						"id_str": "882921993703743488",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DEDE4BcXYAAweAq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEDE4BcXYAAweAq.jpg",
+						"url": "https://t.co/PR3jxfSv8a",
+						"display_url": "pic.twitter.com/PR3jxfSv8a",
+						"expanded_url": "https://twitter.com/dajbelshaw/status/882922014234869760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 749,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1279,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 882921993703743500,
+						"id_str": "882921993703743488",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DEDE4BcXYAAweAq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEDE4BcXYAAweAq.jpg",
+						"url": "https://t.co/PR3jxfSv8a",
+						"display_url": "pic.twitter.com/PR3jxfSv8a",
+						"expanded_url": "https://twitter.com/dajbelshaw/status/882922014234869760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 749,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1279,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 764365,
+				"id_str": "764365",
+				"name": "Doug Belshaw",
+				"screen_name": "dajbelshaw",
+				"location": "Morpeth, England",
+				"description": "Open Educational Thinkerer. @WeAreOpenCoop co-founder. 🇪🇺 ☠️ ✊ I only use Twitter to post links to my work - and the occasional DM! #digilit #openbadges #coops",
+				"url": "https://t.co/Y5ZxAMGZ5A",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Y5ZxAMGZ5A",
+								"expanded_url": "https://dougbelshaw.com",
+								"display_url": "dougbelshaw.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14208,
+				"friends_count": 3740,
+				"listed_count": 1200,
+				"created_at": "Sun Feb 11 10:23:13 +0000 2007",
+				"favourites_count": 31728,
+				"utc_offset": 3600,
+				"time_zone": "Europe/London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 77377,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/867441170250690571/wt2omfAn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/867441170250690571/wt2omfAn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/764365/1495649254",
+				"profile_link_color": "2C3444",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jul 06 19:16:28 +0000 2017",
 		"id": 883041979361349600,
 		"id_str": "883041979361349634",
