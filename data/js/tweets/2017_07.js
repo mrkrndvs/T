@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sat Jul 08 09:14:44 +0000 2017",
+		"id": 883615324045680600,
+		"id_str": "883615324045680640",
+		"text": "RT @WIRED: Stunning photos of Italy's summer beaches, which look even better from above https://t.co/QrPTa20zMc https://t.co/wLUOXSve0M",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WIRED",
+					"name": "WIRED",
+					"id": 1344951,
+					"id_str": "1344951",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QrPTa20zMc",
+					"expanded_url": "http://wrd.cm/2uzSCA6",
+					"display_url": "wrd.cm/2uzSCA6",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 883614676965347300,
+					"id_str": "883614676965347329",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DEM63frXUAEg3ux.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEM63frXUAEg3ux.jpg",
+					"url": "https://t.co/wLUOXSve0M",
+					"display_url": "pic.twitter.com/wLUOXSve0M",
+					"expanded_url": "https://twitter.com/WIRED/status/883614679960104960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 819,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 819,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 883614679960105000,
+					"source_status_id_str": "883614679960104960",
+					"source_user_id": 1344951,
+					"source_user_id_str": "1344951"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 883614676965347300,
+					"id_str": "883614676965347329",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DEM63frXUAEg3ux.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEM63frXUAEg3ux.jpg",
+					"url": "https://t.co/wLUOXSve0M",
+					"display_url": "pic.twitter.com/wLUOXSve0M",
+					"expanded_url": "https://twitter.com/WIRED/status/883614679960104960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 819,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 819,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 883614679960105000,
+					"source_status_id_str": "883614679960104960",
+					"source_user_id": 1344951,
+					"source_user_id_str": "1344951"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4151,
+			"friends_count": 2969,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4804,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28344,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 08 09:12:11 +0000 2017",
+			"id": 883614679960105000,
+			"id_str": "883614679960104960",
+			"text": "Stunning photos of Italy's summer beaches, which look even better from above https://t.co/QrPTa20zMc https://t.co/wLUOXSve0M",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QrPTa20zMc",
+						"expanded_url": "http://wrd.cm/2uzSCA6",
+						"display_url": "wrd.cm/2uzSCA6",
+						"indices": [
+							77,
+							100
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 883614676965347300,
+						"id_str": "883614676965347329",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DEM63frXUAEg3ux.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEM63frXUAEg3ux.jpg",
+						"url": "https://t.co/wLUOXSve0M",
+						"display_url": "pic.twitter.com/wLUOXSve0M",
+						"expanded_url": "https://twitter.com/WIRED/status/883614679960104960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 819,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 819,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 544,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 883614676965347300,
+						"id_str": "883614676965347329",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DEM63frXUAEg3ux.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEM63frXUAEg3ux.jpg",
+						"url": "https://t.co/wLUOXSve0M",
+						"display_url": "pic.twitter.com/wLUOXSve0M",
+						"expanded_url": "https://twitter.com/WIRED/status/883614679960104960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 819,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 819,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 544,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1344951,
+				"id_str": "1344951",
+				"name": "WIRED",
+				"screen_name": "WIRED",
+				"location": "San Francisco/New York",
+				"description": "WIRED is where tomorrow is realized.",
+				"url": "http://t.co/AbRkBRjcYo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/AbRkBRjcYo",
+								"expanded_url": "http://WIRED.com",
+								"display_url": "WIRED.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9311603,
+				"friends_count": 285,
+				"listed_count": 89726,
+				"created_at": "Sat Mar 17 09:57:25 +0000 2007",
+				"favourites_count": 1706,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 79515,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/734548027/5e5ee18945d22a9e2d9971208971bfdd.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/734548027/5e5ee18945d22a9e2d9971208971bfdd.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/615598832726970372/jsK-gBSt_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/615598832726970372/jsK-gBSt_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1344951/1497961749",
+				"profile_link_color": "99DCF0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jul 08 07:17:18 +0000 2017",
 		"id": 883585768295452700,
 		"id_str": "883585768295452672",
