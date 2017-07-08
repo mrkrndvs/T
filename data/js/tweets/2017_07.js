@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sat Jul 08 04:56:59 +0000 2017",
+		"id": 883550457712451600,
+		"id_str": "883550457712451584",
+		"text": "RT @tulip_education: @cpezaro @ShaneBDuggan @DrNomyn @mrkrndvs @RadioNational ATAR and equity is interesting. ATAR is an indicator of equit…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tulip_education",
+					"name": "Marten Koomen",
+					"id": 229783973,
+					"id_str": "229783973",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "cpezaro",
+					"name": "Charlotte Pezaro",
+					"id": 826268699262799900,
+					"id_str": "826268699262799873",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"screen_name": "ShaneBDuggan",
+					"name": "Shane B Duggan",
+					"id": 900928232,
+					"id_str": "900928232",
+					"indices": [
+						30,
+						43
+					]
+				},
+				{
+					"screen_name": "DrNomyn",
+					"name": "Naomi Barnes",
+					"id": 24346748,
+					"id_str": "24346748",
+					"indices": [
+						44,
+						52
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						53,
+						62
+					]
+				},
+				{
+					"screen_name": "RadioNational",
+					"name": "RN - Radio National",
+					"id": 19940915,
+					"id_str": "19940915",
+					"indices": [
+						63,
+						77
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4152,
+			"friends_count": 2969,
+			"listed_count": 399,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4804,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28342,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 08 02:40:16 +0000 2017",
+			"id": 883516053384347600,
+			"id_str": "883516053384347648",
+			"text": "@cpezaro @ShaneBDuggan @DrNomyn @mrkrndvs @RadioNational ATAR and equity is interesting. ATAR is an indicator of eq… https://t.co/WYtAfSjVIM",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cpezaro",
+						"name": "Charlotte Pezaro",
+						"id": 826268699262799900,
+						"id_str": "826268699262799873",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"screen_name": "ShaneBDuggan",
+						"name": "Shane B Duggan",
+						"id": 900928232,
+						"id_str": "900928232",
+						"indices": [
+							9,
+							22
+						]
+					},
+					{
+						"screen_name": "DrNomyn",
+						"name": "Naomi Barnes",
+						"id": 24346748,
+						"id_str": "24346748",
+						"indices": [
+							23,
+							31
+						]
+					},
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							32,
+							41
+						]
+					},
+					{
+						"screen_name": "RadioNational",
+						"name": "RN - Radio National",
+						"id": 19940915,
+						"id_str": "19940915",
+						"indices": [
+							42,
+							56
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WYtAfSjVIM",
+						"expanded_url": "https://twitter.com/i/web/status/883516053384347648",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 883493349537177600,
+			"in_reply_to_status_id_str": "883493349537177600",
+			"in_reply_to_user_id": 826268699262799900,
+			"in_reply_to_user_id_str": "826268699262799873",
+			"in_reply_to_screen_name": "cpezaro",
+			"user": {
+				"id": 229783973,
+				"id_str": "229783973",
+				"name": "Marten Koomen",
+				"screen_name": "tulip_education",
+				"location": "Melbourne, Victoria",
+				"description": "PhD Candidate Victoria University. email: marten.koomen@tulipeducation.com.au\nViews not my own, but socially constructed within contemporary historical context.",
+				"url": "https://t.co/Ejiejow2MH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ejiejow2MH",
+								"expanded_url": "http://research.tulipeducation.com.au",
+								"display_url": "research.tulipeducation.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 569,
+				"friends_count": 433,
+				"listed_count": 29,
+				"created_at": "Thu Dec 23 09:31:08 +0000 2010",
+				"favourites_count": 9667,
+				"utc_offset": 36000,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 428,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/763168196060864512/NX_809KA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/763168196060864512/NX_809KA_normal.jpg",
+				"profile_link_color": "262626",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 07 22:16:56 +0000 2017",
 		"id": 883449782911545300,
 		"id_str": "883449782911545344",
