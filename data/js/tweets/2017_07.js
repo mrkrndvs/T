@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Wed Jul 19 11:21:24 +0000 2017",
+		"id": 887633465927127000,
+		"id_str": "887633465927127040",
+		"text": "@timbuckteeth on #digitalscholarship https://t.co/5abiAGaovM https://t.co/Y22uEqjct0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digitalscholarship",
+					"indices": [
+						17,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timbuckteeth",
+					"name": "Steve Wheeler",
+					"id": 11435832,
+					"id_str": "11435832",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5abiAGaovM",
+					"expanded_url": "http://www.steve-wheeler.co.uk/2014/04/open-scholarship.html",
+					"display_url": "steve-wheeler.co.uk/2014/04/open-s…",
+					"indices": [
+						37,
+						60
+					]
+				},
+				{
+					"url": "https://t.co/Y22uEqjct0",
+					"expanded_url": "https://twitter.com/aus_teach/status/887626186574123010",
+					"display_url": "twitter.com/aus_teach/stat…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 11435832,
+		"in_reply_to_user_id_str": "11435832",
+		"in_reply_to_screen_name": "timbuckteeth",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4169,
+			"friends_count": 2975,
+			"listed_count": 400,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4808,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28482,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 887626186574123000,
+		"quoted_status_id_str": "887626186574123010",
+		"quoted_status": {
+			"created_at": "Wed Jul 19 10:52:28 +0000 2017",
+			"id": 887626186574123000,
+			"id_str": "887626186574123010",
+			"text": "Please add to this quick conversation regarding #digitalscholarship &amp; RT\nhttps://t.co/ppYWB03NP4\n@mrkrndvs @corisel @EverydayTeach #thanks",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "digitalscholarship",
+						"indices": [
+							48,
+							67
+						]
+					},
+					{
+						"text": "thanks",
+						"indices": [
+							135,
+							142
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							101,
+							110
+						]
+					},
+					{
+						"screen_name": "corisel",
+						"name": "Corinne Campbell",
+						"id": 63471960,
+						"id_str": "63471960",
+						"indices": [
+							111,
+							119
+						]
+					},
+					{
+						"screen_name": "EverydayTeach",
+						"name": "TheEverydayTeacher",
+						"id": 2962747029,
+						"id_str": "2962747029",
+						"indices": [
+							120,
+							134
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ppYWB03NP4",
+						"expanded_url": "http://thinkspace.csu.edu.au/austeach/2017/07/19/a_conversation/",
+						"display_url": "thinkspace.csu.edu.au/austeach/2017/…",
+						"indices": [
+							77,
+							100
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 299553438,
+				"id_str": "299553438",
+				"name": "Simon",
+				"screen_name": "aus_teach",
+				"location": "Melbourne, Australia",
+				"description": "Educator :: Yr 9 campus::  All boys. Learning should be joyful. Completing a M.Ed in Digital Innovation: blog https://t.co/awUx1v5xt4",
+				"url": "https://t.co/i3FnW71EUM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/i3FnW71EUM",
+								"expanded_url": "http://about.me/aus_teach",
+								"display_url": "about.me/aus_teach",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/awUx1v5xt4",
+								"expanded_url": "http://goo.gl/FR1Dmo",
+								"display_url": "goo.gl/FR1Dmo",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1414,
+				"friends_count": 1115,
+				"listed_count": 125,
+				"created_at": "Mon May 16 09:03:37 +0000 2011",
+				"favourites_count": 3047,
+				"utc_offset": 36000,
+				"time_zone": "Australia/Sydney",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6457,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030103",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/805036202/530305ee54dcd37a33244a09f7f62844.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/805036202/530305ee54dcd37a33244a09f7f62844.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/837613407859679232/bHuPeK33_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/837613407859679232/bHuPeK33_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/299553438/1398328154",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "ADF1FC",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "FA8459",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Wed Jul 19 10:04:05 +0000 2017",
 		"id": 887614008341037000,
 		"id_str": "887614008341037057",
