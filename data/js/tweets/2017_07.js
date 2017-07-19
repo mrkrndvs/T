@@ -1,6 +1,138 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Wed Jul 19 12:26:39 +0000 2017",
+		"id": 887649888707555300,
+		"id_str": "887649888707555328",
+		"text": "@aus_teach @corisel @EverydayTeach I'm Nowhere In-between: Why we need 'seriously uncool' criticism in education… https://t.co/s6DrCpIKrX",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aus_teach",
+					"name": "Simon",
+					"id": 299553438,
+					"id_str": "299553438",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "corisel",
+					"name": "Corinne Campbell",
+					"id": 63471960,
+					"id_str": "63471960",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "EverydayTeach",
+					"name": "TheEverydayTeacher",
+					"id": 2962747029,
+					"id_str": "2962747029",
+					"indices": [
+						20,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/s6DrCpIKrX",
+					"expanded_url": "https://twitter.com/i/web/status/887649888707555328",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 887626186574123000,
+		"in_reply_to_status_id_str": "887626186574123010",
+		"in_reply_to_user_id": 299553438,
+		"in_reply_to_user_id_str": "299553438",
+		"in_reply_to_screen_name": "aus_teach",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4171,
+			"friends_count": 2975,
+			"listed_count": 398,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4808,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28483,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jul 19 11:21:24 +0000 2017",
 		"id": 887633465927127000,
 		"id_str": "887633465927127040",
