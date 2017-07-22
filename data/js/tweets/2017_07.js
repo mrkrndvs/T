@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sat Jul 22 11:14:53 +0000 2017",
+		"id": 888718991593676800,
+		"id_str": "888718991593676800",
+		"text": "Greenpeace is a colourful organisation https://t.co/0Cog0mDeeJ via @epilepticrabbit",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "epilepticrabbit",
+					"name": "Laura Hilliger",
+					"id": 212475110,
+					"id_str": "212475110",
+					"indices": [
+						67,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0Cog0mDeeJ",
+					"expanded_url": "http://www.laurahilliger.com/models/greenpeace-is-a-colourful-organisation/",
+					"display_url": "laurahilliger.com/models/greenpe…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4176,
+			"friends_count": 2974,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4809,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28516,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jul 22 10:16:07 +0000 2017",
+		"id": 888704200460312600,
+		"id_str": "888704200460312577",
+		"text": "RT @josepicardo: Elemental Principles: Saying Goodbye: https://t.co/4oBQkpH7gY by @dutaut",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "josepicardo",
+					"name": "José Picardo SHS",
+					"id": 12127612,
+					"id_str": "12127612",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "dutaut",
+					"name": "jl",
+					"id": 304854934,
+					"id_str": "304854934",
+					"indices": [
+						82,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4oBQkpH7gY",
+					"expanded_url": "http://elseducationuk.blogspot.com/2017/07/saying-goodbye.html",
+					"display_url": "elseducationuk.blogspot.com/2017/07/saying…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4176,
+			"friends_count": 2974,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4809,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28516,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 22 09:03:43 +0000 2017",
+			"id": 888685982006075400,
+			"id_str": "888685982006075393",
+			"text": "Elemental Principles: Saying Goodbye: https://t.co/4oBQkpH7gY by @dutaut",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dutaut",
+						"name": "jl",
+						"id": 304854934,
+						"id_str": "304854934",
+						"indices": [
+							65,
+							72
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4oBQkpH7gY",
+						"expanded_url": "http://elseducationuk.blogspot.com/2017/07/saying-goodbye.html",
+						"display_url": "elseducationuk.blogspot.com/2017/07/saying…",
+						"indices": [
+							38,
+							61
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12127612,
+				"id_str": "12127612",
+				"name": "José Picardo SHS",
+				"screen_name": "josepicardo",
+				"location": "London, UK",
+				"description": "Assistant Principal @SurbitonHigh|Pedagogy, curriculum & provision of a broad, well-rounded education|Deputy Head Hampshire Collegiate from Sept|ADE",
+				"url": "https://t.co/7cLxPApcx3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7cLxPApcx3",
+								"expanded_url": "http://josepicardo.com",
+								"display_url": "josepicardo.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13542,
+				"friends_count": 6639,
+				"listed_count": 927,
+				"created_at": "Fri Jan 11 19:31:02 +0000 2008",
+				"favourites_count": 7275,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 52623,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880357750986997760/tu7ihEgp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880357750986997760/tu7ihEgp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12127612/1495987778",
+				"profile_link_color": "005555",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jul 22 10:16:02 +0000 2017",
+		"id": 888704179664961500,
+		"id_str": "888704179664961536",
+		"text": "@dutaut @josepicardo Sometimes I wonder if we forget that educators are human too 🤔",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dutaut",
+					"name": "jl",
+					"id": 304854934,
+					"id_str": "304854934",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "josepicardo",
+					"name": "José Picardo SHS",
+					"id": 12127612,
+					"id_str": "12127612",
+					"indices": [
+						8,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 888702163828047900,
+		"in_reply_to_status_id_str": "888702163828047872",
+		"in_reply_to_user_id": 304854934,
+		"in_reply_to_user_id_str": "304854934",
+		"in_reply_to_screen_name": "dutaut",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4176,
+			"friends_count": 2974,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4809,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28516,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jul 22 09:56:49 +0000 2017",
 		"id": 888699345578500100,
 		"id_str": "888699345578500096",
