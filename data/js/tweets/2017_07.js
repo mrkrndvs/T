@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Tue Jul 25 03:36:32 +0000 2017",
+		"id": 889690806369394700,
+		"id_str": "889690806369394689",
+		"text": "RT @TERPodcast: TER #096 – The Michaela School (UK) with Katharine Birbalsingh – 23 July 2017 https://t.co/bgJB9LHkVh https://t.co/LiELrr7Y…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TERPodcast",
+					"name": "TER Podcast",
+					"id": 1590760676,
+					"id_str": "1590760676",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bgJB9LHkVh",
+					"expanded_url": "http://terpodcast.com/2017/07/22/ter-096-the-michaela-school-uk-with-katharine-birbalsingh-23-july-2017/",
+					"display_url": "terpodcast.com/2017/07/22/ter…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4187,
+			"friends_count": 2977,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4818,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28594,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 23 08:25:04 +0000 2017",
+			"id": 889038641443602400,
+			"id_str": "889038641443602435",
+			"text": "TER #096 – The Michaela School (UK) with Katharine Birbalsingh – 23 July 2017 https://t.co/bgJB9LHkVh https://t.co/LiELrr7Ynm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bgJB9LHkVh",
+						"expanded_url": "http://terpodcast.com/2017/07/22/ter-096-the-michaela-school-uk-with-katharine-birbalsingh-23-july-2017/",
+						"display_url": "terpodcast.com/2017/07/22/ter…",
+						"indices": [
+							78,
+							101
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 889038519259328500,
+						"id_str": "889038519259328512",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DFZ_0qwXcAAeN4S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFZ_0qwXcAAeN4S.jpg",
+						"url": "https://t.co/LiELrr7Ynm",
+						"display_url": "pic.twitter.com/LiELrr7Ynm",
+						"expanded_url": "https://twitter.com/TERPodcast/status/889038641443602435/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 341,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1309,
+								"h": 656,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 601,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 889038519259328500,
+						"id_str": "889038519259328512",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DFZ_0qwXcAAeN4S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFZ_0qwXcAAeN4S.jpg",
+						"url": "https://t.co/LiELrr7Ynm",
+						"display_url": "pic.twitter.com/LiELrr7Ynm",
+						"expanded_url": "https://twitter.com/TERPodcast/status/889038641443602435/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 341,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1309,
+								"h": 656,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 601,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1590760676,
+				"id_str": "1590760676",
+				"name": "TER Podcast",
+				"screen_name": "TERPodcast",
+				"location": "Australia",
+				"description": "Teacher's Education Review, Australian podcast for teachers, bridging the gap between research, policy & practice. Tweets from @Capitan_Typo and @corisel",
+				"url": "https://t.co/PTQ9lKBAbe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PTQ9lKBAbe",
+								"expanded_url": "http://www.TERPodcast.com",
+								"display_url": "TERPodcast.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2669,
+				"friends_count": 1161,
+				"listed_count": 48,
+				"created_at": "Sat Jul 13 11:06:02 +0000 2013",
+				"favourites_count": 1676,
+				"utc_offset": 36000,
+				"time_zone": "Sydney",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9548,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000433433361/7ba5378695adafe20b257831c17b789d_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000433433361/7ba5378695adafe20b257831c17b789d_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1590760676/1373870488",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 25 02:14:32 +0000 2017",
 		"id": 889670171681464300,
 		"id_str": "889670171681464320",
