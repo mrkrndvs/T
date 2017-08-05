@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sat Aug 05 10:00:14 +0000 2017",
+		"id": 893773633100722200,
+		"id_str": "893773633100722180",
+		"text": "RT @DalePearce3: It’s all the fault of teachers https://t.co/eCYtaArn8D https://t.co/mPWhSF9Bk6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DalePearce3",
+					"name": "Dale Pearce",
+					"id": 1577439920,
+					"id_str": "1577439920",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eCYtaArn8D",
+					"expanded_url": "http://dalepearce.net/2017/08/05/its-all-the-fault-of-teachers/",
+					"display_url": "dalepearce.net/2017/08/05/its…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 893729826808266800,
+					"id_str": "893729826808266753",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DGcqitQUAAEpsP2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGcqitQUAAEpsP2.jpg",
+					"url": "https://t.co/mPWhSF9Bk6",
+					"display_url": "pic.twitter.com/mPWhSF9Bk6",
+					"expanded_url": "https://twitter.com/DalePearce3/status/893729830512074752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 227,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 340,
+							"h": 227,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 340,
+							"h": 227,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 893729830512074800,
+					"source_status_id_str": "893729830512074752",
+					"source_user_id": 1577439920,
+					"source_user_id_str": "1577439920"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 893729826808266800,
+					"id_str": "893729826808266753",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DGcqitQUAAEpsP2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGcqitQUAAEpsP2.jpg",
+					"url": "https://t.co/mPWhSF9Bk6",
+					"display_url": "pic.twitter.com/mPWhSF9Bk6",
+					"expanded_url": "https://twitter.com/DalePearce3/status/893729830512074752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 227,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 340,
+							"h": 227,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 340,
+							"h": 227,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 893729830512074800,
+					"source_status_id_str": "893729830512074752",
+					"source_user_id": 1577439920,
+					"source_user_id_str": "1577439920"
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4196,
+			"friends_count": 2980,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4823,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28631,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 05 07:06:10 +0000 2017",
+			"id": 893729830512074800,
+			"id_str": "893729830512074752",
+			"text": "It’s all the fault of teachers https://t.co/eCYtaArn8D https://t.co/mPWhSF9Bk6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eCYtaArn8D",
+						"expanded_url": "http://dalepearce.net/2017/08/05/its-all-the-fault-of-teachers/",
+						"display_url": "dalepearce.net/2017/08/05/its…",
+						"indices": [
+							31,
+							54
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 893729826808266800,
+						"id_str": "893729826808266753",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/DGcqitQUAAEpsP2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGcqitQUAAEpsP2.jpg",
+						"url": "https://t.co/mPWhSF9Bk6",
+						"display_url": "pic.twitter.com/mPWhSF9Bk6",
+						"expanded_url": "https://twitter.com/DalePearce3/status/893729830512074752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 227,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 340,
+								"h": 227,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 340,
+								"h": 227,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 893729826808266800,
+						"id_str": "893729826808266753",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/DGcqitQUAAEpsP2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGcqitQUAAEpsP2.jpg",
+						"url": "https://t.co/mPWhSF9Bk6",
+						"display_url": "pic.twitter.com/mPWhSF9Bk6",
+						"expanded_url": "https://twitter.com/DalePearce3/status/893729830512074752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 227,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 340,
+								"h": 227,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 340,
+								"h": 227,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1577439920,
+				"id_str": "1577439920",
+				"name": "Dale Pearce",
+				"screen_name": "DalePearce3",
+				"location": "Bendigo, Victoria, Australia",
+				"description": "Principal of Bendigo Senior Secondary College. VCAA Board Member, Chair https://t.co/kU1URbU8vC. Tweets my own opinions.",
+				"url": "https://t.co/5RktomeOOd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5RktomeOOd",
+								"expanded_url": "http://dalepearce.net/",
+								"display_url": "dalepearce.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/kU1URbU8vC",
+								"expanded_url": "http://www.vln.vic.edu.au/",
+								"display_url": "vln.vic.edu.au",
+								"indices": [
+									72,
+									95
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1013,
+				"friends_count": 387,
+				"listed_count": 45,
+				"created_at": "Mon Jul 08 11:21:55 +0000 2013",
+				"favourites_count": 821,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7404,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/459654886108327936/GJVADHu3_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/459654886108327936/GJVADHu3_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1577439920/1466080088",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Aug 05 04:24:19 +0000 2017",
 		"id": 893689099365752800,
 		"id_str": "893689099365752832",
