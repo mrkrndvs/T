@@ -1,6 +1,651 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sun Aug 06 11:58:05 +0000 2017",
+		"id": 894165680458616800,
+		"id_str": "894165680458616832",
+		"text": "@richardolsen @LeithGourlay @EduTweetOz @kynanr @ndrewwilliamson @ictguy I am not sure. I know a lot of musicians w… https://t.co/BCxIN8cbat",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "richardolsen",
+					"name": "Richard Olsen",
+					"id": 11649492,
+					"id_str": "11649492",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "LeithGourlay",
+					"name": "Leith Gourlay",
+					"id": 450221288,
+					"id_str": "450221288",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "EduTweetOz",
+					"name": "Michaela Epstein",
+					"id": 1361688518,
+					"id_str": "1361688518",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "kynanr",
+					"name": "Kynan Robinson",
+					"id": 21043806,
+					"id_str": "21043806",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"screen_name": "ndrewwilliamson",
+					"name": "Andrew Williamson",
+					"id": 17127192,
+					"id_str": "17127192",
+					"indices": [
+						48,
+						64
+					]
+				},
+				{
+					"screen_name": "ictguy",
+					"name": "Darrel Branson",
+					"id": 12764352,
+					"id_str": "12764352",
+					"indices": [
+						65,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BCxIN8cbat",
+					"expanded_url": "https://twitter.com/i/web/status/894165680458616832",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 894161951005098000,
+		"in_reply_to_status_id_str": "894161951005097986",
+		"in_reply_to_user_id": 11649492,
+		"in_reply_to_user_id_str": "11649492",
+		"in_reply_to_screen_name": "richardolsen",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4198,
+			"friends_count": 2979,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4828,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28636,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 06 11:41:50 +0000 2017",
+		"id": 894161591695925200,
+		"id_str": "894161591695925248",
+		"text": "@richardolsen @LeithGourlay @EduTweetOz @kynanr @ndrewwilliamson @ictguy Do you think that a pianist turning to gui… https://t.co/R7MJ6KPjIu",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "richardolsen",
+					"name": "Richard Olsen",
+					"id": 11649492,
+					"id_str": "11649492",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "LeithGourlay",
+					"name": "Leith Gourlay",
+					"id": 450221288,
+					"id_str": "450221288",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "EduTweetOz",
+					"name": "Michaela Epstein",
+					"id": 1361688518,
+					"id_str": "1361688518",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "kynanr",
+					"name": "Kynan Robinson",
+					"id": 21043806,
+					"id_str": "21043806",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"screen_name": "ndrewwilliamson",
+					"name": "Andrew Williamson",
+					"id": 17127192,
+					"id_str": "17127192",
+					"indices": [
+						48,
+						64
+					]
+				},
+				{
+					"screen_name": "ictguy",
+					"name": "Darrel Branson",
+					"id": 12764352,
+					"id_str": "12764352",
+					"indices": [
+						65,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/R7MJ6KPjIu",
+					"expanded_url": "https://twitter.com/i/web/status/894161591695925248",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 894160699668152300,
+		"in_reply_to_status_id_str": "894160699668152320",
+		"in_reply_to_user_id": 11649492,
+		"in_reply_to_user_id_str": "11649492",
+		"in_reply_to_screen_name": "richardolsen",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4198,
+			"friends_count": 2979,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4828,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28636,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 06 11:40:17 +0000 2017",
+		"id": 894161200258273300,
+		"id_str": "894161200258273280",
+		"text": "@richardolsen @LeithGourlay @EduTweetOz @kynanr @ndrewwilliamson @ictguy In regards to covers, I rather riff off ot… https://t.co/WHSuNDKAGu",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "richardolsen",
+					"name": "Richard Olsen",
+					"id": 11649492,
+					"id_str": "11649492",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "LeithGourlay",
+					"name": "Leith Gourlay",
+					"id": 450221288,
+					"id_str": "450221288",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "EduTweetOz",
+					"name": "Michaela Epstein",
+					"id": 1361688518,
+					"id_str": "1361688518",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "kynanr",
+					"name": "Kynan Robinson",
+					"id": 21043806,
+					"id_str": "21043806",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"screen_name": "ndrewwilliamson",
+					"name": "Andrew Williamson",
+					"id": 17127192,
+					"id_str": "17127192",
+					"indices": [
+						48,
+						64
+					]
+				},
+				{
+					"screen_name": "ictguy",
+					"name": "Darrel Branson",
+					"id": 12764352,
+					"id_str": "12764352",
+					"indices": [
+						65,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WHSuNDKAGu",
+					"expanded_url": "https://twitter.com/i/web/status/894161200258273280",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 894159608016535600,
+		"in_reply_to_status_id_str": "894159608016535552",
+		"in_reply_to_user_id": 372768752,
+		"in_reply_to_user_id_str": "372768752",
+		"in_reply_to_screen_name": "mrkrndvs",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4198,
+			"friends_count": 2979,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4828,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28636,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 06 11:33:57 +0000 2017",
+		"id": 894159608016535600,
+		"id_str": "894159608016535552",
+		"text": "@richardolsen @LeithGourlay @EduTweetOz @kynanr @ndrewwilliamson @ictguy Personally, I think both instruments (pian… https://t.co/xMISDdtJFd",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "richardolsen",
+					"name": "Richard Olsen",
+					"id": 11649492,
+					"id_str": "11649492",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "LeithGourlay",
+					"name": "Leith Gourlay",
+					"id": 450221288,
+					"id_str": "450221288",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "EduTweetOz",
+					"name": "Michaela Epstein",
+					"id": 1361688518,
+					"id_str": "1361688518",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "kynanr",
+					"name": "Kynan Robinson",
+					"id": 21043806,
+					"id_str": "21043806",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"screen_name": "ndrewwilliamson",
+					"name": "Andrew Williamson",
+					"id": 17127192,
+					"id_str": "17127192",
+					"indices": [
+						48,
+						64
+					]
+				},
+				{
+					"screen_name": "ictguy",
+					"name": "Darrel Branson",
+					"id": 12764352,
+					"id_str": "12764352",
+					"indices": [
+						65,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xMISDdtJFd",
+					"expanded_url": "https://twitter.com/i/web/status/894159608016535552",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 894150396360314900,
+		"in_reply_to_status_id_str": "894150396360314881",
+		"in_reply_to_user_id": 11649492,
+		"in_reply_to_user_id_str": "11649492",
+		"in_reply_to_screen_name": "richardolsen",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4198,
+			"friends_count": 2979,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4828,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28636,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Aug 05 13:16:13 +0000 2017",
 		"id": 893822954529837000,
 		"id_str": "893822954529837056",
