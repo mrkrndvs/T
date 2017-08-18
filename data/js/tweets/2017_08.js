@@ -1,6 +1,542 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Fri Aug 18 07:12:11 +0000 2017",
+		"id": 898442385432039400,
+		"id_str": "898442385432039425",
+		"text": "@rissL #ItTakesAVillage",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ItTakesAVillage",
+					"indices": [
+						7,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rissL",
+					"name": "Narissa Leung",
+					"id": 16400158,
+					"id_str": "16400158",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 898421079156301800,
+		"in_reply_to_status_id_str": "898421079156301825",
+		"in_reply_to_user_id": 16400158,
+		"in_reply_to_user_id_str": "16400158",
+		"in_reply_to_screen_name": "rissL",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4210,
+			"friends_count": 2981,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4851,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28681,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Fri Aug 18 06:22:27 +0000 2017",
+		"id": 898429869175865300,
+		"id_str": "898429869175865345",
+		"text": "RT @rissL: This is very clever. Makes me think of how clever @mrkrndvs is! #digital17 https://t.co/TmmwaT14Sk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digital17",
+					"indices": [
+						75,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rissL",
+					"name": "Narissa Leung",
+					"id": 16400158,
+					"id_str": "16400158",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						61,
+						70
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 898421054305058800,
+					"id_str": "898421054305058817",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/DHfVMFiVwAEItBw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHfVMFiVwAEItBw.jpg",
+					"url": "https://t.co/TmmwaT14Sk",
+					"display_url": "pic.twitter.com/TmmwaT14Sk",
+					"expanded_url": "https://twitter.com/rissL/status/898421079156301825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 898421079156301800,
+					"source_status_id_str": "898421079156301825",
+					"source_user_id": 16400158,
+					"source_user_id_str": "16400158"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 898421054305058800,
+					"id_str": "898421054305058817",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/DHfVMFiVwAEItBw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHfVMFiVwAEItBw.jpg",
+					"url": "https://t.co/TmmwaT14Sk",
+					"display_url": "pic.twitter.com/TmmwaT14Sk",
+					"expanded_url": "https://twitter.com/rissL/status/898421079156301825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 898421079156301800,
+					"source_status_id_str": "898421079156301825",
+					"source_user_id": 16400158,
+					"source_user_id_str": "16400158"
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4210,
+			"friends_count": 2981,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4851,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28681,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 18 05:47:31 +0000 2017",
+			"id": 898421079156301800,
+			"id_str": "898421079156301825",
+			"text": "This is very clever. Makes me think of how clever @mrkrndvs is! #digital17 https://t.co/TmmwaT14Sk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "digital17",
+						"indices": [
+							64,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							50,
+							59
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 898421054305058800,
+						"id_str": "898421054305058817",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/DHfVMFiVwAEItBw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHfVMFiVwAEItBw.jpg",
+						"url": "https://t.co/TmmwaT14Sk",
+						"display_url": "pic.twitter.com/TmmwaT14Sk",
+						"expanded_url": "https://twitter.com/rissL/status/898421079156301825/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 898421054305058800,
+						"id_str": "898421054305058817",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/DHfVMFiVwAEItBw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHfVMFiVwAEItBw.jpg",
+						"url": "https://t.co/TmmwaT14Sk",
+						"display_url": "pic.twitter.com/TmmwaT14Sk",
+						"expanded_url": "https://twitter.com/rissL/status/898421079156301825/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16400158,
+				"id_str": "16400158",
+				"name": "Narissa Leung",
+				"screen_name": "rissL",
+				"location": "Victoria, Australia",
+				"description": "Determined 2 help kids 2 become successful & contributing members of a global society. #becurious #bebrilliant #bethechange",
+				"url": "https://t.co/oChYvXm28Q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oChYvXm28Q",
+								"expanded_url": "http://mrsleung.edublogs.org",
+								"display_url": "mrsleung.edublogs.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2241,
+				"friends_count": 1323,
+				"listed_count": 98,
+				"created_at": "Mon Sep 22 05:19:13 +0000 2008",
+				"favourites_count": 1017,
+				"utc_offset": 36000,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3619,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783466268435152896/IKPOBZYw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783466268435152896/IKPOBZYw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16400158/1355532185",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "017453ae077eafd3",
+				"url": "https://api.twitter.com/1.1/geo/id/017453ae077eafd3.json",
+				"place_type": "city",
+				"name": "Gold Coast",
+				"full_name": "Gold Coast, Queensland",
+				"country_code": "AU",
+				"country": "Australia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								153.186551712,
+								-28.2003171475
+							],
+							[
+								153.552171232,
+								-28.2003171475
+							],
+							[
+								153.552171232,
+								-27.708126368
+							],
+							[
+								153.186551712,
+								-27.708126368
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 17 22:39:28 +0000 2017",
 		"id": 898313357127798800,
 		"id_str": "898313357127798785",
