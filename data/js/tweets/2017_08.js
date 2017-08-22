@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Tue Aug 22 10:43:41 +0000 2017",
+		"id": 899945160385024000,
+		"id_str": "899945160385024000",
+		"text": "RT @kathleen_morris: We'd love you to complete this quick poll about blogging obstacles. It doesn't matter if you're not blogging! #vicpln…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "vicpln",
+					"indices": [
+						131,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kathleen_morris",
+					"name": "Kathleen Morris",
+					"id": 23413264,
+					"id_str": "23413264",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4218,
+			"friends_count": 2982,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4856,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28694,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 22 10:38:50 +0000 2017",
+			"id": 899943942220853200,
+			"id_str": "899943942220853248",
+			"text": "We'd love you to complete this quick poll about blogging obstacles. It doesn't matter if you're not blogging!… https://t.co/wiePmYzwpt",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wiePmYzwpt",
+						"expanded_url": "https://twitter.com/i/web/status/899943942220853248",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23413264,
+				"id_str": "23413264",
+				"name": "Kathleen Morris",
+				"screen_name": "kathleen_morris",
+				"location": "Geelong, Australia",
+				"description": "Primary school teacher in Geelong, Australia. Passionate about technology, blogging and global collaboration. Currently on family leave.",
+				"url": "https://t.co/mZNchL0qEo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mZNchL0qEo",
+								"expanded_url": "http://primarytech.global2.vic.edu.au",
+								"display_url": "primarytech.global2.vic.edu.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7261,
+				"friends_count": 4020,
+				"listed_count": 322,
+				"created_at": "Mon Mar 09 07:40:02 +0000 2009",
+				"favourites_count": 47,
+				"utc_offset": 36000,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9671,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/894806075861377024/tmVWC9dA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/894806075861377024/tmVWC9dA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23413264/1502189258",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 899786365193158700,
+			"quoted_status_id_str": "899786365193158656",
+			"quoted_status": {
+				"created_at": "Tue Aug 22 00:12:41 +0000 2017",
+				"id": 899786365193158700,
+				"id_str": "899786365193158656",
+				"text": "What are your blogging obstacles? Pls help us by completing a quick poll! https://t.co/CgD9Y0AVcS #edtech #edchat",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "edtech",
+							"indices": [
+								98,
+								105
+							]
+						},
+						{
+							"text": "edchat",
+							"indices": [
+								106,
+								113
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/CgD9Y0AVcS",
+							"expanded_url": "https://www.theedublogger.com/2017/08/21/poll-what-blogging-obstacles-do-you-face/",
+							"display_url": "theedublogger.com/2017/08/21/pol…",
+							"indices": [
+								74,
+								97
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 14091545,
+					"id_str": "14091545",
+					"name": "edublogs",
+					"screen_name": "edublogs",
+					"location": "Australia",
+					"description": "We are the easiest, safest and most powerful educational blogging platform with over 4 million blogs and counting! Check out https://t.co/V5oDMNUCQB too.",
+					"url": "http://t.co/5jEa8hIjgx",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/5jEa8hIjgx",
+									"expanded_url": "http://edublogs.org",
+									"display_url": "edublogs.org",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/V5oDMNUCQB",
+									"expanded_url": "http://CampusPress.com",
+									"display_url": "CampusPress.com",
+									"indices": [
+										125,
+										148
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 40576,
+					"friends_count": 8860,
+					"listed_count": 1548,
+					"created_at": "Thu Mar 06 21:39:49 +0000 2008",
+					"favourites_count": 312,
+					"utc_offset": 36000,
+					"time_zone": "Melbourne",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 10306,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "B4E9F3",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/130366107/edu_tweet5.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/130366107/edu_tweet5.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/378800000740807023/3bea1fd759cd71106768e9e97619aa55_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000740807023/3bea1fd759cd71106768e9e97619aa55_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/14091545/1502335295",
+					"profile_link_color": "00C8FF",
+					"profile_sidebar_border_color": "AFE1EC",
+					"profile_sidebar_fill_color": "E3F7FB",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 899786365193158700,
+		"quoted_status_id_str": "899786365193158656",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 21 11:37:32 +0000 2017",
 		"id": 899596324768813000,
 		"id_str": "899596324768813060",
