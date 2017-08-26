@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sat Aug 26 05:05:07 +0000 2017",
+		"id": 901309509733277700,
+		"id_str": "901309509733277696",
+		"text": "RT @Obi_Jon_: Singaporean Education Minister: 'we've been winning the wrong race' https://t.co/D7Lr1XJ4Ez https://t.co/TkAnnP9KVh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Obi_Jon_",
+					"name": "Jon Andrews",
+					"id": 817918164,
+					"id_str": "817918164",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/D7Lr1XJ4Ez",
+					"expanded_url": "https://au.educationhq.com/news/41377/the-pisa-fallacy-in-singapore-insights-from-the-nie/#",
+					"display_url": "au.educationhq.com/news/41377/the…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 901184501107142700,
+					"id_str": "901184501107142656",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DIGmh3GUMAA5P0K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIGmh3GUMAA5P0K.jpg",
+					"url": "https://t.co/TkAnnP9KVh",
+					"display_url": "pic.twitter.com/TkAnnP9KVh",
+					"expanded_url": "https://twitter.com/Obi_Jon_/status/901184515086761988/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 885,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1295,
+							"h": 955,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 901184515086762000,
+					"source_status_id_str": "901184515086761988",
+					"source_user_id": 817918164,
+					"source_user_id_str": "817918164"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 901184501107142700,
+					"id_str": "901184501107142656",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DIGmh3GUMAA5P0K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIGmh3GUMAA5P0K.jpg",
+					"url": "https://t.co/TkAnnP9KVh",
+					"display_url": "pic.twitter.com/TkAnnP9KVh",
+					"expanded_url": "https://twitter.com/Obi_Jon_/status/901184515086761988/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 885,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1295,
+							"h": 955,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 901184515086762000,
+					"source_status_id_str": "901184515086761988",
+					"source_user_id": 817918164,
+					"source_user_id_str": "817918164"
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4230,
+			"friends_count": 2982,
+			"listed_count": 398,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4860,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28719,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 25 20:48:26 +0000 2017",
+			"id": 901184515086762000,
+			"id_str": "901184515086761988",
+			"text": "Singaporean Education Minister: 'we've been winning the wrong race' https://t.co/D7Lr1XJ4Ez https://t.co/TkAnnP9KVh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/D7Lr1XJ4Ez",
+						"expanded_url": "https://au.educationhq.com/news/41377/the-pisa-fallacy-in-singapore-insights-from-the-nie/#",
+						"display_url": "au.educationhq.com/news/41377/the…",
+						"indices": [
+							68,
+							91
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 901184501107142700,
+						"id_str": "901184501107142656",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/DIGmh3GUMAA5P0K.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIGmh3GUMAA5P0K.jpg",
+						"url": "https://t.co/TkAnnP9KVh",
+						"display_url": "pic.twitter.com/TkAnnP9KVh",
+						"expanded_url": "https://twitter.com/Obi_Jon_/status/901184515086761988/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 501,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 885,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1295,
+								"h": 955,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 901184501107142700,
+						"id_str": "901184501107142656",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/DIGmh3GUMAA5P0K.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIGmh3GUMAA5P0K.jpg",
+						"url": "https://t.co/TkAnnP9KVh",
+						"display_url": "pic.twitter.com/TkAnnP9KVh",
+						"expanded_url": "https://twitter.com/Obi_Jon_/status/901184515086761988/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 501,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 885,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1295,
+								"h": 955,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 817918164,
+				"id_str": "817918164",
+				"name": "Jon Andrews",
+				"screen_name": "Obi_Jon_",
+				"location": "",
+				"description": "Director of Teaching, Learning and Research, Brisbane. Views are my own.",
+				"url": "https://t.co/PnHWGwWrvl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PnHWGwWrvl",
+								"expanded_url": "https://jonandrews.edublogs.org",
+								"display_url": "jonandrews.edublogs.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5086,
+				"friends_count": 502,
+				"listed_count": 184,
+				"created_at": "Tue Sep 11 18:21:31 +0000 2012",
+				"favourites_count": 9575,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10985,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885024766935142400/Mr8X0YyX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885024766935142400/Mr8X0YyX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/817918164/1497737656",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 25 20:17:53 +0000 2017",
 		"id": 901176829792239600,
 		"id_str": "901176829792239616",
