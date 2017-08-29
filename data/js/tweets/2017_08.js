@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Tue Aug 29 02:11:38 +0000 2017",
+		"id": 902353014958071800,
+		"id_str": "902353014958071809",
+		"text": "@jsiegl @funnymonkey @YouTube is really confusing area",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jsiegl",
+					"name": "Jim Siegl",
+					"id": 15346685,
+					"id_str": "15346685",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "funnymonkey",
+					"name": "Bill Fitzgerald",
+					"id": 12127972,
+					"id_str": "12127972",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						21,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 902351603491065900,
+		"in_reply_to_status_id_str": "902351603491065860",
+		"in_reply_to_user_id": 15346685,
+		"in_reply_to_user_id_str": "15346685",
+		"in_reply_to_screen_name": "jsiegl",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4232,
+			"friends_count": 2983,
+			"listed_count": 398,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4864,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28750,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 29 02:05:33 +0000 2017",
+		"id": 902351485735903200,
+		"id_str": "902351485735903232",
+		"text": "RT @funnymonkey: This is the authoritative response, @mrkrndvs https://t.co/3qUlxcnnZ7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "funnymonkey",
+					"name": "Bill Fitzgerald",
+					"id": 12127972,
+					"id_str": "12127972",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						53,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3qUlxcnnZ7",
+					"expanded_url": "https://twitter.com/jsiegl/status/902345351981666304",
+					"display_url": "twitter.com/jsiegl/status/…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4232,
+			"friends_count": 2983,
+			"listed_count": 398,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4864,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28750,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 29 01:46:08 +0000 2017",
+			"id": 902346597228412900,
+			"id_str": "902346597228412929",
+			"text": "This is the authoritative response, @mrkrndvs https://t.co/3qUlxcnnZ7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							36,
+							45
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3qUlxcnnZ7",
+						"expanded_url": "https://twitter.com/jsiegl/status/902345351981666304",
+						"display_url": "twitter.com/jsiegl/status/…",
+						"indices": [
+							46,
+							69
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12127972,
+				"id_str": "12127972",
+				"name": "Bill Fitzgerald",
+				"screen_name": "funnymonkey",
+				"location": "",
+				"description": "Privacy, Open Source/Content, #educolor - Personal Acc't. Education is a social justice issue.",
+				"url": "http://t.co/XCfPKFruVt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/XCfPKFruVt",
+								"expanded_url": "http://funnymonkey.com",
+								"display_url": "funnymonkey.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5775,
+				"friends_count": 4268,
+				"listed_count": 558,
+				"created_at": "Fri Jan 11 19:38:54 +0000 2008",
+				"favourites_count": 1579,
+				"utc_offset": -25200,
+				"time_zone": "America/Los_Angeles",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1215,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "59472F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453322798857863168/ulolasXE.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453322798857863168/ulolasXE.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3562182429/fbe51684bf51c56b3aa6f94dbb2404f3_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3562182429/fbe51684bf51c56b3aa6f94dbb2404f3_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12127972/1398229690",
+				"profile_link_color": "52555C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "061127",
+				"profile_text_color": "827972",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 902345351981666300,
+			"quoted_status_id_str": "902345351981666304",
+			"quoted_status": {
+				"created_at": "Tue Aug 29 01:41:11 +0000 2017",
+				"id": 902345351981666300,
+				"id_str": "902345351981666304",
+				"text": "@funnymonkey Schools MUST get parent permission AND ensure use is FERPA compliant-See https://t.co/pw4BXxLoYX also… https://t.co/55xgAYICj2",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "funnymonkey",
+							"name": "Bill Fitzgerald",
+							"id": 12127972,
+							"id_str": "12127972",
+							"indices": [
+								0,
+								12
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/pw4BXxLoYX",
+							"expanded_url": "https://k12cloudlearning.wordpress.com/2016/06/",
+							"display_url": "k12cloudlearning.wordpress.com/2016/06/",
+							"indices": [
+								86,
+								109
+							]
+						},
+						{
+							"url": "https://t.co/55xgAYICj2",
+							"expanded_url": "https://twitter.com/i/web/status/902345351981666304",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": 902279606543147000,
+				"in_reply_to_status_id_str": "902279606543147012",
+				"in_reply_to_user_id": 12127972,
+				"in_reply_to_user_id_str": "12127972",
+				"in_reply_to_screen_name": "funnymonkey",
+				"user": {
+					"id": 15346685,
+					"id_str": "15346685",
+					"name": "Jim Siegl",
+					"screen_name": "jsiegl",
+					"location": "",
+					"description": "Technology Architect at large suburban school district.***Views are my own*** Emerging Technologies, Privacy, Cloud , Mobile, Identity",
+					"url": "https://t.co/DUvdIL4Ads",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/DUvdIL4Ads",
+									"expanded_url": "https://k12cloudlearning.wordpress.com/",
+									"display_url": "k12cloudlearning.wordpress.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 450,
+					"friends_count": 816,
+					"listed_count": 27,
+					"created_at": "Mon Jul 07 21:25:04 +0000 2008",
+					"favourites_count": 2100,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 365,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1050184990/me2_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050184990/me2_normal.jpg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 902345351981666300,
+		"quoted_status_id_str": "902345351981666304",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 28 22:03:03 +0000 2017",
 		"id": 902290456507170800,
 		"id_str": "902290456507170816",
