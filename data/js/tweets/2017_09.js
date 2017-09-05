@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 05 05:49:50 +0000 2017",
+		"id": 904944642956726300,
+		"id_str": "904944642956726272",
+		"text": "RT @langwitches: Blogging is NOT an activity, but a process! #blogging #learning #metagognition https://t.co/TL9HiAqvIg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "blogging",
+					"indices": [
+						61,
+						70
+					]
+				},
+				{
+					"text": "learning",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"text": "metagognition",
+					"indices": [
+						81,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "langwitches",
+					"name": "Silvia Tolisano",
+					"id": 5763052,
+					"id_str": "5763052",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 903393352439054300,
+					"id_str": "903393352439054336",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DIl_d7iUQAAtFQA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIl_d7iUQAAtFQA.jpg",
+					"url": "https://t.co/TL9HiAqvIg",
+					"display_url": "pic.twitter.com/TL9HiAqvIg",
+					"expanded_url": "https://twitter.com/langwitches/status/903393354989264896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1012,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1012,
+							"h": 506,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 903393354989264900,
+					"source_status_id_str": "903393354989264896",
+					"source_user_id": 5763052,
+					"source_user_id_str": "5763052"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 903393352439054300,
+					"id_str": "903393352439054336",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DIl_d7iUQAAtFQA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIl_d7iUQAAtFQA.jpg",
+					"url": "https://t.co/TL9HiAqvIg",
+					"display_url": "pic.twitter.com/TL9HiAqvIg",
+					"expanded_url": "https://twitter.com/langwitches/status/903393354989264896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1012,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1012,
+							"h": 506,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 903393354989264900,
+					"source_status_id_str": "903393354989264896",
+					"source_user_id": 5763052,
+					"source_user_id_str": "5763052"
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4237,
+			"friends_count": 2984,
+			"listed_count": 398,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4871,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28827,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 31 23:05:34 +0000 2017",
+			"id": 903393354989264900,
+			"id_str": "903393354989264896",
+			"text": "Blogging is NOT an activity, but a process! #blogging #learning #metagognition https://t.co/TL9HiAqvIg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "blogging",
+						"indices": [
+							44,
+							53
+						]
+					},
+					{
+						"text": "learning",
+						"indices": [
+							54,
+							63
+						]
+					},
+					{
+						"text": "metagognition",
+						"indices": [
+							64,
+							78
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 903393352439054300,
+						"id_str": "903393352439054336",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DIl_d7iUQAAtFQA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIl_d7iUQAAtFQA.jpg",
+						"url": "https://t.co/TL9HiAqvIg",
+						"display_url": "pic.twitter.com/TL9HiAqvIg",
+						"expanded_url": "https://twitter.com/langwitches/status/903393354989264896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1012,
+								"h": 506,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1012,
+								"h": 506,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 903393352439054300,
+						"id_str": "903393352439054336",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DIl_d7iUQAAtFQA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIl_d7iUQAAtFQA.jpg",
+						"url": "https://t.co/TL9HiAqvIg",
+						"display_url": "pic.twitter.com/TL9HiAqvIg",
+						"expanded_url": "https://twitter.com/langwitches/status/903393354989264896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1012,
+								"h": 506,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1012,
+								"h": 506,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://postplanner.com\" rel=\"nofollow\">Post Planner Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5763052,
+				"id_str": "5763052",
+				"name": "Silvia Tolisano",
+				"screen_name": "langwitches",
+				"location": "USA-Argentina-Germany",
+				"description": "Educational Coach & Mentor: Modern Learning - Globally Connected Learning- The Amplified Classroom- #documenting4learning #heutagogy #amplifiEDU",
+				"url": "https://t.co/ytf57GM8Rc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ytf57GM8Rc",
+								"expanded_url": "http://www.langwitches.org/blog",
+								"display_url": "langwitches.org/blog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27239,
+				"friends_count": 8841,
+				"listed_count": 1621,
+				"created_at": "Fri May 04 10:21:00 +0000 2007",
+				"favourites_count": 1474,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19931,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "465887",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2173992/background2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2173992/background2.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839552711104159744/NaLuJW2d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839552711104159744/NaLuJW2d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5763052/1398214323",
+				"profile_link_color": "445978",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "90A9D0",
+				"profile_text_color": "211717",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 05 03:01:33 +0000 2017",
 		"id": 904902292104732700,
 		"id_str": "904902292104732673",
