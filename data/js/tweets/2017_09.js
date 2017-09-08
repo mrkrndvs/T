@@ -1,6 +1,780 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Fri Sep 08 21:00:26 +0000 2017",
+		"id": 906260968107262000,
+		"id_str": "906260968107261952",
+		"text": "RT @jcorippo: @lynhilt @mrkrndvs @debsnet @CmunroOz @SteveBrophy3 @stringer_andrea @mesterman @timbuckteeth @stewarthase True! I'm a fan of…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jcorippo",
+					"name": "jcorippo ",
+					"id": 14080892,
+					"id_str": "14080892",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "lynhilt",
+					"name": "Lyn Hilt",
+					"id": 30096634,
+					"id_str": "30096634",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"screen_name": "debsnet",
+					"name": "Dr Deborah Netolicky",
+					"id": 88375038,
+					"id_str": "88375038",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"screen_name": "CmunroOz",
+					"name": "Chris Munro",
+					"id": 476340029,
+					"id_str": "476340029",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"screen_name": "SteveBrophy3",
+					"name": "Steve Brophy",
+					"id": 827898170,
+					"id_str": "827898170",
+					"indices": [
+						52,
+						65
+					]
+				},
+				{
+					"screen_name": "stringer_andrea",
+					"name": "Andrea Stringer 🇦🇺",
+					"id": 585586447,
+					"id_str": "585586447",
+					"indices": [
+						66,
+						82
+					]
+				},
+				{
+					"screen_name": "mesterman",
+					"name": "Matt Esterman",
+					"id": 14906194,
+					"id_str": "14906194",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"screen_name": "timbuckteeth",
+					"name": "Steve Wheeler",
+					"id": 11435832,
+					"id_str": "11435832",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "stewarthase",
+					"name": "Stewart Hase",
+					"id": 29968988,
+					"id_str": "29968988",
+					"indices": [
+						108,
+						120
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4245,
+			"friends_count": 2984,
+			"listed_count": 398,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4836,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28835,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 08 16:55:58 +0000 2017",
+			"id": 906199445146001400,
+			"id_str": "906199445146001409",
+			"text": "@lynhilt @mrkrndvs @debsnet @CmunroOz @SteveBrophy3 @stringer_andrea @mesterman @timbuckteeth @stewarthase True! I'… https://t.co/Z0AxMc0BYS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "lynhilt",
+						"name": "Lyn Hilt",
+						"id": 30096634,
+						"id_str": "30096634",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							9,
+							18
+						]
+					},
+					{
+						"screen_name": "debsnet",
+						"name": "Dr Deborah Netolicky",
+						"id": 88375038,
+						"id_str": "88375038",
+						"indices": [
+							19,
+							27
+						]
+					},
+					{
+						"screen_name": "CmunroOz",
+						"name": "Chris Munro",
+						"id": 476340029,
+						"id_str": "476340029",
+						"indices": [
+							28,
+							37
+						]
+					},
+					{
+						"screen_name": "SteveBrophy3",
+						"name": "Steve Brophy",
+						"id": 827898170,
+						"id_str": "827898170",
+						"indices": [
+							38,
+							51
+						]
+					},
+					{
+						"screen_name": "stringer_andrea",
+						"name": "Andrea Stringer 🇦🇺",
+						"id": 585586447,
+						"id_str": "585586447",
+						"indices": [
+							52,
+							68
+						]
+					},
+					{
+						"screen_name": "mesterman",
+						"name": "Matt Esterman",
+						"id": 14906194,
+						"id_str": "14906194",
+						"indices": [
+							69,
+							79
+						]
+					},
+					{
+						"screen_name": "timbuckteeth",
+						"name": "Steve Wheeler",
+						"id": 11435832,
+						"id_str": "11435832",
+						"indices": [
+							80,
+							93
+						]
+					},
+					{
+						"screen_name": "stewarthase",
+						"name": "Stewart Hase",
+						"id": 29968988,
+						"id_str": "29968988",
+						"indices": [
+							94,
+							106
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Z0AxMc0BYS",
+						"expanded_url": "https://twitter.com/i/web/status/906199445146001409",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 906191673188905000,
+			"in_reply_to_status_id_str": "906191673188904961",
+			"in_reply_to_user_id": 30096634,
+			"in_reply_to_user_id_str": "30096634",
+			"in_reply_to_screen_name": "lynhilt",
+			"user": {
+				"id": 14080892,
+				"id_str": "14080892",
+				"name": "jcorippo ",
+				"screen_name": "jcorippo",
+				"location": "CA, USA",
+				"description": "CUE Interim Exec Dir. Creator: CUE Rock Star. CUE BOLD. Co-Founder Minarets HS, EdCamp Yosemite. #cuerockstar Tweets are my own.",
+				"url": "https://t.co/HUAktLAPD2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HUAktLAPD2",
+								"expanded_url": "http://CUE.org/jcorippo",
+								"display_url": "CUE.org/jcorippo",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19444,
+				"friends_count": 7460,
+				"listed_count": 1141,
+				"created_at": "Wed Mar 05 00:49:09 +0000 2008",
+				"favourites_count": 51382,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 82912,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/584466661702369281/oeM9WxQg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/584466661702369281/oeM9WxQg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14080892/1476847886",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 08 21:00:07 +0000 2017",
+		"id": 906260886477652000,
+		"id_str": "906260886477651968",
+		"text": "RT @lynhilt: @mrkrndvs @debsnet @CmunroOz @SteveBrophy3 @jcorippo @stringer_andrea @mesterman @timbuckteeth @stewarthase but not making Ts…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lynhilt",
+					"name": "Lyn Hilt",
+					"id": 30096634,
+					"id_str": "30096634",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"screen_name": "debsnet",
+					"name": "Dr Deborah Netolicky",
+					"id": 88375038,
+					"id_str": "88375038",
+					"indices": [
+						23,
+						31
+					]
+				},
+				{
+					"screen_name": "CmunroOz",
+					"name": "Chris Munro",
+					"id": 476340029,
+					"id_str": "476340029",
+					"indices": [
+						32,
+						41
+					]
+				},
+				{
+					"screen_name": "SteveBrophy3",
+					"name": "Steve Brophy",
+					"id": 827898170,
+					"id_str": "827898170",
+					"indices": [
+						42,
+						55
+					]
+				},
+				{
+					"screen_name": "jcorippo",
+					"name": "jcorippo ",
+					"id": 14080892,
+					"id_str": "14080892",
+					"indices": [
+						56,
+						65
+					]
+				},
+				{
+					"screen_name": "stringer_andrea",
+					"name": "Andrea Stringer 🇦🇺",
+					"id": 585586447,
+					"id_str": "585586447",
+					"indices": [
+						66,
+						82
+					]
+				},
+				{
+					"screen_name": "mesterman",
+					"name": "Matt Esterman",
+					"id": 14906194,
+					"id_str": "14906194",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"screen_name": "timbuckteeth",
+					"name": "Steve Wheeler",
+					"id": 11435832,
+					"id_str": "11435832",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "stewarthase",
+					"name": "Stewart Hase",
+					"id": 29968988,
+					"id_str": "29968988",
+					"indices": [
+						108,
+						120
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4245,
+			"friends_count": 2984,
+			"listed_count": 398,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4836,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28835,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 08 16:25:05 +0000 2017",
+			"id": 906191673188905000,
+			"id_str": "906191673188904961",
+			"text": "@mrkrndvs @debsnet @CmunroOz @SteveBrophy3 @jcorippo @stringer_andrea @mesterman @timbuckteeth @stewarthase but not… https://t.co/FfzVBPVAfZ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "debsnet",
+						"name": "Dr Deborah Netolicky",
+						"id": 88375038,
+						"id_str": "88375038",
+						"indices": [
+							10,
+							18
+						]
+					},
+					{
+						"screen_name": "CmunroOz",
+						"name": "Chris Munro",
+						"id": 476340029,
+						"id_str": "476340029",
+						"indices": [
+							19,
+							28
+						]
+					},
+					{
+						"screen_name": "SteveBrophy3",
+						"name": "Steve Brophy",
+						"id": 827898170,
+						"id_str": "827898170",
+						"indices": [
+							29,
+							42
+						]
+					},
+					{
+						"screen_name": "jcorippo",
+						"name": "jcorippo ",
+						"id": 14080892,
+						"id_str": "14080892",
+						"indices": [
+							43,
+							52
+						]
+					},
+					{
+						"screen_name": "stringer_andrea",
+						"name": "Andrea Stringer 🇦🇺",
+						"id": 585586447,
+						"id_str": "585586447",
+						"indices": [
+							53,
+							69
+						]
+					},
+					{
+						"screen_name": "mesterman",
+						"name": "Matt Esterman",
+						"id": 14906194,
+						"id_str": "14906194",
+						"indices": [
+							70,
+							80
+						]
+					},
+					{
+						"screen_name": "timbuckteeth",
+						"name": "Steve Wheeler",
+						"id": 11435832,
+						"id_str": "11435832",
+						"indices": [
+							81,
+							94
+						]
+					},
+					{
+						"screen_name": "stewarthase",
+						"name": "Stewart Hase",
+						"id": 29968988,
+						"id_str": "29968988",
+						"indices": [
+							95,
+							107
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/FfzVBPVAfZ",
+						"expanded_url": "https://twitter.com/i/web/status/906191673188904961",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 905939145800826900,
+			"in_reply_to_status_id_str": "905939145800826880",
+			"in_reply_to_user_id": 372768752,
+			"in_reply_to_user_id_str": "372768752",
+			"in_reply_to_screen_name": "mrkrndvs",
+			"user": {
+				"id": 30096634,
+				"id_str": "30096634",
+				"name": "Lyn Hilt",
+				"screen_name": "lynhilt",
+				"location": "PA",
+				"description": "Wife & mom, Leadership & ed tech consultant; Google for Education Certified Trainer, Former K-6 principal, tech coach & teacher https://t.co/PWMxsXgRQ5",
+				"url": "https://t.co/PY3GKBAowx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PY3GKBAowx",
+								"expanded_url": "http://about.me/lynhilt",
+								"display_url": "about.me/lynhilt",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/PWMxsXgRQ5",
+								"expanded_url": "http://lynhilt.com",
+								"display_url": "lynhilt.com",
+								"indices": [
+									128,
+									151
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 21826,
+				"friends_count": 4131,
+				"listed_count": 1166,
+				"created_at": "Thu Apr 09 23:30:01 +0000 2009",
+				"favourites_count": 2435,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 27756,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446721049430732800/B4F1Wyav.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446721049430732800/B4F1Wyav.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3530070241/22dbb852a03837c34bad0c35cf238825_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3530070241/22dbb852a03837c34bad0c35cf238825_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30096634/1503289122",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 08 04:12:56 +0000 2017",
 		"id": 906007420907864000,
 		"id_str": "906007420907864064",
