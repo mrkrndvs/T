@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Fri Sep 15 07:55:32 +0000 2017",
+		"id": 908600153115844600,
+		"id_str": "908600153115844608",
+		"text": "RT @ABCthedrum: \"If you want to shift standards, you don't concentrate on literacy or numeracy. You concentrate on student wellbeing\" #TheD…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ABCthedrum",
+					"name": "ABC The Drum",
+					"id": 95064543,
+					"id_str": "95064543",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4246,
+			"friends_count": 2989,
+			"listed_count": 398,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4847,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28941,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 15 07:50:54 +0000 2017",
+			"id": 908598989947207700,
+			"id_str": "908598989947207681",
+			"text": "\"If you want to shift standards, you don't concentrate on literacy or numeracy. You concentrate on student wellbein… https://t.co/fXF71a1aCO",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fXF71a1aCO",
+						"expanded_url": "https://twitter.com/i/web/status/908598989947207681",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95064543,
+				"id_str": "95064543",
+				"name": "ABC The Drum",
+				"screen_name": "ABCthedrum",
+				"location": "Australia",
+				"description": "Views on the news | Mon-Fri 5.30pm ABC TV & 6.30pm AEDT ABC News | This is an official @ABCaustralia account",
+				"url": "https://t.co/dJYyUeNOaI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dJYyUeNOaI",
+								"expanded_url": "http://facebook.com/abcthedrum/",
+								"display_url": "facebook.com/abcthedrum/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 137308,
+				"friends_count": 807,
+				"listed_count": 2046,
+				"created_at": "Sun Dec 06 20:16:11 +0000 2009",
+				"favourites_count": 598,
+				"utc_offset": 36000,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 29804,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/376078774/drum-twitter-background.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/376078774/drum-twitter-background.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/463498447979417600/g6hbkKh0_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/463498447979417600/g6hbkKh0_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95064543/1468992019",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 14 23:54:39 +0000 2017",
 		"id": 908479138083700700,
 		"id_str": "908479138083700736",
