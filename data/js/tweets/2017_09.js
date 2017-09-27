@@ -1,6 +1,543 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Wed Sep 27 21:16:37 +0000 2017",
+		"id": 913150409253859300,
+		"id_str": "913150409253859328",
+		"text": "RT @jedjnr: Inspiring to know there r ppl leading educ reform like @tempcol #ec17 #aussieEd @TimOsborne71 @mrkrndvs @EduSum @loukaparry @mr…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ec17",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "aussieEd",
+					"indices": [
+						82,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jedjnr",
+					"name": "Justin Hill",
+					"id": 775260667825655800,
+					"id_str": "775260667825655808",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "Tempcol",
+					"name": "Peter Hutton",
+					"id": 1637363858,
+					"id_str": "1637363858",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"screen_name": "TimOsborne71",
+					"name": "Tim Osborne",
+					"id": 122890363,
+					"id_str": "122890363",
+					"indices": [
+						92,
+						105
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						106,
+						115
+					]
+				},
+				{
+					"screen_name": "EduSum",
+					"name": "Summer Howarth",
+					"id": 136169487,
+					"id_str": "136169487",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"screen_name": "loukaparry",
+					"name": "Louka Parry",
+					"id": 195590957,
+					"id_str": "195590957",
+					"indices": [
+						124,
+						135
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4259,
+			"friends_count": 2996,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4859,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29072,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 27 19:36:07 +0000 2017",
+			"id": 913125116418039800,
+			"id_str": "913125116418039809",
+			"text": "Inspiring to know there r ppl leading educ reform like @tempcol #ec17 #aussieEd @TimOsborne71 @mrkrndvs @EduSum… https://t.co/ZnyfGjGZT9",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ec17",
+						"indices": [
+							64,
+							69
+						]
+					},
+					{
+						"text": "aussieEd",
+						"indices": [
+							70,
+							79
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Tempcol",
+						"name": "Peter Hutton",
+						"id": 1637363858,
+						"id_str": "1637363858",
+						"indices": [
+							55,
+							63
+						]
+					},
+					{
+						"screen_name": "TimOsborne71",
+						"name": "Tim Osborne",
+						"id": 122890363,
+						"id_str": "122890363",
+						"indices": [
+							80,
+							93
+						]
+					},
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							94,
+							103
+						]
+					},
+					{
+						"screen_name": "EduSum",
+						"name": "Summer Howarth",
+						"id": 136169487,
+						"id_str": "136169487",
+						"indices": [
+							104,
+							111
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ZnyfGjGZT9",
+						"expanded_url": "https://twitter.com/i/web/status/913125116418039809",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 775260667825655800,
+				"id_str": "775260667825655808",
+				"name": "Justin Hill",
+				"screen_name": "jedjnr",
+				"location": "Brisbane, Queensland",
+				"description": "Design minds Ambassador. Design Thinking & Innovation. Passionate about introducing Design Thinking to Ss as early as possible! #juniorschooldesign",
+				"url": "https://t.co/axdbePRjb2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/axdbePRjb2",
+								"expanded_url": "http://juniorschooldesign.blogspot.com.au/",
+								"display_url": "juniorschooldesign.blogspot.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 372,
+				"friends_count": 478,
+				"listed_count": 10,
+				"created_at": "Mon Sep 12 09:12:01 +0000 2016",
+				"favourites_count": 2354,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 667,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/857828848808873984/HFEFqCZc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/857828848808873984/HFEFqCZc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/775260667825655808/1502444536",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01864a8a64df9dc4",
+				"url": "https://api.twitter.com/1.1/geo/id/01864a8a64df9dc4.json",
+				"place_type": "city",
+				"name": "Melbourne",
+				"full_name": "Melbourne, Victoria",
+				"country_code": "AU",
+				"country": "Australia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								144.593741856,
+								-38.433859306
+							],
+							[
+								145.512528832,
+								-38.433859306
+							],
+							[
+								145.512528832,
+								-37.5112737225
+							],
+							[
+								144.593741856,
+								-37.5112737225
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 912827192228307000,
+			"quoted_status_id_str": "912827192228306945",
+			"quoted_status": {
+				"created_at": "Tue Sep 26 23:52:16 +0000 2017",
+				"id": 912827192228307000,
+				"id_str": "912827192228306945",
+				"text": "Someone has to start the revolution! Peter Hutton has just put his hand up and his helmet on #educhange https://t.co/z4SUb9g2v1",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "educhange",
+							"indices": [
+								93,
+								103
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 912827163287593000,
+							"id_str": "912827163287592960",
+							"indices": [
+								104,
+								127
+							],
+							"media_url": "http://pbs.twimg.com/media/DKsDd_kVoAA5KNm.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DKsDd_kVoAA5KNm.jpg",
+							"url": "https://t.co/z4SUb9g2v1",
+							"display_url": "pic.twitter.com/z4SUb9g2v1",
+							"expanded_url": "https://twitter.com/brettmaverick63/status/912827192228306945/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 900,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1536,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 510,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 912827163287593000,
+							"id_str": "912827163287592960",
+							"indices": [
+								104,
+								127
+							],
+							"media_url": "http://pbs.twimg.com/media/DKsDd_kVoAA5KNm.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DKsDd_kVoAA5KNm.jpg",
+							"url": "https://t.co/z4SUb9g2v1",
+							"display_url": "pic.twitter.com/z4SUb9g2v1",
+							"expanded_url": "https://twitter.com/brettmaverick63/status/912827192228306945/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 900,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1536,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 510,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3270835778,
+					"id_str": "3270835778",
+					"name": "Brett Wood",
+					"screen_name": "brettmaverick63",
+					"location": "Brisbane, Queensland",
+					"description": "education | engagement | inclusivity | young people | music | art | sport | Education Leader | Views are my own | retweets are not endorsements",
+					"url": "http://t.co/Fn9S0wJOqK",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/Fn9S0wJOqK",
+									"expanded_url": "http://mic.org.au",
+									"display_url": "mic.org.au",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 390,
+					"friends_count": 598,
+					"listed_count": 9,
+					"created_at": "Tue Jul 07 09:18:58 +0000 2015",
+					"favourites_count": 3171,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 1498,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/621251766663823360/9ep87h-6_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/621251766663823360/9ep87h-6_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3270835778/1436262328",
+					"profile_link_color": "4A913C",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 6,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 912827192228307000,
+		"quoted_status_id_str": "912827192228306945",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 27 10:53:58 +0000 2017",
 		"id": 912993711960633300,
 		"id_str": "912993711960633345",
