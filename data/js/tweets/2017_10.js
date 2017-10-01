@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Sun Oct 01 22:38:01 +0000 2017",
+		"id": 914620442777854000,
+		"id_str": "914620442777853952",
+		"text": "RT @TERPodcast: TER #100 – TeachMeet TER 100! – 1 Oct 2017\n\nhttps://t.co/ff2oaLpI2j https://t.co/HTmmhClVrH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TERPodcast",
+					"name": "TER Podcast",
+					"id": 1590760676,
+					"id_str": "1590760676",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ff2oaLpI2j",
+					"expanded_url": "http://terpodcast.com/2017/10/01/ter-100-teachmeet-ter-100-1-oct-2017/",
+					"display_url": "terpodcast.com/2017/10/01/ter…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 914475235839111200,
+					"id_str": "914475235839111168",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/DLDeYcQU8AA9blm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLDeYcQU8AA9blm.jpg",
+					"url": "https://t.co/HTmmhClVrH",
+					"display_url": "pic.twitter.com/HTmmhClVrH",
+					"expanded_url": "https://twitter.com/TERPodcast/status/914475950057848832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1308,
+							"h": 656,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 602,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 341,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 914475950057848800,
+					"source_status_id_str": "914475950057848832",
+					"source_user_id": 1590760676,
+					"source_user_id_str": "1590760676"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 914475235839111200,
+					"id_str": "914475235839111168",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/DLDeYcQU8AA9blm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLDeYcQU8AA9blm.jpg",
+					"url": "https://t.co/HTmmhClVrH",
+					"display_url": "pic.twitter.com/HTmmhClVrH",
+					"expanded_url": "https://twitter.com/TERPodcast/status/914475950057848832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1308,
+							"h": 656,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 602,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 341,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 914475950057848800,
+					"source_status_id_str": "914475950057848832",
+					"source_user_id": 1590760676,
+					"source_user_id_str": "1590760676"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4252,
+			"friends_count": 2998,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4857,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29104,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 01 13:03:51 +0000 2017",
+			"id": 914475950057848800,
+			"id_str": "914475950057848832",
+			"text": "TER #100 – TeachMeet TER 100! – 1 Oct 2017\n\nhttps://t.co/ff2oaLpI2j https://t.co/HTmmhClVrH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ff2oaLpI2j",
+						"expanded_url": "http://terpodcast.com/2017/10/01/ter-100-teachmeet-ter-100-1-oct-2017/",
+						"display_url": "terpodcast.com/2017/10/01/ter…",
+						"indices": [
+							44,
+							67
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 914475235839111200,
+						"id_str": "914475235839111168",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/DLDeYcQU8AA9blm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLDeYcQU8AA9blm.jpg",
+						"url": "https://t.co/HTmmhClVrH",
+						"display_url": "pic.twitter.com/HTmmhClVrH",
+						"expanded_url": "https://twitter.com/TERPodcast/status/914475950057848832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1308,
+								"h": 656,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 602,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 341,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 914475235839111200,
+						"id_str": "914475235839111168",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/DLDeYcQU8AA9blm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLDeYcQU8AA9blm.jpg",
+						"url": "https://t.co/HTmmhClVrH",
+						"display_url": "pic.twitter.com/HTmmhClVrH",
+						"expanded_url": "https://twitter.com/TERPodcast/status/914475950057848832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1308,
+								"h": 656,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 602,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 341,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1590760676,
+				"id_str": "1590760676",
+				"name": "TER Podcast",
+				"screen_name": "TERPodcast",
+				"location": "Australia",
+				"description": "Teacher's Education Review, Australian podcast for teachers, bridging the gap between research, policy & practice. Tweets from @Capitan_Typo and @corisel",
+				"url": "https://t.co/PTQ9lKBAbe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PTQ9lKBAbe",
+								"expanded_url": "http://www.TERPodcast.com",
+								"display_url": "TERPodcast.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2741,
+				"friends_count": 1183,
+				"listed_count": 51,
+				"created_at": "Sat Jul 13 11:06:02 +0000 2013",
+				"favourites_count": 1794,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9827,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000433433361/7ba5378695adafe20b257831c17b789d_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000433433361/7ba5378695adafe20b257831c17b789d_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1590760676/1373870488",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 01 11:45:30 +0000 2017",
 		"id": 914456233884647400,
 		"id_str": "914456233884647424",
