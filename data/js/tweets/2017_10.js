@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Mon Oct 02 09:49:36 +0000 2017",
+		"id": 914789452488179700,
+		"id_str": "914789452488179713",
+		"text": "RT @GFThommo: Chuffed that our PISA book was reviewed in @SchoolsWeek, even better that they had kind things to say https://t.co/UR4aJn5Uif",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GFThommo",
+					"name": "Dr Beardface",
+					"id": 488946521,
+					"id_str": "488946521",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "SchoolsWeek",
+					"name": "Schools Week",
+					"id": 2491487924,
+					"id_str": "2491487924",
+					"indices": [
+						57,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UR4aJn5Uif",
+					"expanded_url": "https://schoolsweek.co.uk/reviews/the-global-education-race-taking-the-measure-of-pisa-and-international-testing/",
+					"display_url": "schoolsweek.co.uk/reviews/the-gl…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. Thoughts my own, not employers.",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4255,
+			"friends_count": 2998,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4857,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29117,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 01 12:35:08 +0000 2017",
+			"id": 914468725943812100,
+			"id_str": "914468725943812096",
+			"text": "Chuffed that our PISA book was reviewed in @SchoolsWeek, even better that they had kind things to say https://t.co/UR4aJn5Uif",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SchoolsWeek",
+						"name": "Schools Week",
+						"id": 2491487924,
+						"id_str": "2491487924",
+						"indices": [
+							43,
+							55
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/UR4aJn5Uif",
+						"expanded_url": "https://schoolsweek.co.uk/reviews/the-global-education-race-taking-the-measure-of-pisa-and-international-testing/",
+						"display_url": "schoolsweek.co.uk/reviews/the-gl…",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 488946521,
+				"id_str": "488946521",
+				"name": "Dr Beardface",
+				"screen_name": "GFThommo",
+				"location": "Australia",
+				"description": "Academic, interested in assessment, school communities, teachers work, theory, ed policy. My views, not employers. RTs not endorsements.",
+				"url": "https://t.co/FlwRGHbxTM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FlwRGHbxTM",
+								"expanded_url": "http://drbeardface.net",
+								"display_url": "drbeardface.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4023,
+				"friends_count": 3210,
+				"listed_count": 152,
+				"created_at": "Sat Feb 11 01:04:24 +0000 2012",
+				"favourites_count": 11319,
+				"utc_offset": 36000,
+				"time_zone": "Brisbane",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23823,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3164014975/cfaf995a40150eb0526f95f77efdfb4c_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3164014975/cfaf995a40150eb0526f95f77efdfb4c_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/488946521/1436743048",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Oct 02 02:26:42 +0000 2017",
 		"id": 914677995729772500,
 		"id_str": "914677995729772545",
