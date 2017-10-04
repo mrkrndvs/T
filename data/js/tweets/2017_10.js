@@ -1,6 +1,590 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Wed Oct 04 07:56:38 +0000 2017",
+		"id": 915485802938978300,
+		"id_str": "915485802938978305",
+		"text": "RT @gregmiller68: @shhartley @09AGL @ACARA_CEO .@StLukesMP reworked GCs into 6 Pillars of Learning https://t.co/9QVuO74B5M - Provides focus…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gregmiller68",
+					"name": "Greg Miller",
+					"id": 212374993,
+					"id_str": "212374993",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "shhartley",
+					"name": "Shani Hartley",
+					"id": 19373091,
+					"id_str": "19373091",
+					"indices": [
+						18,
+						28
+					]
+				},
+				{
+					"screen_name": "09AGL",
+					"name": "Tony Gleeson",
+					"id": 33159146,
+					"id_str": "33159146",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"screen_name": "ACARA_CEO",
+					"name": "Robert Randall",
+					"id": 1468963861,
+					"id_str": "1468963861",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"screen_name": "StLukesMP",
+					"name": "stlukesnextgen",
+					"id": 747223814992330800,
+					"id_str": "747223814992330752",
+					"indices": [
+						48,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9QVuO74B5M",
+					"expanded_url": "http://www.stlukesmarsdenpark.catholic.edu.au/learning-statement",
+					"display_url": "stlukesmarsdenpark.catholic.edu.au/learning-state…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. I write at https://t.co/PkNuJdsUBx",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4254,
+			"friends_count": 2999,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4860,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29130,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 04 07:50:03 +0000 2017",
+			"id": 915484145068863500,
+			"id_str": "915484145068863488",
+			"text": "@shhartley @09AGL @ACARA_CEO .@StLukesMP reworked GCs into 6 Pillars of Learning https://t.co/9QVuO74B5M - Provides… https://t.co/FeynTtf6jp",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shhartley",
+						"name": "Shani Hartley",
+						"id": 19373091,
+						"id_str": "19373091",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "09AGL",
+						"name": "Tony Gleeson",
+						"id": 33159146,
+						"id_str": "33159146",
+						"indices": [
+							11,
+							17
+						]
+					},
+					{
+						"screen_name": "ACARA_CEO",
+						"name": "Robert Randall",
+						"id": 1468963861,
+						"id_str": "1468963861",
+						"indices": [
+							18,
+							28
+						]
+					},
+					{
+						"screen_name": "StLukesMP",
+						"name": "stlukesnextgen",
+						"id": 747223814992330800,
+						"id_str": "747223814992330752",
+						"indices": [
+							30,
+							40
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/9QVuO74B5M",
+						"expanded_url": "http://www.stlukesmarsdenpark.catholic.edu.au/learning-statement",
+						"display_url": "stlukesmarsdenpark.catholic.edu.au/learning-state…",
+						"indices": [
+							81,
+							104
+						]
+					},
+					{
+						"url": "https://t.co/FeynTtf6jp",
+						"expanded_url": "https://twitter.com/i/web/status/915484145068863488",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 915446979714457600,
+			"in_reply_to_status_id_str": "915446979714457600",
+			"in_reply_to_user_id": 19373091,
+			"in_reply_to_user_id_str": "19373091",
+			"in_reply_to_screen_name": "shhartley",
+			"user": {
+				"id": 212374993,
+				"id_str": "212374993",
+				"name": "Greg Miller",
+				"screen_name": "gregmiller68",
+				"location": "Sydney NSW Australia",
+				"description": "An education leader committed to reimagining learning. @StLukesMP Foundation Principal. Views are my own.",
+				"url": "https://t.co/FPPF1HrOHk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FPPF1HrOHk",
+								"expanded_url": "http://gregmiller68.com/",
+								"display_url": "gregmiller68.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2323,
+				"friends_count": 598,
+				"listed_count": 72,
+				"created_at": "Fri Nov 05 22:24:31 +0000 2010",
+				"favourites_count": 5174,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6964,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "59472F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440924010/x84d0719d671ad79ca698ae49ca67955.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440924010/x84d0719d671ad79ca698ae49ca67955.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/647275036357750784/eJa9snHi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/647275036357750784/eJa9snHi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/212374993/1499517366",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000515",
+				"profile_sidebar_fill_color": "061127",
+				"profile_text_color": "52555C",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0073b76548e5984f",
+				"url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json",
+				"place_type": "city",
+				"name": "Sydney",
+				"full_name": "Sydney, New South Wales",
+				"country_code": "AU",
+				"country": "Australia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								150.520928608,
+								-34.1183470085
+							],
+							[
+								151.343020992,
+								-34.1183470085
+							],
+							[
+								151.343020992,
+								-33.578140996
+							],
+							[
+								150.520928608,
+								-33.578140996
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 04 07:54:02 +0000 2017",
+		"id": 915485148279222300,
+		"id_str": "915485148279222274",
+		"text": "RT @anthsperanza: A wicked problem of education is not only educating students but educating parents as well via @majortania #acelconf17",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "acelconf17",
+					"indices": [
+						125,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anthsperanza",
+					"name": "Anthony Speranza",
+					"id": 130416490,
+					"id_str": "130416490",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "MajorTania",
+					"name": "Tania Major",
+					"id": 2803403294,
+					"id_str": "2803403294",
+					"indices": [
+						113,
+						124
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. I write at https://t.co/PkNuJdsUBx",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4254,
+			"friends_count": 2999,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4860,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29130,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 04 05:23:27 +0000 2017",
+			"id": 915447251442458600,
+			"id_str": "915447251442458625",
+			"text": "A wicked problem of education is not only educating students but educating parents as well via @majortania #acelconf17",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "acelconf17",
+						"indices": [
+							107,
+							118
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MajorTania",
+						"name": "Tania Major",
+						"id": 2803403294,
+						"id_str": "2803403294",
+						"indices": [
+							95,
+							106
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 130416490,
+				"id_str": "130416490",
+				"name": "Anthony Speranza",
+				"screen_name": "anthsperanza",
+				"location": "Australia",
+				"description": "ICT / T&L Leader | GoogleEDU Certified Trainer & Innovator | @DLTVictoria Educator of the year | ACEL New Voice Scholarship recipient | M.Ed ICT | #DisruptEDU.",
+				"url": "http://t.co/XBRG5e5UBd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/XBRG5e5UBd",
+								"expanded_url": "http://anthsperanza.com",
+								"display_url": "anthsperanza.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4882,
+				"friends_count": 4123,
+				"listed_count": 152,
+				"created_at": "Wed Apr 07 06:49:10 +0000 2010",
+				"favourites_count": 1889,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3941,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875931772709621760/MN4lPCOW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875931772709621760/MN4lPCOW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/130416490/1497673649",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 03 10:33:00 +0000 2017",
 		"id": 915162763894259700,
 		"id_str": "915162763894259712",
@@ -12,7 +596,7 @@ Grailbird.data.tweets_2017_10 =
 			"user_mentions": [
 				{
 					"screen_name": "aus_teach",
-					"name": "Simon 🏳️‍🌈",
+					"name": "Simon 🏳️🌈",
 					"id": 299553438,
 					"id_str": "299553438",
 					"indices": [
