@@ -1,6 +1,436 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Sat Oct 14 02:17:02 +0000 2017",
+		"id": 919024217491890200,
+		"id_str": "919024217491890176",
+		"text": "RT @edublogs: This is an example of how blogging can be interegrated into a curriculum framework (this eg is Victoria, Australia) https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "edublogs",
+					"name": "edublogs",
+					"id": 14091545,
+					"id_str": "14091545",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. I write at https://t.co/PkNuJdsUBx",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4268,
+			"friends_count": 3003,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4864,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29220,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 13 22:34:38 +0000 2017",
+			"id": 918968247147380700,
+			"id_str": "918968247147380736",
+			"text": "This is an example of how blogging can be interegrated into a curriculum framework (this eg is Victoria, Australia) https://t.co/xQaa1TZ8SB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xQaa1TZ8SB",
+						"expanded_url": "https://twitter.com/mrkrndvs/status/917692256731013120",
+						"display_url": "twitter.com/mrkrndvs/statu…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14091545,
+				"id_str": "14091545",
+				"name": "edublogs",
+				"screen_name": "edublogs",
+				"location": "Australia",
+				"description": "We are the easiest, safest and most powerful educational blogging platform with over 4 million blogs and counting! Check out https://t.co/V5oDMNUCQB too.",
+				"url": "http://t.co/5jEa8hIjgx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/5jEa8hIjgx",
+								"expanded_url": "http://edublogs.org",
+								"display_url": "edublogs.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/V5oDMNUCQB",
+								"expanded_url": "http://CampusPress.com",
+								"display_url": "CampusPress.com",
+								"indices": [
+									125,
+									148
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 40944,
+				"friends_count": 8857,
+				"listed_count": 1558,
+				"created_at": "Thu Mar 06 21:39:49 +0000 2008",
+				"favourites_count": 466,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10689,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B4E9F3",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/130366107/edu_tweet5.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/130366107/edu_tweet5.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000740807023/3bea1fd759cd71106768e9e97619aa55_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000740807023/3bea1fd759cd71106768e9e97619aa55_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14091545/1504059340",
+				"profile_link_color": "00C8FF",
+				"profile_sidebar_border_color": "AFE1EC",
+				"profile_sidebar_fill_color": "E3F7FB",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 917692256731013100,
+			"quoted_status_id_str": "917692256731013120",
+			"quoted_status": {
+				"created_at": "Tue Oct 10 10:04:18 +0000 2017",
+				"id": 917692256731013100,
+				"id_str": "917692256731013120",
+				"text": "NEW POST Blogging the Digital Technologies Curriculum https://t.co/NttC0rulVQ #Digitech #AussieED https://t.co/sPGbelUA0f",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "Digitech",
+							"indices": [
+								78,
+								87
+							]
+						},
+						{
+							"text": "AussieED",
+							"indices": [
+								88,
+								97
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/NttC0rulVQ",
+							"expanded_url": "https://wp.me/p5vNSR-US",
+							"display_url": "wp.me/p5vNSR-US",
+							"indices": [
+								54,
+								77
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 917691090102231000,
+							"id_str": "917691090102231040",
+							"indices": [
+								98,
+								121
+							],
+							"media_url": "http://pbs.twimg.com/media/DLxLLy8VoAA0hgz.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DLxLLy8VoAA0hgz.jpg",
+							"url": "https://t.co/sPGbelUA0f",
+							"display_url": "pic.twitter.com/sPGbelUA0f",
+							"expanded_url": "https://twitter.com/mrkrndvs/status/917692256731013120/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 960,
+									"h": 540,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 960,
+									"h": 540,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 917691090102231000,
+							"id_str": "917691090102231040",
+							"indices": [
+								98,
+								121
+							],
+							"media_url": "http://pbs.twimg.com/media/DLxLLy8VoAA0hgz.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DLxLLy8VoAA0hgz.jpg",
+							"url": "https://t.co/sPGbelUA0f",
+							"display_url": "pic.twitter.com/sPGbelUA0f",
+							"expanded_url": "https://twitter.com/mrkrndvs/status/917692256731013120/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 960,
+									"h": 540,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 960,
+									"h": 540,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 372768752,
+					"id_str": "372768752",
+					"name": "Aaron Davis 🏘️",
+					"screen_name": "mrkrndvs",
+					"location": "Melbourne, Australia",
+					"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. I write at https://t.co/PkNuJdsUBx",
+					"url": "https://t.co/9kvcoZA3IC",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/9kvcoZA3IC",
+									"expanded_url": "https://collect.readwriterespond.com",
+									"display_url": "collect.readwriterespond.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/PkNuJdsUBx",
+									"expanded_url": "http://readwriterespond.com",
+									"display_url": "readwriterespond.com",
+									"indices": [
+										136,
+										159
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 4268,
+					"friends_count": 3003,
+					"listed_count": 396,
+					"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+					"favourites_count": 4864,
+					"utc_offset": 36000,
+					"time_zone": "Brisbane",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 29220,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+					"profile_link_color": "FAB81E",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 8,
+				"favorite_count": 14,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 917692256731013100,
+		"quoted_status_id_str": "917692256731013120",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 13 09:54:48 +0000 2017",
 		"id": 918777030782545900,
 		"id_str": "918777030782545921",
