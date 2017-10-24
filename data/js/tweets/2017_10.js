@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Tue Oct 24 00:46:17 +0000 2017",
+		"id": 922625256438689800,
+		"id_str": "922625256438689792",
+		"text": "RT @bbcstories: \"We need to understand autistic people better, not try to change who they are\" - the brilliant @ChrisGPackham, speaking in…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bbcstories",
+					"name": "BBC Stories",
+					"id": 14697685,
+					"id_str": "14697685",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "ChrisGPackham",
+					"name": "Chris Packham",
+					"id": 78905469,
+					"id_str": "78905469",
+					"indices": [
+						111,
+						125
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. I write at https://t.co/PkNuJdsUBx",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4289,
+			"friends_count": 3008,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4870,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29336,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 19 16:35:02 +0000 2017",
+			"id": 921052077865943000,
+			"id_str": "921052077865943040",
+			"text": "\"We need to understand autistic people better, not try to change who they are\" - the brilliant @ChrisGPackham, spea… https://t.co/HERVsg2qzw",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ChrisGPackham",
+						"name": "Chris Packham",
+						"id": 78905469,
+						"id_str": "78905469",
+						"indices": [
+							95,
+							109
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/HERVsg2qzw",
+						"expanded_url": "https://twitter.com/i/web/status/921052077865943040",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14697685,
+				"id_str": "14697685",
+				"name": "BBC Stories",
+				"screen_name": "bbcstories",
+				"location": "",
+				"description": "The world we live in and your world revealed - welcome to BBC Stories. For even more, head to https://t.co/k6tR9hSiYQ",
+				"url": "https://t.co/EFZ5eWPOGP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EFZ5eWPOGP",
+								"expanded_url": "http://bit.ly/BBCstories",
+								"display_url": "bit.ly/BBCstories",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/k6tR9hSiYQ",
+								"expanded_url": "https://www.youtube.com/bbcstories",
+								"display_url": "youtube.com/bbcstories",
+								"indices": [
+									94,
+									117
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 112540,
+				"friends_count": 1868,
+				"listed_count": 2376,
+				"created_at": "Thu May 08 08:02:46 +0000 2008",
+				"favourites_count": 1594,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17419,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/616625546802384896/JHno3q1P.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/616625546802384896/JHno3q1P.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/884372134562287616/jMoM1XBL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/884372134562287616/jMoM1XBL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14697685/1506073155",
+				"profile_link_color": "FAB001",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 287,
+			"favorite_count": 564,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 287,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Oct 23 23:25:15 +0000 2017",
 		"id": 922604865058156500,
 		"id_str": "922604865058156545",
