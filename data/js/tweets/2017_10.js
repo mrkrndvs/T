@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Sat Oct 28 00:53:22 +0000 2017",
+		"id": 924076591700893700,
+		"id_str": "924076591700893696",
+		"text": "RT @kmcg2375: With respect, anyone who is \"shocked\" about this must not typically listen to many teachers. We point this out, like *continu…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kmcg2375",
+					"name": "Kelli McGraw",
+					"id": 14908112,
+					"id_str": "14908112",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. I write at https://t.co/PkNuJdsUBx",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4293,
+			"friends_count": 3008,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4867,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29377,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 28 00:51:09 +0000 2017",
+			"id": 924076031442481200,
+			"id_str": "924076031442481152",
+			"text": "With respect, anyone who is \"shocked\" about this must not typically listen to many teachers. We point this out, lik… https://t.co/LpUWf1Aony",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LpUWf1Aony",
+						"expanded_url": "https://twitter.com/i/web/status/924076031442481152",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14908112,
+				"id_str": "14908112",
+				"name": "Kelli McGraw",
+				"screen_name": "kmcg2375",
+				"location": "Brisbane, Australia",
+				"description": "English Teacher & University Lecturer. Into: curriculum studies, social justice, connected learning, pop culture, PBL. #ozengchat #neighbours. Views my own.",
+				"url": "http://t.co/HooTIsyJDG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HooTIsyJDG",
+								"expanded_url": "http://kellimcgraw.wordpress.com/",
+								"display_url": "kellimcgraw.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4012,
+				"friends_count": 3480,
+				"listed_count": 231,
+				"created_at": "Mon May 26 11:44:40 +0000 2008",
+				"favourites_count": 4244,
+				"utc_offset": 36000,
+				"time_zone": "Brisbane",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13426,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/722612399/1c69fb23b1759ad5a5b1480db6d1b04a.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/722612399/1c69fb23b1759ad5a5b1480db6d1b04a.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/721321812252987394/1jxG5_cZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/721321812252987394/1jxG5_cZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14908112/1466308565",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 923630915166781400,
+			"quoted_status_id_str": "923630915166781440",
+			"quoted_status": {
+				"created_at": "Thu Oct 26 19:22:25 +0000 2017",
+				"id": 923630915166781400,
+				"id_str": "923630915166781440",
+				"text": "'I was shocked': the students pushed out of NAPLAN to boost school results https://t.co/FLGsskErI0 via @theage",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "theage",
+							"name": "The Age",
+							"id": 32201814,
+							"id_str": "32201814",
+							"indices": [
+								103,
+								110
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/FLGsskErI0",
+							"expanded_url": "http://www.theage.com.au/victoria/i-was-shocked-the-students-pushed-out-of-naplan-to-boost-school-results-20171026-gz8sh1.html",
+							"display_url": "theage.com.au/victoria/i-was…",
+							"indices": [
+								75,
+								98
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 156144232,
+					"id_str": "156144232",
+					"name": "Stephen Dinham",
+					"screen_name": "sdinhamunimelb",
+					"location": "",
+					"description": "Prof  Melbourne Graduate School of Education, Uni  of Melbourne",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 4467,
+					"friends_count": 27,
+					"listed_count": 0,
+					"created_at": "Wed Jun 16 03:55:11 +0000 2010",
+					"favourites_count": 15,
+					"utc_offset": 39600,
+					"time_zone": "Canberra",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 1426,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/732327446314254336/c3rECmco_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/732327446314254336/c3rECmco_normal.jpg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "01864a8a64df9dc4",
+					"url": "https://api.twitter.com/1.1/geo/id/01864a8a64df9dc4.json",
+					"place_type": "city",
+					"name": "Melbourne",
+					"full_name": "Melbourne, Victoria",
+					"country_code": "AU",
+					"country": "Australia",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									144.593741856,
+									-38.433859306
+								],
+								[
+									145.512528832,
+									-38.433859306
+								],
+								[
+									145.512528832,
+									-37.5112737225
+								],
+								[
+									144.593741856,
+									-37.5112737225
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 19,
+				"favorite_count": 10,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 4,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 923630915166781400,
+		"quoted_status_id_str": "923630915166781440",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 27 20:43:59 +0000 2017",
 		"id": 924013830564298800,
 		"id_str": "924013830564298752",
