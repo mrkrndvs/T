@@ -1,6 +1,472 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Tue Oct 31 07:57:54 +0000 2017",
+		"id": 925270592688865300,
+		"id_str": "925270592688865280",
+		"text": "RT @mesterman: Christmas card challenge 2017 @stringer_andrea @mrkrndvs @EduTweetOz @gregmiller68 @largerama @MrMCimino @MrAdrianQuick @ste…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mesterman",
+					"name": "Matt Esterman",
+					"id": 14906194,
+					"id_str": "14906194",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "stringer_andrea",
+					"name": "Andrea Stringer 🇦🇺",
+					"id": 585586447,
+					"id_str": "585586447",
+					"indices": [
+						45,
+						61
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						62,
+						71
+					]
+				},
+				{
+					"screen_name": "EduTweetOz",
+					"name": "Glenn (Admin)",
+					"id": 1361688518,
+					"id_str": "1361688518",
+					"indices": [
+						72,
+						83
+					]
+				},
+				{
+					"screen_name": "gregmiller68",
+					"name": "Greg Miller",
+					"id": 212374993,
+					"id_str": "212374993",
+					"indices": [
+						84,
+						97
+					]
+				},
+				{
+					"screen_name": "largerama",
+					"name": "Nick Jackson",
+					"id": 82992519,
+					"id_str": "82992519",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"screen_name": "MrMCimino",
+					"name": "Marco Cimino",
+					"id": 3070802660,
+					"id_str": "3070802660",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"screen_name": "MrAdrianQuick",
+					"name": "Adrian Quick 🏳️‍🌈",
+					"id": 873086655577473000,
+					"id_str": "873086655577473024",
+					"indices": [
+						120,
+						134
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. I write at https://t.co/PkNuJdsUBx",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4294,
+			"friends_count": 3009,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4871,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29402,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 30 18:52:40 +0000 2017",
+			"id": 925072981163851800,
+			"id_str": "925072981163851777",
+			"text": "Christmas card challenge 2017 @stringer_andrea @mrkrndvs @EduTweetOz @gregmiller68 @largerama @MrMCimino… https://t.co/iw5O0xvCaz",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stringer_andrea",
+						"name": "Andrea Stringer 🇦🇺",
+						"id": 585586447,
+						"id_str": "585586447",
+						"indices": [
+							30,
+							46
+						]
+					},
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							47,
+							56
+						]
+					},
+					{
+						"screen_name": "EduTweetOz",
+						"name": "Glenn (Admin)",
+						"id": 1361688518,
+						"id_str": "1361688518",
+						"indices": [
+							57,
+							68
+						]
+					},
+					{
+						"screen_name": "gregmiller68",
+						"name": "Greg Miller",
+						"id": 212374993,
+						"id_str": "212374993",
+						"indices": [
+							69,
+							82
+						]
+					},
+					{
+						"screen_name": "largerama",
+						"name": "Nick Jackson",
+						"id": 82992519,
+						"id_str": "82992519",
+						"indices": [
+							83,
+							93
+						]
+					},
+					{
+						"screen_name": "MrMCimino",
+						"name": "Marco Cimino",
+						"id": 3070802660,
+						"id_str": "3070802660",
+						"indices": [
+							94,
+							104
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/iw5O0xvCaz",
+						"expanded_url": "https://twitter.com/i/web/status/925072981163851777",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14906194,
+				"id_str": "14906194",
+				"name": "Matt Esterman",
+				"screen_name": "mesterman",
+				"location": "Sydney, Australia",
+				"description": "Teaching & Learning Integrator at @trinitygrammar | TeachMeet | mindful #edtech | more | read https://t.co/WUbizCoCQ7 | views my own",
+				"url": "https://t.co/WGqY2vBuX1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WGqY2vBuX1",
+								"expanded_url": "https://au.linkedin.com/in/mesterman",
+								"display_url": "au.linkedin.com/in/mesterman",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/WUbizCoCQ7",
+								"expanded_url": "https://medium.com/@matt_esterman",
+								"display_url": "medium.com/@matt_esterman",
+								"indices": [
+									94,
+									117
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 11976,
+				"friends_count": 10351,
+				"listed_count": 559,
+				"created_at": "Mon May 26 07:11:29 +0000 2008",
+				"favourites_count": 10950,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 31866,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/835365550305890305/847XChNY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/835365550305890305/847XChNY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14906194/1507067934",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 924998496763211800,
+			"quoted_status_id_str": "924998496763211776",
+			"quoted_status": {
+				"created_at": "Mon Oct 30 13:56:41 +0000 2017",
+				"id": 924998496763211800,
+				"id_str": "924998496763211776",
+				"text": "Want to learn about Christmas traditions in another country? Sign up for the Skype Traditions Lesson. https://t.co/2yyzzFVv8Y #mieexpert",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "mieexpert",
+							"indices": [
+								126,
+								136
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/2yyzzFVv8Y",
+							"expanded_url": "http://bit.ly/2yYCDy1",
+							"display_url": "bit.ly/2yYCDy1",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 28614453,
+					"id_str": "28614453",
+					"name": "Kyle Calderwood",
+					"screen_name": "kcalderw",
+					"location": "NJ",
+					"description": "Tech Coordinator, TeachmeetNJ organizer, Skype Master Teacher, Google Certified Innovator, Microsoft Innovative Educator Expert & Minecraft Mentor.",
+					"url": "https://t.co/EisAGbmw4O",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/EisAGbmw4O",
+									"expanded_url": "http://www.about.me/kcalderw",
+									"display_url": "about.me/kcalderw",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3960,
+					"friends_count": 738,
+					"listed_count": 512,
+					"created_at": "Fri Apr 03 17:48:36 +0000 2009",
+					"favourites_count": 253,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 24520,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "131516",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/806567135065444352/zcf_hQdT_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/806567135065444352/zcf_hQdT_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/28614453/1412819998",
+					"profile_link_color": "009999",
+					"profile_sidebar_border_color": "EEEEEE",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 924998496763211800,
+		"quoted_status_id_str": "924998496763211776",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 31 01:23:16 +0000 2017",
 		"id": 925171280881619000,
 		"id_str": "925171280881618944",
