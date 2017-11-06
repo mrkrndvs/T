@@ -1,6 +1,530 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Mon Nov 06 07:30:55 +0000 2017",
+		"id": 927438128985489400,
+		"id_str": "927438128985489409",
+		"text": "RT @drlindagraham: @NDempseyDTA @SimonKnight100 @smithsmm @Oldprimaryhead1 @MrDeach27 @jkgillettswan @marymered @jordyjax @dmsroy @mrkrndvs…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drlindagraham",
+					"name": "Linda J. Graham",
+					"id": 613376460,
+					"id_str": "613376460",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "NDempseyDTA",
+					"name": "Nicole Dempsey",
+					"id": 2513231394,
+					"id_str": "2513231394",
+					"indices": [
+						19,
+						31
+					]
+				},
+				{
+					"screen_name": "SimonKnight100",
+					"name": "Simon Knight",
+					"id": 2253692834,
+					"id_str": "2253692834",
+					"indices": [
+						32,
+						47
+					]
+				},
+				{
+					"screen_name": "smithsmm",
+					"name": "Simon Smith",
+					"id": 28532658,
+					"id_str": "28532658",
+					"indices": [
+						48,
+						57
+					]
+				},
+				{
+					"screen_name": "Oldprimaryhead1",
+					"name": "Old Primary Head",
+					"id": 790072010,
+					"id_str": "790072010",
+					"indices": [
+						58,
+						74
+					]
+				},
+				{
+					"screen_name": "MrDeach27",
+					"name": "14 Years Teaching",
+					"id": 3130607986,
+					"id_str": "3130607986",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"screen_name": "jkgillettswan",
+					"name": "Jenna Gillett-Swan",
+					"id": 2980886808,
+					"id_str": "2980886808",
+					"indices": [
+						86,
+						100
+					]
+				},
+				{
+					"screen_name": "marymered",
+					"name": "Mary Meredith",
+					"id": 1042750633,
+					"id_str": "1042750633",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"screen_name": "jordyjax",
+					"name": "Jax",
+					"id": 976593558,
+					"id_str": "976593558",
+					"indices": [
+						112,
+						121
+					]
+				},
+				{
+					"screen_name": "dmsroy",
+					"name": "David Roy",
+					"id": 45308710,
+					"id_str": "45308710",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						130,
+						139
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. I write at https://t.co/PkNuJdsUBx",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4299,
+			"friends_count": 3010,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4880,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29452,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 06 00:34:08 +0000 2017",
+			"id": 927333239806505000,
+			"id_str": "927333239806504960",
+			"text": "@NDempseyDTA @SimonKnight100 @smithsmm @Oldprimaryhead1 @MrDeach27 @jkgillettswan @marymered @jordyjax @dmsroy… https://t.co/qoI3cWPF4w",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NDempseyDTA",
+						"name": "Nicole Dempsey",
+						"id": 2513231394,
+						"id_str": "2513231394",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "SimonKnight100",
+						"name": "Simon Knight",
+						"id": 2253692834,
+						"id_str": "2253692834",
+						"indices": [
+							13,
+							28
+						]
+					},
+					{
+						"screen_name": "smithsmm",
+						"name": "Simon Smith",
+						"id": 28532658,
+						"id_str": "28532658",
+						"indices": [
+							29,
+							38
+						]
+					},
+					{
+						"screen_name": "Oldprimaryhead1",
+						"name": "Old Primary Head",
+						"id": 790072010,
+						"id_str": "790072010",
+						"indices": [
+							39,
+							55
+						]
+					},
+					{
+						"screen_name": "MrDeach27",
+						"name": "14 Years Teaching",
+						"id": 3130607986,
+						"id_str": "3130607986",
+						"indices": [
+							56,
+							66
+						]
+					},
+					{
+						"screen_name": "jkgillettswan",
+						"name": "Jenna Gillett-Swan",
+						"id": 2980886808,
+						"id_str": "2980886808",
+						"indices": [
+							67,
+							81
+						]
+					},
+					{
+						"screen_name": "marymered",
+						"name": "Mary Meredith",
+						"id": 1042750633,
+						"id_str": "1042750633",
+						"indices": [
+							82,
+							92
+						]
+					},
+					{
+						"screen_name": "jordyjax",
+						"name": "Jax",
+						"id": 976593558,
+						"id_str": "976593558",
+						"indices": [
+							93,
+							102
+						]
+					},
+					{
+						"screen_name": "dmsroy",
+						"name": "David Roy",
+						"id": 45308710,
+						"id_str": "45308710",
+						"indices": [
+							103,
+							110
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qoI3cWPF4w",
+						"expanded_url": "https://twitter.com/i/web/status/927333239806504960",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 2513231394,
+			"in_reply_to_user_id_str": "2513231394",
+			"in_reply_to_screen_name": "NDempseyDTA",
+			"user": {
+				"id": 613376460,
+				"id_str": "613376460",
+				"name": "Linda J. Graham",
+				"screen_name": "drlindagraham",
+				"location": "Brisbane, QLD",
+				"description": "Professor & Leader of QUT's Student Engagement, Learning & Behaviour Research Group @QUT_SELB. I blog at https://t.co/Wd6ThELZfp Views my own",
+				"url": "https://t.co/Q2LkRoG8oS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Q2LkRoG8oS",
+								"expanded_url": "https://research.qut.edu.au/selb/team/linda-graham/",
+								"display_url": "research.qut.edu.au/selb/team/lind…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Wd6ThELZfp",
+								"expanded_url": "https://drlindagraham.wordpress.com/",
+								"display_url": "drlindagraham.wordpress.com",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4009,
+				"friends_count": 3665,
+				"listed_count": 149,
+				"created_at": "Wed Jun 20 09:32:43 +0000 2012",
+				"favourites_count": 18460,
+				"utc_offset": 36000,
+				"time_zone": "Brisbane",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29548,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/847393840763813888/Lx3F1p08_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/847393840763813888/Lx3F1p08_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/613376460/1385636028",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 927270811018432500,
+			"quoted_status_id_str": "927270811018432513",
+			"quoted_status": {
+				"created_at": "Sun Nov 05 20:26:03 +0000 2017",
+				"id": 927270811018432500,
+				"id_str": "927270811018432513",
+				"text": "Next Tuesday's #debatED will be hosted by @drlindagraham our first ever non-UK based moderator. It's going to be aw… https://t.co/OETDGOkd3N",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "debatED",
+							"indices": [
+								15,
+								23
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "drlindagraham",
+							"name": "Linda J. Graham",
+							"id": 613376460,
+							"id_str": "613376460",
+							"indices": [
+								42,
+								56
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/OETDGOkd3N",
+							"expanded_url": "https://twitter.com/i/web/status/927270811018432513",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 803857533807063000,
+					"id_str": "803857533807063040",
+					"name": "#debatED",
+					"screen_name": "ed_debate",
+					"location": "",
+					"description": "Weekly online debate on educational policy, practice and pedagogy. Tuesday evenings 8.45 - 9.15pm #debatED",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 670,
+					"friends_count": 0,
+					"listed_count": 2,
+					"created_at": "Wed Nov 30 07:05:45 +0000 2016",
+					"favourites_count": 935,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 2312,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/836350226822737921/0oQ65r2n_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/836350226822737921/0oQ65r2n_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/803857533807063040/1508820901",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 11,
+				"favorite_count": 11,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 7,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 927270811018432500,
+		"quoted_status_id_str": "927270811018432513",
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und"
+	},
+	{
 		"created_at": "Mon Nov 06 06:51:18 +0000 2017",
 		"id": 927428157317161000,
 		"id_str": "927428157317160960",
