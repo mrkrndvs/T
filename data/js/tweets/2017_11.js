@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Mon Nov 06 06:51:18 +0000 2017",
+		"id": 927428157317161000,
+		"id_str": "927428157317160960",
+		"text": "RT @debsnet: Join us today for #educoachOC to talk coaching, managing, &amp; feedback for, coaches. https://t.co/1wHRV3DPhq #educoach #leadersh…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "educoachOC",
+					"indices": [
+						31,
+						42
+					]
+				},
+				{
+					"text": "educoach",
+					"indices": [
+						124,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debsnet",
+					"name": "Dr Deborah Netolicky",
+					"id": 88375038,
+					"id_str": "88375038",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1wHRV3DPhq",
+					"expanded_url": "https://educoachoc.wordpress.com/2017/11/05/educoachoc-chat-23-coaching-the-coaches-using-feedback-for-growth/amp/",
+					"display_url": "educoachoc.wordpress.com/2017/11/05/edu…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. I write at https://t.co/PkNuJdsUBx",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4299,
+			"friends_count": 3010,
+			"listed_count": 397,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4880,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29451,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 05 21:25:27 +0000 2017",
+			"id": 927285759068880900,
+			"id_str": "927285759068880896",
+			"text": "Join us today for #educoachOC to talk coaching, managing, &amp; feedback for, coaches. https://t.co/1wHRV3DPhq… https://t.co/xJcdTSk9Te",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "educoachOC",
+						"indices": [
+							18,
+							29
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1wHRV3DPhq",
+						"expanded_url": "https://educoachoc.wordpress.com/2017/11/05/educoachoc-chat-23-coaching-the-coaches-using-feedback-for-growth/amp/",
+						"display_url": "educoachoc.wordpress.com/2017/11/05/edu…",
+						"indices": [
+							87,
+							110
+						]
+					},
+					{
+						"url": "https://t.co/xJcdTSk9Te",
+						"expanded_url": "https://twitter.com/i/web/status/927285759068880896",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 88375038,
+				"id_str": "88375038",
+				"name": "Dr Deborah Netolicky",
+				"screen_name": "debsnet",
+				"location": "Australia",
+				"description": "Doctor of Philosophy. Researcher. School leader. Teacher. Writer. Speaker. Coach. Storyteller. Disruptor. Cyborg. Flâneuse.",
+				"url": "https://t.co/DiUVU2xOxW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DiUVU2xOxW",
+								"expanded_url": "http://theeduflaneuse.com",
+								"display_url": "theeduflaneuse.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3954,
+				"friends_count": 1161,
+				"listed_count": 386,
+				"created_at": "Sun Nov 08 07:47:07 +0000 2009",
+				"favourites_count": 11677,
+				"utc_offset": 28800,
+				"time_zone": "Perth",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19780,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/263965597/xe866c453e94c144f504e941daa99916.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/263965597/xe866c453e94c144f504e941daa99916.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/920275342203351040/KCBdrkLx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/920275342203351040/KCBdrkLx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/88375038/1482219971",
+				"profile_link_color": "4D6DA3",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Nov 06 04:10:27 +0000 2017",
 		"id": 927387680681295900,
 		"id_str": "927387680681295872",
