@@ -1,6 +1,462 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 15 10:57:30 +0000 2017",
+		"id": 930751609004425200,
+		"id_str": "930751609004425217",
+		"text": "RT @guardian_sport: 'I don’t want pity': Jelena Dokic sidesteps blame game to find own voice https://t.co/3Nc6r9QPPq By @Kate_ohalloran",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian_sport",
+					"name": "Guardian sport",
+					"id": 46403451,
+					"id_str": "46403451",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "Kate_ohalloran",
+					"name": "Kate O'Halloran",
+					"id": 418064386,
+					"id_str": "418064386",
+					"indices": [
+						120,
+						135
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3Nc6r9QPPq",
+					"expanded_url": "https://www.theguardian.com/sport/2017/nov/15/i-dont-want-pity-jelena-dokic-sidesteps-blame-game-to-find-own-voice?CMP=share_btn_tw",
+					"display_url": "theguardian.com/sport/2017/nov…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. I write at https://t.co/PkNuJdsUBx",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4302,
+			"friends_count": 3009,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4901,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29519,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 15 00:20:40 +0000 2017",
+			"id": 930591342237044700,
+			"id_str": "930591342237044736",
+			"text": "'I don’t want pity': Jelena Dokic sidesteps blame game to find own voice https://t.co/3Nc6r9QPPq By @Kate_ohalloran",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Kate_ohalloran",
+						"name": "Kate O'Halloran",
+						"id": 418064386,
+						"id_str": "418064386",
+						"indices": [
+							100,
+							115
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3Nc6r9QPPq",
+						"expanded_url": "https://www.theguardian.com/sport/2017/nov/15/i-dont-want-pity-jelena-dokic-sidesteps-blame-game-to-find-own-voice?CMP=share_btn_tw",
+						"display_url": "theguardian.com/sport/2017/nov…",
+						"indices": [
+							73,
+							96
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 46403451,
+				"id_str": "46403451",
+				"name": "Guardian sport",
+				"screen_name": "guardian_sport",
+				"location": "London",
+				"description": "Sport news, comment, video and more from the @Guardian. For all your US sports needs, follow @GdnUSsports, and Australian sport @GdnAusSport. IG: guardian_sport",
+				"url": "https://t.co/YJoNLFSjE2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YJoNLFSjE2",
+								"expanded_url": "http://www.theguardian.com/sport",
+								"display_url": "theguardian.com/sport",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 760270,
+				"friends_count": 1563,
+				"listed_count": 8888,
+				"created_at": "Thu Jun 11 14:55:04 +0000 2009",
+				"favourites_count": 70,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 150607,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/705082806/ff996aa3bc2009a2f9b97cdd43e8b5b7.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/705082806/ff996aa3bc2009a2f9b97cdd43e8b5b7.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/565084075329724416/sY_lRrn8_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/565084075329724416/sY_lRrn8_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/46403451/1423561530",
+				"profile_link_color": "005689",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "5d838f7a011f4a2d",
+				"url": "https://api.twitter.com/1.1/geo/id/5d838f7a011f4a2d.json",
+				"place_type": "admin",
+				"name": "London",
+				"full_name": "London, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.510364798739281,
+								51.2867019756122
+							],
+							[
+								0.334043461659515,
+								51.2867019756122
+							],
+							[
+								0.334043461659515,
+								51.6918240878432
+							],
+							[
+								-0.510364798739281,
+								51.6918240878432
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 15 10:27:20 +0000 2017",
+		"id": 930744014533513200,
+		"id_str": "930744014533513216",
+		"text": "New image: Thermomix added to Flickr https://t.co/a7SmSDAg59",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 930744012050456600,
+					"id_str": "930744012050456576",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/DOqqv2cW4AArdix.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOqqv2cW4AArdix.jpg",
+					"url": "https://t.co/a7SmSDAg59",
+					"display_url": "pic.twitter.com/a7SmSDAg59",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/930744014533513216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 986,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 655,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 986,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 930744012050456600,
+					"id_str": "930744012050456576",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/DOqqv2cW4AArdix.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOqqv2cW4AArdix.jpg",
+					"url": "https://t.co/a7SmSDAg59",
+					"display_url": "pic.twitter.com/a7SmSDAg59",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/930744014533513216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 986,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 655,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 986,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. I write at https://t.co/PkNuJdsUBx",
+			"url": "https://t.co/uTlsCeAwJ7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4302,
+			"friends_count": 3009,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4901,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29519,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 15 09:06:40 +0000 2017",
 		"id": 930723717235085300,
 		"id_str": "930723717235085312",
