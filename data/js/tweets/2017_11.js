@@ -1,6 +1,934 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Fri Nov 17 21:52:07 +0000 2017",
+		"id": 931641123524636700,
+		"id_str": "931641123524636672",
+		"text": "RT @markxsyst: @GFThommo @mrkrndvs @Capitan_Typo I’m out. I’ll read some Wittgenstein to make it clearer.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "markxsyst",
+					"name": "Lexical Infidelity",
+					"id": 348434001,
+					"id_str": "348434001",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "GFThommo",
+					"name": "Dr Beardface",
+					"id": 488946521,
+					"id_str": "488946521",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						25,
+						34
+					]
+				},
+				{
+					"screen_name": "Capitan_Typo",
+					"name": "Cameron Malcher",
+					"id": 295070137,
+					"id_str": "295070137",
+					"indices": [
+						35,
+						48
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. I write at https://t.co/PkNuJdsUBx",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4303,
+			"friends_count": 3010,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4902,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29556,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 17 21:45:36 +0000 2017",
+			"id": 931639481274212400,
+			"id_str": "931639481274212352",
+			"text": "@GFThommo @mrkrndvs @Capitan_Typo I’m out. I’ll read some Wittgenstein to make it clearer.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GFThommo",
+						"name": "Dr Beardface",
+						"id": 488946521,
+						"id_str": "488946521",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							10,
+							19
+						]
+					},
+					{
+						"screen_name": "Capitan_Typo",
+						"name": "Cameron Malcher",
+						"id": 295070137,
+						"id_str": "295070137",
+						"indices": [
+							20,
+							33
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": 931638656757928000,
+			"in_reply_to_status_id_str": "931638656757927936",
+			"in_reply_to_user_id": 488946521,
+			"in_reply_to_user_id_str": "488946521",
+			"in_reply_to_screen_name": "GFThommo",
+			"user": {
+				"id": 348434001,
+				"id_str": "348434001",
+				"name": "Lexical Infidelity",
+				"screen_name": "markxsyst",
+				"location": "The Shades, Ankh-Morpork. ",
+				"description": "Thus, it’s a perpetual self-fueling vehicle of the very oppression the oppressed rage against.",
+				"url": "https://t.co/uWL5SXIrml",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uWL5SXIrml",
+								"expanded_url": "https://disengagededucator.wordpress.com/",
+								"display_url": "disengagededucator.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1096,
+				"friends_count": 705,
+				"listed_count": 67,
+				"created_at": "Thu Aug 04 12:33:49 +0000 2011",
+				"favourites_count": 9273,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18725,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/916939762824445952/LxAWKWk1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/916939762824445952/LxAWKWk1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/348434001/1470573438",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 17 21:39:47 +0000 2017",
+		"id": 931638018309419000,
+		"id_str": "931638018309419008",
+		"text": "@GFThommo @markxsyst @Capitan_Typo Wow, there are 62 pieces in The Conversation on NAPLAN. It would be fascinating… https://t.co/znzOYqvSN6",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GFThommo",
+					"name": "Dr Beardface",
+					"id": 488946521,
+					"id_str": "488946521",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "markxsyst",
+					"name": "Lexical Infidelity",
+					"id": 348434001,
+					"id_str": "348434001",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "Capitan_Typo",
+					"name": "Cameron Malcher",
+					"id": 295070137,
+					"id_str": "295070137",
+					"indices": [
+						21,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/znzOYqvSN6",
+					"expanded_url": "https://twitter.com/i/web/status/931638018309419008",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 931470470163054600,
+		"in_reply_to_status_id_str": "931470470163054593",
+		"in_reply_to_user_id": 488946521,
+		"in_reply_to_user_id_str": "488946521",
+		"in_reply_to_screen_name": "GFThommo",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. I write at https://t.co/PkNuJdsUBx",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4303,
+			"friends_count": 3010,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4902,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29556,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 17 21:20:47 +0000 2017",
+		"id": 931633238971334700,
+		"id_str": "931633238971334656",
+		"text": "RT @markxsyst: @GFThommo @corisel @Capitan_Typo I’m stuck in a loop. NAPLAN can’t help learning it’s not designed to do that. Check. Also i…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "markxsyst",
+					"name": "Lexical Infidelity",
+					"id": 348434001,
+					"id_str": "348434001",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "GFThommo",
+					"name": "Dr Beardface",
+					"id": 488946521,
+					"id_str": "488946521",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "corisel",
+					"name": "Corinne Campbell 🌈 Legislate Yes 🌈",
+					"id": 63471960,
+					"id_str": "63471960",
+					"indices": [
+						25,
+						33
+					]
+				},
+				{
+					"screen_name": "Capitan_Typo",
+					"name": "Cameron Malcher",
+					"id": 295070137,
+					"id_str": "295070137",
+					"indices": [
+						34,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. I write at https://t.co/PkNuJdsUBx",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4303,
+			"friends_count": 3010,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4902,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29556,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 17 21:13:23 +0000 2017",
+			"id": 931631374456385500,
+			"id_str": "931631374456385536",
+			"text": "@GFThommo @corisel @Capitan_Typo I’m stuck in a loop. NAPLAN can’t help learning it’s not designed to do that. Chec… https://t.co/mivsP0bnV9",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GFThommo",
+						"name": "Dr Beardface",
+						"id": 488946521,
+						"id_str": "488946521",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "corisel",
+						"name": "Corinne Campbell 🌈 Legislate Yes 🌈",
+						"id": 63471960,
+						"id_str": "63471960",
+						"indices": [
+							10,
+							18
+						]
+					},
+					{
+						"screen_name": "Capitan_Typo",
+						"name": "Cameron Malcher",
+						"id": 295070137,
+						"id_str": "295070137",
+						"indices": [
+							19,
+							32
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mivsP0bnV9",
+						"expanded_url": "https://twitter.com/i/web/status/931631374456385536",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 931500762751893500,
+			"in_reply_to_status_id_str": "931500762751893505",
+			"in_reply_to_user_id": 488946521,
+			"in_reply_to_user_id_str": "488946521",
+			"in_reply_to_screen_name": "GFThommo",
+			"user": {
+				"id": 348434001,
+				"id_str": "348434001",
+				"name": "Lexical Infidelity",
+				"screen_name": "markxsyst",
+				"location": "The Shades, Ankh-Morpork. ",
+				"description": "Thus, it’s a perpetual self-fueling vehicle of the very oppression the oppressed rage against.",
+				"url": "https://t.co/uWL5SXIrml",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uWL5SXIrml",
+								"expanded_url": "https://disengagededucator.wordpress.com/",
+								"display_url": "disengagededucator.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1096,
+				"friends_count": 705,
+				"listed_count": 67,
+				"created_at": "Thu Aug 04 12:33:49 +0000 2011",
+				"favourites_count": 9273,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18725,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/916939762824445952/LxAWKWk1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/916939762824445952/LxAWKWk1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/348434001/1470573438",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 17 21:18:45 +0000 2017",
+		"id": 931632724833476600,
+		"id_str": "931632724833476608",
+		"text": "RT @GFThommo: @markxsyst @Capitan_Typo It’s less that NAPLAN isn’t working, more that the policy agenda assumed that it would improve lit/n…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GFThommo",
+					"name": "Dr Beardface",
+					"id": 488946521,
+					"id_str": "488946521",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "markxsyst",
+					"name": "Lexical Infidelity",
+					"id": 348434001,
+					"id_str": "348434001",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "Capitan_Typo",
+					"name": "Cameron Malcher",
+					"id": 295070137,
+					"id_str": "295070137",
+					"indices": [
+						25,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. I write at https://t.co/PkNuJdsUBx",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PkNuJdsUBx",
+							"expanded_url": "http://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4303,
+			"friends_count": 3010,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4902,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29556,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 17 10:31:29 +0000 2017",
+			"id": 931469838291054600,
+			"id_str": "931469838291054592",
+			"text": "@markxsyst @Capitan_Typo It’s less that NAPLAN isn’t working, more that the policy agenda assumed that it would imp… https://t.co/dz9FPXv7Pk",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "markxsyst",
+						"name": "Lexical Infidelity",
+						"id": 348434001,
+						"id_str": "348434001",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "Capitan_Typo",
+						"name": "Cameron Malcher",
+						"id": 295070137,
+						"id_str": "295070137",
+						"indices": [
+							11,
+							24
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dz9FPXv7Pk",
+						"expanded_url": "https://twitter.com/i/web/status/931469838291054592",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": 931466524203761700,
+			"in_reply_to_status_id_str": "931466524203761664",
+			"in_reply_to_user_id": 348434001,
+			"in_reply_to_user_id_str": "348434001",
+			"in_reply_to_screen_name": "markxsyst",
+			"user": {
+				"id": 488946521,
+				"id_str": "488946521",
+				"name": "Dr Beardface",
+				"screen_name": "GFThommo",
+				"location": "Australia",
+				"description": "Academic, interested in assessment, school communities, teachers work, theory, ed policy. My views, not employers. RTs not endorsements.",
+				"url": "https://t.co/FlwRGHbxTM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FlwRGHbxTM",
+								"expanded_url": "http://drbeardface.net",
+								"display_url": "drbeardface.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4087,
+				"friends_count": 3071,
+				"listed_count": 149,
+				"created_at": "Sat Feb 11 01:04:24 +0000 2012",
+				"favourites_count": 11611,
+				"utc_offset": 36000,
+				"time_zone": "Brisbane",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23875,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3164014975/cfaf995a40150eb0526f95f77efdfb4c_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3164014975/cfaf995a40150eb0526f95f77efdfb4c_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/488946521/1436743048",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 17 21:14:23 +0000 2017",
 		"id": 931631628853461000,
 		"id_str": "931631628853460992",
