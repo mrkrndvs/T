@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sat Dec 09 02:57:01 +0000 2017",
+		"id": 939328000553656300,
+		"id_str": "939328000553656320",
+		"text": "@corisel @jonesytheteachr @aly_ciab9 @lasic  https://t.co/sdnHBrkW2o",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "corisel",
+					"name": "Corinne Campbell 🌈 🥂🎉 Finally Marriage Equality",
+					"id": 63471960,
+					"id_str": "63471960",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "jonesytheteachr",
+					"name": "Brendan Jones 🚴",
+					"id": 31748738,
+					"id_str": "31748738",
+					"indices": [
+						9,
+						25
+					]
+				},
+				{
+					"screen_name": "aly_ciab9",
+					"name": "Alycia",
+					"id": 1599907484,
+					"id_str": "1599907484",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"screen_name": "lasic",
+					"name": "Tomaz Lasic",
+					"id": 15668900,
+					"id_str": "15668900",
+					"indices": [
+						37,
+						43
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 939327988931354600,
+					"id_str": "939327988931354624",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DQkp1EPV4AAl4rW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQkp1EPV4AAl4rW.jpg",
+					"url": "https://t.co/sdnHBrkW2o",
+					"display_url": "pic.twitter.com/sdnHBrkW2o",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/939328000553656320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 296,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 296,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 296,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 939327988931354600,
+					"id_str": "939327988931354624",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DQkp1EPV4AAl4rW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQkp1EPV4AAl4rW.jpg",
+					"url": "https://t.co/sdnHBrkW2o",
+					"display_url": "pic.twitter.com/sdnHBrkW2o",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/939328000553656320/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 296,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 296,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 296,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							148
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DQkp1EPV4AAl4rW.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 939327292412592100,
+		"in_reply_to_status_id_str": "939327292412592128",
+		"in_reply_to_user_id": 63471960,
+		"in_reply_to_user_id_str": "63471960",
+		"in_reply_to_screen_name": "corisel",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4310,
+			"friends_count": 3012,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4926,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29773,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Fri Dec 08 23:44:50 +0000 2017",
 		"id": 939279634729857000,
 		"id_str": "939279634729857025",
