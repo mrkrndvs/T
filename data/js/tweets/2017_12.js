@@ -1,6 +1,444 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Wed Dec 27 09:07:56 +0000 2017",
+		"id": 945944324247711700,
+		"id_str": "945944324247711746",
+		"text": "RT @mesterman: What would ours be (in Australia) for 2017? @EduTweetOz @johnqgoh @stringer_andrea @MrMCimino @mrkrndvs @misterwootube @yaso…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mesterman",
+					"name": "Matt Esterman",
+					"id": 14906194,
+					"id_str": "14906194",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "EduTweetOz",
+					"name": "EduTweetOz: Back in 2018!",
+					"id": 1361688518,
+					"id_str": "1361688518",
+					"indices": [
+						59,
+						70
+					]
+				},
+				{
+					"screen_name": "johnqgoh",
+					"name": "johnqgoh",
+					"id": 412194142,
+					"id_str": "412194142",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"screen_name": "stringer_andrea",
+					"name": "Andrea Stringer 🇦🇺",
+					"id": 585586447,
+					"id_str": "585586447",
+					"indices": [
+						81,
+						97
+					]
+				},
+				{
+					"screen_name": "MrMCimino",
+					"name": "Marco Cimino",
+					"id": 3070802660,
+					"id_str": "3070802660",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						109,
+						118
+					]
+				},
+				{
+					"screen_name": "misterwootube",
+					"name": "Eddie Woo",
+					"id": 1425288158,
+					"id_str": "1425288158",
+					"indices": [
+						119,
+						133
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4330,
+			"friends_count": 3010,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4946,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29940,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 27 08:28:56 +0000 2017",
+			"id": 945934509249151000,
+			"id_str": "945934509249150976",
+			"text": "What would ours be (in Australia) for 2017? @EduTweetOz @johnqgoh @stringer_andrea @MrMCimino @mrkrndvs… https://t.co/JcN7LDIzjt",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EduTweetOz",
+						"name": "EduTweetOz: Back in 2018!",
+						"id": 1361688518,
+						"id_str": "1361688518",
+						"indices": [
+							44,
+							55
+						]
+					},
+					{
+						"screen_name": "johnqgoh",
+						"name": "johnqgoh",
+						"id": 412194142,
+						"id_str": "412194142",
+						"indices": [
+							56,
+							65
+						]
+					},
+					{
+						"screen_name": "stringer_andrea",
+						"name": "Andrea Stringer 🇦🇺",
+						"id": 585586447,
+						"id_str": "585586447",
+						"indices": [
+							66,
+							82
+						]
+					},
+					{
+						"screen_name": "MrMCimino",
+						"name": "Marco Cimino",
+						"id": 3070802660,
+						"id_str": "3070802660",
+						"indices": [
+							83,
+							93
+						]
+					},
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							94,
+							103
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/JcN7LDIzjt",
+						"expanded_url": "https://twitter.com/i/web/status/945934509249150976",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14906194,
+				"id_str": "14906194",
+				"name": "Matt Esterman",
+				"screen_name": "mesterman",
+				"location": "Sydney, Australia",
+				"description": "Teaching & Learning Integrator at @tgslibrary @trinitygrammar | #histedchat #edtech #teachmeet | dad | read https://t.co/WUbizCoCQ7 | views my own",
+				"url": "https://t.co/WGqY2vBuX1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WGqY2vBuX1",
+								"expanded_url": "https://au.linkedin.com/in/mesterman",
+								"display_url": "au.linkedin.com/in/mesterman",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/WUbizCoCQ7",
+								"expanded_url": "https://medium.com/@matt_esterman",
+								"display_url": "medium.com/@matt_esterman",
+								"indices": [
+									108,
+									131
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12036,
+				"friends_count": 10382,
+				"listed_count": 563,
+				"created_at": "Mon May 26 07:11:29 +0000 2008",
+				"favourites_count": 11144,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 32385,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/835365550305890305/847XChNY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/835365550305890305/847XChNY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14906194/1507067934",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 945916157088936000,
+			"quoted_status_id_str": "945916157088935936",
+			"quoted_status": {
+				"created_at": "Wed Dec 27 07:16:00 +0000 2017",
+				"id": 945916157088936000,
+				"id_str": "945916157088935936",
+				"text": "Here are some of the most controversial opinions that got people talking this year https://t.co/eEvif01meU",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/eEvif01meU",
+							"expanded_url": "https://schoolsweek.co.uk/?p=68311",
+							"display_url": "schoolsweek.co.uk/?p=68311",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2491487924,
+					"id_str": "2491487924",
+					"name": "Schools Week",
+					"screen_name": "SchoolsWeek",
+					"location": "Greenwich, London",
+					"description": "Latest news on primary and secondary schools and education policy in England. Exclusive interviews, news and experts - for readers who like to be in the know.",
+					"url": "https://t.co/hwNUMxmlen",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/hwNUMxmlen",
+									"expanded_url": "http://schoolsweek.co.uk",
+									"display_url": "schoolsweek.co.uk",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 41447,
+					"friends_count": 3071,
+					"listed_count": 481,
+					"created_at": "Mon May 12 13:56:48 +0000 2014",
+					"favourites_count": 961,
+					"utc_offset": 0,
+					"time_zone": "London",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 41953,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/808627239583707136/K5Vx7pwX_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/808627239583707136/K5Vx7pwX_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2491487924/1513689729",
+					"profile_link_color": "F2620F",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 7,
+				"favorite_count": 3,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 945916157088936000,
+		"quoted_status_id_str": "945916157088935936",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Dec 27 03:25:58 +0000 2017",
 		"id": 945858266592170000,
 		"id_str": "945858266592169984",
