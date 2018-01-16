@@ -1,6 +1,523 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 16 03:57:39 +0000 2018",
+		"id": 953113994914553900,
+		"id_str": "953113994914553857",
+		"text": "RT @BBL: 100 sixes in 100 seconds!\n\nSit back and enjoy every single six hit by @lynny50 in the BBL! 🔥🔥🔥 https://t.co/1zUcY6WL6i",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBL",
+					"name": "KFC Big Bash League",
+					"id": 224839276,
+					"id_str": "224839276",
+					"indices": [
+						3,
+						7
+					]
+				},
+				{
+					"screen_name": "lynny50",
+					"name": "Chris Lynn",
+					"id": 196530731,
+					"id_str": "196530731",
+					"indices": [
+						79,
+						87
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 949207900408311800,
+					"id_str": "949207900408311808",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/949207900408311808/img/ORvMjLetj1S-hSGw.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/949207900408311808/img/ORvMjLetj1S-hSGw.jpg",
+					"url": "https://t.co/1zUcY6WL6i",
+					"display_url": "pic.twitter.com/1zUcY6WL6i",
+					"expanded_url": "https://twitter.com/BBL/status/949211468695724032/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 949211468695724000,
+					"source_status_id_str": "949211468695724032",
+					"source_user_id": 224839276,
+					"source_user_id_str": "224839276"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 949207900408311800,
+					"id_str": "949207900408311808",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/949207900408311808/img/ORvMjLetj1S-hSGw.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/949207900408311808/img/ORvMjLetj1S-hSGw.jpg",
+					"url": "https://t.co/1zUcY6WL6i",
+					"display_url": "pic.twitter.com/1zUcY6WL6i",
+					"expanded_url": "https://twitter.com/BBL/status/949211468695724032/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 949211468695724000,
+					"source_status_id_str": "949211468695724032",
+					"source_user_id": 224839276,
+					"source_user_id_str": "224839276",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 100440,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/949207900408311808/pl/3zZrckpCTLWysqFR.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/949207900408311808/vid/480x480/jlz9NwGtmWrQ2zTl.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/949207900408311808/vid/240x240/XkfOqrf4NZwtW0Sj.mp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/949207900408311808/vid/720x720/i05UMhlXHWF1maPF.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 224839276,
+							"id_str": "224839276",
+							"name": "KFC Big Bash League",
+							"screen_name": "BBL",
+							"location": "",
+							"description": "Welcome to the official account of the KFC BBL - summer's best value entertainment! #BBL07 Snapchat: bigbashleague",
+							"url": "https://t.co/kMvkO4rw6i",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/kMvkO4rw6i",
+											"expanded_url": "http://www.bigbash.com.au",
+											"display_url": "bigbash.com.au",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 245732,
+							"friends_count": 254,
+							"listed_count": 725,
+							"created_at": "Fri Dec 10 00:31:51 +0000 2010",
+							"favourites_count": 438,
+							"utc_offset": 39600,
+							"time_zone": "Melbourne",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 19579,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/867097193/68acf1355a916c2be63abb858d8cbb65.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/867097193/68acf1355a916c2be63abb858d8cbb65.jpeg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/597989005670518786/BG857v0K_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/597989005670518786/BG857v0K_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/224839276/1485990742",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4334,
+			"friends_count": 1489,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4940,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30055,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 05 09:30:24 +0000 2018",
+			"id": 949211468695724000,
+			"id_str": "949211468695724032",
+			"text": "100 sixes in 100 seconds!\n\nSit back and enjoy every single six hit by @lynny50 in the BBL! 🔥🔥🔥 https://t.co/1zUcY6WL6i",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "lynny50",
+						"name": "Chris Lynn",
+						"id": 196530731,
+						"id_str": "196530731",
+						"indices": [
+							70,
+							78
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 949207900408311800,
+						"id_str": "949207900408311808",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/949207900408311808/img/ORvMjLetj1S-hSGw.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/949207900408311808/img/ORvMjLetj1S-hSGw.jpg",
+						"url": "https://t.co/1zUcY6WL6i",
+						"display_url": "pic.twitter.com/1zUcY6WL6i",
+						"expanded_url": "https://twitter.com/BBL/status/949211468695724032/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 949207900408311800,
+						"id_str": "949207900408311808",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/949207900408311808/img/ORvMjLetj1S-hSGw.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/949207900408311808/img/ORvMjLetj1S-hSGw.jpg",
+						"url": "https://t.co/1zUcY6WL6i",
+						"display_url": "pic.twitter.com/1zUcY6WL6i",
+						"expanded_url": "https://twitter.com/BBL/status/949211468695724032/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 100440,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/949207900408311808/pl/3zZrckpCTLWysqFR.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/949207900408311808/vid/480x480/jlz9NwGtmWrQ2zTl.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/949207900408311808/vid/240x240/XkfOqrf4NZwtW0Sj.mp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/949207900408311808/vid/720x720/i05UMhlXHWF1maPF.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 224839276,
+				"id_str": "224839276",
+				"name": "KFC Big Bash League",
+				"screen_name": "BBL",
+				"location": "",
+				"description": "Welcome to the official account of the KFC BBL - summer's best value entertainment! #BBL07 Snapchat: bigbashleague",
+				"url": "https://t.co/kMvkO4rw6i",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kMvkO4rw6i",
+								"expanded_url": "http://www.bigbash.com.au",
+								"display_url": "bigbash.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 245732,
+				"friends_count": 254,
+				"listed_count": 725,
+				"created_at": "Fri Dec 10 00:31:51 +0000 2010",
+				"favourites_count": 438,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19579,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/867097193/68acf1355a916c2be63abb858d8cbb65.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/867097193/68acf1355a916c2be63abb858d8cbb65.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/597989005670518786/BG857v0K_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/597989005670518786/BG857v0K_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/224839276/1485990742",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2266,
+			"favorite_count": 5924,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2266,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 15 21:52:42 +0000 2018",
 		"id": 953022153900863500,
 		"id_str": "953022153900863494",
