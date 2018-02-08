@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Thu Feb 08 22:28:26 +0000 2018",
+		"id": 961728453887184900,
+		"id_str": "961728453887184896",
+		"text": "@corisel https://t.co/I73GQutxv3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "corisel",
+					"name": "Corinne Campbell (Trust me, I'm a professional)",
+					"id": 63471960,
+					"id_str": "63471960",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/I73GQutxv3",
+					"expanded_url": "https://twitter.com/ohalloran_c/status/961695401911840768",
+					"display_url": "twitter.com/ohalloran_c/st…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 63471960,
+		"in_reply_to_user_id_str": "63471960",
+		"in_reply_to_screen_name": "corisel",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4280,
+			"friends_count": 1112,
+			"listed_count": 396,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4948,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30248,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 961695401911840800,
+		"quoted_status_id_str": "961695401911840768",
+		"quoted_status": {
+			"created_at": "Thu Feb 08 20:17:05 +0000 2018",
+			"id": 961695401911840800,
+			"id_str": "961695401911840768",
+			"text": "@mrkrndvs I’m fairly sure it was covered on all main news but def channel 9 -also https://t.co/RghtY1Xr0D",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/RghtY1Xr0D",
+						"expanded_url": "http://www.smh.com.au/national/doctors-advised-to-stop-performing-arthroscopic-knee-surgery-for-osteoarthritis-20180202-h0sna1.html",
+						"display_url": "smh.com.au/national/docto…",
+						"indices": [
+							82,
+							105
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 961535673873215500,
+			"in_reply_to_status_id_str": "961535673873215490",
+			"in_reply_to_user_id": 372768752,
+			"in_reply_to_user_id_str": "372768752",
+			"in_reply_to_screen_name": "mrkrndvs",
+			"user": {
+				"id": 1662288932,
+				"id_str": "1662288932",
+				"name": "Catherine O'Halloran",
+				"screen_name": "ohalloran_c",
+				"location": "Melbourne, Australia",
+				"description": "Scientist, educator, technophile, workaholic and Western Bulldogs tragic. Implementation coach, Apple teacher. Former Dir of Innovation and Head of Science.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 236,
+				"friends_count": 630,
+				"listed_count": 5,
+				"created_at": "Sun Aug 11 11:03:52 +0000 2013",
+				"favourites_count": 948,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 352,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000273954426/6c6eae9f141ce39fed38548c57bf85ed_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000273954426/6c6eae9f141ce39fed38548c57bf85ed_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1662288932/1376220272",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Thu Feb 08 20:02:43 +0000 2018",
 		"id": 961691784928673800,
 		"id_str": "961691784928673792",
