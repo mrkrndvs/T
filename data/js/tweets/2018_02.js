@@ -1,6 +1,439 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Tue Feb 13 11:05:23 +0000 2018",
+		"id": 963368499262275600,
+		"id_str": "963368499262275584",
+		"text": "RT @kimyeo: Thank you for your invaluable curation of ideas for using G Suite in #schoollibraries #oztlnet https://t.co/SPFlx0LLkG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "schoollibraries",
+					"indices": [
+						81,
+						97
+					]
+				},
+				{
+					"text": "oztlnet",
+					"indices": [
+						98,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kimyeo",
+					"name": "Kim Yeomans",
+					"id": 21451216,
+					"id_str": "21451216",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SPFlx0LLkG",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/961528172046041088",
+					"display_url": "twitter.com/mrkrndvs/statu…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4275,
+			"friends_count": 1113,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4952,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30278,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 13 07:23:54 +0000 2018",
+			"id": 963312762288971800,
+			"id_str": "963312762288971776",
+			"text": "Thank you for your invaluable curation of ideas for using G Suite in #schoollibraries #oztlnet https://t.co/SPFlx0LLkG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "schoollibraries",
+						"indices": [
+							69,
+							85
+						]
+					},
+					{
+						"text": "oztlnet",
+						"indices": [
+							86,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SPFlx0LLkG",
+						"expanded_url": "https://twitter.com/mrkrndvs/status/961528172046041088",
+						"display_url": "twitter.com/mrkrndvs/statu…",
+						"indices": [
+							95,
+							118
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21451216,
+				"id_str": "21451216",
+				"name": "Kim Yeomans",
+				"screen_name": "kimyeo",
+				"location": "Melbourne, Australia",
+				"description": "Passionate P-6 teacher librarian. Powered by books, technology and chocolate. I read...what's your super power?",
+				"url": "https://t.co/23uHcKGXlA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/23uHcKGXlA",
+								"expanded_url": "http://smotlrcblog.edublogs.org",
+								"display_url": "smotlrcblog.edublogs.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2120,
+				"friends_count": 1542,
+				"listed_count": 138,
+				"created_at": "Sat Feb 21 00:44:10 +0000 2009",
+				"favourites_count": 9284,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14148,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/698308131135234048/fPSAbZF8.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/698308131135234048/fPSAbZF8.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/825265919727276032/eK1N1ui-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/825265919727276032/eK1N1ui-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21451216/1493453302",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 961528172046041100,
+			"quoted_status_id_str": "961528172046041088",
+			"quoted_status": {
+				"created_at": "Thu Feb 08 09:12:35 +0000 2018",
+				"id": 961528172046041100,
+				"id_str": "961528172046041088",
+				"text": "Googling Libraries https://t.co/y7iXm8yvse #googleedu #engchat CC @ericcurts @daibarnes @anthsperanza @mesterman… https://t.co/wnVwMDkmiP",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "googleedu",
+							"indices": [
+								43,
+								53
+							]
+						},
+						{
+							"text": "engchat",
+							"indices": [
+								54,
+								62
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "ericcurts",
+							"name": "Eric Curts",
+							"id": 17999593,
+							"id_str": "17999593",
+							"indices": [
+								66,
+								76
+							]
+						},
+						{
+							"screen_name": "daibarnes",
+							"name": "Dai Barnes",
+							"id": 14143403,
+							"id_str": "14143403",
+							"indices": [
+								77,
+								87
+							]
+						},
+						{
+							"screen_name": "anthsperanza",
+							"name": "Anthony Speranza",
+							"id": 130416490,
+							"id_str": "130416490",
+							"indices": [
+								88,
+								101
+							]
+						},
+						{
+							"screen_name": "mesterman",
+							"name": "Matt Esterman",
+							"id": 14906194,
+							"id_str": "14906194",
+							"indices": [
+								102,
+								112
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/y7iXm8yvse",
+							"expanded_url": "https://readwriterespond.com/2018/02/googling-libraries/",
+							"display_url": "readwriterespond.com/2018/02/googli…",
+							"indices": [
+								19,
+								42
+							]
+						},
+						{
+							"url": "https://t.co/wnVwMDkmiP",
+							"expanded_url": "https://twitter.com/i/web/status/961528172046041088",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								114,
+								137
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 372768752,
+					"id_str": "372768752",
+					"name": "Aaron Davis 🏘️",
+					"screen_name": "mrkrndvs",
+					"location": "Melbourne, Australia",
+					"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+					"url": "https://t.co/9kvcoZA3IC",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/9kvcoZA3IC",
+									"expanded_url": "https://collect.readwriterespond.com",
+									"display_url": "collect.readwriterespond.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/uTlsCeAwJ7",
+									"expanded_url": "https://readwriterespond.com",
+									"display_url": "readwriterespond.com",
+									"indices": [
+										125,
+										148
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 4275,
+					"friends_count": 1113,
+					"listed_count": 395,
+					"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+					"favourites_count": 4952,
+					"utc_offset": 36000,
+					"time_zone": "Brisbane",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 30278,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+					"profile_link_color": "91D2FA",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 13,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 961528172046041100,
+		"quoted_status_id_str": "961528172046041088",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 12 22:34:33 +0000 2018",
 		"id": 963179546316103700,
 		"id_str": "963179546316103680",
