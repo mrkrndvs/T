@@ -1,6 +1,525 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Wed Feb 28 23:09:17 +0000 2018",
+		"id": 968986493099192300,
+		"id_str": "968986493099192320",
+		"text": "RT @adriancamm: @DLTVictoria @samjirwin @CorrieB @GeelongGrammar @GreaterGeelong @mrkrndvs @Ben_Mr_G @FifiStafford @fionaf_fiona @annward30…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adriancamm",
+					"name": "Adrian Camm",
+					"id": 17730865,
+					"id_str": "17730865",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "DLTVictoria",
+					"name": "DLTV",
+					"id": 16281844,
+					"id_str": "16281844",
+					"indices": [
+						16,
+						28
+					]
+				},
+				{
+					"screen_name": "samjirwin",
+					"name": "Sam Irwin",
+					"id": 198727323,
+					"id_str": "198727323",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"screen_name": "CorrieB",
+					"name": "Corrie Barclay",
+					"id": 196529471,
+					"id_str": "196529471",
+					"indices": [
+						40,
+						48
+					]
+				},
+				{
+					"screen_name": "GeelongGrammar",
+					"name": "Geelong Grammar",
+					"id": 929019866,
+					"id_str": "929019866",
+					"indices": [
+						49,
+						64
+					]
+				},
+				{
+					"screen_name": "GreaterGeelong",
+					"name": "CityofGreaterGeelong",
+					"id": 171801336,
+					"id_str": "171801336",
+					"indices": [
+						65,
+						80
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"screen_name": "Ben_Mr_G",
+					"name": "Ben Gallagher",
+					"id": 38384508,
+					"id_str": "38384508",
+					"indices": [
+						91,
+						100
+					]
+				},
+				{
+					"screen_name": "FifiStafford",
+					"name": "Fiona Stafford",
+					"id": 2778315966,
+					"id_str": "2778315966",
+					"indices": [
+						101,
+						114
+					]
+				},
+				{
+					"screen_name": "fionaf_fiona",
+					"name": "Fiona Fitzgerald",
+					"id": 2470172401,
+					"id_str": "2470172401",
+					"indices": [
+						115,
+						128
+					]
+				},
+				{
+					"screen_name": "annward30",
+					"name": "Ann Ward",
+					"id": 275371245,
+					"id_str": "275371245",
+					"indices": [
+						129,
+						139
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4271,
+			"friends_count": 1115,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4953,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30332,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 28 22:17:04 +0000 2018",
+			"id": 968973350390218800,
+			"id_str": "968973350390218752",
+			"text": "@DLTVictoria @samjirwin @CorrieB @GeelongGrammar @GreaterGeelong @mrkrndvs @Ben_Mr_G @FifiStafford @fionaf_fiona… https://t.co/VMSLyt3PTe",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DLTVictoria",
+						"name": "DLTV",
+						"id": 16281844,
+						"id_str": "16281844",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "samjirwin",
+						"name": "Sam Irwin",
+						"id": 198727323,
+						"id_str": "198727323",
+						"indices": [
+							13,
+							23
+						]
+					},
+					{
+						"screen_name": "CorrieB",
+						"name": "Corrie Barclay",
+						"id": 196529471,
+						"id_str": "196529471",
+						"indices": [
+							24,
+							32
+						]
+					},
+					{
+						"screen_name": "GeelongGrammar",
+						"name": "Geelong Grammar",
+						"id": 929019866,
+						"id_str": "929019866",
+						"indices": [
+							33,
+							48
+						]
+					},
+					{
+						"screen_name": "GreaterGeelong",
+						"name": "CityofGreaterGeelong",
+						"id": 171801336,
+						"id_str": "171801336",
+						"indices": [
+							49,
+							64
+						]
+					},
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							65,
+							74
+						]
+					},
+					{
+						"screen_name": "Ben_Mr_G",
+						"name": "Ben Gallagher",
+						"id": 38384508,
+						"id_str": "38384508",
+						"indices": [
+							75,
+							84
+						]
+					},
+					{
+						"screen_name": "FifiStafford",
+						"name": "Fiona Stafford",
+						"id": 2778315966,
+						"id_str": "2778315966",
+						"indices": [
+							85,
+							98
+						]
+					},
+					{
+						"screen_name": "fionaf_fiona",
+						"name": "Fiona Fitzgerald",
+						"id": 2470172401,
+						"id_str": "2470172401",
+						"indices": [
+							99,
+							112
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/VMSLyt3PTe",
+						"expanded_url": "https://twitter.com/i/web/status/968973350390218752",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 16281844,
+			"in_reply_to_user_id_str": "16281844",
+			"in_reply_to_screen_name": "DLTVictoria",
+			"user": {
+				"id": 17730865,
+				"id_str": "17730865",
+				"name": "Adrian Camm",
+				"screen_name": "adriancamm",
+				"location": "Australia",
+				"description": "Contemplating running, learning & life. Director of Teaching & Learning at an Independent School. PhD Candidate.",
+				"url": "https://t.co/vCxMG7Hux4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vCxMG7Hux4",
+								"expanded_url": "http://adriancamm.com",
+								"display_url": "adriancamm.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2143,
+				"friends_count": 1151,
+				"listed_count": 174,
+				"created_at": "Sat Nov 29 08:21:36 +0000 2008",
+				"favourites_count": 6073,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12691,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/951754900039286784/hkxkDZRx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/951754900039286784/hkxkDZRx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17730865/1412505012",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 968757989372059600,
+			"quoted_status_id_str": "968757989372059650",
+			"quoted_status": {
+				"created_at": "Wed Feb 28 08:01:17 +0000 2018",
+				"id": 968757989372059600,
+				"id_str": "968757989372059650",
+				"text": "Come and spend the morning learning and thinking with @garystager as he unpacks the connection between the Maker Mo… https://t.co/wa1YoLWv1D",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "garystager",
+							"name": "Gary Stager, Ph.D.",
+							"id": 8870632,
+							"id_str": "8870632",
+							"indices": [
+								54,
+								65
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/wa1YoLWv1D",
+							"expanded_url": "https://twitter.com/i/web/status/968757989372059650",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 17730865,
+					"id_str": "17730865",
+					"name": "Adrian Camm",
+					"screen_name": "adriancamm",
+					"location": "Australia",
+					"description": "Contemplating running, learning & life. Director of Teaching & Learning at an Independent School. PhD Candidate.",
+					"url": "https://t.co/vCxMG7Hux4",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/vCxMG7Hux4",
+									"expanded_url": "http://adriancamm.com",
+									"display_url": "adriancamm.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2143,
+					"friends_count": 1151,
+					"listed_count": 174,
+					"created_at": "Sat Nov 29 08:21:36 +0000 2008",
+					"favourites_count": 6073,
+					"utc_offset": -36000,
+					"time_zone": "Hawaii",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 12691,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "642D8B",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/951754900039286784/hkxkDZRx_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/951754900039286784/hkxkDZRx_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/17730865/1412505012",
+					"profile_link_color": "FF0000",
+					"profile_sidebar_border_color": "65B0DA",
+					"profile_sidebar_fill_color": "7AC3EE",
+					"profile_text_color": "3D1957",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 9,
+				"favorite_count": 9,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 968757989372059600,
+		"quoted_status_id_str": "968757989372059650",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und"
+	},
+	{
 		"created_at": "Wed Feb 28 05:38:07 +0000 2018",
 		"id": 968721958606180400,
 		"id_str": "968721958606180353",
