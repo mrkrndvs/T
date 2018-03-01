@@ -1,6 +1,447 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Thu Mar 01 22:14:44 +0000 2018",
+		"id": 969335151326089200,
+		"id_str": "969335151326089219",
+		"text": "New image: 👍 Mulling Time added to Flickr https://t.co/NJdNHqK54a",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 969335149602230300,
+					"id_str": "969335149602230272",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DXPFLsxXUAAyuQt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXPFLsxXUAAyuQt.jpg",
+					"url": "https://t.co/NJdNHqK54a",
+					"display_url": "pic.twitter.com/NJdNHqK54a",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/969335151326089219/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 969335149602230300,
+					"id_str": "969335149602230272",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DXPFLsxXUAAyuQt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXPFLsxXUAAyuQt.jpg",
+					"url": "https://t.co/NJdNHqK54a",
+					"display_url": "pic.twitter.com/NJdNHqK54a",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/969335151326089219/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4271,
+			"friends_count": 1115,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4953,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30340,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Mar 01 21:27:32 +0000 2018",
+		"id": 969323274328002600,
+		"id_str": "969323274328002561",
+		"text": "Twitter Health Metrics https://t.co/nV39XRarY7 CC @ianinsheffield",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IaninSheffield",
+					"name": "Ian Guest",
+					"id": 21324520,
+					"id_str": "21324520",
+					"indices": [
+						50,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nV39XRarY7",
+					"expanded_url": "https://collect.readwriterespond.com/twitter-health/",
+					"display_url": "collect.readwriterespond.com/twitter-health/",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://readwriterespond.com\" rel=\"nofollow\">WordPress / NextScripts</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4271,
+			"friends_count": 1115,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4953,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30340,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Mar 01 21:19:09 +0000 2018",
+		"id": 969321166346190800,
+		"id_str": "969321166346190848",
+		"text": "@DrNomyn I think that 'ownership' is problematic. I remember it coming up in reference to #DoOO HT @KateMfD… https://t.co/dPQcaGBQgf",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DoOO",
+					"indices": [
+						90,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrNomyn",
+					"name": "Naomi Barnes",
+					"id": 24346748,
+					"id_str": "24346748",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "KateMfD",
+					"name": "Kate Bowles",
+					"id": 379065166,
+					"id_str": "379065166",
+					"indices": [
+						99,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dPQcaGBQgf",
+					"expanded_url": "https://twitter.com/i/web/status/969321166346190848",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 969318857742606300,
+		"in_reply_to_status_id_str": "969318857742606337",
+		"in_reply_to_user_id": 24346748,
+		"in_reply_to_user_id_str": "24346748",
+		"in_reply_to_screen_name": "DrNomyn",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4271,
+			"friends_count": 1115,
+			"listed_count": 395,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4953,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30340,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Mar 01 20:32:16 +0000 2018",
 		"id": 969309366783488000,
 		"id_str": "969309366783488002",
