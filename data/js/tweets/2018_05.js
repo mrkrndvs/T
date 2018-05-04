@@ -1,6 +1,290 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Fri May 04 07:20:48 +0000 2018",
+		"id": 992303012570792000,
+		"id_str": "992303012570791937",
+		"text": "RT @amyburvall: I’m finding amazing flight deals from #Hawaii to #Australia in Aug-Sept ... dm me if interested in having an @IntentionBook…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Hawaii",
+					"indices": [
+						54,
+						61
+					]
+				},
+				{
+					"text": "Australia",
+					"indices": [
+						65,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amyburvall",
+					"name": "ａｍｙｂｕｒｖａｌｌ",
+					"id": 158207707,
+					"id_str": "158207707",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "IntentionBook",
+					"name": "Intention: The Book",
+					"id": 854729503565910000,
+					"id_str": "854729503565910016",
+					"indices": [
+						125,
+						139
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4278,
+			"friends_count": 1104,
+			"listed_count": 391,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4945,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30626,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 04 02:46:06 +0000 2018",
+			"id": 992233878935945200,
+			"id_str": "992233878935945216",
+			"text": "I’m finding amazing flight deals from #Hawaii to #Australia in Aug-Sept ... dm me if interested in having an… https://t.co/M0KqyMzd02",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Hawaii",
+						"indices": [
+							38,
+							45
+						]
+					},
+					{
+						"text": "Australia",
+						"indices": [
+							49,
+							59
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/M0KqyMzd02",
+						"expanded_url": "https://twitter.com/i/web/status/992233878935945216",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 158207707,
+				"id_str": "158207707",
+				"name": "ａｍｙｂｕｒｖａｌｌ",
+				"screen_name": "amyburvall",
+				"location": "Oahu, Hi ",
+				"description": "FRSA; The Cloud is Our Campfire. Learning & Creative Thinking consultant; co-author @IntentionBook; prof. dot-connector; History Music Vids @historyteacherz",
+				"url": "https://t.co/RPeoCPA2bm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RPeoCPA2bm",
+								"expanded_url": "http://www.amyburvall.com/",
+								"display_url": "amyburvall.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8925,
+				"friends_count": 4586,
+				"listed_count": 806,
+				"created_at": "Tue Jun 22 02:13:48 +0000 2010",
+				"favourites_count": 15465,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 66222,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "5A5C61",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/591408761/hl8syai22ly8lidazcv6.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/591408761/hl8syai22ly8lidazcv6.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1012621118/amymomsday_blkw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012621118/amymomsday_blkw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/158207707/1494187623",
+				"profile_link_color": "E643B5",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1dfbbc2b9215bdec",
+				"url": "https://api.twitter.com/1.1/geo/id/1dfbbc2b9215bdec.json",
+				"place_type": "city",
+				"name": "Heeia",
+				"full_name": "Heeia, HI",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-157.826522,
+								21.408367
+							],
+							[
+								-157.792604,
+								21.408367
+							],
+							[
+								-157.792604,
+								21.438983
+							],
+							[
+								-157.826522,
+								21.438983
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu May 03 22:28:58 +0000 2018",
 		"id": 992169170296102900,
 		"id_str": "992169170296102912",
