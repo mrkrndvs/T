@@ -1,6 +1,484 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sun May 06 00:31:11 +0000 2018",
+		"id": 992924700937338900,
+		"id_str": "992924700937338880",
+		"text": "RT @amyburvall: Thanks Aaron! Yes @cogdog and I are cut from same kooky cloth ... I just ordered “Invitation to be Curious / Whimsical/ to…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amyburvall",
+					"name": "ａｍｙｂｕｒｖａｌｌ",
+					"id": 158207707,
+					"id_str": "158207707",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine ☠",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						34,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4278,
+			"friends_count": 1104,
+			"listed_count": 390,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4945,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 05 23:26:39 +0000 2018",
+			"id": 992908463545073700,
+			"id_str": "992908463545073664",
+			"text": "Thanks Aaron! Yes @cogdog and I are cut from same kooky cloth ... I just ordered “Invitation to be Curious / Whimsi… https://t.co/HaKWpaRzzZ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine ☠",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							18,
+							25
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/HaKWpaRzzZ",
+						"expanded_url": "https://twitter.com/i/web/status/992908463545073664",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 158207707,
+				"id_str": "158207707",
+				"name": "ａｍｙｂｕｒｖａｌｌ",
+				"screen_name": "amyburvall",
+				"location": "Oahu, Hi ",
+				"description": "FRSA; The Cloud is Our Campfire. Learning & Creative Thinking consultant; co-author @IntentionBook; prof. dot-connector; History Music Vids @historyteacherz",
+				"url": "https://t.co/RPeoCPA2bm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RPeoCPA2bm",
+								"expanded_url": "http://www.amyburvall.com/",
+								"display_url": "amyburvall.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8923,
+				"friends_count": 4587,
+				"listed_count": 806,
+				"created_at": "Tue Jun 22 02:13:48 +0000 2010",
+				"favourites_count": 15492,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 66267,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "5A5C61",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/591408761/hl8syai22ly8lidazcv6.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/591408761/hl8syai22ly8lidazcv6.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1012621118/amymomsday_blkw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012621118/amymomsday_blkw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/158207707/1494187623",
+				"profile_link_color": "E643B5",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1dfbbc2b9215bdec",
+				"url": "https://api.twitter.com/1.1/geo/id/1dfbbc2b9215bdec.json",
+				"place_type": "city",
+				"name": "Heeia",
+				"full_name": "Heeia, HI",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-157.826522,
+								21.408367
+							],
+							[
+								-157.792604,
+								21.408367
+							],
+							[
+								-157.792604,
+								21.438983
+							],
+							[
+								-157.826522,
+								21.438983
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 992900079139868700,
+			"quoted_status_id_str": "992900079139868672",
+			"quoted_status": {
+				"created_at": "Sat May 05 22:53:20 +0000 2018",
+				"id": 992900079139868700,
+				"id_str": "992900079139868672",
+				"text": "💬 Treading on Dreams: The Art of the #lookdown https://t.co/CNs1CE2Ik8 a reply to @amyburvall https://t.co/Qk8y5BbW2h",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "lookdown",
+							"indices": [
+								37,
+								46
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "amyburvall",
+							"name": "ａｍｙｂｕｒｖａｌｌ",
+							"id": 158207707,
+							"id_str": "158207707",
+							"indices": [
+								82,
+								93
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/CNs1CE2Ik8",
+							"expanded_url": "https://collect.readwriterespond.com/treading-on-dreams-burvall/",
+							"display_url": "collect.readwriterespond.com/treading-on-dr…",
+							"indices": [
+								47,
+								70
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 992900075591479300,
+							"id_str": "992900075591479300",
+							"indices": [
+								94,
+								117
+							],
+							"media_url": "http://pbs.twimg.com/media/Dcd9W68WsAQVa9y.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Dcd9W68WsAQVa9y.jpg",
+							"url": "https://t.co/Qk8y5BbW2h",
+							"display_url": "pic.twitter.com/Qk8y5BbW2h",
+							"expanded_url": "https://twitter.com/mrkrndvs/status/992900079139868672/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 1060,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 600,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 2048,
+									"h": 1808,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 992900075591479300,
+							"id_str": "992900075591479300",
+							"indices": [
+								94,
+								117
+							],
+							"media_url": "http://pbs.twimg.com/media/Dcd9W68WsAQVa9y.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Dcd9W68WsAQVa9y.jpg",
+							"url": "https://t.co/Qk8y5BbW2h",
+							"display_url": "pic.twitter.com/Qk8y5BbW2h",
+							"expanded_url": "https://twitter.com/mrkrndvs/status/992900079139868672/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 1060,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 600,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 2048,
+									"h": 1808,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://readwriterespond.com\" rel=\"nofollow\">WordPress / NextScripts</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 372768752,
+					"id_str": "372768752",
+					"name": "Aaron Davis 🏘️",
+					"screen_name": "mrkrndvs",
+					"location": "Melbourne, Australia",
+					"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+					"url": "https://t.co/9kvcoZA3IC",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/9kvcoZA3IC",
+									"expanded_url": "https://collect.readwriterespond.com",
+									"display_url": "collect.readwriterespond.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/uTlsCeAwJ7",
+									"expanded_url": "https://readwriterespond.com",
+									"display_url": "readwriterespond.com",
+									"indices": [
+										125,
+										148
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 4278,
+					"friends_count": 1104,
+					"listed_count": 390,
+					"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+					"favourites_count": 4945,
+					"utc_offset": 36000,
+					"time_zone": "Brisbane",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 30628,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+					"profile_link_color": "91D2FA",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 992900079139868700,
+		"quoted_status_id_str": "992900079139868672",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 05 22:53:20 +0000 2018",
 		"id": 992900079139868700,
 		"id_str": "992900079139868672",
