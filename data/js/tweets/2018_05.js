@@ -1,6 +1,546 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Tue May 08 03:05:41 +0000 2018",
+		"id": 993688360362397700,
+		"id_str": "993688360362397696",
+		"text": "🎧 Gonski 2.0 - what would these changes mean? (On Focus with Nadia Mitsopoulos) https://t.co/Yq5VHIHpX8 FT @glenncsavage @gmastersacer",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "glenncsavage",
+					"name": "Glenn C. Savage",
+					"id": 492598639,
+					"id_str": "492598639",
+					"indices": [
+						107,
+						120
+					]
+				},
+				{
+					"screen_name": "GMastersACER",
+					"name": "Geoff Masters",
+					"id": 1005264584,
+					"id_str": "1005264584",
+					"indices": [
+						121,
+						134
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Yq5VHIHpX8",
+					"expanded_url": "https://collect.readwriterespond.com/gonski-2-0-what-would-these-changes-mean-on-focus-with-nadia-mitsopoulos/",
+					"display_url": "collect.readwriterespond.com/gonski-2-0-wha…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://readwriterespond.com\" rel=\"nofollow\">WordPress / NextScripts</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4274,
+			"friends_count": 1104,
+			"listed_count": 390,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4945,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30635,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 08 02:24:30 +0000 2018",
+		"id": 993677995423416300,
+		"id_str": "993677995423416320",
+		"text": "RT @langwitches: Why would you? Using questions to extend understanding by @mrkrndvs https://t.co/igmmdzDTLj … https://t.co/gEi24GBGtA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "langwitches",
+					"name": "Silvia Tolisano",
+					"id": 5763052,
+					"id_str": "5763052",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						75,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/igmmdzDTLj",
+					"expanded_url": "https://readwriterespond.com/2017/12/why-would-you/",
+					"display_url": "readwriterespond.com/2017/12/why-wo…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 993568699348111400,
+					"id_str": "993568699348111361",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Dcndd8iXUAE7LBG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dcndd8iXUAE7LBG.jpg",
+					"url": "https://t.co/gEi24GBGtA",
+					"display_url": "pic.twitter.com/gEi24GBGtA",
+					"expanded_url": "https://twitter.com/langwitches/status/993568701269118977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1376,
+							"h": 774,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 993568701269119000,
+					"source_status_id_str": "993568701269118977",
+					"source_user_id": 5763052,
+					"source_user_id_str": "5763052"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 993568699348111400,
+					"id_str": "993568699348111361",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Dcndd8iXUAE7LBG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dcndd8iXUAE7LBG.jpg",
+					"url": "https://t.co/gEi24GBGtA",
+					"display_url": "pic.twitter.com/gEi24GBGtA",
+					"expanded_url": "https://twitter.com/langwitches/status/993568701269118977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1376,
+							"h": 774,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 993568701269119000,
+					"source_status_id_str": "993568701269118977",
+					"source_user_id": 5763052,
+					"source_user_id_str": "5763052"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4274,
+			"friends_count": 1104,
+			"listed_count": 390,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4945,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30635,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 07 19:10:12 +0000 2018",
+			"id": 993568701269119000,
+			"id_str": "993568701269118977",
+			"text": "Why would you? Using questions to extend understanding by @mrkrndvs https://t.co/igmmdzDTLj … https://t.co/gEi24GBGtA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							58,
+							67
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/igmmdzDTLj",
+						"expanded_url": "https://readwriterespond.com/2017/12/why-would-you/",
+						"display_url": "readwriterespond.com/2017/12/why-wo…",
+						"indices": [
+							68,
+							91
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 993568699348111400,
+						"id_str": "993568699348111361",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/Dcndd8iXUAE7LBG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dcndd8iXUAE7LBG.jpg",
+						"url": "https://t.co/gEi24GBGtA",
+						"display_url": "pic.twitter.com/gEi24GBGtA",
+						"expanded_url": "https://twitter.com/langwitches/status/993568701269118977/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1376,
+								"h": 774,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 993568699348111400,
+						"id_str": "993568699348111361",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/Dcndd8iXUAE7LBG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dcndd8iXUAE7LBG.jpg",
+						"url": "https://t.co/gEi24GBGtA",
+						"display_url": "pic.twitter.com/gEi24GBGtA",
+						"expanded_url": "https://twitter.com/langwitches/status/993568701269118977/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1376,
+								"h": 774,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5763052,
+				"id_str": "5763052",
+				"name": "Silvia Tolisano",
+				"screen_name": "langwitches",
+				"location": "USA-Argentina-Germany",
+				"description": "Educational Coach & Mentor: Modern Learning - Globally Connected Learning- The Amplified Classroom- #documenting4learning #heutagogy #amplifiEDU",
+				"url": "https://t.co/ytf57GM8Rc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ytf57GM8Rc",
+								"expanded_url": "http://www.langwitches.org/blog",
+								"display_url": "langwitches.org/blog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28075,
+				"friends_count": 7366,
+				"listed_count": 1623,
+				"created_at": "Fri May 04 10:21:00 +0000 2007",
+				"favourites_count": 1685,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20840,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "465887",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2173992/background2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2173992/background2.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839552711104159744/NaLuJW2d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839552711104159744/NaLuJW2d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5763052/1508251254",
+				"profile_link_color": "445978",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "90A9D0",
+				"profile_text_color": "211717",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun May 06 21:11:02 +0000 2018",
 		"id": 993236721612582900,
 		"id_str": "993236721612582912",
