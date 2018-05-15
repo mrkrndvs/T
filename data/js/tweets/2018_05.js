@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Tue May 15 02:15:33 +0000 2018",
+		"id": 996212460234260500,
+		"id_str": "996212460234260480",
+		"text": "RT @gregmiller68: As I walk around @StLukesMP seeing students wrestle with NAPLAN, I’m reminded that Literacy and Numeracy are important, a…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gregmiller68",
+					"name": "Greg Miller",
+					"id": 212374993,
+					"id_str": "212374993",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "StLukesMP",
+					"name": "stlukesnextgen",
+					"id": 747223814992330800,
+					"id_str": "747223814992330752",
+					"indices": [
+						35,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4267,
+			"friends_count": 1102,
+			"listed_count": 390,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4944,
+			"utc_offset": 36000,
+			"time_zone": "Brisbane",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30653,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 14 23:37:25 +0000 2018",
+			"id": 996172663281217500,
+			"id_str": "996172663281217536",
+			"text": "As I walk around @StLukesMP seeing students wrestle with NAPLAN, I’m reminded that Literacy and Numeracy are import… https://t.co/EvZu7rMmTp",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "StLukesMP",
+						"name": "stlukesnextgen",
+						"id": 747223814992330800,
+						"id_str": "747223814992330752",
+						"indices": [
+							17,
+							27
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/EvZu7rMmTp",
+						"expanded_url": "https://twitter.com/i/web/status/996172663281217536",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 212374993,
+				"id_str": "212374993",
+				"name": "Greg Miller",
+				"screen_name": "gregmiller68",
+				"location": "Sydney NSW Australia",
+				"description": "An education leader committed to reimagining learning. @StLukesMP Foundation Principal. Views are my own.",
+				"url": "https://t.co/FPPF1HrOHk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FPPF1HrOHk",
+								"expanded_url": "http://gregmiller68.com/",
+								"display_url": "gregmiller68.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2562,
+				"friends_count": 693,
+				"listed_count": 73,
+				"created_at": "Fri Nov 05 22:24:31 +0000 2010",
+				"favourites_count": 6817,
+				"utc_offset": 36000,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7427,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "59472F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440924010/x84d0719d671ad79ca698ae49ca67955.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440924010/x84d0719d671ad79ca698ae49ca67955.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/647275036357750784/eJa9snHi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/647275036357750784/eJa9snHi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/212374993/1499517366",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000515",
+				"profile_sidebar_fill_color": "061127",
+				"profile_text_color": "52555C",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon May 14 22:11:30 +0000 2018",
 		"id": 996151042197868500,
 		"id_str": "996151042197868545",
