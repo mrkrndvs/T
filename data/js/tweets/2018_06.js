@@ -1,6 +1,469 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Thu Jun 07 13:04:55 +0000 2018",
+		"id": 1004710795945631700,
+		"id_str": "1004710795945631744",
+		"text": "NEW POST: Being Analogue https://t.co/SW21aXEDoU HT @jennymackness @stevebrophy3 https://t.co/wIZKpERu7V",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jennymackness",
+					"name": "jennymackness",
+					"id": 15310216,
+					"id_str": "15310216",
+					"indices": [
+						52,
+						66
+					]
+				},
+				{
+					"screen_name": "SteveBrophy3",
+					"name": "Steve Brophy",
+					"id": 827898170,
+					"id_str": "827898170",
+					"indices": [
+						67,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SW21aXEDoU",
+					"expanded_url": "https://readwriterespond.com/2018/06/being-analogue/",
+					"display_url": "readwriterespond.com/2018/06/being-…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1004710794003714000,
+					"id_str": "1004710794003714048",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DfFzJNqXkAAInFo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfFzJNqXkAAInFo.jpg",
+					"url": "https://t.co/wIZKpERu7V",
+					"display_url": "pic.twitter.com/wIZKpERu7V",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/1004710795945631744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1004710794003714000,
+					"id_str": "1004710794003714048",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DfFzJNqXkAAInFo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfFzJNqXkAAInFo.jpg",
+					"url": "https://t.co/wIZKpERu7V",
+					"display_url": "pic.twitter.com/wIZKpERu7V",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/1004710795945631744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://readwriterespond.com\" rel=\"nofollow\">WordPress / NextScripts</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4276,
+			"friends_count": 1103,
+			"listed_count": 386,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 07 12:36:55 +0000 2018",
+		"id": 1004703752866025500,
+		"id_str": "1004703752866025474",
+		"text": "@SteveBrophy3 @designandplay @deanpearman Great to have the two of you back. Tried to comment on the blog… https://t.co/ELyWFysnsR",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SteveBrophy3",
+					"name": "Steve Brophy",
+					"id": 827898170,
+					"id_str": "827898170",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "designandplay",
+					"name": "Design and Play",
+					"id": 783093186373689300,
+					"id_str": "783093186373689344",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "deanpearman",
+					"name": "Dean Pearman",
+					"id": 31024798,
+					"id_str": "31024798",
+					"indices": [
+						29,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ELyWFysnsR",
+					"expanded_url": "https://twitter.com/i/web/status/1004703752866025474",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1004531644944904200,
+		"in_reply_to_status_id_str": "1004531644944904192",
+		"in_reply_to_user_id": 827898170,
+		"in_reply_to_user_id_str": "827898170",
+		"in_reply_to_screen_name": "SteveBrophy3",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4276,
+			"friends_count": 1103,
+			"listed_count": 386,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 07 12:32:34 +0000 2018",
+		"id": 1004702658144428000,
+		"id_str": "1004702658144428032",
+		"text": "🎧 Networking, PLNs and Design Thinking (Design and Play) https://t.co/4ez260Bxgh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4ez260Bxgh",
+					"expanded_url": "https://collect.readwriterespond.com/design-and-play-012/",
+					"display_url": "collect.readwriterespond.com/design-and-pla…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://readwriterespond.com\" rel=\"nofollow\">WordPress / NextScripts</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4276,
+			"friends_count": 1103,
+			"listed_count": 386,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jun 05 12:03:35 +0000 2018",
 		"id": 1003970588489257000,
 		"id_str": "1003970588489256962",
