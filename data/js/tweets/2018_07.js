@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Mon Jul 30 08:49:50 +0000 2018",
+		"id": 1023853158898884600,
+		"id_str": "1023853158898884608",
+		"text": "RT @IWBNet: Blogging, Coding, GSuite, Using Digital Tools &amp; 20 Tips - https://t.co/DO5x6OWHzu https://t.co/za5GTycR9b",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IWBNet",
+					"name": "The iwbNet Team",
+					"id": 180183190,
+					"id_str": "180183190",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DO5x6OWHzu",
+					"expanded_url": "https://mailchi.mp/iwb.net.au/blogging-coding-gsuite-using-digital-tools-20-tips",
+					"display_url": "mailchi.mp/iwb.net.au/blo…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1023702674565423100,
+					"id_str": "1023702674565423106",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DjTsKKEW4AIjRXK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjTsKKEW4AIjRXK.jpg",
+					"url": "https://t.co/za5GTycR9b",
+					"display_url": "pic.twitter.com/za5GTycR9b",
+					"expanded_url": "https://twitter.com/IWBNet/status/1023702676436131841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 878,
+							"h": 566,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 438,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 878,
+							"h": 566,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1023702676436131800,
+					"source_status_id_str": "1023702676436131841",
+					"source_user_id": 180183190,
+					"source_user_id_str": "180183190"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1023702674565423100,
+					"id_str": "1023702674565423106",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DjTsKKEW4AIjRXK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjTsKKEW4AIjRXK.jpg",
+					"url": "https://t.co/za5GTycR9b",
+					"display_url": "pic.twitter.com/za5GTycR9b",
+					"expanded_url": "https://twitter.com/IWBNet/status/1023702676436131841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 878,
+							"h": 566,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 438,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 878,
+							"h": 566,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1023702676436131800,
+					"source_status_id_str": "1023702676436131841",
+					"source_user_id": 180183190,
+					"source_user_id_str": "180183190"
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4257,
+			"friends_count": 1108,
+			"listed_count": 386,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30910,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 29 22:51:52 +0000 2018",
+			"id": 1023702676436131800,
+			"id_str": "1023702676436131841",
+			"text": "Blogging, Coding, GSuite, Using Digital Tools &amp; 20 Tips - https://t.co/DO5x6OWHzu https://t.co/za5GTycR9b",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DO5x6OWHzu",
+						"expanded_url": "https://mailchi.mp/iwb.net.au/blogging-coding-gsuite-using-digital-tools-20-tips",
+						"display_url": "mailchi.mp/iwb.net.au/blo…",
+						"indices": [
+							62,
+							85
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1023702674565423100,
+						"id_str": "1023702674565423106",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/DjTsKKEW4AIjRXK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjTsKKEW4AIjRXK.jpg",
+						"url": "https://t.co/za5GTycR9b",
+						"display_url": "pic.twitter.com/za5GTycR9b",
+						"expanded_url": "https://twitter.com/IWBNet/status/1023702676436131841/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 878,
+								"h": 566,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 878,
+								"h": 566,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1023702674565423100,
+						"id_str": "1023702674565423106",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/DjTsKKEW4AIjRXK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjTsKKEW4AIjRXK.jpg",
+						"url": "https://t.co/za5GTycR9b",
+						"display_url": "pic.twitter.com/za5GTycR9b",
+						"expanded_url": "https://twitter.com/IWBNet/status/1023702676436131841/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 878,
+								"h": 566,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 878,
+								"h": 566,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.mailchimp.com\" rel=\"nofollow\">MailChimp</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 180183190,
+				"id_str": "180183190",
+				"name": "The iwbNet Team",
+				"screen_name": "IWBNet",
+				"location": "Sydney, Australia",
+				"description": "Supporting digital classrooms, digital schools. Host of 4 exciting conferences in NZ & AUS #FlipCon #leadership #Digital #ActiveLearning #FlippedLearning",
+				"url": "https://t.co/UynR6ACyk3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UynR6ACyk3",
+								"expanded_url": "http://www.iwb.net.au",
+								"display_url": "iwb.net.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2558,
+				"friends_count": 1223,
+				"listed_count": 246,
+				"created_at": "Thu Aug 19 01:01:04 +0000 2010",
+				"favourites_count": 2050,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7057,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C17EF5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000549692030/70ff63836e7f06cde8274a2ad3087ac6_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000549692030/70ff63836e7f06cde8274a2ad3087ac6_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/180183190/1440295186",
+				"profile_link_color": "E24120",
+				"profile_sidebar_border_color": "E2C2FA",
+				"profile_sidebar_fill_color": "E2C2FA",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jul 29 21:09:58 +0000 2018",
 		"id": 1023677035770794000,
 		"id_str": "1023677035770793985",
