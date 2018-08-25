@@ -1,6 +1,698 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sat Aug 25 01:44:01 +0000 2018",
+		"id": 1033168083207127000,
+		"id_str": "1033168083207127041",
+		"text": "RT @ict_edu: Don't stop moving...#googleei #sydney #edtechteam @mtngry @mrkrndvs @hollis_k_ https://t.co/JyCTlqgd1u",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "googleei",
+					"indices": [
+						33,
+						42
+					]
+				},
+				{
+					"text": "sydney",
+					"indices": [
+						43,
+						50
+					]
+				},
+				{
+					"text": "edtechteam",
+					"indices": [
+						51,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ict_edu",
+					"name": "Martin McGauran",
+					"id": 747947308336054300,
+					"id_str": "747947308336054272",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "mtngry",
+					"name": "M.Gray",
+					"id": 404544508,
+					"id_str": "404544508",
+					"indices": [
+						63,
+						70
+					]
+				},
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"screen_name": "hollis_k_",
+					"name": "Kelly Hollis",
+					"id": 742677505,
+					"id_str": "742677505",
+					"indices": [
+						81,
+						91
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1033142456173260800,
+					"id_str": "1033142456173260800",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/DlZ1lw6U8AAyg8W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DlZ1lw6U8AAyg8W.jpg",
+					"url": "https://t.co/JyCTlqgd1u",
+					"display_url": "pic.twitter.com/JyCTlqgd1u",
+					"expanded_url": "https://twitter.com/ict_edu/status/1033142463089631233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 828,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 828,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 550,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1033142463089631200,
+					"source_status_id_str": "1033142463089631233",
+					"source_user_id": 747947308336054300,
+					"source_user_id_str": "747947308336054272"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1033142456173260800,
+					"id_str": "1033142456173260800",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/DlZ1lw6U8AAyg8W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DlZ1lw6U8AAyg8W.jpg",
+					"url": "https://t.co/JyCTlqgd1u",
+					"display_url": "pic.twitter.com/JyCTlqgd1u",
+					"expanded_url": "https://twitter.com/ict_edu/status/1033142463089631233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 828,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 828,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 550,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1033142463089631200,
+					"source_status_id_str": "1033142463089631233",
+					"source_user_id": 747947308336054300,
+					"source_user_id_str": "747947308336054272"
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4244,
+			"friends_count": 1109,
+			"listed_count": 386,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30825,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 25 00:02:12 +0000 2018",
+			"id": 1033142463089631200,
+			"id_str": "1033142463089631233",
+			"text": "Don't stop moving...#googleei #sydney #edtechteam @mtngry @mrkrndvs @hollis_k_ https://t.co/JyCTlqgd1u",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "googleei",
+						"indices": [
+							20,
+							29
+						]
+					},
+					{
+						"text": "sydney",
+						"indices": [
+							30,
+							37
+						]
+					},
+					{
+						"text": "edtechteam",
+						"indices": [
+							38,
+							49
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mtngry",
+						"name": "M.Gray",
+						"id": 404544508,
+						"id_str": "404544508",
+						"indices": [
+							50,
+							57
+						]
+					},
+					{
+						"screen_name": "mrkrndvs",
+						"name": "Aaron Davis 🏘️",
+						"id": 372768752,
+						"id_str": "372768752",
+						"indices": [
+							58,
+							67
+						]
+					},
+					{
+						"screen_name": "hollis_k_",
+						"name": "Kelly Hollis",
+						"id": 742677505,
+						"id_str": "742677505",
+						"indices": [
+							68,
+							78
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1033142456173260800,
+						"id_str": "1033142456173260800",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DlZ1lw6U8AAyg8W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DlZ1lw6U8AAyg8W.jpg",
+						"url": "https://t.co/JyCTlqgd1u",
+						"display_url": "pic.twitter.com/JyCTlqgd1u",
+						"expanded_url": "https://twitter.com/ict_edu/status/1033142463089631233/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 828,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 828,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 550,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1033142456173260800,
+						"id_str": "1033142456173260800",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DlZ1lw6U8AAyg8W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DlZ1lw6U8AAyg8W.jpg",
+						"url": "https://t.co/JyCTlqgd1u",
+						"display_url": "pic.twitter.com/JyCTlqgd1u",
+						"expanded_url": "https://twitter.com/ict_edu/status/1033142463089631233/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 828,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 828,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 550,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 747947308336054300,
+				"id_str": "747947308336054272",
+				"name": "Martin McGauran",
+				"screen_name": "ict_edu",
+				"location": "Melbourne, Victoria",
+				"description": "Excitable Educator | Teaching = Relationships | Google for Education Certified Trainer & Innovator | ScratchEd Meetup host | ICT EDU Magazine Editor",
+				"url": "https://t.co/65swS4lqva",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/65swS4lqva",
+								"expanded_url": "http://www.ictedu.com.au",
+								"display_url": "ictedu.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 899,
+				"friends_count": 1568,
+				"listed_count": 31,
+				"created_at": "Wed Jun 29 00:18:29 +0000 2016",
+				"favourites_count": 581,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 449,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004524225472880640/ySfmDC2U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004524225472880640/ySfmDC2U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/747947308336054272/1481008043",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 8,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 25 01:43:54 +0000 2018",
+		"id": 1033168056699183100,
+		"id_str": "1033168056699183104",
+		"text": "RT @ict_edu: Forward Motion prototyping a solution to a lack of inter department communication. Let's spark innovation! #googleei @hollis_k…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "googleei",
+					"indices": [
+						120,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ict_edu",
+					"name": "Martin McGauran",
+					"id": 747947308336054300,
+					"id_str": "747947308336054272",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4244,
+			"friends_count": 1109,
+			"listed_count": 386,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30825,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 25 01:38:40 +0000 2018",
+			"id": 1033166740094574600,
+			"id_str": "1033166740094574593",
+			"text": "Forward Motion prototyping a solution to a lack of inter department communication. Let's spark innovation!… https://t.co/55iLicF0QZ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/55iLicF0QZ",
+						"expanded_url": "https://twitter.com/i/web/status/1033166740094574593",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 747947308336054300,
+				"id_str": "747947308336054272",
+				"name": "Martin McGauran",
+				"screen_name": "ict_edu",
+				"location": "Melbourne, Victoria",
+				"description": "Excitable Educator | Teaching = Relationships | Google for Education Certified Trainer & Innovator | ScratchEd Meetup host | ICT EDU Magazine Editor",
+				"url": "https://t.co/65swS4lqva",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/65swS4lqva",
+								"expanded_url": "http://www.ictedu.com.au",
+								"display_url": "ictedu.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 899,
+				"friends_count": 1568,
+				"listed_count": 31,
+				"created_at": "Wed Jun 29 00:18:29 +0000 2016",
+				"favourites_count": 581,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 449,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004524225472880640/ySfmDC2U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004524225472880640/ySfmDC2U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/747947308336054272/1481008043",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Aug 19 11:38:17 +0000 2018",
 		"id": 1031143311669641200,
 		"id_str": "1031143311669641216",
