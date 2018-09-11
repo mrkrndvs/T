@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Tue Sep 11 10:53:07 +0000 2018",
+		"id": 1039466865272213500,
+		"id_str": "1039466865272213505",
+		"text": "@JTGrant81 @Obi_Jon_ @stringer_andrea @Borto74 @danhaesler @katiefoges @EdRev @jdtriver @mesterman #ittakesavillage… https://t.co/mEm1HZ9YLl",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ittakesavillage",
+					"indices": [
+						99,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JTGrant81",
+					"name": "Jordan Grant",
+					"id": 59105341,
+					"id_str": "59105341",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Obi_Jon_",
+					"name": "Jon Andrews",
+					"id": 817918164,
+					"id_str": "817918164",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "stringer_andrea",
+					"name": "Andrea Stringer 🇦🇺",
+					"id": 585586447,
+					"id_str": "585586447",
+					"indices": [
+						21,
+						37
+					]
+				},
+				{
+					"screen_name": "Borto74",
+					"name": "Jason Borton",
+					"id": 575894779,
+					"id_str": "575894779",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"screen_name": "danhaesler",
+					"name": "Dan Haesler",
+					"id": 211755009,
+					"id_str": "211755009",
+					"indices": [
+						47,
+						58
+					]
+				},
+				{
+					"screen_name": "katiefoges",
+					"name": "Kate Fogarty",
+					"id": 20136820,
+					"id_str": "20136820",
+					"indices": [
+						59,
+						70
+					]
+				},
+				{
+					"screen_name": "EdRev",
+					"name": "Peter Hutton",
+					"id": 1637363858,
+					"id_str": "1637363858",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"screen_name": "jdtriver",
+					"name": "Jacques du Toit",
+					"id": 468051925,
+					"id_str": "468051925",
+					"indices": [
+						78,
+						87
+					]
+				},
+				{
+					"screen_name": "mesterman",
+					"name": "Matt Esterman",
+					"id": 14906194,
+					"id_str": "14906194",
+					"indices": [
+						88,
+						98
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mEm1HZ9YLl",
+					"expanded_url": "https://twitter.com/i/web/status/1039466865272213505",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": 1039403753198112800,
+		"in_reply_to_status_id_str": "1039403753198112769",
+		"in_reply_to_user_id": 59105341,
+		"in_reply_to_user_id_str": "59105341",
+		"in_reply_to_screen_name": "JTGrant81",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4259,
+			"friends_count": 1110,
+			"listed_count": 385,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30879,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sun Sep 09 00:09:19 +0000 2018",
 		"id": 1038580071689347100,
 		"id_str": "1038580071689347073",
