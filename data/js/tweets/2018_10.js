@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 11 02:13:21 +0000 2018",
+		"id": 1050207697507938300,
+		"id_str": "1050207697507938304",
+		"text": "RT @oldaily: Flipping the Learning #oldaily https://t.co/fOx4PvIE27 Some of the best posts are those providing clear step-by-step instructi…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oldaily",
+					"indices": [
+						35,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oldaily",
+					"name": "🍁 Stephen Downes",
+					"id": 96139902,
+					"id_str": "96139902",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fOx4PvIE27",
+					"expanded_url": "https://www.downes.ca/post/68696",
+					"display_url": "downes.ca/post/68696",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4282,
+			"friends_count": 1111,
+			"listed_count": 384,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30919,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 10 21:43:33 +0000 2018",
+			"id": 1050139800244752400,
+			"id_str": "1050139800244752384",
+			"text": "Flipping the Learning #oldaily https://t.co/fOx4PvIE27 Some of the best posts are those providing clear step-by-ste… https://t.co/9KwFGgegNo",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "oldaily",
+						"indices": [
+							22,
+							30
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fOx4PvIE27",
+						"expanded_url": "https://www.downes.ca/post/68696",
+						"display_url": "downes.ca/post/68696",
+						"indices": [
+							31,
+							54
+						]
+					},
+					{
+						"url": "https://t.co/9KwFGgegNo",
+						"expanded_url": "https://twitter.com/i/web/status/1050139800244752384",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.downes.ca\" rel=\"nofollow\">OLDaily</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 96139902,
+				"id_str": "96139902",
+				"name": "🍁 Stephen Downes",
+				"screen_name": "oldaily",
+				"location": "Moncton, NB, Canada",
+				"description": "Posting from OLDaily, the e-learning and new media news feed from Stephen Downes.",
+				"url": "http://t.co/xBOT8n1jHX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xBOT8n1jHX",
+								"expanded_url": "http://www.downes.ca/news/OLDaily.htm",
+								"display_url": "downes.ca/news/OLDaily.h…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5755,
+				"friends_count": 0,
+				"listed_count": 488,
+				"created_at": "Fri Dec 11 14:48:48 +0000 2009",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9429,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "6E6F70",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000106238229/f8a550530e001b52581340d3e3d8e60c_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000106238229/f8a550530e001b52581340d3e3d8e60c_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/96139902/1373314419",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 10 11:07:29 +0000 2018",
 		"id": 1049979729409912800,
 		"id_str": "1049979729409912832",
