@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 26 12:37:24 +0000 2018",
+		"id": 1055800562049077200,
+		"id_str": "1055800562049077248",
+		"full_text": "I appreciate this post by @mrkrndvs, about being mindful of technology’s impact and possibilities, and wondering about paths forward that help our kids/students/us find balance. Lots of good links to follow, too. #unboundeq https://t.co/EeQYc7pKXV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "unboundeq",
+					"indices": [
+						213,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						26,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EeQYc7pKXV",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/1054367814776057856",
+					"display_url": "twitter.com/mrkrndvs/statu…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13307352,
+			"id_str": "13307352",
+			"name": "KevinHodgson",
+			"screen_name": "dogtrax",
+			"location": "Massachusetts",
+			"description": "6th gr teacher, writer, musician, webcomic creator, outreach co-director w/Western Mass Writing Project. Views expressed here are own. #NWP #Clmooc",
+			"url": "https://t.co/eTc1HZC0Yz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTc1HZC0Yz",
+							"expanded_url": "http://dogtrax.edublogs.org/",
+							"display_url": "dogtrax.edublogs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6881,
+			"friends_count": 6875,
+			"listed_count": 520,
+			"created_at": "Sun Feb 10 10:52:30 +0000 2008",
+			"favourites_count": 8679,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62860,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/629952065809334272/BKXrDkoi_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/629952065809334272/BKXrDkoi_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13307352/1500053353",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1054367814776057900,
+		"quoted_status_id_str": "1054367814776057856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EeQYc7pKXV",
+			"expanded": "https://twitter.com/mrkrndvs/status/1054367814776057856",
+			"display": "twitter.com/mrkrndvs/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 22 13:44:10 +0000 2018",
+			"id": 1054367814776057900,
+			"id_str": "1054367814776057856",
+			"full_text": "Digital Mindfulness, Can It Exist? https://t.co/gE9qgRQitY #dooo #IndieWeb HT @wiobyrne @jgmac1106 @adriancamm @ddonahoo @kathleen_morris",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				137
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "dooo",
+						"indices": [
+							59,
+							64
+						]
+					},
+					{
+						"text": "IndieWeb",
+						"indices": [
+							65,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "wiobyrne",
+						"name": "William Ian O'Byrne",
+						"id": 88676762,
+						"id_str": "88676762",
+						"indices": [
+							78,
+							87
+						]
+					},
+					{
+						"screen_name": "jgmac1106",
+						"name": "Greg McVerry",
+						"id": 27620289,
+						"id_str": "27620289",
+						"indices": [
+							88,
+							98
+						]
+					},
+					{
+						"screen_name": "adriancamm",
+						"name": "Adrian Camm",
+						"id": 17730865,
+						"id_str": "17730865",
+						"indices": [
+							99,
+							110
+						]
+					},
+					{
+						"screen_name": "ddonahoo",
+						"name": "Dan Donahoo",
+						"id": 16051268,
+						"id_str": "16051268",
+						"indices": [
+							111,
+							120
+						]
+					},
+					{
+						"screen_name": "kathleen_morris",
+						"name": "Kathleen Morris",
+						"id": 23413264,
+						"id_str": "23413264",
+						"indices": [
+							121,
+							137
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/gE9qgRQitY",
+						"expanded_url": "https://readwriterespond.com/2018/10/digital-mindfulness/",
+						"display_url": "readwriterespond.com/2018/10/digita…",
+						"indices": [
+							35,
+							58
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 372768752,
+				"id_str": "372768752",
+				"name": "Aaron Davis 🏘️",
+				"screen_name": "mrkrndvs",
+				"location": "Melbourne, Australia",
+				"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+				"url": "https://t.co/9kvcoZA3IC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9kvcoZA3IC",
+								"expanded_url": "https://collect.readwriterespond.com",
+								"display_url": "collect.readwriterespond.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/uTlsCeAwJ7",
+								"expanded_url": "https://readwriterespond.com",
+								"display_url": "readwriterespond.com",
+								"indices": [
+									125,
+									148
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4282,
+				"friends_count": 1109,
+				"listed_count": 383,
+				"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+				"favourites_count": 4834,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30940,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I appreciate this post by @mrkrndvs, about being mindful of technology’s impact and possibilities, and wondering about paths forward that help our kids/students/us find balance. Lots of good links to follow, too. #unboundeq https://t.co/EeQYc7pKXV"
+	},
+	{
 		"created_at": "Fri Oct 26 06:04:17 +0000 2018",
 		"id": 1055701630870544400,
 		"id_str": "1055701630870544384",
