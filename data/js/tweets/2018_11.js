@@ -1,6 +1,153 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 18 11:05:51 +0000 2018",
+		"id": 1064112443360608300,
+		"id_str": "1064112443360608256",
+		"full_text": "@TIDEpodcast @dajbelshaw @daibarnes just a few points of clarification on comments in the last episode https://t.co/kJ4d3J5ejq",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TIDEpodcast",
+					"name": "TIDE podcast",
+					"id": 4857178299,
+					"id_str": "4857178299",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "dajbelshaw",
+					"name": "Doug Belshaw 🇪🇺 ☠️ ✊",
+					"id": 764365,
+					"id_str": "764365",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "daibarnes",
+					"name": "Dai Barnes 👣☀️🌧️",
+					"id": 14143403,
+					"id_str": "14143403",
+					"indices": [
+						25,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kJ4d3J5ejq",
+					"expanded_url": "https://collect.readwriterespond.com/episode-113-privacy-not-included/",
+					"display_url": "collect.readwriterespond.com/episode-113-pr…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1062706268673114100,
+		"in_reply_to_status_id_str": "1062706268673114113",
+		"in_reply_to_user_id": 4857178299,
+		"in_reply_to_user_id_str": "4857178299",
+		"in_reply_to_screen_name": "TIDEpodcast",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4285,
+			"friends_count": 1109,
+			"listed_count": 382,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4837,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30973,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@TIDEpodcast @dajbelshaw @daibarnes just a few points of clarification on comments in the last episode https://t.co/kJ4d3J5ejq"
+	},
+	{
 		"created_at": "Fri Nov 16 10:40:51 +0000 2018",
 		"id": 1063381374739144700,
 		"id_str": "1063381374739144704",
