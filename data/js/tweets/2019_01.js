@@ -1,10 +1,274 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 07 23:41:14 +0000 2019",
+		"id": 1082421937438056400,
+		"id_str": "1082421937438056448",
+		"full_text": "@adriancamm I also wrote a response to @macgirl19 post on this the topic https://t.co/ULcmRyRfQd",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adriancamm",
+					"name": "Adrian Camm",
+					"id": 17730865,
+					"id_str": "17730865",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "macgirl19",
+					"name": "Gillian",
+					"id": 24150055,
+					"id_str": "24150055",
+					"indices": [
+						39,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ULcmRyRfQd",
+					"expanded_url": "https://collect.readwriterespond.com/what-does-it-take-to-be-the-best-and-brightest/",
+					"display_url": "collect.readwriterespond.com/what-does-it-t…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1082420565934334000,
+		"in_reply_to_status_id_str": "1082420565934333954",
+		"in_reply_to_user_id": 372768752,
+		"in_reply_to_user_id_str": "372768752",
+		"in_reply_to_screen_name": "mrkrndvs",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4270,
+			"friends_count": 987,
+			"listed_count": 380,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4838,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31002,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@adriancamm I also wrote a response to @macgirl19 post on this the topic https://t.co/ULcmRyRfQd"
+	},
+	{
+		"created_at": "Mon Jan 07 23:35:47 +0000 2019",
+		"id": 1082420565934334000,
+		"id_str": "1082420565934333954",
+		"full_text": "@adriancamm Great approach Adrian. With the push for coaching, what does it say when we question people’s worth before they have arrived. Develop, not improve. (https://t.co/tiup98LW1j)",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adriancamm",
+					"name": "Adrian Camm",
+					"id": 17730865,
+					"id_str": "17730865",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tiup98LW1j",
+					"expanded_url": "https://collect.readwriterespond.com/trusting-our-teachers/",
+					"display_url": "collect.readwriterespond.com/trusting-our-t…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": 1082404619425206300,
+		"in_reply_to_status_id_str": "1082404619425206272",
+		"in_reply_to_user_id": 17730865,
+		"in_reply_to_user_id_str": "17730865",
+		"in_reply_to_screen_name": "adriancamm",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4270,
+			"friends_count": 987,
+			"listed_count": 380,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4838,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31002,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@adriancamm Great approach Adrian. With the push for coaching, what does it say when we question people’s worth before they have arrived. Develop, not improve. (https://t.co/tiup98LW1j)"
+	},
+	{
 		"created_at": "Mon Jan 07 22:08:18 +0000 2019",
 		"id": 1082398546719137800,
 		"id_str": "1082398546719137798",
-		"full_text": "@markxsyst @tanya_plibersek What confuses me about this debate are all the people who get into teaching via post-grad degrees. No ATAR there 🤷‍♂️ (https://t.co/GWipIq3prV)",
+		"full_text": "@markxsyst @tanya_plibersek What confuses me about this debate are all the people who get into teaching via post-grad degrees. No ATAR there 🤷♂️ (https://t.co/GWipIq3prV)",
 		"truncated": false,
 		"display_text_range": [
 			28,
@@ -135,7 +399,7 @@ Grailbird.data.tweets_2019_01 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "@markxsyst @tanya_plibersek What confuses me about this debate are all the people who get into teaching via post-grad degrees. No ATAR there 🤷‍♂️ (https://t.co/GWipIq3prV)"
+		"text": "@markxsyst @tanya_plibersek What confuses me about this debate are all the people who get into teaching via post-grad degrees. No ATAR there 🤷♂️ (https://t.co/GWipIq3prV)"
 	},
 	{
 		"created_at": "Sun Jan 06 09:53:47 +0000 2019",
