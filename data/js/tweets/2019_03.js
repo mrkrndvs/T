@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 12 10:27:09 +0000 2019",
+		"id": 1105414920026259500,
+		"id_str": "1105414920026259456",
+		"full_text": "@Juliet_Revell @fivefoot3 @betchaboy @kathleen_morris @kathycassidy @lindayollis Great post @Juliet_Revell  left a response https://t.co/Hdm1PZMVWS",
+		"truncated": false,
+		"display_text_range": [
+			81,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Juliet_Revell",
+					"name": "Juliet Revell",
+					"id": 32837785,
+					"id_str": "32837785",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "fivefoot3",
+					"name": "Leanne",
+					"id": 40418737,
+					"id_str": "40418737",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "betchaboy",
+					"name": "Chris Betcher",
+					"id": 779452,
+					"id_str": "779452",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"screen_name": "kathleen_morris",
+					"name": "Kathleen Morris 🇦🇺",
+					"id": 23413264,
+					"id_str": "23413264",
+					"indices": [
+						37,
+						53
+					]
+				},
+				{
+					"screen_name": "kathycassidy",
+					"name": "Kathy Cassidy",
+					"id": 14070562,
+					"id_str": "14070562",
+					"indices": [
+						54,
+						67
+					]
+				},
+				{
+					"screen_name": "lindayollis",
+					"name": "Linda Yollis",
+					"id": 142013481,
+					"id_str": "142013481",
+					"indices": [
+						68,
+						80
+					]
+				},
+				{
+					"screen_name": "Juliet_Revell",
+					"name": "Juliet Revell",
+					"id": 32837785,
+					"id_str": "32837785",
+					"indices": [
+						92,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Hdm1PZMVWS",
+					"expanded_url": "https://collect.readwriterespond.com/whats-my-why/",
+					"display_url": "collect.readwriterespond.com/whats-my-why/",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1101923855667327000,
+		"in_reply_to_status_id_str": "1101923855667326976",
+		"in_reply_to_user_id": 32837785,
+		"in_reply_to_user_id_str": "32837785",
+		"in_reply_to_screen_name": "Juliet_Revell",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4268,
+			"friends_count": 990,
+			"listed_count": 378,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27805,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Juliet_Revell @fivefoot3 @betchaboy @kathleen_morris @kathycassidy @lindayollis Great post @Juliet_Revell  left a response https://t.co/Hdm1PZMVWS"
+	},
+	{
 		"created_at": "Mon Mar 11 11:12:08 +0000 2019",
 		"id": 1105063853480566800,
 		"id_str": "1105063853480566784",
