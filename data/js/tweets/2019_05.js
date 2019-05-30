@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 30 12:37:32 +0000 2019",
+		"id": 1129681822466564100,
+		"id_str": "1134076374308741121",
+		"full_text": "Thanks to everyone who has supported this podcast for the past 6 years,  and especially to @corisel, co-founder of TER without whom it never would have gotten off the ground! (Would now be a good time to try and guilt trip Corinne into coming back?) #APA19 https://t.co/BxfWRnXLNB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "APA19",
+					"indices": [
+						250,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "corisel",
+					"name": "Corinne Campbell",
+					"id": 63471960,
+					"id_str": "63471960",
+					"indices": [
+						91,
+						99
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129681809556426800,
+					"id_str": "1129681809556426752",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/D61vntfU0AAZn-i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D61vntfU0AAZn-i.jpg",
+					"url": "https://t.co/BxfWRnXLNB",
+					"display_url": "pic.twitter.com/BxfWRnXLNB",
+					"expanded_url": "https://twitter.com/TERPodcast/status/1129681822466564096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129681809556426800,
+					"id_str": "1129681809556426752",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/D61vntfU0AAZn-i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D61vntfU0AAZn-i.jpg",
+					"url": "https://t.co/BxfWRnXLNB",
+					"display_url": "pic.twitter.com/BxfWRnXLNB",
+					"expanded_url": "https://twitter.com/TERPodcast/status/1129681822466564096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1590760676,
+			"id_str": "1590760676",
+			"name": "TER Podcast",
+			"screen_name": "TERPodcast",
+			"location": "Australia",
+			"description": "The Australian podcast for teachers, bridging the gap between research, policy & practice. Tweets from @Capitan_Typo, member of https://t.co/fWK7Fqm9OE",
+			"url": "https://t.co/PTQ9lKBAbe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTQ9lKBAbe",
+							"expanded_url": "http://www.TERPodcast.com",
+							"display_url": "TERPodcast.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fWK7Fqm9OE",
+							"expanded_url": "http://AEON.net.au",
+							"display_url": "AEON.net.au",
+							"indices": [
+								128,
+								151
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3211,
+			"friends_count": 1714,
+			"listed_count": 60,
+			"created_at": "Sat Jul 13 11:06:02 +0000 2013",
+			"favourites_count": 2130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000433433361/7ba5378695adafe20b257831c17b789d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000433433361/7ba5378695adafe20b257831c17b789d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1590760676/1373870488",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks to everyone who has supported this podcast for the past 6 years,  and especially to @corisel, co-founder of TER without whom it never would have gotten off the ground! (Would now be a good time to try and guilt trip Corinne into coming back?) #APA19 https://t.co/BxfWRnXLNB"
+	},
+	{
 		"created_at": "Mon May 27 12:32:25 +0000 2019",
 		"id": 1132987922645475300,
 		"id_str": "1132987922645475330",
