@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 03 21:59:53 +0000 2019",
+		"id": 1135667447883657200,
+		"id_str": "1135667447883657216",
+		"full_text": "@gregmiller68 @scott_donohoe @cjpb63 @chrisbettiol @chriscawsey @mrchrismaguire @betchaboy @Poska @DavidPriceOBE @mickymifo @Micktonnet @mk5 @HaskettsHSC @Maurs_5 @LisaSamo39 @lisanash9 Great reflection Greg. The question I was left wondering is what hoped from sparking such debate? I left more thoughts here https://t.co/wCtvfh85jn \n\nI hope to one day be able to visit St Luke's and love your willingness to openly share your journey.",
+		"truncated": false,
+		"display_text_range": [
+			186,
+			436
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gregmiller68",
+					"name": "Greg Miller",
+					"id": 212374993,
+					"id_str": "212374993",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "scott_donohoe",
+					"name": "Scott Donohoe",
+					"id": 969362256,
+					"id_str": "969362256",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "cjpb63",
+					"name": "Chris B",
+					"id": 1572288596,
+					"id_str": "1572288596",
+					"indices": [
+						29,
+						36
+					]
+				},
+				{
+					"screen_name": "chrisbettiol",
+					"name": "Chris Bettiol",
+					"id": 24866678,
+					"id_str": "24866678",
+					"indices": [
+						37,
+						50
+					]
+				},
+				{
+					"screen_name": "chriscawsey",
+					"name": "Christine Cawsey AM",
+					"id": 194942733,
+					"id_str": "194942733",
+					"indices": [
+						51,
+						63
+					]
+				},
+				{
+					"screen_name": "mrchrismaguire",
+					"name": "Chris Maguire",
+					"id": 2896405322,
+					"id_str": "2896405322",
+					"indices": [
+						64,
+						79
+					]
+				},
+				{
+					"screen_name": "betchaboy",
+					"name": "Chris Betcher",
+					"id": 779452,
+					"id_str": "779452",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"screen_name": "Poska",
+					"name": "Dave Posker-Hill",
+					"id": 27379102,
+					"id_str": "27379102",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"screen_name": "DavidPriceOBE",
+					"name": "David Price",
+					"id": 191001129,
+					"id_str": "191001129",
+					"indices": [
+						98,
+						112
+					]
+				},
+				{
+					"screen_name": "mickymifo",
+					"name": "Michael Mifsud",
+					"id": 398493548,
+					"id_str": "398493548",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"screen_name": "Micktonnet",
+					"name": "Michael Tonnet",
+					"id": 158303357,
+					"id_str": "158303357",
+					"indices": [
+						124,
+						135
+					]
+				},
+				{
+					"screen_name": "mk5",
+					"name": "Melissa King",
+					"id": 18087558,
+					"id_str": "18087558",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"screen_name": "HaskettsHSC",
+					"name": "Melinda Haskett",
+					"id": 2748779875,
+					"id_str": "2748779875",
+					"indices": [
+						141,
+						153
+					]
+				},
+				{
+					"screen_name": "Maurs_5",
+					"name": "Melinda Bright",
+					"id": 31081345,
+					"id_str": "31081345",
+					"indices": [
+						154,
+						162
+					]
+				},
+				{
+					"screen_name": "LisaSamo39",
+					"name": "Lisa Samojlowicz",
+					"id": 565918620,
+					"id_str": "565918620",
+					"indices": [
+						163,
+						174
+					]
+				},
+				{
+					"screen_name": "lisanash9",
+					"name": "Lisa Nash",
+					"id": 5575382,
+					"id_str": "5575382",
+					"indices": [
+						175,
+						185
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wCtvfh85jn",
+					"expanded_url": "https://collect.readwriterespond.com/detractors-from-afar/",
+					"display_url": "collect.readwriterespond.com/detractors-fro…",
+					"indices": [
+						310,
+						333
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1134053809699708900,
+		"in_reply_to_status_id_str": "1134053809699708929",
+		"in_reply_to_user_id": 212374993,
+		"in_reply_to_user_id_str": "212374993",
+		"in_reply_to_screen_name": "gregmiller68",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4279,
+			"friends_count": 989,
+			"listed_count": 378,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4841,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@gregmiller68 @scott_donohoe @cjpb63 @chrisbettiol @chriscawsey @mrchrismaguire @betchaboy @Poska @DavidPriceOBE @mickymifo @Micktonnet @mk5 @HaskettsHSC @Maurs_5 @LisaSamo39 @lisanash9 Great reflection Greg. The question I was left wondering is what hoped from sparking such debate? I left more thoughts here https://t.co/wCtvfh85jn \n\nI hope to one day be able to visit St Luke's and love your willingness to openly share your journey."
+	},
+	{
 		"created_at": "Mon Jun 03 10:38:59 +0000 2019",
 		"id": 1135496091921784800,
 		"id_str": "1135496091921784832",
