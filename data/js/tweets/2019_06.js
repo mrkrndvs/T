@@ -1,6 +1,137 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 10:12:33 +0000 2019",
+		"id": 1137898246645407700,
+		"id_str": "1138026156593041408",
+		"full_text": "We're looking for things to automate (workflows, data collection, rube goldberg machines, etc.) w/ #GoogleAppsScript before/during our #Domains19 talk on Tues. Watcha got? All things from the useful to the absurd will be considered cc: @twoodwar @heyohbunkbunk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoogleAppsScript",
+					"indices": [
+						99,
+						116
+					]
+				},
+				{
+					"text": "Domains19",
+					"indices": [
+						135,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "twoodwar",
+					"name": "Tom Woodward",
+					"id": 10076902,
+					"id_str": "10076902",
+					"indices": [
+						236,
+						245
+					]
+				},
+				{
+					"screen_name": "heyohbunkbunk",
+					"name": "Matt Roberts",
+					"id": 18875720,
+					"id_str": "18875720",
+					"indices": [
+						246,
+						260
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 223246172,
+			"id_str": "223246172",
+			"name": "Jeff Everhart",
+			"screen_name": "J_Everhart383",
+			"location": "Virginia, USA",
+			"description": "Full stack dev, creative technologist, teacher. Tweets about #javascript, #googleapps, #wordpress, #webdev, #edtech & cheap sunglasses.",
+			"url": "http://t.co/HvCax3rut4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/HvCax3rut4",
+							"expanded_url": "http://www.jeffreyeverhart.com",
+							"display_url": "jeffreyeverhart.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 443,
+			"listed_count": 68,
+			"created_at": "Sun Dec 05 20:49:54 +0000 2010",
+			"favourites_count": 405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/728282557830201344/TthIbrG7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/728282557830201344/TthIbrG7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/223246172/1379610494",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We're looking for things to automate (workflows, data collection, rube goldberg machines, etc.) w/ #GoogleAppsScript before/during our #Domains19 talk on Tues. Watcha got? All things from the useful to the absurd will be considered cc: @twoodwar @heyohbunkbunk"
+	},
+	{
 		"created_at": "Mon Jun 10 02:23:39 +0000 2019",
 		"id": 1137908153834659800,
 		"id_str": "1137908153834659840",
