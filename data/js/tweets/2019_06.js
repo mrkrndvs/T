@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 16 09:26:18 +0000 2019",
+		"id": 1140183411560075300,
+		"id_str": "1140188842151960582",
+		"full_text": "Forget galleries, I’ve never been as affected by a photograph as I was when a bookseller sent me a picture of her kid snuggled in bed enthusiastically reading my book. MY book! 😍 https://t.co/pUwMVIaUag",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1140183379008086000,
+					"id_str": "1140183379008086017",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D9K-vgSU4AEqHc0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9K-vgSU4AEqHc0.jpg",
+					"url": "https://t.co/pUwMVIaUag",
+					"display_url": "pic.twitter.com/pUwMVIaUag",
+					"expanded_url": "https://twitter.com/fionathehardy/status/1140183411560075264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140183379008086000,
+					"id_str": "1140183379008086017",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D9K-vgSU4AEqHc0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9K-vgSU4AEqHc0.jpg",
+					"url": "https://t.co/pUwMVIaUag",
+					"display_url": "pic.twitter.com/pUwMVIaUag",
+					"expanded_url": "https://twitter.com/fionathehardy/status/1140183411560075264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 208438518,
+			"id_str": "208438518",
+			"name": "Fiona Hardy",
+			"screen_name": "fionathehardy",
+			"location": "Melbourne",
+			"description": "Bookseller/writer/reviewer. No sense of direction, but v good at eating popcorn. “How to Make Movie in 12 Days” out September, preorder: https://t.co/hTwg3Jiof6",
+			"url": "https://t.co/fx2x3kL0p8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fx2x3kL0p8",
+							"expanded_url": "http://fionathehardy.com",
+							"display_url": "fionathehardy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/hTwg3Jiof6",
+							"expanded_url": "https://bit.ly/2YUqvtM",
+							"display_url": "bit.ly/2YUqvtM",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 900,
+			"friends_count": 825,
+			"listed_count": 24,
+			"created_at": "Wed Oct 27 08:36:14 +0000 2010",
+			"favourites_count": 7739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D4D4D4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095480809954304001/wSoDLNLS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095480809954304001/wSoDLNLS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/208438518/1559564778",
+			"profile_link_color": "507C7C",
+			"profile_sidebar_border_color": "322840",
+			"profile_sidebar_fill_color": "322840",
+			"profile_text_color": "92A8A8",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Forget galleries, I’ve never been as affected by a photograph as I was when a bookseller sent me a picture of her kid snuggled in bed enthusiastically reading my book. MY book! 😍 https://t.co/pUwMVIaUag"
+	},
+	{
 		"created_at": "Sat Jun 15 13:28:29 +0000 2019",
 		"id": 1139887404070912000,
 		"id_str": "1139887404070912001",
