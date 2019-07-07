@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 07 12:07:56 +0000 2019",
+		"id": 1147116179770630100,
+		"id_str": "1147839662460772352",
+		"full_text": "You won't want to miss these amazing presentations at #DigiCON19, with so much choice, there is something for everyone! Register now --&gt; https://t.co/yyAWC5xMwF https://t.co/CRuFRoRdop",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigiCON19",
+					"indices": [
+						54,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yyAWC5xMwF",
+					"expanded_url": "https://dltv.vic.edu.au/DigiCon19",
+					"display_url": "dltv.vic.edu.au/DigiCon19",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1147114630113714200,
+					"id_str": "1147114630113714179",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/D-terayU4AM-z5u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-terayU4AM-z5u.jpg",
+					"url": "https://t.co/CRuFRoRdop",
+					"display_url": "pic.twitter.com/CRuFRoRdop",
+					"expanded_url": "https://twitter.com/digi_con/status/1147116179770630145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1147114630113714200,
+					"id_str": "1147114630113714179",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/D-terayU4AM-z5u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-terayU4AM-z5u.jpg",
+					"url": "https://t.co/CRuFRoRdop",
+					"display_url": "pic.twitter.com/CRuFRoRdop",
+					"expanded_url": "https://twitter.com/digi_con/status/1147116179770630145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1147114630109548500,
+					"id_str": "1147114630109548549",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/D-teraxVUAUxOfR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-teraxVUAUxOfR.jpg",
+					"url": "https://t.co/CRuFRoRdop",
+					"display_url": "pic.twitter.com/CRuFRoRdop",
+					"expanded_url": "https://twitter.com/digi_con/status/1147116179770630145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3060666652,
+			"id_str": "3060666652",
+			"name": "DigiCon",
+			"screen_name": "digi_con",
+			"location": "Melbourne, Australia",
+			"description": "The Digital Learning and Teaching Victoria Annual Conference.",
+			"url": "https://t.co/HdzGgBsaF9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HdzGgBsaF9",
+							"expanded_url": "http://digicon.vic.edu.au",
+							"display_url": "digicon.vic.edu.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 767,
+			"friends_count": 251,
+			"listed_count": 34,
+			"created_at": "Wed Feb 25 03:03:19 +0000 2015",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046562019703324672/cnpxFkmR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046562019703324672/cnpxFkmR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3060666652/1544758947",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You won't want to miss these amazing presentations at #DigiCON19, with so much choice, there is something for everyone! Register now --&gt; https://t.co/yyAWC5xMwF https://t.co/CRuFRoRdop"
+	},
+	{
 		"created_at": "Sun Jul 07 07:08:47 +0000 2019",
 		"id": 1147764380836212700,
 		"id_str": "1147764380836212741",
