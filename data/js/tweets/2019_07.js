@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 09 06:44:35 +0000 2019",
+		"id": 1147870834582855700,
+		"id_str": "1148483066886623232",
+		"full_text": "TER #137 – Banning Mobile Phones in Schools with Dr Michael Carr-Gregg – 07 July 2019 https://t.co/LWw7zNqiCv https://t.co/4WQJT510LB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LWw7zNqiCv",
+					"expanded_url": "https://terpodcast.wordpress.com/2019/07/08/ter-137-banning-mobile-phones-in-schools-with-dr-michael-carr-gregg-07-july-2019/",
+					"display_url": "terpodcast.wordpress.com/2019/07/08/ter…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1147870833148342300,
+					"id_str": "1147870833148342273",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/D-4OcOnWsAEUxou.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-4OcOnWsAEUxou.jpg",
+					"url": "https://t.co/4WQJT510LB",
+					"display_url": "pic.twitter.com/4WQJT510LB",
+					"expanded_url": "https://twitter.com/TERPodcast/status/1147870834582855681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1147870833148342300,
+					"id_str": "1147870833148342273",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/D-4OcOnWsAEUxou.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-4OcOnWsAEUxou.jpg",
+					"url": "https://t.co/4WQJT510LB",
+					"display_url": "pic.twitter.com/4WQJT510LB",
+					"expanded_url": "https://twitter.com/TERPodcast/status/1147870834582855681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1590760676,
+			"id_str": "1590760676",
+			"name": "TER Podcast",
+			"screen_name": "TERPodcast",
+			"location": "Australia",
+			"description": "The Australian podcast for teachers, bridging the gap between research, policy & practice. Tweets from @Capitan_Typo, member of https://t.co/fWK7Fqm9OE",
+			"url": "https://t.co/PTQ9lKBAbe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTQ9lKBAbe",
+							"expanded_url": "http://www.TERPodcast.com",
+							"display_url": "TERPodcast.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fWK7Fqm9OE",
+							"expanded_url": "http://AEON.net.au",
+							"display_url": "AEON.net.au",
+							"indices": [
+								128,
+								151
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3223,
+			"friends_count": 1728,
+			"listed_count": 63,
+			"created_at": "Sat Jul 13 11:06:02 +0000 2013",
+			"favourites_count": 2157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000433433361/7ba5378695adafe20b257831c17b789d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000433433361/7ba5378695adafe20b257831c17b789d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1590760676/1373870488",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TER #137 – Banning Mobile Phones in Schools with Dr Michael Carr-Gregg – 07 July 2019 https://t.co/LWw7zNqiCv https://t.co/4WQJT510LB"
+	},
+	{
 		"created_at": "Mon Jul 08 10:23:00 +0000 2019",
 		"id": 1148175646100795400,
 		"id_str": "1148175646100795393",
