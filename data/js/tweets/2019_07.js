@@ -1,6 +1,153 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 12 12:07:44 +0000 2019",
+		"id": 1149651554200256500,
+		"id_str": "1149651554200256516",
+		"full_text": "@JoelBSperanza @EduTweetOz Sometimes I feel I should clean up my RSS feeds, removing those blogs that have gone dorment, but then one of them comes to life again like @JoelBSperanza. Then I think that is why I do not clean up my feeds https://t.co/3pXRj10wNO",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JoelBSperanza",
+					"name": "Joel Speranza",
+					"id": 469805226,
+					"id_str": "469805226",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "EduTweetOz",
+					"name": "EduTweetOz: Megan Pusey",
+					"id": 1361688518,
+					"id_str": "1361688518",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "JoelBSperanza",
+					"name": "Joel Speranza",
+					"id": 469805226,
+					"id_str": "469805226",
+					"indices": [
+						167,
+						181
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3pXRj10wNO",
+					"expanded_url": "http://joelsperanza.com/classroom-practice/what-marathons-and-school-have-in-common-repeated-choices/",
+					"display_url": "joelsperanza.com/classroom-prac…",
+					"indices": [
+						235,
+						258
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": 1149564865708621800,
+		"in_reply_to_status_id_str": "1149564865708621824",
+		"in_reply_to_user_id": 469805226,
+		"in_reply_to_user_id_str": "469805226",
+		"in_reply_to_screen_name": "JoelBSperanza",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4264,
+			"friends_count": 987,
+			"listed_count": 378,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JoelBSperanza @EduTweetOz Sometimes I feel I should clean up my RSS feeds, removing those blogs that have gone dorment, but then one of them comes to life again like @JoelBSperanza. Then I think that is why I do not clean up my feeds https://t.co/3pXRj10wNO"
+	},
+	{
 		"created_at": "Fri Jul 12 06:57:32 +0000 2019",
 		"id": 1149573487431782400,
 		"id_str": "1149573487431782402",
