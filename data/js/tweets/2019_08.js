@@ -1,6 +1,151 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 09 10:35:48 +0000 2019",
+		"id": 1159594441000308700,
+		"id_str": "1159775278647803905",
+		"full_text": "Anyone at a school that doesn’t use letter grades? Have you found a LMS that allows for narrative assessment, competency-based grading, or something else without having to resort to the use of letters or numbers? #edtech #edtechchat #k12 #highered #onlinelearning #blended #aleted",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						213,
+						220
+					]
+				},
+				{
+					"text": "edtechchat",
+					"indices": [
+						221,
+						232
+					]
+				},
+				{
+					"text": "k12",
+					"indices": [
+						233,
+						237
+					]
+				},
+				{
+					"text": "highered",
+					"indices": [
+						238,
+						247
+					]
+				},
+				{
+					"text": "onlinelearning",
+					"indices": [
+						248,
+						263
+					]
+				},
+				{
+					"text": "blended",
+					"indices": [
+						264,
+						272
+					]
+				},
+				{
+					"text": "aleted",
+					"indices": [
+						273,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11571282,
+			"id_str": "11571282",
+			"name": "Bernard Bull",
+			"screen_name": "bernardbull",
+			"location": "Vermont, USA",
+			"description": "I’m inspired by ideas, education R&D, experiments, quests, curiosity, moments of wonder, & glimpses of grace. Writer, designer & President of @GoddardCollege.",
+			"url": "https://t.co/TwWvqKeskX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TwWvqKeskX",
+							"expanded_url": "http://www.etale.org",
+							"display_url": "etale.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5060,
+			"friends_count": 1147,
+			"listed_count": 442,
+			"created_at": "Thu Dec 27 16:48:49 +0000 2007",
+			"favourites_count": 3482,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048716602613682176/kwvGlH9k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048716602613682176/kwvGlH9k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11571282/1553224009",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Anyone at a school that doesn’t use letter grades? Have you found a LMS that allows for narrative assessment, competency-based grading, or something else without having to resort to the use of letters or numbers? #edtech #edtechchat #k12 #highered #onlinelearning #blended #aleted"
+	},
+	{
 		"created_at": "Mon Aug 05 09:56:49 +0000 2019",
 		"id": 1158016266021605400,
 		"id_str": "1158315915840126976",
