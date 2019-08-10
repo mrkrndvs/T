@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 10 12:24:08 +0000 2019",
+		"id": 1160164929363570700,
+		"id_str": "1160164929363570688",
+		"full_text": "@JaneCaro @SatPaper As a teacher/parent Jane, I do not get what parents really expect by treating school leaders poorly? I wrote a post recently on the matter https://t.co/rZYuVBKrfd",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JaneCaro",
+					"name": "Jane Caro",
+					"id": 92932981,
+					"id_str": "92932981",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "SatPaper",
+					"name": "The Saturday Paper",
+					"id": 1967889907,
+					"id_str": "1967889907",
+					"indices": [
+						10,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rZYuVBKrfd",
+					"expanded_url": "https://readwriterespond.com/2019/06/trusting-teachers/",
+					"display_url": "readwriterespond.com/2019/06/trusti…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1159973314078490600,
+		"in_reply_to_status_id_str": "1159973314078490624",
+		"in_reply_to_user_id": 92932981,
+		"in_reply_to_user_id_str": "92932981",
+		"in_reply_to_screen_name": "JaneCaro",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4262,
+			"friends_count": 986,
+			"listed_count": 378,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27833,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JaneCaro @SatPaper As a teacher/parent Jane, I do not get what parents really expect by treating school leaders poorly? I wrote a post recently on the matter https://t.co/rZYuVBKrfd"
+	},
+	{
 		"created_at": "Sat Aug 10 03:49:52 +0000 2019",
 		"id": 1160035509126783000,
 		"id_str": "1160035509126782976",
