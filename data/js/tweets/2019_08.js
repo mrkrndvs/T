@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 11 10:01:59 +0000 2019",
+		"id": 1160322448740380700,
+		"id_str": "1160491542785642496",
+		"full_text": "Another ripper episode - everyone should subscribe to @RadioNational’s Future Tense https://t.co/yq1rHTCajk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RadioNational",
+					"name": "RN - Radio National",
+					"id": 19940915,
+					"id_str": "19940915",
+					"indices": [
+						54,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yq1rHTCajk",
+					"expanded_url": "https://twitter.com/antonyjfunnell/status/1160320418848264193",
+					"display_url": "twitter.com/antonyjfunnell…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16051268,
+			"id_str": "16051268",
+			"name": "Dan Donahoo",
+			"screen_name": "ddonahoo",
+			"location": "Australia",
+			"description": "I'm just a guy. Standing in front of the internet. Wondering how we got here, exactly.",
+			"url": "https://t.co/ojHz4JRPvV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ojHz4JRPvV",
+							"expanded_url": "http://www.projectsynthesis.com.au",
+							"display_url": "projectsynthesis.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3420,
+			"friends_count": 436,
+			"listed_count": 237,
+			"created_at": "Sat Aug 30 03:48:25 +0000 2008",
+			"favourites_count": 2940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1044698811673661440/rr5_HuIC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1044698811673661440/rr5_HuIC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16051268/1502768450",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1160320418848264200,
+		"quoted_status_id_str": "1160320418848264193",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yq1rHTCajk",
+			"expanded": "https://twitter.com/antonyjfunnell/status/1160320418848264193",
+			"display": "twitter.com/antonyjfunnell…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 10 22:42:00 +0000 2019",
+			"id": 1160320418848264200,
+			"id_str": "1160320418848264193",
+			"full_text": "This morning on RN at 10.30 - building an alternative internet; the challenge to the dominance of Netflix; and how to ensure greater competition in the tech sector. That's Future Tense. Tune in or download now - https://t.co/PX0mXOm5e8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				235
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PX0mXOm5e8",
+						"expanded_url": "https://www.abc.net.au/radionational/programs/futuretense/netflixs-decline-and-why-stricter-regulation-could-strengthen/11391544",
+						"display_url": "abc.net.au/radionational/…",
+						"indices": [
+							212,
+							235
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25003408,
+				"id_str": "25003408",
+				"name": "Antony J Funnell",
+				"screen_name": "antonyjfunnell",
+				"location": "Australia",
+				"description": "Antony Funnell is a Walkley award winning author and broadcaster. He presents the ABC podcast Future Tense. Subscribe in iTunes: https://t.co/O3CpLKvTtO",
+				"url": "http://www.abc.net.au/radionational/programs/futuretense/",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://www.abc.net.au/radionational/programs/futuretense/",
+								"expanded_url": null,
+								"indices": [
+									0,
+									57
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/O3CpLKvTtO",
+								"expanded_url": "http://bit.ly/zIAb4H",
+								"display_url": "bit.ly/zIAb4H",
+								"indices": [
+									129,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3483,
+				"friends_count": 1728,
+				"listed_count": 242,
+				"created_at": "Wed Mar 18 01:46:38 +0000 2009",
+				"favourites_count": 278,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8453,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "139CA6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/928757645334405120/-W2bbLcj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/928757645334405120/-W2bbLcj_normal.jpg",
+				"profile_link_color": "139CA6",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "139CA6",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Another ripper episode - everyone should subscribe to @RadioNational’s Future Tense https://t.co/yq1rHTCajk"
+	},
+	{
 		"created_at": "Sat Aug 10 12:24:08 +0000 2019",
 		"id": 1160164929363570700,
 		"id_str": "1160164929363570688",
