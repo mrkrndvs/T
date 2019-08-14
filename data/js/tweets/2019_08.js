@@ -1,6 +1,138 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 14 10:56:30 +0000 2019",
+		"id": 1160978633474760700,
+		"id_str": "1161592426072436736",
+		"full_text": "Finally got to the beach to film my #barefootfordai video. He loved the sea. I share the poem I penned last week, too. https://t.co/ZqryQ3gy0O #RIPDai @daibarnes",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "barefootfordai",
+					"indices": [
+						36,
+						51
+					]
+				},
+				{
+					"text": "RIPDai",
+					"indices": [
+						143,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "daibarnes",
+					"name": "Dai Barnes 👣☀️🌧️",
+					"id": 14143403,
+					"id_str": "14143403",
+					"indices": [
+						151,
+						161
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZqryQ3gy0O",
+					"expanded_url": "https://flipgrid.com/s/df0064927d1c",
+					"display_url": "flipgrid.com/s/df0064927d1c",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158207707,
+			"id_str": "158207707",
+			"name": "ａｍｙｂｕｒｖａｌｌ",
+			"screen_name": "amyburvall",
+			"location": "Oahu, Hi",
+			"description": "Creative & Visual Thinking consultant/ 25+yr educator/designer/artist/writer/\ndadaist; FRSA; co-author @IntentionBook; History Music Vids @historyteacherz",
+			"url": "https://t.co/RPeoCPA2bm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RPeoCPA2bm",
+							"expanded_url": "http://www.amyburvall.com/",
+							"display_url": "amyburvall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9653,
+			"friends_count": 4949,
+			"listed_count": 798,
+			"created_at": "Tue Jun 22 02:13:48 +0000 2010",
+			"favourites_count": 19823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "5A5C61",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1012621118/amymomsday_blkw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012621118/amymomsday_blkw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158207707/1494187623",
+			"profile_link_color": "E643B5",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 23,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Finally got to the beach to film my #barefootfordai video. He loved the sea. I share the poem I penned last week, too. https://t.co/ZqryQ3gy0O #RIPDai @daibarnes"
+	},
+	{
 		"created_at": "Mon Aug 12 12:21:06 +0000 2019",
 		"id": 1160888942591217700,
 		"id_str": "1160888942591217665",
