@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 15 10:32:30 +0000 2019",
+		"id": 1161729555305861000,
+		"id_str": "1161948774991724544",
+		"full_text": "There is still the weekend available for the right person to put together an application and apply for this exciting and innovative role. Is that you? If not, is there a friend or colleague who you fulfils the requirements of this role? https://t.co/DQnmyhMRb9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DQnmyhMRb9",
+					"expanded_url": "https://twitter.com/StLukesMP/status/1161478047771635713",
+					"display_url": "twitter.com/StLukesMP/stat…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 212374993,
+			"id_str": "212374993",
+			"name": "Greg Miller",
+			"screen_name": "gregmiller68",
+			"location": "Sydney NSW Australia",
+			"description": "An education leader committed to reimagining learning. Foundation Principal @StLukesMP",
+			"url": "https://t.co/FPPF1HrOHk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FPPF1HrOHk",
+							"expanded_url": "http://gregmiller68.com/",
+							"display_url": "gregmiller68.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3181,
+			"friends_count": 921,
+			"listed_count": 76,
+			"created_at": "Fri Nov 05 22:24:31 +0000 2010",
+			"favourites_count": 11557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "59472F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/647275036357750784/eJa9snHi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/647275036357750784/eJa9snHi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/212374993/1499517366",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000515",
+			"profile_sidebar_fill_color": "061127",
+			"profile_text_color": "52555C",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1161478047771635700,
+		"quoted_status_id_str": "1161478047771635713",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DQnmyhMRb9",
+			"expanded": "https://twitter.com/StLukesMP/status/1161478047771635713",
+			"display": "twitter.com/StLukesMP/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 14 03:22:00 +0000 2019",
+			"id": 1161478047771635700,
+			"id_str": "1161478047771635713",
+			"full_text": "Opportunities like this don't come along very often! We are seeking an educator with an interest and/or background in strengths based coaching to lead staff and support students to design pathways which lead to post school success. https://t.co/fpyMSm8yTW https://t.co/1Lbg8QS1FL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				255
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fpyMSm8yTW",
+						"expanded_url": "https://docs.google.com/document/d/1eZfoVn4nYeRh1j8uz5w25W1tF7cz1hQNx5WuzYBQ1DY/edit?usp=sharing",
+						"display_url": "docs.google.com/document/d/1eZ…",
+						"indices": [
+							232,
+							255
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1161478038397358000,
+						"id_str": "1161478038397358080",
+						"indices": [
+							256,
+							279
+						],
+						"media_url": "http://pbs.twimg.com/media/EB5mH0UXkAAnjnE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EB5mH0UXkAAnjnE.jpg",
+						"url": "https://t.co/1Lbg8QS1FL",
+						"display_url": "pic.twitter.com/1Lbg8QS1FL",
+						"expanded_url": "https://twitter.com/StLukesMP/status/1161478047771635713/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1161478038397358000,
+						"id_str": "1161478038397358080",
+						"indices": [
+							256,
+							279
+						],
+						"media_url": "http://pbs.twimg.com/media/EB5mH0UXkAAnjnE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EB5mH0UXkAAnjnE.jpg",
+						"url": "https://t.co/1Lbg8QS1FL",
+						"display_url": "pic.twitter.com/1Lbg8QS1FL",
+						"expanded_url": "https://twitter.com/StLukesMP/status/1161478047771635713/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 747223814992330800,
+				"id_str": "747223814992330752",
+				"name": "stlukesnextgen",
+				"screen_name": "StLukesMP",
+				"location": "Marsden Park, Sydney",
+				"description": "A next generation learning community now in its third year.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 933,
+				"friends_count": 315,
+				"listed_count": 6,
+				"created_at": "Mon Jun 27 00:23:35 +0000 2016",
+				"favourites_count": 2296,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3750,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/790107319358984192/L-i00DbC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/790107319358984192/L-i00DbC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/747223814992330752/1559171486",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 10,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There is still the weekend available for the right person to put together an application and apply for this exciting and innovative role. Is that you? If not, is there a friend or colleague who you fulfils the requirements of this role? https://t.co/DQnmyhMRb9"
+	},
+	{
 		"created_at": "Wed Aug 14 10:56:30 +0000 2019",
 		"id": 1160978633474760700,
 		"id_str": "1161592426072436736",
