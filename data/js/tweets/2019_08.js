@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 16 00:57:08 +0000 2019",
+		"id": 1162166368319332400,
+		"id_str": "1162166368319332352",
+		"full_text": "An interesting provocation for looking at algorithms and abstraction in Digital Technologies curriculum #DTHub https://t.co/nRrgzEPSAS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DTHub",
+					"indices": [
+						104,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nRrgzEPSAS",
+					"expanded_url": "https://twitter.com/andy_park/status/1161952833777700864",
+					"display_url": "twitter.com/andy_park/stat…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4269,
+			"friends_count": 988,
+			"listed_count": 378,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1161952833777700900,
+		"quoted_status_id_str": "1161952833777700864",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nRrgzEPSAS",
+			"expanded": "https://twitter.com/andy_park/status/1161952833777700864",
+			"display": "twitter.com/andy_park/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 15 10:48:38 +0000 2019",
+			"id": 1161952833777700900,
+			"id_str": "1161952833777700864",
+			"full_text": "Some people claim the Sistine Chapel is the peak of human made beauty.\n\nWrong. It’s Viennetta being made:\n\nhttps://t.co/vCjxwFlIC2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				130
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1161441764043083800,
+						"id_str": "1161441764043083776",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1161441764043083776/pu/img/DBX2UIA0VLngKAh8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1161441764043083776/pu/img/DBX2UIA0VLngKAh8.jpg",
+						"url": "https://t.co/vCjxwFlIC2",
+						"display_url": "pic.twitter.com/vCjxwFlIC2",
+						"expanded_url": "https://twitter.com/asobitech/status/1161441802987212800/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1161441802987212800,
+						"source_status_id_str": "1161441802987212800",
+						"source_user_id": 46420987,
+						"source_user_id_str": "46420987"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1161441764043083800,
+						"id_str": "1161441764043083776",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1161441764043083776/pu/img/DBX2UIA0VLngKAh8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1161441764043083776/pu/img/DBX2UIA0VLngKAh8.jpg",
+						"url": "https://t.co/vCjxwFlIC2",
+						"display_url": "pic.twitter.com/vCjxwFlIC2",
+						"expanded_url": "https://twitter.com/asobitech/status/1161441802987212800/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1161441802987212800,
+						"source_status_id_str": "1161441802987212800",
+						"source_user_id": 46420987,
+						"source_user_id_str": "46420987",
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"duration_millis": 66000,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1161441764043083776/pu/pl/X1OHZnxog-xVcf8_.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1161441764043083776/pu/vid/360x270/xXj1FEEPl0hDRMoP.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1161441764043083776/pu/vid/480x360/nhiAMzWRPOiDXkQw.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 46420987,
+								"id_str": "46420987",
+								"name": "Asobi.tech 😺😺🏰 🔜 #Gamescom2019",
+								"screen_name": "asobitech",
+								"location": "London, UK",
+								"description": "Ah-So-Bee . tech #MāoMāoCastle launching 20th Aug 2019 on itchio. iOS & Android to follow. Info at https://t.co/9CUUtP8PyX @QuangDX & @VeePixels bros making awesome.",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/9CUUtP8PyX",
+												"expanded_url": "http://maomaocastle.com",
+												"display_url": "maomaocastle.com",
+												"indices": [
+													99,
+													122
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 3234,
+								"friends_count": 1928,
+								"listed_count": 113,
+								"created_at": "Thu Jun 11 16:11:57 +0000 2009",
+								"favourites_count": 41640,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 12298,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "FFFFFF",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": true,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1091012226457239552/0LHiQU7w_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091012226457239552/0LHiQU7w_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/46420987/1548954904",
+								"profile_link_color": "FF0000",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": false,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 119358191,
+				"id_str": "119358191",
+				"name": "Andy Park",
+				"screen_name": "andy_park",
+				"location": "Sydney, Australia",
+				"description": "Reporter. @abcaustralia’s national flagship current affairs program, @abc730, via @thefeedsbs/@theage. Views own, RTs ≠ endorsements. andy.park@abc.net.au",
+				"url": "https://t.co/Damo6zU2kv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Damo6zU2kv",
+								"expanded_url": "http://www.facebook.com/andyparknews",
+								"display_url": "facebook.com/andyparknews",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9703,
+				"friends_count": 4912,
+				"listed_count": 197,
+				"created_at": "Wed Mar 03 12:00:01 +0000 2010",
+				"favourites_count": 10231,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16775,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1151026020901720065/pkXa6EWQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151026020901720065/pkXa6EWQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/119358191/1563260964",
+				"profile_link_color": "007AB3",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6347,
+			"favorite_count": 24465,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An interesting provocation for looking at algorithms and abstraction in Digital Technologies curriculum #DTHub https://t.co/nRrgzEPSAS"
+	},
+	{
 		"created_at": "Thu Aug 15 10:32:30 +0000 2019",
 		"id": 1161729555305861000,
 		"id_str": "1161948774991724544",
