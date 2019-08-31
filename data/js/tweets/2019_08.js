@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 31 11:36:31 +0000 2019",
+		"id": 1167763090068271000,
+		"id_str": "1167763090068271104",
+		"full_text": "😲 https://t.co/aaQhLgfRfZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aaQhLgfRfZ",
+					"expanded_url": "https://twitter.com/MadHat74/status/1167198689237929986",
+					"display_url": "twitter.com/MadHat74/statu…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4270,
+			"friends_count": 988,
+			"listed_count": 378,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1167198689237930000,
+		"quoted_status_id_str": "1167198689237929986",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aaQhLgfRfZ",
+			"expanded": "https://twitter.com/MadHat74/status/1167198689237929986",
+			"display": "twitter.com/MadHat74/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 29 22:13:47 +0000 2019",
+			"id": 1167198689237930000,
+			"id_str": "1167198689237929986",
+			"full_text": "@LBHumphries @dickfaber School Oval in Broken Hill. Not even weeds can grow. https://t.co/e5d5QmxZn7",
+			"truncated": false,
+			"display_text_range": [
+				24,
+				76
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LBHumphries",
+						"name": "Lincoln Humphries",
+						"id": 324733651,
+						"id_str": "324733651",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "dickfaber",
+						"name": "dickfaber",
+						"id": 165740914,
+						"id_str": "165740914",
+						"indices": [
+							13,
+							23
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1167198667016560600,
+						"id_str": "1167198667016560640",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/EDK5AOnU4AAClWJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDK5AOnU4AAClWJ.jpg",
+						"url": "https://t.co/e5d5QmxZn7",
+						"display_url": "pic.twitter.com/e5d5QmxZn7",
+						"expanded_url": "https://twitter.com/MadHat74/status/1167198689237929986/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1167198667016560600,
+						"id_str": "1167198667016560640",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/EDK5AOnU4AAClWJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDK5AOnU4AAClWJ.jpg",
+						"url": "https://t.co/e5d5QmxZn7",
+						"display_url": "pic.twitter.com/e5d5QmxZn7",
+						"expanded_url": "https://twitter.com/MadHat74/status/1167198689237929986/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1166985896391917600,
+			"in_reply_to_status_id_str": "1166985896391917568",
+			"in_reply_to_user_id": 324733651,
+			"in_reply_to_user_id_str": "324733651",
+			"in_reply_to_screen_name": "LBHumphries",
+			"user": {
+				"id": 290482119,
+				"id_str": "290482119",
+				"name": "Daniel",
+				"screen_name": "MadHat74",
+				"location": "Broken Hill, New South Wales",
+				"description": "Father of two boys.... everything else is a hobby.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 343,
+				"friends_count": 882,
+				"listed_count": 15,
+				"created_at": "Sat Apr 30 10:34:57 +0000 2011",
+				"favourites_count": 2201,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10334,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1120628682488369153/tGU4ruou_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120628682488369153/tGU4ruou_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/290482119/1538938725",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😲 https://t.co/aaQhLgfRfZ"
+	},
+	{
 		"created_at": "Sat Aug 31 10:58:41 +0000 2019",
 		"id": 1167753571577655300,
 		"id_str": "1167753571577655296",
@@ -119,7 +423,7 @@ Grailbird.data.tweets_2019_08 =
 			"created_at": "Fri Aug 09 07:48:53 +0000 2019",
 			"id": 1159733270872912000,
 			"id_str": "1159733270872911872",
-			"full_text": "Hello Hong Kong! (Landed straight into the airport protest!🤷‍♀️) https://t.co/k4vdcin9lT",
+			"full_text": "Hello Hong Kong! (Landed straight into the airport protest!🤷♀️) https://t.co/k4vdcin9lT",
 			"truncated": false,
 			"display_text_range": [
 				0,
