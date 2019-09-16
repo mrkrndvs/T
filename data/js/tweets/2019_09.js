@@ -1,6 +1,162 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 16 10:15:35 +0000 2019",
+		"id": 1173458386114867200,
+		"id_str": "1173540927463288833",
+		"full_text": "Want a chance to take your teaching skills and experience beyond Australia’s borders and volunteer in beautiful Cambodia for two weeks during the Australian January school holidays? #Edchat #vicpln #Ozedchat #aussieed #edutweetoz #ozed #asiaed\nhttps://t.co/VyCsJ5kezV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Edchat",
+					"indices": [
+						182,
+						189
+					]
+				},
+				{
+					"text": "vicpln",
+					"indices": [
+						190,
+						197
+					]
+				},
+				{
+					"text": "Ozedchat",
+					"indices": [
+						198,
+						207
+					]
+				},
+				{
+					"text": "aussieed",
+					"indices": [
+						208,
+						217
+					]
+				},
+				{
+					"text": "edutweetoz",
+					"indices": [
+						218,
+						229
+					]
+				},
+				{
+					"text": "ozed",
+					"indices": [
+						230,
+						235
+					]
+				},
+				{
+					"text": "asiaed",
+					"indices": [
+						236,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VyCsJ5kezV",
+					"expanded_url": "http://www.seebeyondborders.org/get_involved/coming_to_cambodia_with_a_purpose/",
+					"display_url": "seebeyondborders.org/get_involved/c…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 86262399,
+			"id_str": "86262399",
+			"name": "Melinda",
+			"screen_name": "melcashen",
+			"location": "Melbourne, Australia",
+			"description": "Educator, thinker, presenter making a difference in education.",
+			"url": "http://t.co/UbU3B38nJb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/UbU3B38nJb",
+							"expanded_url": "http://melcashen.com",
+							"display_url": "melcashen.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3006,
+			"friends_count": 551,
+			"listed_count": 114,
+			"created_at": "Fri Oct 30 07:39:05 +0000 2009",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D97ADE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/559875921646063616/5PnGhze3_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/559875921646063616/5PnGhze3_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/86262399/1422319813",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "0F0F0E",
+			"profile_sidebar_fill_color": "AE64BD",
+			"profile_text_color": "0D0809",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Want a chance to take your teaching skills and experience beyond Australia’s borders and volunteer in beautiful Cambodia for two weeks during the Australian January school holidays? #Edchat #vicpln #Ozedchat #aussieed #edutweetoz #ozed #asiaed\nhttps://t.co/VyCsJ5kezV"
+	},
+	{
 		"created_at": "Sun Sep 15 21:45:23 +0000 2019",
 		"id": 1173352134080778200,
 		"id_str": "1173352134080778240",
