@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 17 06:41:00 +0000 2019",
+		"id": 1173597484628811800,
+		"id_str": "1173849314512130049",
+		"full_text": "There is a memorial service to celebrate the life of @daibarnes at 15:00 on Sunday 29th September at @oundleschool \n\nhttps://t.co/exPBh0XKPT\n\n(please RT for reach)\n\n#RIPDai https://t.co/2j9c4j49Mr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RIPDai",
+					"indices": [
+						165,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "daibarnes",
+					"name": "Dai Barnes 👣☀️🌧️",
+					"id": 14143403,
+					"id_str": "14143403",
+					"indices": [
+						53,
+						63
+					]
+				},
+				{
+					"screen_name": "oundleschool",
+					"name": "oundle school",
+					"id": 637005544,
+					"id_str": "637005544",
+					"indices": [
+						101,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/exPBh0XKPT",
+					"expanded_url": "https://www.oundleschool.org.uk/dai-barnes-memorial",
+					"display_url": "oundleschool.org.uk/dai-barnes-mem…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1173597478689616000,
+					"id_str": "1173597478689615872",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EEl0sFqWsAAdAsc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEl0sFqWsAAdAsc.jpg",
+					"url": "https://t.co/2j9c4j49Mr",
+					"display_url": "pic.twitter.com/2j9c4j49Mr",
+					"expanded_url": "https://twitter.com/dajbelshaw/status/1173597484628811777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1390,
+							"h": 660,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 323,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1173597478689616000,
+					"id_str": "1173597478689615872",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EEl0sFqWsAAdAsc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEl0sFqWsAAdAsc.jpg",
+					"url": "https://t.co/2j9c4j49Mr",
+					"display_url": "pic.twitter.com/2j9c4j49Mr",
+					"expanded_url": "https://twitter.com/dajbelshaw/status/1173597484628811777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1390,
+							"h": 660,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 323,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 764365,
+			"id_str": "764365",
+			"name": "˗ˏˋ Doug Belshaw ˎˊ˗ 🇪🇺 ☠️ ✊",
+			"screen_name": "dajbelshaw",
+			"location": "🌍",
+			"description": "💡Open Educational Thinkerer. Husband of @hbelshaw & father of two. Armchair philosopher, historian, educator. Left libertarian tendencies.🗑️Tweet deleter.",
+			"url": "https://t.co/pFjCnpa480",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pFjCnpa480",
+							"expanded_url": "http://dougbelshaw.com/blog/start/",
+							"display_url": "dougbelshaw.com/blog/start/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14518,
+			"friends_count": 4287,
+			"listed_count": 1161,
+			"created_at": "Sun Feb 11 10:23:13 +0000 2007",
+			"favourites_count": 24915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1161428802091802627/O49Ggs-7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161428802091802627/O49Ggs-7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/764365/1566295005",
+			"profile_link_color": "2C3444",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There is a memorial service to celebrate the life of @daibarnes at 15:00 on Sunday 29th September at @oundleschool \n\nhttps://t.co/exPBh0XKPT\n\n(please RT for reach)\n\n#RIPDai https://t.co/2j9c4j49Mr"
+	},
+	{
 		"created_at": "Mon Sep 16 10:15:35 +0000 2019",
 		"id": 1173458386114867200,
 		"id_str": "1173540927463288833",
