@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 28 04:05:57 +0000 2019",
+		"id": 1177570679232876500,
+		"id_str": "1177796562975518720",
+		"full_text": "When we watch TV, our TVs watch us back and track our habits. This practice has exploded recently since it hasn’t faced much public scrutiny. But in the last few days, not one but *three* papers have dropped that uncover the extent of tracking on TVs. Let me tell you about them.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10834752,
+			"id_str": "10834752",
+			"name": "Arvind Narayanan",
+			"screen_name": "random_walker",
+			"location": "Princeton, NJ",
+			"description": "Princeton prof. I tweet about digital privacy, infosec, cryptocurrencies & blockchains, AI ethics, tech policy, and academic life.",
+			"url": "http://t.co/gom6hTWCuB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/gom6hTWCuB",
+							"expanded_url": "http://randomwalker.info/",
+							"display_url": "randomwalker.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48400,
+			"friends_count": 187,
+			"listed_count": 1533,
+			"created_at": "Tue Dec 04 11:14:14 +0000 2007",
+			"favourites_count": 3758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7898A6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080225396422070273/IbPxWKb3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080225396422070273/IbPxWKb3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10834752/1488663432",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "301B08",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1224,
+		"favorite_count": 1754,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "When we watch TV, our TVs watch us back and track our habits. This practice has exploded recently since it hasn’t faced much public scrutiny. But in the last few days, not one but *three* papers have dropped that uncover the extent of tracking on TVs. Let me tell you about them."
+	},
+	{
 		"created_at": "Fri Sep 27 05:54:39 +0000 2019",
 		"id": 1177461528410198000,
 		"id_str": "1177461528410198018",
