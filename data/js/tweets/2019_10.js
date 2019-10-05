@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 05 23:12:53 +0000 2019",
+		"id": 1174809144102199300,
+		"id_str": "1180621911052546048",
+		"full_text": "When I've taught literature courses I made the writing explicitly about the intersection between the student and the text. They could not produce something without mining something unique to themselves. This still required the kind of analysis we expect in literature papers.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1174808870922965000,
+		"in_reply_to_status_id_str": "1174808870922964992",
+		"in_reply_to_user_id": 136277952,
+		"in_reply_to_user_id_str": "136277952",
+		"in_reply_to_screen_name": "biblioracle",
+		"user": {
+			"id": 136277952,
+			"id_str": "136277952",
+			"name": "John Warner",
+			"screen_name": "biblioracle",
+			"location": "South Carolina",
+			"description": "Author WHY THEY CAN'T WRITE and its companion, THE WRITER'S PRACTICE, both on sale everywhere.  Regular contributor @insidehighered, @ChiTribBooks.",
+			"url": "https://t.co/hZw4o3lZJc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hZw4o3lZJc",
+							"expanded_url": "https://www.johnwarnerwriter.com",
+							"display_url": "johnwarnerwriter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12626,
+			"friends_count": 1840,
+			"listed_count": 314,
+			"created_at": "Fri Apr 23 13:47:49 +0000 2010",
+			"favourites_count": 17257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 35141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117558674761945088/79R3gLaC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117558674761945088/79R3gLaC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/136277952/1525522454",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "When I've taught literature courses I made the writing explicitly about the intersection between the student and the text. They could not produce something without mining something unique to themselves. This still required the kind of analysis we expect in literature papers."
+	},
+	{
 		"created_at": "Thu Oct 03 22:20:18 +0000 2019",
 		"id": 1179883901801488400,
 		"id_str": "1179883901801488385",
