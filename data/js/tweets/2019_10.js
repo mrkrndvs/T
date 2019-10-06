@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 06 09:08:27 +0000 2019",
+		"id": 1179334837016174600,
+		"id_str": "1180771793222549506",
+		"full_text": "Brenda Arnell was inspired by her daughter, professional #AFLW player @Larnell13, to pull on the footy boots at age 70. #abc730 https://t.co/4OUNYIFb4W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AFLW",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "abc730",
+					"indices": [
+						120,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Larnell13",
+					"name": "Lauren Arnell",
+					"id": 854437730,
+					"id_str": "854437730",
+					"indices": [
+						70,
+						80
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1179329166426148900,
+					"id_str": "1179329166426148864",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EF3Vss5WwAElOK4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF3Vss5WwAElOK4.jpg",
+					"url": "https://t.co/4OUNYIFb4W",
+					"display_url": "pic.twitter.com/4OUNYIFb4W",
+					"expanded_url": "https://twitter.com/abc730/status/1179334837016174594/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179329166426148900,
+					"id_str": "1179329166426148864",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EF3Vss5WwAElOK4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF3Vss5WwAElOK4.jpg",
+					"url": "https://t.co/4OUNYIFb4W",
+					"display_url": "pic.twitter.com/4OUNYIFb4W",
+					"expanded_url": "https://twitter.com/abc730/status/1179334837016174594/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 231160,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1179329166426148864/pl/9qE3whR3B0BFTpPw.m3u8?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1179329166426148864/vid/320x320/t1GSeJf1_U3_QcjG.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1179329166426148864/vid/720x720/sO8hAXuMrzMRj4o3.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1179329166426148864/vid/480x480/0phAmMGH1qA-I2sQ.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132731802,
+			"id_str": "132731802",
+			"name": "abc730",
+			"screen_name": "abc730",
+			"location": "Australia",
+			"description": "7.30 is the ABC's national flagship current affairs program. Monday to Thursday on the ABC. This is an official @ABCaustralia account.",
+			"url": "http://t.co/y7w28mgH7B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/y7w28mgH7B",
+							"expanded_url": "http://abc.net.au/7.30/",
+							"display_url": "abc.net.au/7.30/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 167672,
+			"friends_count": 1129,
+			"listed_count": 1602,
+			"created_at": "Wed Apr 14 01:32:47 +0000 2010",
+			"favourites_count": 2417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 28009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978186780015931392/NBT3fbqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978186780015931392/NBT3fbqq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132731802/1533100424",
+			"profile_link_color": "3E6CFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "ADACB5",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 87,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brenda Arnell was inspired by her daughter, professional #AFLW player @Larnell13, to pull on the footy boots at age 70. #abc730 https://t.co/4OUNYIFb4W"
+	},
+	{
 		"created_at": "Sun Oct 06 00:49:59 +0000 2019",
 		"id": 1180646350645383200,
 		"id_str": "1180646350645383169",
