@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 09 05:20:11 +0000 2019",
+		"id": 1181787631513849900,
+		"id_str": "1181801508506988544",
+		"full_text": "We need a new word: Memidemic https://t.co/8joSXdFlb5\nThanks for the comment and the connected metaphor @mrkrndvs \nQuestion: What word can we use to share the positive spread of ideas, rather than 'viral', etc.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						104,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8joSXdFlb5",
+					"expanded_url": "http://disq.us/t/3ip7f1q",
+					"display_url": "disq.us/t/3ip7f1q",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10298552,
+			"id_str": "10298552",
+			"name": "David Truss",
+			"screen_name": "datruss",
+			"location": "Coquitlam, BC, Canada",
+			"description": "A husband, a parent… An educator, a student… A thinker, a dreamer… An agent of change. ∞β https://t.co/t0tXGEdZFE Free ebook: https://t.co/2nrrs9AQFI",
+			"url": "https://t.co/fwjV4I39wS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fwjV4I39wS",
+							"expanded_url": "http://pairadimes.davidtruss.com",
+							"display_url": "pairadimes.davidtruss.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tXGEdZFE",
+							"expanded_url": "http://2di.me/datruss1",
+							"display_url": "2di.me/datruss1",
+							"indices": [
+								90,
+								113
+							]
+						},
+						{
+							"url": "https://t.co/2nrrs9AQFI",
+							"expanded_url": "http://DavidTruss.com/TwitterEDU",
+							"display_url": "DavidTruss.com/TwitterEDU",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13971,
+			"friends_count": 13597,
+			"listed_count": 699,
+			"created_at": "Fri Nov 16 08:30:57 +0000 2007",
+			"favourites_count": 2147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9BE5E9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1158888786618540032/xeZfq42A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158888786618540032/xeZfq42A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10298552/1478501130",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "4B0C0C",
+			"profile_sidebar_fill_color": "EEF0BF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We need a new word: Memidemic https://t.co/8joSXdFlb5\nThanks for the comment and the connected metaphor @mrkrndvs \nQuestion: What word can we use to share the positive spread of ideas, rather than 'viral', etc."
+	},
+	{
 		"created_at": "Tue Oct 08 12:15:49 +0000 2019",
 		"id": 1181543721629732900,
 		"id_str": "1181543721629732864",
