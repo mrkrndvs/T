@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 09 09:28:04 +0000 2019",
+		"id": 1180271382547947500,
+		"id_str": "1181863893766832128",
+		"full_text": "ACCE 2020 will be held in Melbourne from the 15th-17th of April.\n\nWe want you to present your amazing stories and share your knowledge.\n\nCall for Refereed Papers and Non-Refereed Papers are open now!!\n\nhttps://t.co/QdnF0GbZsz https://t.co/gRChumS41H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QdnF0GbZsz",
+					"expanded_url": "http://ACCE2020.com.au",
+					"display_url": "ACCE2020.com.au",
+					"indices": [
+						202,
+						225
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1180095111830491100,
+					"id_str": "1180095111830491136",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EGCKQHXU0AACi0Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGCKQHXU0AACi0Z.jpg",
+					"url": "https://t.co/gRChumS41H",
+					"display_url": "pic.twitter.com/gRChumS41H",
+					"expanded_url": "https://twitter.com/ACCE2020/status/1180271382547947520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 544,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2008,
+							"h": 910,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 308,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1180095111830491100,
+					"id_str": "1180095111830491136",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EGCKQHXU0AACi0Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGCKQHXU0AACi0Z.jpg",
+					"url": "https://t.co/gRChumS41H",
+					"display_url": "pic.twitter.com/gRChumS41H",
+					"expanded_url": "https://twitter.com/ACCE2020/status/1180271382547947520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 544,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2008,
+							"h": 910,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 308,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 852692059,
+			"id_str": "852692059",
+			"name": "ACCE2020",
+			"screen_name": "ACCE2020",
+			"location": "Victoria",
+			"description": "Australia's No 1 Digital Learning Conference for Teachers & Academics focussed on Educational Technology. 15th-17th of April 2020",
+			"url": "https://t.co/koiKQ0dUyC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/koiKQ0dUyC",
+							"expanded_url": "http://acce2020.com.au",
+							"display_url": "acce2020.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1870,
+			"friends_count": 1180,
+			"listed_count": 35,
+			"created_at": "Sat Sep 29 11:18:37 +0000 2012",
+			"favourites_count": 417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180091777514008576/ldAN3R0X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180091777514008576/ldAN3R0X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/852692059/1544477702",
+			"profile_link_color": "143B7D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ACCE 2020 will be held in Melbourne from the 15th-17th of April.\n\nWe want you to present your amazing stories and share your knowledge.\n\nCall for Refereed Papers and Non-Refereed Papers are open now!!\n\nhttps://t.co/QdnF0GbZsz https://t.co/gRChumS41H"
+	},
+	{
 		"created_at": "Wed Oct 09 05:20:11 +0000 2019",
 		"id": 1181787631513849900,
 		"id_str": "1181801508506988544",
