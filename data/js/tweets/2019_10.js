@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 20 03:11:32 +0000 2019",
+		"id": 1185755401117036500,
+		"id_str": "1185755401117036545",
+		"full_text": "@doncandon @DoubleJRadio Dan, listening to Jessica’s story, I was taken back to watching The Living End in 1999 when my friend and I were carried 2/3 of the way through the crowd at the Melbourne Showgrounds during the frenzy of Prisoner of Society. You are right, it could have be any of us.",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			292
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "doncandon",
+					"name": "Dan Condon",
+					"id": 1413861,
+					"id_str": "1413861",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "DoubleJRadio",
+					"name": "Double J",
+					"id": 10403562,
+					"id_str": "10403562",
+					"indices": [
+						11,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1183919846959898600,
+		"in_reply_to_status_id_str": "1183919846959898625",
+		"in_reply_to_user_id": 1413861,
+		"in_reply_to_user_id_str": "1413861",
+		"in_reply_to_screen_name": "doncandon",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4267,
+			"friends_count": 990,
+			"listed_count": 374,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@doncandon @DoubleJRadio Dan, listening to Jessica’s story, I was taken back to watching The Living End in 1999 when my friend and I were carried 2/3 of the way through the crowd at the Melbourne Showgrounds during the frenzy of Prisoner of Society. You are right, it could have be any of us."
+	},
+	{
 		"created_at": "Sat Oct 19 02:28:56 +0000 2019",
 		"id": 1185382290831970300,
 		"id_str": "1185382290831970304",
