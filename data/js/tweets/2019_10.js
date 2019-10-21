@@ -1,6 +1,148 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 21 12:10:51 +0000 2019",
+		"id": 1186052122602700800,
+		"id_str": "1186253512214102017",
+		"full_text": "Look! @drlindagraham &amp; I from @QUTEducation have created a free, online course about #InclusiveEducation open to teachers, parents, #WeSpeechies &amp; others. \n2-hour course, complete it at your own pace, over 2 weeks, links to resources, high-quality content\nhttps://t.co/FfaqyUnSoB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InclusiveEducation",
+					"indices": [
+						89,
+						108
+					]
+				},
+				{
+					"text": "WeSpeechies",
+					"indices": [
+						136,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drlindagraham",
+					"name": "Linda J. Graham",
+					"id": 613376460,
+					"id_str": "613376460",
+					"indices": [
+						6,
+						20
+					]
+				},
+				{
+					"screen_name": "QUTEducation",
+					"name": "QUTEducation",
+					"id": 1002001935841427500,
+					"id_str": "1002001935841427456",
+					"indices": [
+						34,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FfaqyUnSoB",
+					"expanded_url": "https://www.futurelearn.com/courses/inclusive-education",
+					"display_url": "futurelearn.com/courses/inclus…",
+					"indices": [
+						264,
+						287
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 704648555676377100,
+			"id_str": "704648555676377088",
+			"name": "Haley Tancredi",
+			"screen_name": "HaleyTanc",
+			"location": "Brisbane, Australia",
+			"description": "Speech Pathologist, M.Phil(Education), Research Assistant @QUT #DevLangDis #InclusiveEd #SpeakUp4CommRights @QUT_SELB research gp. Views my own",
+			"url": "https://t.co/INx3PMO5BJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/INx3PMO5BJ",
+							"expanded_url": "https://research.qut.edu.au/selb/team/haley-tancredi/",
+							"display_url": "research.qut.edu.au/selb/team/hale…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1955,
+			"friends_count": 3588,
+			"listed_count": 47,
+			"created_at": "Tue Mar 01 12:44:42 +0000 2016",
+			"favourites_count": 11483,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074627863154806785/7eFjRiNv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074627863154806785/7eFjRiNv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/704648555676377088/1539067059",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Look! @drlindagraham &amp; I from @QUTEducation have created a free, online course about #InclusiveEducation open to teachers, parents, #WeSpeechies &amp; others. \n2-hour course, complete it at your own pace, over 2 weeks, links to resources, high-quality content\nhttps://t.co/FfaqyUnSoB"
+	},
+	{
 		"created_at": "Mon Oct 21 10:35:43 +0000 2019",
 		"id": 1186229569658867700,
 		"id_str": "1186229569658867713",
