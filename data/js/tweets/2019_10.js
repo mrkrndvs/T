@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 21 10:35:43 +0000 2019",
+		"id": 1186229569658867700,
+		"id_str": "1186229569658867713",
+		"full_text": "@DoubleJRadio @doncandon Went to 1999 and 2000\n\nHighlights from 99 was The Living End. Also remember being amused by Marilyn Manson.\n\nIn 2000, remember Dave Grohl winding up the crowd waiting for NIN, being amazed by Primal Screams' walls of sound, &amp; Paul Dempsey asking why we weren't watching RHCP",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			303
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DoubleJRadio",
+					"name": "Double J",
+					"id": 10403562,
+					"id_str": "10403562",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "doncandon",
+					"name": "Dan Condon",
+					"id": 1413861,
+					"id_str": "1413861",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1178423089811480600,
+		"in_reply_to_status_id_str": "1178423089811480576",
+		"in_reply_to_user_id": 10403562,
+		"in_reply_to_user_id_str": "10403562",
+		"in_reply_to_screen_name": "DoubleJRadio",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4266,
+			"friends_count": 990,
+			"listed_count": 373,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DoubleJRadio @doncandon Went to 1999 and 2000\n\nHighlights from 99 was The Living End. Also remember being amused by Marilyn Manson.\n\nIn 2000, remember Dave Grohl winding up the crowd waiting for NIN, being amazed by Primal Screams' walls of sound, &amp; Paul Dempsey asking why we weren't watching RHCP"
+	},
+	{
 		"created_at": "Sun Oct 20 11:03:43 +0000 2019",
 		"id": 1185874230405034000,
 		"id_str": "1185874230405033985",
