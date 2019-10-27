@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 27 00:53:43 +0000 2019",
+		"id": 1187603767371264000,
+		"id_str": "1188257431530291201",
+		"full_text": "If you're interested, we're doing another summit thing on education and democracy next July. Submissions open now. Head over to https://t.co/rmtXnO4Cys for more details! https://t.co/j8jM8PgMGu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rmtXnO4Cys",
+					"expanded_url": "http://www.educationfordemocracy.org",
+					"display_url": "educationfordemocracy.org",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1187603761704755200,
+					"id_str": "1187603761704755200",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EHs3VD5UYAAqouS.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHs3VD5UYAAqouS.png",
+					"url": "https://t.co/j8jM8PgMGu",
+					"display_url": "pic.twitter.com/j8jM8PgMGu",
+					"expanded_url": "https://twitter.com/DrSRiddle/status/1187603767371264001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 503,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 949,
+							"h": 702,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 949,
+							"h": 702,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1187603761704755200,
+					"id_str": "1187603761704755200",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EHs3VD5UYAAqouS.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHs3VD5UYAAqouS.png",
+					"url": "https://t.co/j8jM8PgMGu",
+					"display_url": "pic.twitter.com/j8jM8PgMGu",
+					"expanded_url": "https://twitter.com/DrSRiddle/status/1187603767371264001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 503,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 949,
+							"h": 702,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 949,
+							"h": 702,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1187183272402378800,
+			"id_str": "1187183272402378753",
+			"name": "Stewart Riddle",
+			"screen_name": "DrSRiddle",
+			"location": "Australia",
+			"description": "Associate Professor in Education. Interested in how education might be 'for' democracy.",
+			"url": "https://t.co/Is4Fqy9xHZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Is4Fqy9xHZ",
+							"expanded_url": "http://www.educationfordemocracy.org",
+							"display_url": "educationfordemocracy.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130,
+			"friends_count": 318,
+			"listed_count": 0,
+			"created_at": "Thu Oct 24 01:45:30 +0000 2019",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187183361787228160/61nLjltR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187183361787228160/61nLjltR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1187183272402378753/1571890611",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you're interested, we're doing another summit thing on education and democracy next July. Submissions open now. Head over to https://t.co/rmtXnO4Cys for more details! https://t.co/j8jM8PgMGu"
+	},
+	{
 		"created_at": "Thu Oct 24 11:05:09 +0000 2019",
 		"id": 1187324141864702000,
 		"id_str": "1187324141864701954",
