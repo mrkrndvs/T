@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 08 00:55:21 +0000 2019",
+		"id": 1192606499744309200,
+		"id_str": "1192606499744309248",
+		"full_text": "As the proposal for a porn block worked so well in the UK (https://t.co/1TGJgclbT7), would seem that Australia is considering going down the same path. Most interesting comment was that as the govt did so well with the census, what could possibly go wrong w/ facial recognition? https://t.co/uNjeXu8mzm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1TGJgclbT7",
+					"expanded_url": "https://www.theguardian.com/uk-news/2019/oct/24/government-spent-2m-on-porn-block-before-policy-was-dropped",
+					"display_url": "theguardian.com/uk-news/2019/o…",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/uNjeXu8mzm",
+					"expanded_url": "https://twitter.com/RadioNational/status/1190152744696287232",
+					"display_url": "twitter.com/RadioNational/…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4259,
+			"friends_count": 990,
+			"listed_count": 373,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1190152744696287200,
+		"quoted_status_id_str": "1190152744696287232",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uNjeXu8mzm",
+			"expanded": "https://twitter.com/RadioNational/status/1190152744696287232",
+			"display": "twitter.com/RadioNational/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 01 06:25:00 +0000 2019",
+			"id": 1190152744696287200,
+			"id_str": "1190152744696287232",
+			"full_text": "Facial recognition login for porn? https://t.co/iS9jTek7Px #DownloadThisShow",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				76
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DownloadThisShow",
+						"indices": [
+							59,
+							76
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iS9jTek7Px",
+						"expanded_url": "https://www.abc.net.au/radionational/programs/downloadthisshow/facial-recognition-login-for-porn/11662956",
+						"display_url": "abc.net.au/radionational/…",
+						"indices": [
+							35,
+							58
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft PowerApps and Flow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19940915,
+				"id_str": "19940915",
+				"name": "RN - Radio National",
+				"screen_name": "RadioNational",
+				"location": "Australia",
+				"description": "RN is different from any other media network in Australia. It's your home of ideas.",
+				"url": "http://t.co/lahXfzKTno",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/lahXfzKTno",
+								"expanded_url": "http://abc.net.au/rn",
+								"display_url": "abc.net.au/rn",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 85752,
+				"friends_count": 2057,
+				"listed_count": 1398,
+				"created_at": "Mon Feb 02 23:19:09 +0000 2009",
+				"favourites_count": 756,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 42359,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "139CA6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/470802028856213504/A4Dg37Ey_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/470802028856213504/A4Dg37Ey_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19940915/1570518772",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "82ADBF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As the proposal for a porn block worked so well in the UK (https://t.co/1TGJgclbT7), would seem that Australia is considering going down the same path. Most interesting comment was that as the govt did so well with the census, what could possibly go wrong w/ facial recognition? https://t.co/uNjeXu8mzm"
+	},
+	{
 		"created_at": "Thu Nov 07 20:52:18 +0000 2019",
 		"id": 1192545335123611600,
 		"id_str": "1192545335123611648",
