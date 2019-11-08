@@ -1,6 +1,457 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 08 04:11:18 +0000 2019",
+		"id": 1192655810880368600,
+		"id_str": "1192655810880368640",
+		"full_text": "This has me rethinking the book Counting what Counts https://t.co/47sw8SOLuI https://t.co/lNeCsfGaqW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/47sw8SOLuI",
+					"expanded_url": "https://readwriterespond.com/2016/01/review-counting-what-counts/",
+					"display_url": "readwriterespond.com/2016/01/review…",
+					"indices": [
+						53,
+						76
+					]
+				},
+				{
+					"url": "https://t.co/lNeCsfGaqW",
+					"expanded_url": "https://twitter.com/BenPatrickWill/status/1181169610042826758",
+					"display_url": "twitter.com/BenPatrickWill…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4259,
+			"friends_count": 990,
+			"listed_count": 373,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1181169610042826800,
+		"quoted_status_id_str": "1181169610042826758",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lNeCsfGaqW",
+			"expanded": "https://twitter.com/BenPatrickWill/status/1181169610042826758",
+			"display": "twitter.com/BenPatrickWill…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 07 11:29:14 +0000 2019",
+			"id": 1181169610042826800,
+			"id_str": "1181169610042826758",
+			"full_text": "Psychodata - summary of key points from new article on the psychological, economic and statistical construction of 'social-emotional learning' https://t.co/0KdhWjm7rp https://t.co/DtJG81uL2T",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				166
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0KdhWjm7rp",
+						"expanded_url": "https://codeactsineducation.wordpress.com/2019/10/07/psychodata/",
+						"display_url": "codeactsineducation.wordpress.com/2019/10/07/psy…",
+						"indices": [
+							143,
+							166
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1181169601717125000,
+						"id_str": "1181169601717125120",
+						"indices": [
+							167,
+							190
+						],
+						"media_url": "http://pbs.twimg.com/media/EGRbfqHWwAAy7P9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGRbfqHWwAAy7P9.jpg",
+						"url": "https://t.co/DtJG81uL2T",
+						"display_url": "pic.twitter.com/DtJG81uL2T",
+						"expanded_url": "https://twitter.com/BenPatrickWill/status/1181169610042826758/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 3024,
+										"y": 2716,
+										"h": 236,
+										"w": 236
+									},
+									{
+										"x": 1504,
+										"y": 1016,
+										"h": 848,
+										"w": 848
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 502,
+										"y": 450,
+										"h": 39,
+										"w": 39
+									},
+									{
+										"x": 249,
+										"y": 168,
+										"h": 140,
+										"w": 140
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 885,
+										"y": 795,
+										"h": 69,
+										"w": 69
+									},
+									{
+										"x": 440,
+										"y": 297,
+										"h": 248,
+										"w": 248
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 1512,
+										"y": 1358,
+										"h": 118,
+										"w": 118
+									},
+									{
+										"x": 752,
+										"y": 508,
+										"h": 424,
+										"w": 424
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1181169601717125000,
+						"id_str": "1181169601717125120",
+						"indices": [
+							167,
+							190
+						],
+						"media_url": "http://pbs.twimg.com/media/EGRbfqHWwAAy7P9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGRbfqHWwAAy7P9.jpg",
+						"url": "https://t.co/DtJG81uL2T",
+						"display_url": "pic.twitter.com/DtJG81uL2T",
+						"expanded_url": "https://twitter.com/BenPatrickWill/status/1181169610042826758/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 3024,
+										"y": 2716,
+										"h": 236,
+										"w": 236
+									},
+									{
+										"x": 1504,
+										"y": 1016,
+										"h": 848,
+										"w": 848
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 502,
+										"y": 450,
+										"h": 39,
+										"w": 39
+									},
+									{
+										"x": 249,
+										"y": 168,
+										"h": 140,
+										"w": 140
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 885,
+										"y": 795,
+										"h": 69,
+										"w": 69
+									},
+									{
+										"x": 440,
+										"y": 297,
+										"h": 248,
+										"w": 248
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 1512,
+										"y": 1358,
+										"h": 118,
+										"w": 118
+									},
+									{
+										"x": 752,
+										"y": 508,
+										"h": 424,
+										"w": 424
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1884520938,
+				"id_str": "1884520938",
+				"name": "Ben Williamson",
+				"screen_name": "BenPatrickWill",
+				"location": "Edinburgh, Scotland",
+				"description": "Data, technology & policy in education | University of Edinburgh | Co-editor of Learning, Media & Technology",
+				"url": "https://t.co/HHtxJ12brN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HHtxJ12brN",
+								"expanded_url": "http://codeactsineducation.wordpress.com/",
+								"display_url": "codeactsineducation.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4649,
+				"friends_count": 2301,
+				"listed_count": 298,
+				"created_at": "Thu Sep 19 22:15:34 +0000 2013",
+				"favourites_count": 4193,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7846,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1104487269967282176/dlu6PXUj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104487269967282176/dlu6PXUj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1884520938/1473621450",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This has me rethinking the book Counting what Counts https://t.co/47sw8SOLuI https://t.co/lNeCsfGaqW"
+	},
+	{
 		"created_at": "Fri Nov 08 00:55:21 +0000 2019",
 		"id": 1192606499744309200,
 		"id_str": "1192606499744309248",
