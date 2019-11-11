@@ -1,6 +1,155 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 11 04:08:41 +0000 2019",
+		"id": 1193703926786343000,
+		"id_str": "1193742317997314049",
+		"full_text": "Intention: Critical Creativity in the Classroom by @AmyBurvall @wickeddecent now available on Amazon from our new publisher @SpencerIdeas &amp; Blend Education  https://t.co/x43oWisf0r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amyburvall",
+					"name": "ａｍｙｂｕｒｖａｌｌ",
+					"id": 158207707,
+					"id_str": "158207707",
+					"indices": [
+						51,
+						62
+					]
+				},
+				{
+					"screen_name": "WickedDecent",
+					"name": "Dan Ryder 🔜 TEDxDirigo",
+					"id": 15194262,
+					"id_str": "15194262",
+					"indices": [
+						63,
+						76
+					]
+				},
+				{
+					"screen_name": "spencerideas",
+					"name": "John Spencer",
+					"id": 18389166,
+					"id_str": "18389166",
+					"indices": [
+						124,
+						137
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/x43oWisf0r",
+					"expanded_url": "https://www.amazon.com/dp/1734172525/ref=cm_sw_r_tw_dp_U_x_TPlYDbSEMNJPZ",
+					"display_url": "amazon.com/dp/1734172525/…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15194262,
+			"id_str": "15194262",
+			"name": "Dan Ryder 🔜 TEDxDirigo",
+			"screen_name": "WickedDecent",
+			"location": "Farmington, ME",
+			"description": "Director, Success & Innovation Center #SICMBC #dtk12chat #edtech207 Apple Distinguished Edu2017; Author of Intention #CriticalCreativity https://t.co/5cnqtkmjZC",
+			"url": "https://t.co/GweGcfmJ7o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GweGcfmJ7o",
+							"expanded_url": "http://www.danryder207.com",
+							"display_url": "danryder207.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5cnqtkmjZC",
+							"expanded_url": "http://bit.ly/in10tiont",
+							"display_url": "bit.ly/in10tiont",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17313,
+			"friends_count": 12184,
+			"listed_count": 1046,
+			"created_at": "Sun Jun 22 02:04:34 +0000 2008",
+			"favourites_count": 100066,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/685253675011407872/EOBb9_xB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/685253675011407872/EOBb9_xB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15194262/1493949030",
+			"profile_link_color": "0A0A85",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Intention: Critical Creativity in the Classroom by @AmyBurvall @wickeddecent now available on Amazon from our new publisher @SpencerIdeas &amp; Blend Education  https://t.co/x43oWisf0r"
+	},
+	{
 		"created_at": "Sun Nov 10 12:10:34 +0000 2019",
 		"id": 1193501198072057900,
 		"id_str": "1193501198072057856",
