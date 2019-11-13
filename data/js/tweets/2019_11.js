@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 13 12:11:00 +0000 2019",
+		"id": 1194428423239807000,
+		"id_str": "1194588471861506048",
+		"full_text": "Teach oceans?  This will help:  This Mind-Boggling Infographic Shows Just How Much of The Ocean We Don't See -  https://t.co/KLksA89opY  #scichat https://t.co/m84XEMnBvm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "scichat",
+					"indices": [
+						137,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KLksA89opY",
+					"expanded_url": "http://bit.ly/2q39120",
+					"display_url": "bit.ly/2q39120",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1194428421348176000,
+					"id_str": "1194428421348175873",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EJN2UiQWsAElnQL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJN2UiQWsAElnQL.jpg",
+					"url": "https://t.co/m84XEMnBvm",
+					"display_url": "pic.twitter.com/m84XEMnBvm",
+					"expanded_url": "https://twitter.com/plugusin/status/1194428423239806978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 415,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 276,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 415,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194428421348176000,
+					"id_str": "1194428421348175873",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EJN2UiQWsAElnQL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJN2UiQWsAElnQL.jpg",
+					"url": "https://t.co/m84XEMnBvm",
+					"display_url": "pic.twitter.com/m84XEMnBvm",
+					"expanded_url": "https://twitter.com/plugusin/status/1194428423239806978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 415,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 276,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 415,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12165362,
+			"id_str": "12165362",
+			"name": "Bill Ferriter",
+			"screen_name": "plugusin",
+			"location": "Raleigh NC",
+			"description": "I'm a full time classroom teacher with a ton of #edtech and #atplc expertise.",
+			"url": "https://t.co/rOz56I3eKl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rOz56I3eKl",
+							"expanded_url": "http://blog.williamferriter.com",
+							"display_url": "blog.williamferriter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28701,
+			"friends_count": 1726,
+			"listed_count": 1127,
+			"created_at": "Sat Jan 12 22:40:10 +0000 2008",
+			"favourites_count": 2227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141445925770092544/JwdpShmb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141445925770092544/JwdpShmb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12165362/1550583733",
+			"profile_link_color": "07346F",
+			"profile_sidebar_border_color": "464E52",
+			"profile_sidebar_fill_color": "171B1C",
+			"profile_text_color": "BAB6B1",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Teach oceans?  This will help:  This Mind-Boggling Infographic Shows Just How Much of The Ocean We Don't See -  https://t.co/KLksA89opY  #scichat https://t.co/m84XEMnBvm"
+	},
+	{
 		"created_at": "Wed Nov 13 11:12:17 +0000 2019",
 		"id": 1194567821356724200,
 		"id_str": "1194573692279197696",
