@@ -1,6 +1,164 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 13 11:12:17 +0000 2019",
+		"id": 1194567821356724200,
+		"id_str": "1194573692279197696",
+		"full_text": "@mrkrndvs @CatholicEdParra @marylindamcneil @EdRev @LucasLearn @InnerZoneCoach Thanks Aaron. Your questions are our questions which we will unpack with staff over the next few weeks before going to parents and students by the end of this year.",
+		"truncated": false,
+		"display_text_range": [
+			79,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrkrndvs",
+					"name": "Aaron Davis 🏘️",
+					"id": 372768752,
+					"id_str": "372768752",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "CatholicEdParra",
+					"name": "Catholic Education",
+					"id": 293301978,
+					"id_str": "293301978",
+					"indices": [
+						10,
+						26
+					]
+				},
+				{
+					"screen_name": "marylindamcneil",
+					"name": "Linda McNeil",
+					"id": 219831863,
+					"id_str": "219831863",
+					"indices": [
+						27,
+						43
+					]
+				},
+				{
+					"screen_name": "EdRev",
+					"name": "Peter Hutton",
+					"id": 1637363858,
+					"id_str": "1637363858",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"screen_name": "LucasLearn",
+					"name": "Bill Lucas",
+					"id": 3078982479,
+					"id_str": "3078982479",
+					"indices": [
+						51,
+						62
+					]
+				},
+				{
+					"screen_name": "InnerZoneCoach",
+					"name": "Richard Burton",
+					"id": 1425465397,
+					"id_str": "1425465397",
+					"indices": [
+						63,
+						78
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1194565247127838700,
+		"in_reply_to_status_id_str": "1194565247127838721",
+		"in_reply_to_user_id": 372768752,
+		"in_reply_to_user_id_str": "372768752",
+		"in_reply_to_screen_name": "mrkrndvs",
+		"user": {
+			"id": 212374993,
+			"id_str": "212374993",
+			"name": "Greg Miller",
+			"screen_name": "gregmiller68",
+			"location": "Sydney NSW Australia",
+			"description": "An education leader committed to reimagining learning. Founding Principal @StLukesMP",
+			"url": "https://t.co/FPPF1HrOHk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FPPF1HrOHk",
+							"expanded_url": "http://gregmiller68.com/",
+							"display_url": "gregmiller68.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3333,
+			"friends_count": 959,
+			"listed_count": 78,
+			"created_at": "Fri Nov 05 22:24:31 +0000 2010",
+			"favourites_count": 12916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "59472F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/647275036357750784/eJa9snHi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/647275036357750784/eJa9snHi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/212374993/1499517366",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000515",
+			"profile_sidebar_fill_color": "061127",
+			"profile_text_color": "52555C",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@mrkrndvs @CatholicEdParra @marylindamcneil @EdRev @LucasLearn @InnerZoneCoach Thanks Aaron. Your questions are our questions which we will unpack with staff over the next few weeks before going to parents and students by the end of this year."
+	},
+	{
 		"created_at": "Tue Nov 12 11:18:44 +0000 2019",
 		"id": 1194212928473325600,
 		"id_str": "1194212928473325569",
