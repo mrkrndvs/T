@@ -1,6 +1,125 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 26 10:18:56 +0000 2019",
+		"id": 1198374362132254700,
+		"id_str": "1199271312297873408",
+		"full_text": "Ripping article ⁦@JakeNiallTHEAGE⁩ Independent schools have a business model that impoverishes state schools by poaching their best talent &amp; using those kids to create success which is then marketed to perpetuate the model. They’re trapped too. https://t.co/nxybzh9Kzt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JakeNiallTHEAGE",
+					"name": "Jake Niall",
+					"id": 704110700730253300,
+					"id_str": "704110700730253312",
+					"indices": [
+						17,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nxybzh9Kzt",
+					"expanded_url": "http://www.theage.com.au/afl/trading-and-drafting/how-private-schools-have-taken-over-the-afl-20191121-p53cso.html?btis",
+					"display_url": "theage.com.au/afl/trading-an…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1577439920,
+			"id_str": "1577439920",
+			"name": "Dale Pearce",
+			"screen_name": "DalePearce3",
+			"location": "Bendigo, Victoria, Australia",
+			"description": "Principal of Bendigo Senior Secondary College. Tweets my own opinions.",
+			"url": "https://t.co/5RktomeOOd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5RktomeOOd",
+							"expanded_url": "http://dalepearce.net/",
+							"display_url": "dalepearce.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1162,
+			"friends_count": 380,
+			"listed_count": 41,
+			"created_at": "Mon Jul 08 11:21:55 +0000 2013",
+			"favourites_count": 1218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/459654886108327936/GJVADHu3_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/459654886108327936/GJVADHu3_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1577439920/1466080088",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ripping article ⁦@JakeNiallTHEAGE⁩ Independent schools have a business model that impoverishes state schools by poaching their best talent &amp; using those kids to create success which is then marketed to perpetuate the model. They’re trapped too. https://t.co/nxybzh9Kzt"
+	},
+	{
 		"created_at": "Fri Nov 22 12:20:51 +0000 2019",
 		"id": 1197852440961306600,
 		"id_str": "1197852440961306624",
