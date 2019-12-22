@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 22 07:15:53 +0000 2019",
+		"id": 1208647328900370400,
+		"id_str": "1208647328900370432",
+		"full_text": "Auden #inOurTime \nhttps://t.co/r7JScXCSlE via @PodcastAddict https://t.co/lz0Uw97nZH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "inOurTime",
+					"indices": [
+						6,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PodcastAddict",
+					"name": "Podcast Addict",
+					"id": 415837965,
+					"id_str": "415837965",
+					"indices": [
+						46,
+						60
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/r7JScXCSlE",
+					"expanded_url": "https://podplayer.net/?id=90421491",
+					"display_url": "podplayer.net/?id=90421491",
+					"indices": [
+						18,
+						41
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1208647324676677600,
+					"id_str": "1208647324676677632",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/EMX6Vo4UYAAleMT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMX6Vo4UYAAleMT.jpg",
+					"url": "https://t.co/lz0Uw97nZH",
+					"display_url": "pic.twitter.com/lz0Uw97nZH",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/1208647328900370432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 946,
+									"y": 1517,
+									"h": 527,
+									"w": 527
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 214,
+									"y": 343,
+									"h": 119,
+									"w": 119
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 378,
+									"y": 606,
+									"h": 210,
+									"w": 210
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 645,
+									"y": 1035,
+									"h": 359,
+									"w": 359
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1208647324676677600,
+					"id_str": "1208647324676677632",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/EMX6Vo4UYAAleMT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMX6Vo4UYAAleMT.jpg",
+					"url": "https://t.co/lz0Uw97nZH",
+					"display_url": "pic.twitter.com/lz0Uw97nZH",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/1208647328900370432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 946,
+									"y": 1517,
+									"h": 527,
+									"w": 527
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 214,
+									"y": 343,
+									"h": 119,
+									"w": 119
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 378,
+									"y": 606,
+									"h": 210,
+									"w": 210
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 645,
+									"y": 1035,
+									"h": 359,
+									"w": 359
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://podplayer.net\" rel=\"nofollow\">Podcast - Radio Addict</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4252,
+			"friends_count": 990,
+			"listed_count": 370,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "eu",
+		"text": "Auden #inOurTime \nhttps://t.co/r7JScXCSlE via @PodcastAddict https://t.co/lz0Uw97nZH"
+	},
+	{
 		"created_at": "Fri Dec 20 05:16:51 +0000 2019",
 		"id": 1207892598972510200,
 		"id_str": "1207892598972510214",
