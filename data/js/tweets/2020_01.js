@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 08 12:08:33 +0000 2020",
+		"id": 1214881572723126300,
+		"id_str": "1214881572723126278",
+		"full_text": "I have long followed @alexhern 's work with the Guardian, beginning with the now defunct Guardian Tech Weekly podcast. He has now started a newsletter. Exciting times. https://t.co/Wvy3Hc6Ba0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alexhern",
+					"name": "hern",
+					"id": 4004901,
+					"id_str": "4004901",
+					"indices": [
+						21,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Wvy3Hc6Ba0",
+					"expanded_url": "https://twitter.com/alexhern/status/1214604240536178688",
+					"display_url": "twitter.com/alexhern/statu…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4249,
+			"friends_count": 991,
+			"listed_count": 370,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1214604240536178700,
+		"quoted_status_id_str": "1214604240536178688",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Wvy3Hc6Ba0",
+			"expanded": "https://twitter.com/alexhern/status/1214604240536178688",
+			"display": "twitter.com/alexhern/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 07 17:46:31 +0000 2020",
+			"id": 1214604240536178700,
+			"id_str": "1214604240536178688",
+			"full_text": "I'm writing tomorrow's edition of my newsletter, The World Is Yours*. It's not going to be a thousand words about the new Pokemon. You can sign up to get it in your inbox: https://t.co/AM7FL5W6Fq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				195
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AM7FL5W6Fq",
+						"expanded_url": "https://alexhern.substack.com/",
+						"display_url": "alexhern.substack.com",
+						"indices": [
+							172,
+							195
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4004901,
+				"id_str": "4004901",
+				"name": "hern",
+				"screen_name": "alexhern",
+				"location": "London",
+				"description": "UK Technology Editor at the Guardian. Views mine, tweets deleted weekly. alex.hern@theguardian.com.",
+				"url": "https://t.co/g4Cgqm8xfl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/g4Cgqm8xfl",
+								"expanded_url": "http://theguardian.com/profile/alex-hern",
+								"display_url": "theguardian.com/profile/alex-h…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 53525,
+				"friends_count": 2016,
+				"listed_count": 1079,
+				"created_at": "Tue Apr 10 09:02:36 +0000 2007",
+				"favourites_count": 30788,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 196,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1072939067623530496/rduOc_6m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072939067623530496/rduOc_6m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4004901/1474891837",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I have long followed @alexhern 's work with the Guardian, beginning with the now defunct Guardian Tech Weekly podcast. He has now started a newsletter. Exciting times. https://t.co/Wvy3Hc6Ba0"
+	},
+	{
 		"created_at": "Mon Jan 06 10:33:22 +0000 2020",
 		"id": 1214132846626889700,
 		"id_str": "1214132846626889729",
