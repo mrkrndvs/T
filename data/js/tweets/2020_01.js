@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 14 20:24:43 +0000 2020",
+		"id": 1217180767261876200,
+		"id_str": "1217180767261876224",
+		"full_text": "Ben Collins collates a number of productivity tips in a long thread. A great entry point to Sheets and Collins' work. CC @ohalloran_c https://t.co/jUqOzXOtpm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ohalloran_c",
+					"name": "Catherine O'Halloran",
+					"id": 1662288932,
+					"id_str": "1662288932",
+					"indices": [
+						121,
+						133
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jUqOzXOtpm",
+					"expanded_url": "https://twitter.com/benlcollins/status/1217105023097802753",
+					"display_url": "twitter.com/benlcollins/st…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4247,
+			"friends_count": 991,
+			"listed_count": 370,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1217105023097802800,
+		"quoted_status_id_str": "1217105023097802753",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jUqOzXOtpm",
+			"expanded": "https://twitter.com/benlcollins/status/1217105023097802753",
+			"display": "twitter.com/benlcollins/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 14 15:23:44 +0000 2020",
+			"id": 1217105023097802800,
+			"id_str": "1217105023097802753",
+			"full_text": "Mega thread of #GoogleSheets #productivity tips &amp; tricks coming up... \n\nStarting with this humdinger\n\nType “https://t.co/AowcjCD40h” or \"https://t.co/kOOFaQOOov\" into your browser to instantly create a new Google Sheet\n\n(1/n) https://t.co/TvB5cUk15D",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				229
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoogleSheets",
+						"indices": [
+							15,
+							28
+						]
+					},
+					{
+						"text": "productivity",
+						"indices": [
+							29,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AowcjCD40h",
+						"expanded_url": "http://sheet.new",
+						"display_url": "sheet.new",
+						"indices": [
+							112,
+							135
+						]
+					},
+					{
+						"url": "https://t.co/kOOFaQOOov",
+						"expanded_url": "http://sheets.new",
+						"display_url": "sheets.new",
+						"indices": [
+							141,
+							164
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1217105014319132700,
+						"id_str": "1217105014319132672",
+						"indices": [
+							230,
+							253
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EOQGj-DWsAA5mPD.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EOQGj-DWsAA5mPD.jpg",
+						"url": "https://t.co/TvB5cUk15D",
+						"display_url": "pic.twitter.com/TvB5cUk15D",
+						"expanded_url": "https://twitter.com/benlcollins/status/1217105023097802753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 572,
+								"h": 356,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 572,
+								"h": 356,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 572,
+								"h": 356,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1217105014319132700,
+						"id_str": "1217105014319132672",
+						"indices": [
+							230,
+							253
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EOQGj-DWsAA5mPD.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EOQGj-DWsAA5mPD.jpg",
+						"url": "https://t.co/TvB5cUk15D",
+						"display_url": "pic.twitter.com/TvB5cUk15D",
+						"expanded_url": "https://twitter.com/benlcollins/status/1217105023097802753/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 572,
+								"h": 356,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 572,
+								"h": 356,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 572,
+								"h": 356,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								143,
+								89
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EOQGj-DWsAA5mPD.mp4"
+								}
+							]
+						},
+						"features": {}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19338407,
+				"id_str": "19338407",
+				"name": "Ben Collins",
+				"screen_name": "benlcollins",
+				"location": "Harpers Ferry, WV",
+				"description": "I teach online courses. Google Developer Expert for G Suite, focussed on G Sheets/Data Studio/Apps Script.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3765,
+				"friends_count": 501,
+				"listed_count": 264,
+				"created_at": "Thu Jan 22 13:43:22 +0000 2009",
+				"favourites_count": 7504,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8102,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CFCFCF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/966495721598935040/y1KUcaEN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/966495721598935040/y1KUcaEN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19338407/1415055908",
+				"profile_link_color": "619DE6",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "ECFFD6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 46,
+			"favorite_count": 126,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ben Collins collates a number of productivity tips in a long thread. A great entry point to Sheets and Collins' work. CC @ohalloran_c https://t.co/jUqOzXOtpm"
+	},
+	{
 		"created_at": "Sun Jan 12 10:49:40 +0000 2020",
 		"id": 1216311274218197000,
 		"id_str": "1216311274218196992",
