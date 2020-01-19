@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 19 21:51:39 +0000 2020",
+		"id": 1219014585014841300,
+		"id_str": "1219014585014841344",
+		"full_text": "Antony Mayfield provides some reasons why Machiavelli's The Prince is one of the books he recommends new people managers to read. https://t.co/l9rOsAlei7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l9rOsAlei7",
+					"expanded_url": "https://twitter.com/amayfield/status/1217705057287839745",
+					"display_url": "twitter.com/amayfield/stat…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4244,
+			"friends_count": 991,
+			"listed_count": 370,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1217705057287839700,
+		"quoted_status_id_str": "1217705057287839745",
+		"quoted_status_permalink": {
+			"url": "https://t.co/l9rOsAlei7",
+			"expanded": "https://twitter.com/amayfield/status/1217705057287839745",
+			"display": "twitter.com/amayfield/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 16 07:08:04 +0000 2020",
+			"id": 1217705057287839700,
+			"id_str": "1217705057287839745",
+			"full_text": "Some reasons you should read Machiavelli. https://t.co/qkv2UsyXWh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				65
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qkv2UsyXWh",
+						"expanded_url": "https://www.antonymayfield.com/2020/01/15/why-you-should-read-machiavelli/",
+						"display_url": "antonymayfield.com/2020/01/15/why…",
+						"indices": [
+							42,
+							65
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13210,
+				"id_str": "13210",
+				"name": "Antony Mayfield",
+				"screen_name": "amayfield",
+				"location": "Brighton & London, UK",
+				"description": "CEO at @brilliantnoise. Chair at @Lighthouse_BTN. #digital #strategy #marketing #transformation #writing #books",
+				"url": "https://t.co/sbjbUzHUpZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sbjbUzHUpZ",
+								"expanded_url": "http://brilliantnoise.com",
+								"display_url": "brilliantnoise.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4748,
+				"friends_count": 1438,
+				"listed_count": 346,
+				"created_at": "Mon Nov 20 10:00:22 +0000 2006",
+				"favourites_count": 4776,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15014,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000808",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1217706140118765568/ShtmUlus_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217706140118765568/ShtmUlus_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13210/1579162749",
+				"profile_link_color": "111111",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Antony Mayfield provides some reasons why Machiavelli's The Prince is one of the books he recommends new people managers to read. https://t.co/l9rOsAlei7"
+	},
+	{
 		"created_at": "Tue Jan 14 20:24:43 +0000 2020",
 		"id": 1217180767261876200,
 		"id_str": "1217180767261876224",
