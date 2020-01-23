@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 23 12:06:51 +0000 2020",
+		"id": 1220316963089477600,
+		"id_str": "1220316963089477632",
+		"full_text": "This had me thinking about @sherrattsam recent post on SeeSaw and being clear about the use of technology https://t.co/8ScwEZTdjI https://t.co/utQptMMJTY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sherrattsam",
+					"name": "Sam Sherratt",
+					"id": 25068287,
+					"id_str": "25068287",
+					"indices": [
+						27,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8ScwEZTdjI",
+					"expanded_url": "https://timespaceeducation.wordpress.com/2020/01/18/be-careful-with-seesaw/",
+					"display_url": "timespaceeducation.wordpress.com/2020/01/18/be-…",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/utQptMMJTY",
+					"expanded_url": "https://twitter.com/daveowhite/status/1219649322171740161",
+					"display_url": "twitter.com/daveowhite/sta…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4245,
+			"friends_count": 991,
+			"listed_count": 369,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1219649322171740200,
+		"quoted_status_id_str": "1219649322171740161",
+		"quoted_status_permalink": {
+			"url": "https://t.co/utQptMMJTY",
+			"expanded": "https://twitter.com/daveowhite/status/1219649322171740161",
+			"display": "twitter.com/daveowhite/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 21 15:53:53 +0000 2020",
+			"id": 1219649322171740200,
+			"id_str": "1219649322171740161",
+			"full_text": "New post: Explicit education - what do we assume is obvious? https://t.co/pSbXQoXYe9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				84
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pSbXQoXYe9",
+						"expanded_url": "http://daveowhite.com/explicit/",
+						"display_url": "daveowhite.com/explicit/",
+						"indices": [
+							61,
+							84
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16230279,
+				"id_str": "16230279",
+				"name": "David White",
+				"screen_name": "daveowhite",
+				"location": "London, Oxford",
+				"description": "Head of Digital Learning @UAL. Came up with that Visitors & Residents idea.",
+				"url": "https://t.co/zDXNaakhgz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zDXNaakhgz",
+								"expanded_url": "http://daveowhite.com",
+								"display_url": "daveowhite.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6468,
+				"friends_count": 1310,
+				"listed_count": 403,
+				"created_at": "Wed Sep 10 23:43:19 +0000 2008",
+				"favourites_count": 5156,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 23569,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D1DCDE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1207682594034335744/nB-HthY5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207682594034335744/nB-HthY5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16230279/1576769301",
+				"profile_link_color": "244165",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F4ECC8",
+				"profile_text_color": "343F51",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This had me thinking about @sherrattsam recent post on SeeSaw and being clear about the use of technology https://t.co/8ScwEZTdjI https://t.co/utQptMMJTY"
+	},
+	{
 		"created_at": "Mon Jan 20 09:30:45 +0000 2020",
 		"id": 1219190518719975400,
 		"id_str": "1219190518719975425",
