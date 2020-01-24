@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 24 11:35:22 +0000 2020",
+		"id": 1220671429017927700,
+		"id_str": "1220671429017927686",
+		"full_text": "Kelvy Bird has had a go at visualising the Australian bushfire crisis https://t.co/iUNa7QtmdN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iUNa7QtmdN",
+					"expanded_url": "https://twitter.com/kelvy_bird/status/1215401689508995074",
+					"display_url": "twitter.com/kelvy_bird/sta…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4244,
+			"friends_count": 991,
+			"listed_count": 369,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1215401689508995000,
+		"quoted_status_id_str": "1215401689508995074",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iUNa7QtmdN",
+			"expanded": "https://twitter.com/kelvy_bird/status/1215401689508995074",
+			"display": "twitter.com/kelvy_bird/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 09 22:35:18 +0000 2020",
+			"id": 1215401689508995000,
+			"id_str": "1215401689508995074",
+			"full_text": "A working draft... to see the full picture, or a slice of it. I encourage anyone interested to print this out, mark it up - share back. I will try to incorporate inputs to evolve the model. I know it's missing a LOT. #australiafires #systemsthinking #visualpractice #climatechange https://t.co/ttrDi4RIjz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "australiafires",
+						"indices": [
+							217,
+							232
+						]
+					},
+					{
+						"text": "systemsthinking",
+						"indices": [
+							233,
+							249
+						]
+					},
+					{
+						"text": "visualpractice",
+						"indices": [
+							250,
+							265
+						]
+					},
+					{
+						"text": "climatechange",
+						"indices": [
+							266,
+							280
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1215401676066017300,
+						"id_str": "1215401676066017285",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/EN35YolUUAUkO2_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EN35YolUUAUkO2_.jpg",
+						"url": "https://t.co/ttrDi4RIjz",
+						"display_url": "pic.twitter.com/ttrDi4RIjz",
+						"expanded_url": "https://twitter.com/kelvy_bird/status/1215401689508995074/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 475,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1431,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 838,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1215401676066017300,
+						"id_str": "1215401676066017285",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/EN35YolUUAUkO2_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EN35YolUUAUkO2_.jpg",
+						"url": "https://t.co/ttrDi4RIjz",
+						"display_url": "pic.twitter.com/ttrDi4RIjz",
+						"expanded_url": "https://twitter.com/kelvy_bird/status/1215401689508995074/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 475,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1431,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 838,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 123938303,
+				"id_str": "123938303",
+				"name": "Kelvy Bird",
+				"screen_name": "kelvy_bird",
+				"location": "MA USA",
+				"description": "Surfacing latent, intuited, potential - and drawing, in service of seeing. Generative Scribing: https://t.co/41vWK6n3iq",
+				"url": "https://t.co/GWvQOC1grA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GWvQOC1grA",
+								"expanded_url": "http://www.kelvybird.com",
+								"display_url": "kelvybird.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/41vWK6n3iq",
+								"expanded_url": "http://amzn.to/2mCQrZf",
+								"display_url": "amzn.to/2mCQrZf",
+								"indices": [
+									96,
+									119
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3973,
+				"friends_count": 312,
+				"listed_count": 191,
+				"created_at": "Wed Mar 17 18:10:55 +0000 2010",
+				"favourites_count": 7201,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3704,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A9AE9F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1193236990579355648/rAZl8QwI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193236990579355648/rAZl8QwI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/123938303/1519181092",
+				"profile_link_color": "79726C",
+				"profile_sidebar_border_color": "B9D19B",
+				"profile_sidebar_fill_color": "A9AE9F",
+				"profile_text_color": "3E3D3F",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 61,
+			"favorite_count": 95,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kelvy Bird has had a go at visualising the Australian bushfire crisis https://t.co/iUNa7QtmdN"
+	},
+	{
 		"created_at": "Thu Jan 23 12:06:51 +0000 2020",
 		"id": 1220316963089477600,
 		"id_str": "1220316963089477632",
