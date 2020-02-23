@@ -1,6 +1,173 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 23 10:14:01 +0000 2020",
+		"id": 1231522595129843700,
+		"id_str": "1231522595129843712",
+		"full_text": "@fionathehardy @nichmelbourne @yiduiqie Fiona, not exactly sure what you are after or what constitutes a 'blog' these days, but I'd recommend reading @Kate_ohalloran writing on the matter https://t.co/HOFqnmXWRL she also has a podcast @KickLikeAGirlFM",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fionathehardy",
+					"name": "Fiona Hardy",
+					"id": 208438518,
+					"id_str": "208438518",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "nichmelbourne",
+					"name": "Nicole Hayes: author/podcaster/dogwalker 🏉📚✍️🌈",
+					"id": 224026196,
+					"id_str": "224026196",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "yiduiqie",
+					"name": "your favourite ghost",
+					"id": 36004750,
+					"id_str": "36004750",
+					"indices": [
+						30,
+						39
+					]
+				},
+				{
+					"screen_name": "Kate_ohalloran",
+					"name": "Kate O'Halloran",
+					"id": 418064386,
+					"id_str": "418064386",
+					"indices": [
+						150,
+						165
+					]
+				},
+				{
+					"screen_name": "KickLikeAGirlFM",
+					"name": "Kick Like A Girl",
+					"id": 1080980585114259500,
+					"id_str": "1080980585114259456",
+					"indices": [
+						235,
+						251
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HOFqnmXWRL",
+					"expanded_url": "https://www.abc.net.au/news/kate-ohalloran/10821058",
+					"display_url": "abc.net.au/news/kate-ohal…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1231503155520651300,
+		"in_reply_to_status_id_str": "1231503155520651266",
+		"in_reply_to_user_id": 208438518,
+		"in_reply_to_user_id_str": "208438518",
+		"in_reply_to_screen_name": "fionathehardy",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4251,
+			"friends_count": 991,
+			"listed_count": 367,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28007,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@fionathehardy @nichmelbourne @yiduiqie Fiona, not exactly sure what you are after or what constitutes a 'blog' these days, but I'd recommend reading @Kate_ohalloran writing on the matter https://t.co/HOFqnmXWRL she also has a podcast @KickLikeAGirlFM"
+	},
+	{
 		"created_at": "Sat Feb 22 07:45:06 +0000 2020",
 		"id": 1231122728003883000,
 		"id_str": "1231122728003883009",
