@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 11 11:11:20 +0000 2020",
+		"id": 1237697612041474000,
+		"id_str": "1237697612041474050",
+		"full_text": "@datruss you might be interested in this piece by Kate O'Halloran https://t.co/D8Itb5379F. I also enjoyed Anil Dash's recent discussion of our rights online on the Function Podcast https://t.co/kcgQg7g66s https://t.co/b20icbTHK1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "datruss",
+					"name": "David Truss",
+					"id": 10298552,
+					"id_str": "10298552",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/D8Itb5379F",
+					"expanded_url": "https://www.abc.net.au/life/kate-ohalloran-on-trolling-after-twitter-mistake-during-afl-game/11482262",
+					"display_url": "abc.net.au/life/kate-ohal…",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/kcgQg7g66s",
+					"expanded_url": "https://glitch.com/glimmer/episode/bonus-why-online-safety-is-a-human-rights-issue",
+					"display_url": "glitch.com/glimmer/episod…",
+					"indices": [
+						181,
+						204
+					]
+				},
+				{
+					"url": "https://t.co/b20icbTHK1",
+					"expanded_url": "https://twitter.com/datruss/status/1236739419580674048",
+					"display_url": "twitter.com/datruss/status…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 10298552,
+		"in_reply_to_user_id_str": "10298552",
+		"in_reply_to_screen_name": "datruss",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4249,
+			"friends_count": 991,
+			"listed_count": 366,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1236739419580674000,
+		"quoted_status_id_str": "1236739419580674048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/b20icbTHK1",
+			"expanded": "https://twitter.com/datruss/status/1236739419580674048",
+			"display": "twitter.com/datruss/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 08 19:43:49 +0000 2020",
+			"id": 1236739419580674000,
+			"id_str": "1236739419580674048",
+			"full_text": "The size of your digital footprint doesn’t matter when it comes to viral social media shaming https://t.co/izT9sCAIk2 https://t.co/nNfpc2N7si",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/izT9sCAIk2",
+						"expanded_url": "https://daily-ink.davidtruss.com/the-size-of-your-digital-footprint-doesnt-matter-when-it-comes-to-viral-social-media-shaming/",
+						"display_url": "daily-ink.davidtruss.com/the-size-of-yo…",
+						"indices": [
+							94,
+							117
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1236739418075037700,
+						"id_str": "1236739418075037696",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/ESnH8r4WAAAXnqU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESnH8r4WAAAXnqU.jpg",
+						"url": "https://t.co/nNfpc2N7si",
+						"display_url": "pic.twitter.com/nNfpc2N7si",
+						"expanded_url": "https://twitter.com/datruss/status/1236739419580674048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 464,
+								"h": 261,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 464,
+								"h": 261,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 464,
+								"h": 261,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1236739418075037700,
+						"id_str": "1236739418075037696",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/ESnH8r4WAAAXnqU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESnH8r4WAAAXnqU.jpg",
+						"url": "https://t.co/nNfpc2N7si",
+						"display_url": "pic.twitter.com/nNfpc2N7si",
+						"expanded_url": "https://twitter.com/datruss/status/1236739419580674048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 464,
+								"h": 261,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 464,
+								"h": 261,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 464,
+								"h": 261,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10298552,
+				"id_str": "10298552",
+				"name": "David Truss",
+				"screen_name": "datruss",
+				"location": "Coquitlam, BC, Canada",
+				"description": "A husband, a parent… An educator, a student… A thinker, a dreamer… An agent of change. ∞β https://t.co/t0tXGEdZFE Free ebook: https://t.co/2nrrs9AQFI",
+				"url": "https://t.co/fwjV4I39wS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fwjV4I39wS",
+								"expanded_url": "http://pairadimes.davidtruss.com",
+								"display_url": "pairadimes.davidtruss.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/t0tXGEdZFE",
+								"expanded_url": "http://2di.me/datruss1",
+								"display_url": "2di.me/datruss1",
+								"indices": [
+									90,
+									113
+								]
+							},
+							{
+								"url": "https://t.co/2nrrs9AQFI",
+								"expanded_url": "http://DavidTruss.com/TwitterEDU",
+								"display_url": "DavidTruss.com/TwitterEDU",
+								"indices": [
+									126,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 14089,
+				"friends_count": 13737,
+				"listed_count": 693,
+				"created_at": "Fri Nov 16 08:30:57 +0000 2007",
+				"favourites_count": 2555,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29950,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9BE5E9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1158888786618540032/xeZfq42A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158888786618540032/xeZfq42A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10298552/1478501130",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "4B0C0C",
+				"profile_sidebar_fill_color": "EEF0BF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@datruss you might be interested in this piece by Kate O'Halloran https://t.co/D8Itb5379F. I also enjoyed Anil Dash's recent discussion of our rights online on the Function Podcast https://t.co/kcgQg7g66s https://t.co/b20icbTHK1"
+	},
+	{
 		"created_at": "Mon Mar 09 11:27:58 +0000 2020",
 		"id": 1236977019566674000,
 		"id_str": "1236977019566673921",
