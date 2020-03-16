@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 16 03:56:04 +0000 2020",
+		"id": 1239396023992107000,
+		"id_str": "1239400014083788800",
+		"full_text": "We have put together a panel of international &amp; Aussie educators to share what is working &amp; what you need to consider before moving to learning online. @lorindaorg @richielambert @msemilymaclean @AdamHillEDU @watnunu #onlinetogetherAU Join us live? https://t.co/L9KsyJQkCa https://t.co/c8WIw6IsEz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "onlinetogetherAU",
+					"indices": [
+						225,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lorindaorg",
+					"name": "Lorinda Ferry",
+					"id": 23041352,
+					"id_str": "23041352",
+					"indices": [
+						160,
+						171
+					]
+				},
+				{
+					"screen_name": "richielambert",
+					"name": "Rich Lambert",
+					"id": 22352747,
+					"id_str": "22352747",
+					"indices": [
+						172,
+						186
+					]
+				},
+				{
+					"screen_name": "msemilymaclean",
+					"name": "Emily MacLean",
+					"id": 2217468493,
+					"id_str": "2217468493",
+					"indices": [
+						187,
+						202
+					]
+				},
+				{
+					"screen_name": "AdamHillEDU",
+					"name": "Adam Hill",
+					"id": 3611022372,
+					"id_str": "3611022372",
+					"indices": [
+						203,
+						215
+					]
+				},
+				{
+					"screen_name": "watnunu",
+					"name": "Sandra Chow",
+					"id": 128810771,
+					"id_str": "128810771",
+					"indices": [
+						216,
+						224
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/L9KsyJQkCa",
+					"expanded_url": "http://bit.ly/oltAU",
+					"display_url": "bit.ly/oltAU",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239395695057985500,
+					"id_str": "1239395695057985536",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/ETM30WwUYAAMzuQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETM30WwUYAAMzuQ.jpg",
+					"url": "https://t.co/c8WIw6IsEz",
+					"display_url": "pic.twitter.com/c8WIw6IsEz",
+					"expanded_url": "https://twitter.com/DeployLearning/status/1239396023992107010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 642,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1238,
+							"h": 662,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239395695057985500,
+					"id_str": "1239395695057985536",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/ETM30WwUYAAMzuQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETM30WwUYAAMzuQ.jpg",
+					"url": "https://t.co/c8WIw6IsEz",
+					"display_url": "pic.twitter.com/c8WIw6IsEz",
+					"expanded_url": "https://twitter.com/DeployLearning/status/1239396023992107010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 642,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1238,
+							"h": 662,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1164024744607223800,
+			"id_str": "1164024744607223808",
+			"name": "DeployLearning",
+			"screen_name": "DeployLearning",
+			"location": "Melbourne, Australia",
+			"description": "Professional learning tailored to fit your organisational goals..",
+			"url": "https://t.co/LqKPIaHJd9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LqKPIaHJd9",
+							"expanded_url": "http://deploylearning.com",
+							"display_url": "deploylearning.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 163,
+			"friends_count": 247,
+			"listed_count": 1,
+			"created_at": "Wed Aug 21 04:02:54 +0000 2019",
+			"favourites_count": 343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171950551954677760/uPqihwa7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171950551954677760/uPqihwa7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1164024744607223808/1568958222",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have put together a panel of international &amp; Aussie educators to share what is working &amp; what you need to consider before moving to learning online. @lorindaorg @richielambert @msemilymaclean @AdamHillEDU @watnunu #onlinetogetherAU Join us live? https://t.co/L9KsyJQkCa https://t.co/c8WIw6IsEz"
+	},
+	{
 		"created_at": "Fri Mar 13 11:16:21 +0000 2020",
 		"id": 1238423648962142200,
 		"id_str": "1238423648962142208",
