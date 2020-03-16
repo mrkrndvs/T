@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 16 11:34:39 +0000 2020",
+		"id": 1239515417527214000,
+		"id_str": "1239515417527214080",
+		"full_text": "This is an extensive thread on how the coronavirus works and why soap is the best weapon CC @ohalloran_c https://t.co/AbwXIJOVvB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ohalloran_c",
+					"name": "Catherine O'Halloran",
+					"id": 1662288932,
+					"id_str": "1662288932",
+					"indices": [
+						92,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AbwXIJOVvB",
+					"expanded_url": "https://twitter.com/threadreaderapp/status/1236560227119620096",
+					"display_url": "twitter.com/threadreaderap…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4247,
+			"friends_count": 989,
+			"listed_count": 366,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1236560227119620000,
+		"quoted_status_id_str": "1236560227119620096",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AbwXIJOVvB",
+			"expanded": "https://twitter.com/threadreaderapp/status/1236560227119620096",
+			"display": "twitter.com/threadreaderap…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 08 07:51:46 +0000 2020",
+			"id": 1236560227119620000,
+			"id_str": "1236560227119620096",
+			"full_text": "@intrepidnoodle Hallo, please find the unroll here: Thread by @PalliThordarson: 1/25 Part 1 - Why does soap work so well on the SARS-CoV-2, the coronavirus and indeed most… https://t.co/twg2AZEaKa. Enjoy :) 🤖",
+			"truncated": false,
+			"display_text_range": [
+				16,
+				208
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "intrepidnoodle",
+						"name": "Aaron Robson",
+						"id": 72658344,
+						"id_str": "72658344",
+						"indices": [
+							0,
+							15
+						]
+					},
+					{
+						"screen_name": "PalliThordarson",
+						"name": "Palli Thordarson",
+						"id": 2919448626,
+						"id_str": "2919448626",
+						"indices": [
+							62,
+							78
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/twg2AZEaKa",
+						"expanded_url": "https://threadreaderapp.com/thread/1236549305189597189.html",
+						"display_url": "threadreaderapp.com/thread/1236549…",
+						"indices": [
+							173,
+							196
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://threadreaderapp.com\" rel=\"nofollow\">ThreadReaderApp</a>",
+			"in_reply_to_status_id": 1236560224531763200,
+			"in_reply_to_status_id_str": "1236560224531763200",
+			"in_reply_to_user_id": 72658344,
+			"in_reply_to_user_id_str": "72658344",
+			"in_reply_to_screen_name": "intrepidnoodle",
+			"user": {
+				"id": 895814938995957800,
+				"id_str": "895814938995957760",
+				"name": "Thread Reader App",
+				"screen_name": "threadreaderapp",
+				"location": "Wherever threads are written..",
+				"description": "I'm a 🤖 to help you read threads more easily. Reply to any tweet of a thread and mention me with the \"unroll\" keyword and I'll give you a link back 😀",
+				"url": "https://t.co/7Ct2VXMx64",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7Ct2VXMx64",
+								"expanded_url": "https://ThreadReaderApp.com",
+								"display_url": "ThreadReaderApp.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 270353,
+				"friends_count": 1285,
+				"listed_count": 1060,
+				"created_at": "Fri Aug 11 01:11:39 +0000 2017",
+				"favourites_count": 2122,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 892229,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/936421015067824134/g_PfzHXA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/936421015067824134/g_PfzHXA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/895814938995957760/1512095123",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 81,
+			"favorite_count": 114,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is an extensive thread on how the coronavirus works and why soap is the best weapon CC @ohalloran_c https://t.co/AbwXIJOVvB"
+	},
+	{
 		"created_at": "Mon Mar 16 03:56:04 +0000 2020",
 		"id": 1239396023992107000,
 		"id_str": "1239400014083788800",
