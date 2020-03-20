@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 20 02:15:14 +0000 2020",
+		"id": 1240824187620487200,
+		"id_str": "1240824187620487169",
+		"full_text": "@ChrisAldrich provides a series of posts/Tweets explaining how the PressEdConf, which focuses on WordPress, could be run using WordPress #IndieWeb https://t.co/HS5DfTDOhS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IndieWeb",
+					"indices": [
+						137,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisAldrich",
+					"name": "Chris Aldrich",
+					"id": 13645402,
+					"id_str": "13645402",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HS5DfTDOhS",
+					"expanded_url": "https://twitter.com/ChrisAldrich/status/1240760109887700992",
+					"display_url": "twitter.com/ChrisAldrich/s…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 13645402,
+		"in_reply_to_user_id_str": "13645402",
+		"in_reply_to_screen_name": "ChrisAldrich",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4247,
+			"friends_count": 989,
+			"listed_count": 366,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1240760109887701000,
+		"quoted_status_id_str": "1240760109887700992",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HS5DfTDOhS",
+			"expanded": "https://twitter.com/ChrisAldrich/status/1240760109887700992",
+			"display": "twitter.com/ChrisAldrich/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 19 22:00:37 +0000 2020",
+			"id": 1240760109887701000,
+			"id_str": "1240760109887700992",
+			"full_text": "Last year I thought it would be fun to outline how people might use their #WordPress websites to actively participate in #PressEdConf20 by posting content on their WordPress website and syndicating copies to Twitter for those following that way.\nhttps://t.co/opDnx4a6yu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WordPress",
+						"indices": [
+							74,
+							84
+						]
+					},
+					{
+						"text": "PressEdConf20",
+						"indices": [
+							121,
+							135
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/opDnx4a6yu",
+						"expanded_url": "https://boffosocko.com/2020/03/19/55769393/",
+						"display_url": "boffosocko.com/2020/03/19/557…",
+						"indices": [
+							246,
+							269
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13645402,
+				"id_str": "13645402",
+				"name": "Chris Aldrich",
+				"screen_name": "ChrisAldrich",
+				"location": "Los Angeles, CA",
+				"description": "Biomedical Engineer https://t.co/uGb8fgcbqS\ninformation theory, complexity, math, #IndieWeb, journalism, education, mnemotechny\n(he/him)",
+				"url": "https://t.co/t2BB0UVpFg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/t2BB0UVpFg",
+								"expanded_url": "https://www.boffosocko.com",
+								"display_url": "boffosocko.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/uGb8fgcbqS",
+								"expanded_url": "https://wiki.chrisaldrich.net/Main_Page",
+								"display_url": "wiki.chrisaldrich.net/Main_Page",
+								"indices": [
+									20,
+									43
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2422,
+				"friends_count": 4667,
+				"listed_count": 201,
+				"created_at": "Mon Feb 18 22:31:54 +0000 2008",
+				"favourites_count": 13636,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10173,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "303246",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/890299009381916672/CafdvvxN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/890299009381916672/CafdvvxN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13645402/1396990455",
+				"profile_link_color": "0C5290",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "A2C3B7",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ChrisAldrich provides a series of posts/Tweets explaining how the PressEdConf, which focuses on WordPress, could be run using WordPress #IndieWeb https://t.co/HS5DfTDOhS"
+	},
+	{
 		"created_at": "Wed Mar 18 20:20:25 +0000 2020",
 		"id": 1240372508777418800,
 		"id_str": "1240372508777418753",
