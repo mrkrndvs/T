@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 22 11:41:05 +0000 2020",
+		"id": 1241691366221987800,
+		"id_str": "1241691366221987841",
+		"full_text": "Austin Kleon shares some thoughts to learning from home https://t.co/PK0TO6Y5pN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PK0TO6Y5pN",
+					"expanded_url": "https://twitter.com/austinkleon/status/1239608387152891906",
+					"display_url": "twitter.com/austinkleon/st…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4246,
+			"friends_count": 989,
+			"listed_count": 366,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1239608387152892000,
+		"quoted_status_id_str": "1239608387152891906",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PK0TO6Y5pN",
+			"expanded": "https://twitter.com/austinkleon/status/1239608387152891906",
+			"display": "twitter.com/austinkleon/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 16 17:44:04 +0000 2020",
+			"id": 1239608387152892000,
+			"id_str": "1239608387152891906",
+			"full_text": "Suddenly faced with not sending your kids to school? Consider NOT trying to replicate school at home right now. \n\nOne of the things that good homeschooling books talk about is how there’s a “detox” period in which kids &amp; parents re-adjust to being at home.\n\nThis can take awhile.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				283
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9698942,
+				"id_str": "9698942",
+				"name": "Austin Kleon",
+				"screen_name": "austinkleon",
+				"location": "Austin, TX",
+				"description": "Author of STEAL LIKE AN ARTIST & other bestsellers. Subscribe to my newsletter and log off of this hell site: https://t.co/cJks9Mcdp9",
+				"url": "https://t.co/ER0M6pCS5C",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ER0M6pCS5C",
+								"expanded_url": "http://austinkleon.com/",
+								"display_url": "austinkleon.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/cJks9Mcdp9",
+								"expanded_url": "http://austinkleon.com/newsletter",
+								"display_url": "austinkleon.com/newsletter",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 101557,
+				"friends_count": 1282,
+				"listed_count": 3732,
+				"created_at": "Fri Oct 26 01:03:22 +0000 2007",
+				"favourites_count": 123290,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 99059,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1103418537605881856/yOeJzRom_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103418537605881856/yOeJzRom_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9698942/1550698399",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FF0000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 71,
+			"favorite_count": 358,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Austin Kleon shares some thoughts to learning from home https://t.co/PK0TO6Y5pN"
+	},
+	{
 		"created_at": "Sun Mar 22 11:11:06 +0000 2020",
 		"id": 1241683819628920800,
 		"id_str": "1241683819628920838",
