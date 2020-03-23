@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 23 04:46:49 +0000 2020",
+		"id": 1241949498449903600,
+		"id_str": "1241949498449903621",
+		"full_text": "Narissa Leung discusses the need for reasonable, purposeful and sustainable learning for at home while schools are closed. https://t.co/nkgPRjz7C7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nkgPRjz7C7",
+					"expanded_url": "https://twitter.com/rissL/status/1241548102760349699",
+					"display_url": "twitter.com/rissL/status/1…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4246,
+			"friends_count": 989,
+			"listed_count": 366,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1241548102760349700,
+		"quoted_status_id_str": "1241548102760349699",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nkgPRjz7C7",
+			"expanded": "https://twitter.com/rissL/status/1241548102760349699",
+			"display": "twitter.com/rissL/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 22 02:11:49 +0000 2020",
+			"id": 1241548102760349700,
+			"id_str": "1241548102760349699",
+			"full_text": "How should schools and teachers approach the inevitable school closures?\nHow much and what type of work should we be preparing for our students?'\n\nhttps://t.co/Og4oFHVKrl\n\n#vicPLN #teachersoftwitter https://t.co/2miAn7e9F1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				198
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "vicPLN",
+						"indices": [
+							172,
+							179
+						]
+					},
+					{
+						"text": "teachersoftwitter",
+						"indices": [
+							180,
+							198
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Og4oFHVKrl",
+						"expanded_url": "http://www.ozlitteacher.com.au/2020/03/22/tips-for-preparing-student-work-during-school-closures/",
+						"display_url": "ozlitteacher.com.au/2020/03/22/tip…",
+						"indices": [
+							147,
+							170
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1241547950867841000,
+						"id_str": "1241547950867841024",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/media/ETrdSIcXgAAXXSB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETrdSIcXgAAXXSB.jpg",
+						"url": "https://t.co/2miAn7e9F1",
+						"display_url": "pic.twitter.com/2miAn7e9F1",
+						"expanded_url": "https://twitter.com/rissL/status/1241548102760349699/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1241547950867841000,
+						"id_str": "1241547950867841024",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/media/ETrdSIcXgAAXXSB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETrdSIcXgAAXXSB.jpg",
+						"url": "https://t.co/2miAn7e9F1",
+						"display_url": "pic.twitter.com/2miAn7e9F1",
+						"expanded_url": "https://twitter.com/rissL/status/1241548102760349699/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.later.com\" rel=\"nofollow\">LaterMedia</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16400158,
+				"id_str": "16400158",
+				"name": "Narissa Leung",
+				"screen_name": "rissL",
+				"location": "Victoria, Australia",
+				"description": "Education Consultant at Lead & Learn Ed Consulting. Passionate about improving teaching and learning for all students. #becurious #bebrilliant #bethechange",
+				"url": "https://t.co/3o1i9H9nIp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3o1i9H9nIp",
+								"expanded_url": "http://narissaleung.com.au",
+								"display_url": "narissaleung.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2524,
+				"friends_count": 1661,
+				"listed_count": 101,
+				"created_at": "Mon Sep 22 05:19:13 +0000 2008",
+				"favourites_count": 2861,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4283,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1043012795745226752/RbnZxQqX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043012795745226752/RbnZxQqX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16400158/1523495034",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Narissa Leung discusses the need for reasonable, purposeful and sustainable learning for at home while schools are closed. https://t.co/nkgPRjz7C7"
+	},
+	{
 		"created_at": "Mon Mar 23 02:34:08 +0000 2020",
 		"id": 1241916109558698000,
 		"id_str": "1241916109558697984",
