@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 23 01:11:51 +0000 2020",
+		"id": 1241895399004049400,
+		"id_str": "1241895399004049408",
+		"full_text": "Claire Amos shares her succinct guidelines for moving learning online. https://t.co/rUtRun9baV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rUtRun9baV",
+					"expanded_url": "https://twitter.com/ClaireAmosNZ/status/1240723169746407424",
+					"display_url": "twitter.com/ClaireAmosNZ/s…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4246,
+			"friends_count": 989,
+			"listed_count": 366,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1240723169746407400,
+		"quoted_status_id_str": "1240723169746407424",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rUtRun9baV",
+			"expanded": "https://twitter.com/ClaireAmosNZ/status/1240723169746407424",
+			"display": "twitter.com/ClaireAmosNZ/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 19 19:33:49 +0000 2020",
+			"id": 1240723169746407400,
+			"id_str": "1240723169746407424",
+			"full_text": "Staff guide for secondary schools preparing to go remote. Feel free to view and make a copy if helpful. Focus on keeping it super simple and as relationship-focused as possible. Please don't try and replicate a timetable or school day! https://t.co/0SMoTdfJWC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				259
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0SMoTdfJWC",
+						"expanded_url": "https://docs.google.com/document/d/1bMaQiuBTlUuF-dWek6wC3AIbk1KBF3yJXR_FpczBfdA/edit?usp=sharing",
+						"display_url": "docs.google.com/document/d/1bM…",
+						"indices": [
+							236,
+							259
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22454921,
+				"id_str": "22454921",
+				"name": "Claire Amos",
+				"screen_name": "ClaireAmosNZ",
+				"location": "Auckland",
+				"description": "Principal at ASHS, NetSafe Board, Google Certified Innovator, co-founder @DisruptEDNZ. Passionate about family, shoes, tattoos and leading change in education.",
+				"url": "https://t.co/rqdm5Tz6p5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rqdm5Tz6p5",
+								"expanded_url": "http://www.claireamos.com",
+								"display_url": "claireamos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6549,
+				"friends_count": 2404,
+				"listed_count": 218,
+				"created_at": "Mon Mar 02 05:22:57 +0000 2009",
+				"favourites_count": 4121,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14983,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895468483357556736/9PEVWol0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895468483357556736/9PEVWol0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22454921/1553049936",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 118,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Claire Amos shares her succinct guidelines for moving learning online. https://t.co/rUtRun9baV"
+	},
+	{
 		"created_at": "Sun Mar 22 11:41:05 +0000 2020",
 		"id": 1241691366221987800,
 		"id_str": "1241691366221987841",
