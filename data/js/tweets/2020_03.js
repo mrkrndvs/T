@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 24 11:53:00 +0000 2020",
+		"id": 1242419139689382000,
+		"id_str": "1242419139689381888",
+		"full_text": "@BiancaH80 I think that you missed the important point where he explained that anyone who has a job, that is an essential job. https://t.co/71rWqvc1fe",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BiancaH80",
+					"name": "Bianca ‘Jimmy’ Hewes",
+					"id": 79401897,
+					"id_str": "79401897",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1242419130000527400,
+					"id_str": "1242419130000527360",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ET31nbnU0AAvazB.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ET31nbnU0AAvazB.jpg",
+					"url": "https://t.co/71rWqvc1fe",
+					"display_url": "pic.twitter.com/71rWqvc1fe",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/1242419139689381888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 278,
+							"h": 174,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 278,
+							"h": 174,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 278,
+							"h": 174,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242419130000527400,
+					"id_str": "1242419130000527360",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ET31nbnU0AAvazB.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ET31nbnU0AAvazB.jpg",
+					"url": "https://t.co/71rWqvc1fe",
+					"display_url": "pic.twitter.com/71rWqvc1fe",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/1242419139689381888/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 278,
+							"h": 174,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 278,
+							"h": 174,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 278,
+							"h": 174,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							139,
+							87
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ET31nbnU0AAvazB.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1242401853561684000,
+		"in_reply_to_status_id_str": "1242401853561683968",
+		"in_reply_to_user_id": 79401897,
+		"in_reply_to_user_id_str": "79401897",
+		"in_reply_to_screen_name": "BiancaH80",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4245,
+			"friends_count": 989,
+			"listed_count": 366,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BiancaH80 I think that you missed the important point where he explained that anyone who has a job, that is an essential job. https://t.co/71rWqvc1fe"
+	},
+	{
 		"created_at": "Mon Mar 23 04:46:49 +0000 2020",
 		"id": 1241949498449903600,
 		"id_str": "1241949498449903621",
