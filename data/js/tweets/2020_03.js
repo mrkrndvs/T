@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 27 03:34:35 +0000 2020",
+		"id": 1243380874155937800,
+		"id_str": "1243380874155937793",
+		"full_text": "Craig Spencer provides an insight into a day in the life dealing with the coronavirus. https://t.co/5IMYyqw5FC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5IMYyqw5FC",
+					"expanded_url": "https://twitter.com/Craig_A_Spencer/status/1242302400762908685",
+					"display_url": "twitter.com/Craig_A_Spence…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4243,
+			"friends_count": 989,
+			"listed_count": 366,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28061,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1242302400762908700,
+		"quoted_status_id_str": "1242302400762908685",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5IMYyqw5FC",
+			"expanded": "https://twitter.com/Craig_A_Spencer/status/1242302400762908685",
+			"display": "twitter.com/Craig_A_Spence…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 24 04:09:07 +0000 2020",
+			"id": 1242302400762908700,
+			"id_str": "1242302400762908685",
+			"full_text": "Thank you everyone for your incredible messages of support and encouragement.♥️\n\nMany of you asked what it was like in the ER right now. I want to share a bit with you. Please RT:\n\nA Day in the Life of an ER Doc - A Brief Dispatch from the #COVID19 Frontline:",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				259
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COVID19",
+						"indices": [
+							240,
+							248
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 831279407088148500,
+				"id_str": "831279407088148480",
+				"name": "Craig Spencer MD MPH",
+				"screen_name": "Craig_A_Spencer",
+				"location": "New York City",
+				"description": "Director of Global Health in Emergency Medicine @ColumbiaMed/@NYPhospital and Faculty in Forced Migration & Health @ColumbiaMSPH | @MSF_USA BoD |#Ebola survivor",
+				"url": "https://t.co/8ffm4COgB2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8ffm4COgB2",
+								"expanded_url": "https://www.mailman.columbia.edu/people/our-faculty/cs2941",
+								"display_url": "mailman.columbia.edu/people/our-fac…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 63894,
+				"friends_count": 309,
+				"listed_count": 680,
+				"created_at": "Mon Feb 13 23:10:29 +0000 2017",
+				"favourites_count": 544,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 526,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1025756460817494016/1C7cSeY9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025756460817494016/1C7cSeY9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/831279407088148480/1583897909",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 68616,
+			"favorite_count": 130823,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Craig Spencer provides an insight into a day in the life dealing with the coronavirus. https://t.co/5IMYyqw5FC"
+	},
+	{
 		"created_at": "Thu Mar 26 11:42:13 +0000 2020",
 		"id": 1243141201789718500,
 		"id_str": "1243141201789718535",
