@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 27 10:26:22 +0000 2020",
+		"id": 1243484499725267000,
+		"id_str": "1243484499725266944",
+		"full_text": "I love the choice this gives students through these tasks. In such a time, it feels important to provide some semblance of structure as well as options at the same time. https://t.co/pprcvsnosk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pprcvsnosk",
+					"expanded_url": "https://twitter.com/pernilleripp/status/1241362996439457792",
+					"display_url": "twitter.com/pernilleripp/s…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4244,
+			"friends_count": 989,
+			"listed_count": 366,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28063,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1241362996439457800,
+		"quoted_status_id_str": "1241362996439457792",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pprcvsnosk",
+			"expanded": "https://twitter.com/pernilleripp/status/1241362996439457792",
+			"display": "twitter.com/pernilleripp/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 21 13:56:16 +0000 2020",
+			"id": 1241362996439457800,
+			"id_str": "1241362996439457792",
+			"full_text": "Choose Your Own Adventure – 4 Learning Options As We Go Virtual/Online https://t.co/sC88Jdpj7E https://t.co/hGQv2EHelR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				94
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sC88Jdpj7E",
+						"expanded_url": "http://pernillesripp.com/2020/03/21/choose-your-own-adventure-4-learning-options-as-we-go-virtual-online/",
+						"display_url": "pernillesripp.com/2020/03/21/cho…",
+						"indices": [
+							71,
+							94
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1241362994807873500,
+						"id_str": "1241362994807873541",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/ETo1ERbWoAUwXo5.png",
+						"media_url_https": "https://pbs.twimg.com/media/ETo1ERbWoAUwXo5.png",
+						"url": "https://t.co/hGQv2EHelR",
+						"display_url": "pic.twitter.com/hGQv2EHelR",
+						"expanded_url": "https://twitter.com/pernilleripp/status/1241362996439457792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 762,
+								"h": 589,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 762,
+								"h": 589,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 526,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1241362994807873500,
+						"id_str": "1241362994807873541",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/ETo1ERbWoAUwXo5.png",
+						"media_url_https": "https://pbs.twimg.com/media/ETo1ERbWoAUwXo5.png",
+						"url": "https://t.co/hGQv2EHelR",
+						"display_url": "pic.twitter.com/hGQv2EHelR",
+						"expanded_url": "https://twitter.com/pernilleripp/status/1241362996439457792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 762,
+								"h": 589,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 762,
+								"h": 589,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 526,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 56559078,
+				"id_str": "56559078",
+				"name": "Pernille Ripp",
+				"screen_name": "pernilleripp",
+				"location": "Madison, WI",
+				"description": "Danish educator living in the US, mother of 4 and soul mate to an incredible man. Teacher, creator of the Global Read Aloud, author, speaker. She/her/hers",
+				"url": "http://t.co/C7FDqMAXd0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/C7FDqMAXd0",
+								"expanded_url": "http://www.pernillesripp.com",
+								"display_url": "pernillesripp.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 68999,
+				"friends_count": 2966,
+				"listed_count": 1584,
+				"created_at": "Tue Jul 14 01:13:44 +0000 2009",
+				"favourites_count": 13283,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 76753,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1219018542236033025/zJ3biAK8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219018542236033025/zJ3biAK8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/56559078/1533389668",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 255,
+			"favorite_count": 930,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I love the choice this gives students through these tasks. In such a time, it feels important to provide some semblance of structure as well as options at the same time. https://t.co/pprcvsnosk"
+	},
+	{
 		"created_at": "Fri Mar 27 08:11:09 +0000 2020",
 		"id": 1243450474369409000,
 		"id_str": "1243450474369409024",
