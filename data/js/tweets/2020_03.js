@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 30 11:04:29 +0000 2020",
+		"id": 1244581258794922000,
+		"id_str": "1244581258794921985",
+		"full_text": "A great video that demonstrates the power of cleaning your hands to stop the spread of the coronavirus https://t.co/GdHbj9wWQb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GdHbj9wWQb",
+					"expanded_url": "https://twitter.com/MemoMakanika/status/1238398794955399168",
+					"display_url": "twitter.com/MemoMakanika/s…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4245,
+			"friends_count": 989,
+			"listed_count": 366,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28069,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1238398794955399200,
+		"quoted_status_id_str": "1238398794955399168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GdHbj9wWQb",
+			"expanded": "https://twitter.com/MemoMakanika/status/1238398794955399168",
+			"display": "twitter.com/MemoMakanika/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 13 09:37:35 +0000 2020",
+			"id": 1238398794955399200,
+			"id_str": "1238398794955399168",
+			"full_text": "This video by the Ministry of Health Saudi Arabia could save lives. It demonstrates how coronavirus spreads &amp; it helps u understand prevention better.\nPlease be alert. @williamzambezi @daddyhope @LynneStactia https://t.co/FlBcv8xDqW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				236
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "williamzambezi",
+						"name": "William Zambezi",
+						"id": 212917852,
+						"id_str": "212917852",
+						"indices": [
+							172,
+							187
+						]
+					},
+					{
+						"screen_name": "daddyhope",
+						"name": "Hopewell Chin’ono-Journalist",
+						"id": 73672445,
+						"id_str": "73672445",
+						"indices": [
+							188,
+							198
+						]
+					},
+					{
+						"screen_name": "LynneStactia",
+						"name": "LynneM 💕💝💎",
+						"id": 2171243406,
+						"id_str": "2171243406",
+						"indices": [
+							199,
+							212
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1238028971759018000,
+						"id_str": "1238028971759017984",
+						"indices": [
+							213,
+							236
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238028971759017984/pu/img/-T_8YHZ9YK-zQPvH.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238028971759017984/pu/img/-T_8YHZ9YK-zQPvH.jpg",
+						"url": "https://t.co/FlBcv8xDqW",
+						"display_url": "pic.twitter.com/FlBcv8xDqW",
+						"expanded_url": "https://twitter.com/tivtvya/status/1238029129607458816/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1238029129607458800,
+						"source_status_id_str": "1238029129607458816",
+						"source_user_id": 990127877159960600,
+						"source_user_id_str": "990127877159960576"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1238028971759018000,
+						"id_str": "1238028971759017984",
+						"indices": [
+							213,
+							236
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238028971759017984/pu/img/-T_8YHZ9YK-zQPvH.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238028971759017984/pu/img/-T_8YHZ9YK-zQPvH.jpg",
+						"url": "https://t.co/FlBcv8xDqW",
+						"display_url": "pic.twitter.com/FlBcv8xDqW",
+						"expanded_url": "https://twitter.com/tivtvya/status/1238029129607458816/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1238029129607458800,
+						"source_status_id_str": "1238029129607458816",
+						"source_user_id": 990127877159960600,
+						"source_user_id_str": "990127877159960576",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 55396,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1238028971759017984/pu/vid/480x270/NpQDVRUToIt9qien.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1238028971759017984/pu/pl/vryHo2C6IyJ9AwPA.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1238028971759017984/pu/vid/640x360/AZax2TKO_mBSCYqy.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1238028971759017984/pu/vid/1280x720/JXoREACgN6dS6dVC.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 990127877159960600,
+								"id_str": "990127877159960576",
+								"name": "Suraj Patil",
+								"screen_name": "surajpatil_1996",
+								"location": "Mumbai, India",
+								"description": "simplicity is the ultimate sophistication...",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 47,
+								"friends_count": 105,
+								"listed_count": 0,
+								"created_at": "Sat Apr 28 07:17:36 +0000 2018",
+								"favourites_count": 406,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 587,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1241245376415510529/2qLEXyWV_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241245376415510529/2qLEXyWV_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/990127877159960576/1584770934",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 915775902,
+				"id_str": "915775902",
+				"name": "Memo.🇿🇼🔨🔩🔧",
+				"screen_name": "MemoMakanika",
+				"location": "Zimbabwe",
+				"description": "🔧🔩🔨 l am a female in a male dominating industry. 🇿🇼🇿🇼#kusunga simbi ndokubasa kwamhamha 💃🏿🧰🛠🔨🔧👩‍🔧",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10071,
+				"friends_count": 4232,
+				"listed_count": 0,
+				"created_at": "Wed Oct 31 00:12:33 +0000 2012",
+				"favourites_count": 10485,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4498,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1203776736984551425/XECJiMrb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203776736984551425/XECJiMrb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/915775902/1536003208",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 311,
+			"favorite_count": 338,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A great video that demonstrates the power of cleaning your hands to stop the spread of the coronavirus https://t.co/GdHbj9wWQb"
+	},
+	{
 		"created_at": "Sun Mar 29 10:56:25 +0000 2020",
 		"id": 1244216840600965000,
 		"id_str": "1244216840600965127",
