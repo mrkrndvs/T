@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 31 04:51:04 +0000 2020",
+		"id": 1244849672117571600,
+		"id_str": "1244849672117571584",
+		"full_text": "Interesting use of LIKE to utilise incorporate % or _ options into a QUERY #SheetsGeek https://t.co/DX6eDTYIjM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SheetsGeek",
+					"indices": [
+						75,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DX6eDTYIjM",
+					"expanded_url": "https://twitter.com/prashanth_kv/status/1024952875175170049",
+					"display_url": "twitter.com/prashanth_kv/s…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4244,
+			"friends_count": 989,
+			"listed_count": 366,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1024952875175170000,
+		"quoted_status_id_str": "1024952875175170049",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DX6eDTYIjM",
+			"expanded": "https://twitter.com/prashanth_kv/status/1024952875175170049",
+			"display": "twitter.com/prashanth_kv/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 02 09:39:42 +0000 2018",
+			"id": 1024952875175170000,
+			"id_str": "1024952875175170049",
+			"full_text": "How to Use LIKE String Operator in Google Sheets Query https://t.co/oF0J7CwQIb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				78
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/oF0J7CwQIb",
+						"expanded_url": "http://dlvr.it/QdYrsG",
+						"display_url": "dlvr.it/QdYrsG",
+						"indices": [
+							55,
+							78
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 122947361,
+				"id_str": "122947361",
+				"name": "Prashanth KV",
+				"screen_name": "prashanth_kv",
+				"location": "Payyannur, India",
+				"description": "Professional Blogger",
+				"url": "http://t.co/obYjR9ibq9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/obYjR9ibq9",
+								"expanded_url": "http://infoinspired.com",
+								"display_url": "infoinspired.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 319,
+				"friends_count": 8,
+				"listed_count": 3,
+				"created_at": "Sun Mar 14 12:54:35 +0000 2010",
+				"favourites_count": 64,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2065,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/919565075253420032/HKrwM8Aj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/919565075253420032/HKrwM8Aj_normal.jpg",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interesting use of LIKE to utilise incorporate % or _ options into a QUERY #SheetsGeek https://t.co/DX6eDTYIjM"
+	},
+	{
 		"created_at": "Mon Mar 30 11:04:29 +0000 2020",
 		"id": 1244581258794922000,
 		"id_str": "1244581258794921985",
@@ -339,7 +574,7 @@ Grailbird.data.tweets_2020_03 =
 				"name": "Memo.🇿🇼🔨🔩🔧",
 				"screen_name": "MemoMakanika",
 				"location": "Zimbabwe",
-				"description": "🔧🔩🔨 l am a female in a male dominating industry. 🇿🇼🇿🇼#kusunga simbi ndokubasa kwamhamha 💃🏿🧰🛠🔨🔧👩‍🔧",
+				"description": "🔧🔩🔨 l am a female in a male dominating industry. 🇿🇼🇿🇼#kusunga simbi ndokubasa kwamhamha 💃🏿🧰🛠🔨🔧👩🔧",
 				"url": null,
 				"entities": {
 					"description": {
