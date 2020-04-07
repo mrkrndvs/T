@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 22:17:24 +0000 2020",
+		"id": 1247649704260694000,
+		"id_str": "1247649704260694016",
+		"full_text": "This is a useful post alongside @JoelBSperanza post reflecting on what online learning is and isn't https://t.co/wrKBNB6c1E https://t.co/bHoHJEvlsu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JoelBSperanza",
+					"name": "Joel Speranza",
+					"id": 469805226,
+					"id_str": "469805226",
+					"indices": [
+						32,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wrKBNB6c1E",
+					"expanded_url": "https://joelsperanza.com/uncategorized/online-learning-in-the-time-of-a-pandemic-what-it-is-what-it-isnt/",
+					"display_url": "joelsperanza.com/uncategorized/…",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/bHoHJEvlsu",
+					"expanded_url": "https://twitter.com/E_Sheninger/status/1246788167757332482",
+					"display_url": "twitter.com/E_Sheninger/st…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4240,
+			"friends_count": 990,
+			"listed_count": 366,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28086,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1246788167757332500,
+		"quoted_status_id_str": "1246788167757332482",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bHoHJEvlsu",
+			"expanded": "https://twitter.com/E_Sheninger/status/1246788167757332482",
+			"display": "twitter.com/E_Sheninger/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 05 13:13:58 +0000 2020",
+			"id": 1246788167757332500,
+			"id_str": "1246788167757332482",
+			"full_text": "New post: 10 Remote Learning Practices to Avoid https://t.co/E7zR57u4aY #edchat #suptchat #cpchat #remotelearning #edutwitter https://t.co/Bjwsjyhrch",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				125
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edchat",
+						"indices": [
+							72,
+							79
+						]
+					},
+					{
+						"text": "suptchat",
+						"indices": [
+							80,
+							89
+						]
+					},
+					{
+						"text": "cpchat",
+						"indices": [
+							90,
+							97
+						]
+					},
+					{
+						"text": "remotelearning",
+						"indices": [
+							98,
+							113
+						]
+					},
+					{
+						"text": "edutwitter",
+						"indices": [
+							114,
+							125
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/E7zR57u4aY",
+						"expanded_url": "http://esheninger.blogspot.com/2020/04/10-remote-learning-practices-to-avoid.html",
+						"display_url": "esheninger.blogspot.com/2020/04/10-rem…",
+						"indices": [
+							48,
+							71
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1246788036588961800,
+						"id_str": "1246788036588961797",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/EU17HQ8XgAUfmye.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EU17HQ8XgAUfmye.jpg",
+						"url": "https://t.co/Bjwsjyhrch",
+						"display_url": "pic.twitter.com/Bjwsjyhrch",
+						"expanded_url": "https://twitter.com/E_Sheninger/status/1246788167757332482/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1078,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 611,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1840,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1246788036588961800,
+						"id_str": "1246788036588961797",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/EU17HQ8XgAUfmye.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EU17HQ8XgAUfmye.jpg",
+						"url": "https://t.co/Bjwsjyhrch",
+						"display_url": "pic.twitter.com/Bjwsjyhrch",
+						"expanded_url": "https://twitter.com/E_Sheninger/status/1246788167757332482/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1078,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 611,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1840,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22487278,
+				"id_str": "22487278",
+				"name": "Eric Sheninger",
+				"screen_name": "E_Sheninger",
+				"location": "Cypress, TX",
+				"description": "ICLE Associate Partner, award-winning principal, learner, best-selling author, international keynote speaker, learning facilitator, coach | Thoughts are my own.",
+				"url": "http://t.co/n2UwF0GqhC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/n2UwF0GqhC",
+								"expanded_url": "http://ericsheninger.com",
+								"display_url": "ericsheninger.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 151836,
+				"friends_count": 1058,
+				"listed_count": 4943,
+				"created_at": "Mon Mar 02 14:18:56 +0000 2009",
+				"favourites_count": 330,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 69367,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/768592734282145792/sBoQIaFR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/768592734282145792/sBoQIaFR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22487278/1557079756",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 932,
+			"favorite_count": 1708,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a useful post alongside @JoelBSperanza post reflecting on what online learning is and isn't https://t.co/wrKBNB6c1E https://t.co/bHoHJEvlsu"
+	},
+	{
 		"created_at": "Tue Apr 07 22:11:37 +0000 2020",
 		"id": 1247648251202818000,
 		"id_str": "1247648251202818048",
