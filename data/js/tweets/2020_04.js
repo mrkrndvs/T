@@ -1,6 +1,153 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 10:18:25 +0000 2020",
+		"id": 1247468765261885400,
+		"id_str": "1247468765261885440",
+		"full_text": "@cpola17 @sinnergy78 There seems to be a lot of talk about WebEx Brett. I'd make sure that it is something you have permission for. \n\nMy go to resource at the moment is @kathleen_morris teaching online guide https://t.co/VgwJHGUIj8 Might be worth dipping into.",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cpola17",
+					"name": "Christina Polatajko",
+					"id": 467121156,
+					"id_str": "467121156",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "sinnergy78",
+					"name": "Brett Sinnett",
+					"id": 2692814582,
+					"id_str": "2692814582",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"screen_name": "kathleen_morris",
+					"name": "Kathleen Morris 🇦🇺",
+					"id": 23413264,
+					"id_str": "23413264",
+					"indices": [
+						169,
+						185
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VgwJHGUIj8",
+					"expanded_url": "https://www.theedublogger.com/teaching-online-school-closures/",
+					"display_url": "theedublogger.com/teaching-onlin…",
+					"indices": [
+						208,
+						231
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1247466684807438300,
+		"in_reply_to_status_id_str": "1247466684807438336",
+		"in_reply_to_user_id": 467121156,
+		"in_reply_to_user_id_str": "467121156",
+		"in_reply_to_screen_name": "cpola17",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4239,
+			"friends_count": 990,
+			"listed_count": 366,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@cpola17 @sinnergy78 There seems to be a lot of talk about WebEx Brett. I'd make sure that it is something you have permission for. \n\nMy go to resource at the moment is @kathleen_morris teaching online guide https://t.co/VgwJHGUIj8 Might be worth dipping into."
+	},
+	{
 		"created_at": "Sun Apr 05 00:07:29 +0000 2020",
 		"id": 1246590244352336000,
 		"id_str": "1246590244352335872",
