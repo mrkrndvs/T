@@ -1,10 +1,126 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 09 11:57:00 +0000 2020",
+		"id": 1248218352964821000,
+		"id_str": "1248218352964820992",
+		"full_text": "@JoelBSperanza I think that those almost posts are often some of the best lessons learnt. I guess this is why writing and then sitting with your thoughts can be useful.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JoelBSperanza",
+					"name": "Joel Speranza",
+					"id": 469805226,
+					"id_str": "469805226",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": 1247715596407537700,
+		"in_reply_to_status_id_str": "1247715596407537666",
+		"in_reply_to_user_id": 469805226,
+		"in_reply_to_user_id_str": "469805226",
+		"in_reply_to_screen_name": "JoelBSperanza",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4238,
+			"friends_count": 988,
+			"listed_count": 0,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JoelBSperanza I think that those almost posts are often some of the best lessons learnt. I guess this is why writing and then sitting with your thoughts can be useful."
+	},
+	{
 		"created_at": "Wed Apr 08 12:12:01 +0000 2020",
 		"id": 1247859742988353500,
 		"id_str": "1247859742988353536",
-		"full_text": "@jentzly All well here Eric. The juggling has been interesting. Ms 4 thinks that I just sit at my computer watching videos all day, no appreciation of my work in support schools and staff🤦‍♂️",
+		"full_text": "@jentzly All well here Eric. The juggling has been interesting. Ms 4 thinks that I just sit at my computer watching videos all day, no appreciation of my work in support schools and staff🤦♂️",
 		"truncated": false,
 		"display_text_range": [
 			9,
@@ -114,7 +230,7 @@ Grailbird.data.tweets_2020_04 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@jentzly All well here Eric. The juggling has been interesting. Ms 4 thinks that I just sit at my computer watching videos all day, no appreciation of my work in support schools and staff🤦‍♂️"
+		"text": "@jentzly All well here Eric. The juggling has been interesting. Ms 4 thinks that I just sit at my computer watching videos all day, no appreciation of my work in support schools and staff🤦♂️"
 	},
 	{
 		"created_at": "Tue Apr 07 22:17:24 +0000 2020",
