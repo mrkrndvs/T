@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 11 11:44:38 +0000 2020",
+		"id": 1248940013439430700,
+		"id_str": "1248940013439430656",
+		"full_text": "Carole Geneix summarises how visible thinking can be integrated within online learning. https://t.co/BvOau1lcUq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BvOau1lcUq",
+					"expanded_url": "https://twitter.com/cpaterso/status/1248903198628147200",
+					"display_url": "twitter.com/cpaterso/statu…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4240,
+			"friends_count": 988,
+			"listed_count": 364,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1248903198628147200,
+		"quoted_status_id_str": "1248903198628147200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BvOau1lcUq",
+			"expanded": "https://twitter.com/cpaterso/status/1248903198628147200",
+			"display": "twitter.com/cpaterso/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 11 09:18:20 +0000 2020",
+			"id": 1248903198628147200,
+			"id_str": "1248903198628147200",
+			"full_text": "As I experiment with protocols and thinking routines online, have you seen this from @CaroleGeneix? https://t.co/KUll1bXhFE Also starting to leverage outside experts, hoping to Zoom with \n@MeleahHampton to discuss Australia's contribution on the Western Front in WWI.#GOAlearning",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GOAlearning",
+						"indices": [
+							267,
+							279
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CaroleGeneix",
+						"name": "Carole Geneix",
+						"id": 1242636571,
+						"id_str": "1242636571",
+						"indices": [
+							85,
+							98
+						]
+					},
+					{
+						"screen_name": "MeleahHampton",
+						"name": "Meleah Hampton",
+						"id": 84520029,
+						"id_str": "84520029",
+						"indices": [
+							188,
+							202
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/KUll1bXhFE",
+						"expanded_url": "https://docs.google.com/document/d/1JM826jA_dZobwu21SaLlovzaaetuJiFO0aCn9IIQDyo/edit",
+						"display_url": "docs.google.com/document/d/1JM…",
+						"indices": [
+							100,
+							123
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16181607,
+				"id_str": "16181607",
+				"name": "cpaterso",
+				"screen_name": "cpaterso",
+				"location": "Cammeraygal land, Eora nation",
+				"description": "Learning and teaching edleader. Less us, more them. #PZSyd #CCoTonline @FliptheSystemOz",
+				"url": "https://t.co/enZvE2KKtf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/enZvE2KKtf",
+								"expanded_url": "http://learningshore.edublogs.org/",
+								"display_url": "learningshore.edublogs.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8321,
+				"friends_count": 648,
+				"listed_count": 276,
+				"created_at": "Mon Sep 08 07:46:43 +0000 2008",
+				"favourites_count": 18,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12331,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1111565515267334144/C3VGImeH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111565515267334144/C3VGImeH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16181607/1362637880",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Carole Geneix summarises how visible thinking can be integrated within online learning. https://t.co/BvOau1lcUq"
+	},
+	{
 		"created_at": "Sat Apr 11 07:27:50 +0000 2020",
 		"id": 1248875388626858000,
 		"id_str": "1248875388626857986",
