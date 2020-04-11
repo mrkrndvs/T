@@ -1,6 +1,153 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 11 07:27:50 +0000 2020",
+		"id": 1248875388626858000,
+		"id_str": "1248875388626857986",
+		"full_text": "@CorrieB @wiobyrne Also from @austinkleon:\n\"Like most prnts, I angst about giving 2 much screentime, but Garageband has taught me: Not all screentime is created equal. The right software matched with a child’s natural proclivities &amp; talents &amp; passion can yield complete gold\" https://t.co/rQGbip8oU9",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			307
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CorrieB",
+					"name": "Corrie Barclay",
+					"id": 196529471,
+					"id_str": "196529471",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "wiobyrne",
+					"name": "Ian O'Byrne",
+					"id": 88676762,
+					"id_str": "88676762",
+					"indices": [
+						9,
+						18
+					]
+				},
+				{
+					"screen_name": "austinkleon",
+					"name": "Austin Kleon",
+					"id": 9698942,
+					"id_str": "9698942",
+					"indices": [
+						29,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rQGbip8oU9",
+					"expanded_url": "https://hyp.is/3OHeHHvFEeqwMkPyo5qZYg/austinkleon.com/2019/01/07/in-praise-of-garageband/",
+					"display_url": "hyp.is/3OHeHHvFEeqwMk…",
+					"indices": [
+						284,
+						307
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1248869675003306000,
+		"in_reply_to_status_id_str": "1248869675003305989",
+		"in_reply_to_user_id": 372768752,
+		"in_reply_to_user_id_str": "372768752",
+		"in_reply_to_screen_name": "mrkrndvs",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4239,
+			"friends_count": 988,
+			"listed_count": 364,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@CorrieB @wiobyrne Also from @austinkleon:\n\"Like most prnts, I angst about giving 2 much screentime, but Garageband has taught me: Not all screentime is created equal. The right software matched with a child’s natural proclivities &amp; talents &amp; passion can yield complete gold\" https://t.co/rQGbip8oU9"
+	},
+	{
 		"created_at": "Sat Apr 11 07:05:08 +0000 2020",
 		"id": 1248869675003306000,
 		"id_str": "1248869675003305989",
