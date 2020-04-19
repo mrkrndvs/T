@@ -1,6 +1,152 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 18 23:57:06 +0000 2020",
+		"id": 1251661059670151200,
+		"id_str": "1251661059670151168",
+		"full_text": "Always intrigued what new music @GooglePlayMusic throws up. Today, I was listening to @Fordwritesmusic\non @RadioNational Music Show &amp; found out @EOBOfficial album was released. However, this did not come up in new releases. Lesson: I cannot always trust algorithms for such info",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GooglePlayMusic",
+					"name": "Google Play Music",
+					"id": 3307218826,
+					"id_str": "3307218826",
+					"indices": [
+						32,
+						48
+					]
+				},
+				{
+					"screen_name": "Fordwritesmusic",
+					"name": "Andrew Ford",
+					"id": 2881306603,
+					"id_str": "2881306603",
+					"indices": [
+						86,
+						102
+					]
+				},
+				{
+					"screen_name": "RadioNational",
+					"name": "ABC Radio National",
+					"id": 19940915,
+					"id_str": "19940915",
+					"indices": [
+						106,
+						120
+					]
+				},
+				{
+					"screen_name": "EOBOfficial",
+					"name": "Ed O'Brien",
+					"id": 1153747660404170800,
+					"id_str": "1153747660404170752",
+					"indices": [
+						148,
+						160
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4241,
+			"friends_count": 989,
+			"listed_count": 364,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Always intrigued what new music @GooglePlayMusic throws up. Today, I was listening to @Fordwritesmusic\non @RadioNational Music Show &amp; found out @EOBOfficial album was released. However, this did not come up in new releases. Lesson: I cannot always trust algorithms for such info"
+	},
+	{
 		"created_at": "Sat Apr 18 12:28:26 +0000 2020",
 		"id": 1251487750978769000,
 		"id_str": "1251487750978768897",
