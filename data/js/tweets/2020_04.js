@@ -1,6 +1,130 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 19 10:46:06 +0000 2020",
+		"id": 1251816827878965200,
+		"id_str": "1251824386945892352",
+		"full_text": "I don't usually ask for retweets but here we are.\nIf you know a QLD Maths teacher please retweet this at them. I'd love to share it with as many as possible.\nhttps://t.co/q0bdPVoHB7\nThere's 400 videos here covering General, Methods &amp; Specialist Maths syllabus. #aussieED",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aussieED",
+					"indices": [
+						265,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q0bdPVoHB7",
+					"expanded_url": "https://mathsvideosaustralia.com/",
+					"display_url": "mathsvideosaustralia.com",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 469805226,
+			"id_str": "469805226",
+			"name": "Joel Speranza",
+			"screen_name": "JoelBSperanza",
+			"location": "Brisbane, Queensland",
+			"description": "Technology Coach | Head of Mathematics | Blended Learning | Maths Video Guy | #MIEexpert | Blog: https://t.co/P65koyRUbG",
+			"url": "https://t.co/2L4MeOwjCo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2L4MeOwjCo",
+							"expanded_url": "https://mathsvideosaustralia.com/",
+							"display_url": "mathsvideosaustralia.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P65koyRUbG",
+							"expanded_url": "http://joelsperanza.com",
+							"display_url": "joelsperanza.com",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5677,
+			"friends_count": 1353,
+			"listed_count": 151,
+			"created_at": "Sat Jan 21 00:48:24 +0000 2012",
+			"favourites_count": 3190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/718765655554535424/o3Ro6ACq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/718765655554535424/o3Ro6ACq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/469805226/1587198329",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I don't usually ask for retweets but here we are.\nIf you know a QLD Maths teacher please retweet this at them. I'd love to share it with as many as possible.\nhttps://t.co/q0bdPVoHB7\nThere's 400 videos here covering General, Methods &amp; Specialist Maths syllabus. #aussieED"
+	},
+	{
 		"created_at": "Sun Apr 19 04:46:39 +0000 2020",
 		"id": 1251733928504889300,
 		"id_str": "1251733928504889344",
