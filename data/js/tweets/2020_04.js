@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 25 12:07:21 +0000 2020",
+		"id": 1254019162864644000,
+		"id_str": "1254019162864644096",
+		"full_text": "Silver lining of the current crisis has been working more closely with my daughter as she learns from home. One thing I have been trying to encourage is experimentation. One interest has been cooking. She decided to make a batch of ANZAC cookies to make sense of social distancing https://t.co/kJYFlpqVxx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1254018442354557000,
+					"id_str": "1254018442354556928",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EWcrIRZVAAAXei2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWcrIRZVAAAXei2.jpg",
+					"url": "https://t.co/kJYFlpqVxx",
+					"display_url": "pic.twitter.com/kJYFlpqVxx",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/1254019162864644096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1254018442354557000,
+					"id_str": "1254018442354556928",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EWcrIRZVAAAXei2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWcrIRZVAAAXei2.jpg",
+					"url": "https://t.co/kJYFlpqVxx",
+					"display_url": "pic.twitter.com/kJYFlpqVxx",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/1254019162864644096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1254018443637977000,
+					"id_str": "1254018443637977088",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EWcrIWLUcAAJ2FM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWcrIWLUcAAJ2FM.jpg",
+					"url": "https://t.co/kJYFlpqVxx",
+					"display_url": "pic.twitter.com/kJYFlpqVxx",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/1254019162864644096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1254018444749443000,
+					"id_str": "1254018444749443073",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EWcrIaUUEAEIp2p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWcrIaUUEAEIp2p.jpg",
+					"url": "https://t.co/kJYFlpqVxx",
+					"display_url": "pic.twitter.com/kJYFlpqVxx",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/1254019162864644096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1254018446125265000,
+					"id_str": "1254018446125264897",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EWcrIfcVcAEi8dg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWcrIfcVcAEi8dg.jpg",
+					"url": "https://t.co/kJYFlpqVxx",
+					"display_url": "pic.twitter.com/kJYFlpqVxx",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/1254019162864644096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4236,
+			"friends_count": 988,
+			"listed_count": 364,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Silver lining of the current crisis has been working more closely with my daughter as she learns from home. One thing I have been trying to encourage is experimentation. One interest has been cooking. She decided to make a batch of ANZAC cookies to make sense of social distancing https://t.co/kJYFlpqVxx"
+	},
+	{
 		"created_at": "Fri Apr 24 22:40:03 +0000 2020",
 		"id": 1253816000505507800,
 		"id_str": "1253816000505507840",
