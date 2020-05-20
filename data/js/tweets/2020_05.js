@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 20 11:00:20 +0000 2020",
+		"id": 1263061995479130000,
+		"id_str": "1263061995479130112",
+		"full_text": "What makes sense of paper, does not always make sense in practice. https://t.co/oQ4JHgXVkA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oQ4JHgXVkA",
+					"expanded_url": "https://twitter.com/BenjaminMillar/status/1262968802750476289",
+					"display_url": "twitter.com/BenjaminMillar…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4235,
+			"friends_count": 990,
+			"listed_count": 358,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1262968802750476300,
+		"quoted_status_id_str": "1262968802750476289",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oQ4JHgXVkA",
+			"expanded": "https://twitter.com/BenjaminMillar/status/1262968802750476289",
+			"display": "twitter.com/BenjaminMillar…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 20 04:50:02 +0000 2020",
+			"id": 1262968802750476300,
+			"id_str": "1262968802750476289",
+			"full_text": "Just received the details on how school drop-off and pick-up are going to operate from next week... https://t.co/3I65N5lFTH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				99
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1262968622340866000,
+						"id_str": "1262968622340866050",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/EYb3RUEXgAIgwnU.png",
+						"media_url_https": "https://pbs.twimg.com/media/EYb3RUEXgAIgwnU.png",
+						"url": "https://t.co/3I65N5lFTH",
+						"display_url": "pic.twitter.com/3I65N5lFTH",
+						"expanded_url": "https://twitter.com/BenjaminMillar/status/1262968802750476289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 885,
+								"h": 749,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 885,
+								"h": 749,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 576,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1262968622340866000,
+						"id_str": "1262968622340866050",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/EYb3RUEXgAIgwnU.png",
+						"media_url_https": "https://pbs.twimg.com/media/EYb3RUEXgAIgwnU.png",
+						"url": "https://t.co/3I65N5lFTH",
+						"display_url": "pic.twitter.com/3I65N5lFTH",
+						"expanded_url": "https://twitter.com/BenjaminMillar/status/1262968802750476289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 885,
+								"h": 749,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 885,
+								"h": 749,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 576,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 138407957,
+				"id_str": "138407957",
+				"name": "Benjamin Millar",
+				"screen_name": "BenjaminMillar",
+				"location": "Melburbia",
+				"description": "Word wranglist hither/thither | Westside chronicler | Smiling politely",
+				"url": "https://t.co/igk1pifN2d",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/igk1pifN2d",
+								"expanded_url": "http://medium.com/@millar.benjamin",
+								"display_url": "medium.com/@millar.benjam…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5969,
+				"friends_count": 1526,
+				"listed_count": 72,
+				"created_at": "Thu Apr 29 13:24:18 +0000 2010",
+				"favourites_count": 16944,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 23180,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1201770824933330945/asVr1Z_N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201770824933330945/asVr1Z_N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/138407957/1522286646",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 54,
+			"favorite_count": 316,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What makes sense of paper, does not always make sense in practice. https://t.co/oQ4JHgXVkA"
+	},
+	{
 		"created_at": "Wed May 20 03:52:22 +0000 2020",
 		"id": 1262954291658186800,
 		"id_str": "1262954291658186752",
