@@ -1,6 +1,126 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 21 22:11:50 +0000 2020",
+		"id": 1263584011105910800,
+		"id_str": "1263593369634172928",
+		"full_text": "Any primary STEM or other specialist teachers out there got thoughts on how your program will adapt to the new normal from Monday? @DETVic info discourages use of shared materials - and rightly so. STEM learning in schools relies on this though. Share ideas! #vicpln #STEMed",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "vicpln",
+					"indices": [
+						259,
+						266
+					]
+				},
+				{
+					"text": "STEMed",
+					"indices": [
+						267,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DETVic",
+					"name": "DET",
+					"id": 53256542,
+					"id_str": "53256542",
+					"indices": [
+						131,
+						138
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21286176,
+			"id_str": "21286176",
+			"name": "Rick Kayler-Thomson",
+			"screen_name": "rakt",
+			"location": "Bellarine Peninsula, Australia",
+			"description": "A primary STEM teacher on the Bellarine Peninsula, Australia. 1 of '2 Regular Teachers' podcast. Bellarine resident. All views are my own.",
+			"url": "https://t.co/nJLvK0r7mR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nJLvK0r7mR",
+							"expanded_url": "http://2regularteachers.global2.vic.edu.au/",
+							"display_url": "2regularteachers.global2.vic.edu.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1292,
+			"friends_count": 527,
+			"listed_count": 47,
+			"created_at": "Thu Feb 19 09:37:33 +0000 2009",
+			"favourites_count": 1113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1128723646/jan09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128723646/jan09_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Any primary STEM or other specialist teachers out there got thoughts on how your program will adapt to the new normal from Monday? @DETVic info discourages use of shared materials - and rightly so. STEM learning in schools relies on this though. Share ideas! #vicpln #STEMed"
+	},
+	{
 		"created_at": "Thu May 21 11:38:08 +0000 2020",
 		"id": 1263433893748736000,
 		"id_str": "1263433893748736000",
