@@ -1,6 +1,153 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 31 12:24:47 +0000 2020",
+		"id": 1267069512966238200,
+		"id_str": "1267069512966238215",
+		"full_text": "@AnnabelAstbury I agree with @TheRenza with We're All In This Together by @benleemusic https://t.co/sgYnXoLOA2",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnnabelAstbury",
+					"name": "Annabel Astbury 💯",
+					"id": 14833053,
+					"id_str": "14833053",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "TheRenza",
+					"name": "Dr LindaLoRenza PhD🌈",
+					"id": 33779659,
+					"id_str": "33779659",
+					"indices": [
+						29,
+						38
+					]
+				},
+				{
+					"screen_name": "benleemusic",
+					"name": "Ben Lee",
+					"id": 146618868,
+					"id_str": "146618868",
+					"indices": [
+						74,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sgYnXoLOA2",
+					"expanded_url": "https://www.youtube.com/watch?v=wKnGem7P-ug",
+					"display_url": "youtube.com/watch?v=wKnGem…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1267043678352052200,
+		"in_reply_to_status_id_str": "1267043678352052224",
+		"in_reply_to_user_id": 14833053,
+		"in_reply_to_user_id_str": "14833053",
+		"in_reply_to_screen_name": "AnnabelAstbury",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4225,
+			"friends_count": 990,
+			"listed_count": 357,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@AnnabelAstbury I agree with @TheRenza with We're All In This Together by @benleemusic https://t.co/sgYnXoLOA2"
+	},
+	{
 		"created_at": "Thu May 28 22:29:39 +0000 2020",
 		"id": 1266134569096372200,
 		"id_str": "1266134569096372224",
