@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 16 11:17:41 +0000 2020",
+		"id": 1272850834355712000,
+		"id_str": "1272850834355712003",
+		"full_text": "This is a useful provocation for thinking about the purpose behind strategies such as writer's notebook. https://t.co/WSWqumnxSh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WSWqumnxSh",
+					"expanded_url": "https://twitter.com/rissL/status/1272046160425783296",
+					"display_url": "twitter.com/rissL/status/1…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4216,
+			"friends_count": 989,
+			"listed_count": 357,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1272046160425783300,
+		"quoted_status_id_str": "1272046160425783296",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WSWqumnxSh",
+			"expanded": "https://twitter.com/rissL/status/1272046160425783296",
+			"display": "twitter.com/rissL/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 14 06:00:12 +0000 2020",
+			"id": 1272046160425783300,
+			"id_str": "1272046160425783296",
+			"full_text": "Writer's notebooks: 5 myths debunked.\nhttps://t.co/Sx7fgYsAbg\n#vicpln #leadingliteracy #ozengchat https://t.co/n5VjgOUPTt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "vicpln",
+						"indices": [
+							62,
+							69
+						]
+					},
+					{
+						"text": "leadingliteracy",
+						"indices": [
+							70,
+							86
+						]
+					},
+					{
+						"text": "ozengchat",
+						"indices": [
+							87,
+							97
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Sx7fgYsAbg",
+						"expanded_url": "https://www.ozlitteacher.com.au/2020/06/14/writers-notebook-5-myths-to-debunk/",
+						"display_url": "ozlitteacher.com.au/2020/06/14/wri…",
+						"indices": [
+							38,
+							61
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1272046130113597400,
+						"id_str": "1272046130113597440",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/Eac3NztU0AABfts.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eac3NztU0AABfts.jpg",
+						"url": "https://t.co/n5VjgOUPTt",
+						"display_url": "pic.twitter.com/n5VjgOUPTt",
+						"expanded_url": "https://twitter.com/rissL/status/1272046160425783296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 375,
+								"h": 211,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 375,
+								"h": 211,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 375,
+								"h": 211,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1272046130113597400,
+						"id_str": "1272046130113597440",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/Eac3NztU0AABfts.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eac3NztU0AABfts.jpg",
+						"url": "https://t.co/n5VjgOUPTt",
+						"display_url": "pic.twitter.com/n5VjgOUPTt",
+						"expanded_url": "https://twitter.com/rissL/status/1272046160425783296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 375,
+								"h": 211,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 375,
+								"h": 211,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 375,
+								"h": 211,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16400158,
+				"id_str": "16400158",
+				"name": "Narissa Leung",
+				"screen_name": "rissL",
+				"location": "Victoria, Australia",
+				"description": "Oz Lit Teacher Education Consultant. Passionate about improving teaching and learning for all students. #becurious #bebrilliant #bethechange",
+				"url": "https://t.co/G1LEQE802V",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/G1LEQE802V",
+								"expanded_url": "http://ozlitteacher.com.au",
+								"display_url": "ozlitteacher.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2569,
+				"friends_count": 1673,
+				"listed_count": 96,
+				"created_at": "Mon Sep 22 05:19:13 +0000 2008",
+				"favourites_count": 2995,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4332,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1267298283120021504/1ZPNqhIX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267298283120021504/1ZPNqhIX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16400158/1591749147",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a useful provocation for thinking about the purpose behind strategies such as writer's notebook. https://t.co/WSWqumnxSh"
+	},
+	{
 		"created_at": "Sun Jun 14 22:21:34 +0000 2020",
 		"id": 1272293126804136000,
 		"id_str": "1272293126804135936",
