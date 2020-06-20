@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 20 12:01:56 +0000 2020",
+		"id": 1274311520122372000,
+		"id_str": "1274311520122372096",
+		"full_text": "Another option for online learning. https://t.co/h6LaQnGL3k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h6LaQnGL3k",
+					"expanded_url": "https://twitter.com/gcieducation/status/1273421780858753026",
+					"display_url": "twitter.com/gcieducation/s…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4216,
+			"friends_count": 988,
+			"listed_count": 357,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1273421780858753000,
+		"quoted_status_id_str": "1273421780858753026",
+		"quoted_status_permalink": {
+			"url": "https://t.co/h6LaQnGL3k",
+			"expanded": "https://twitter.com/gcieducation/status/1273421780858753026",
+			"display": "twitter.com/gcieducation/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 18 01:06:26 +0000 2020",
+			"id": 1273421780858753000,
+			"id_str": "1273421780858753026",
+			"full_text": "Summer learning plans? Our #online open-enrolment #coaching training programs start Mon June 29 4.30pm CST (US) #educoach \nTake your #InstructionalCoaching further by developing your #coachingskills &amp; #coachingwayofbeing. \nFind out more here: https://t.co/GYxuQ5akXG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "online",
+						"indices": [
+							27,
+							34
+						]
+					},
+					{
+						"text": "coaching",
+						"indices": [
+							50,
+							59
+						]
+					},
+					{
+						"text": "educoach",
+						"indices": [
+							112,
+							121
+						]
+					},
+					{
+						"text": "InstructionalCoaching",
+						"indices": [
+							133,
+							155
+						]
+					},
+					{
+						"text": "coachingskills",
+						"indices": [
+							183,
+							198
+						]
+					},
+					{
+						"text": "coachingwayofbeing",
+						"indices": [
+							205,
+							224
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GYxuQ5akXG",
+						"expanded_url": "https://www.growthcoaching.com.au/gci-online",
+						"display_url": "growthcoaching.com.au/gci-online",
+						"indices": [
+							247,
+							270
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 140600624,
+				"id_str": "140600624",
+				"name": "Growth Coaching International",
+				"screen_name": "gcieducation",
+				"location": "Global",
+				"description": "Enhancing the quality of conversations in education communities. World-leading training, coaching & consulting services for educators. #coaching #curiousconvos",
+				"url": "https://t.co/I728GFfpzI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/I728GFfpzI",
+								"expanded_url": "http://www.growthcoaching.com.au",
+								"display_url": "growthcoaching.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5785,
+				"friends_count": 2109,
+				"listed_count": 65,
+				"created_at": "Wed May 05 23:10:56 +0000 2010",
+				"favourites_count": 4013,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3502,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EF792F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1011085469738663936/Ro1JvmHP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011085469738663936/Ro1JvmHP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/140600624/1485494093",
+				"profile_link_color": "EF792F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Another option for online learning. https://t.co/h6LaQnGL3k"
+	},
+	{
 		"created_at": "Sat Jun 20 10:24:18 +0000 2020",
 		"id": 1274286948715241500,
 		"id_str": "1274286948715241473",
