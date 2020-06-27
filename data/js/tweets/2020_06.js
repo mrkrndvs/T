@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 27 20:32:07 +0000 2020",
+		"id": 1276976626681536500,
+		"id_str": "1276976626681536512",
+		"full_text": "Signed up for @WeAreOpenCoop email-based course on virtual meetings. Looking forward to the rest of the skills unpacked. https://t.co/YbnGBz2AVj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WeAreOpenCoop",
+					"name": "We Are Open Co-op",
+					"id": 722443103613939700,
+					"id_str": "722443103613939713",
+					"indices": [
+						14,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YbnGBz2AVj",
+					"expanded_url": "https://twitter.com/WeAreOpenCoop/status/1276511709574975489",
+					"display_url": "twitter.com/WeAreOpenCoop/…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4211,
+			"friends_count": 988,
+			"listed_count": 357,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1276511709574975500,
+		"quoted_status_id_str": "1276511709574975489",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YbnGBz2AVj",
+			"expanded": "https://twitter.com/WeAreOpenCoop/status/1276511709574975489",
+			"display": "twitter.com/WeAreOpenCoop/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 26 13:44:42 +0000 2020",
+			"id": 1276511709574975500,
+			"id_str": "1276511709574975489",
+			"full_text": "*New!* free emai-based course:\n\nThe 7 Habits of Highly Effective Virtual Meetings\n\nhttps://t.co/Ttvn19hU8H\n\n@creativecommons-licensed ready for you to reuse and remix! https://t.co/4NxUGsHUeg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				167
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "creativecommons",
+						"name": "Creative Commons",
+						"id": 17462723,
+						"id_str": "17462723",
+						"indices": [
+							108,
+							124
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Ttvn19hU8H",
+						"expanded_url": "https://bit.ly/3i90Vvw",
+						"display_url": "bit.ly/3i90Vvw",
+						"indices": [
+							83,
+							106
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1276511649499938800,
+						"id_str": "1276511649499938817",
+						"indices": [
+							168,
+							191
+						],
+						"media_url": "http://pbs.twimg.com/media/EbcUlPwXgAEKLiY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbcUlPwXgAEKLiY.jpg",
+						"url": "https://t.co/4NxUGsHUeg",
+						"display_url": "pic.twitter.com/4NxUGsHUeg",
+						"expanded_url": "https://twitter.com/WeAreOpenCoop/status/1276511709574975489/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 544,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1279,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 959,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1276511649499938800,
+						"id_str": "1276511649499938817",
+						"indices": [
+							168,
+							191
+						],
+						"media_url": "http://pbs.twimg.com/media/EbcUlPwXgAEKLiY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbcUlPwXgAEKLiY.jpg",
+						"url": "https://t.co/4NxUGsHUeg",
+						"display_url": "pic.twitter.com/4NxUGsHUeg",
+						"expanded_url": "https://twitter.com/WeAreOpenCoop/status/1276511709574975489/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 544,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1279,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 959,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 722443103613939700,
+				"id_str": "722443103613939713",
+				"name": "We Are Open Co-op",
+				"screen_name": "WeAreOpenCoop",
+				"location": "",
+				"description": "We work to spread the culture, processes & benefits of open wherever we can. DM to join our slack channel!",
+				"url": "https://t.co/FZsUz9Hwf4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FZsUz9Hwf4",
+								"expanded_url": "http://weareopen.coop",
+								"display_url": "weareopen.coop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1087,
+				"friends_count": 9,
+				"listed_count": 69,
+				"created_at": "Tue Apr 19 15:13:53 +0000 2016",
+				"favourites_count": 83,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 679,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1017696200781426688/XA0aBTxe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017696200781426688/XA0aBTxe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/722443103613939713/1531473059",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Signed up for @WeAreOpenCoop email-based course on virtual meetings. Looking forward to the rest of the skills unpacked. https://t.co/YbnGBz2AVj"
+	},
+	{
 		"created_at": "Sat Jun 27 10:58:18 +0000 2020",
 		"id": 1276832219265302500,
 		"id_str": "1276832219265302531",
