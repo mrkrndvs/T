@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 30 11:24:29 +0000 2020",
+		"id": 1277925974080798700,
+		"id_str": "1277925974080798728",
+		"full_text": "@benlcollins @david_perell Thank you Ben for the recommendation. Not sure what a 'Type 2' Ben Collins course would look like. Maybe it'd be about bringing your own problem?\n\nYou might be interested in @jondron and @terguy book Teaching Crowds. I discussed it here https://t.co/NTVfQEO0Wx",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			287
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "david_perell",
+					"name": "David Perell",
+					"id": 240049622,
+					"id_str": "240049622",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "jondron",
+					"name": "Jon Dron",
+					"id": 1258181,
+					"id_str": "1258181",
+					"indices": [
+						201,
+						209
+					]
+				},
+				{
+					"screen_name": "terguy",
+					"name": "Terry Anderson",
+					"id": 19681352,
+					"id_str": "19681352",
+					"indices": [
+						214,
+						221
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NTVfQEO0Wx",
+					"expanded_url": "https://readwriterespond.com/2016/09/communities-networks-connected-learning-google/",
+					"display_url": "readwriterespond.com/2016/09/commun…",
+					"indices": [
+						264,
+						287
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1276980498129092600,
+		"in_reply_to_status_id_str": "1276980498129092608",
+		"in_reply_to_user_id": 19338407,
+		"in_reply_to_user_id_str": "19338407",
+		"in_reply_to_screen_name": "benlcollins",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4211,
+			"friends_count": 988,
+			"listed_count": 357,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@benlcollins @david_perell Thank you Ben for the recommendation. Not sure what a 'Type 2' Ben Collins course would look like. Maybe it'd be about bringing your own problem?\n\nYou might be interested in @jondron and @terguy book Teaching Crowds. I discussed it here https://t.co/NTVfQEO0Wx"
+	},
+	{
 		"created_at": "Mon Jun 29 22:28:02 +0000 2020",
 		"id": 1277730572043870200,
 		"id_str": "1277730572043870208",
