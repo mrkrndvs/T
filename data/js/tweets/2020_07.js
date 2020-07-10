@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 10 00:41:13 +0000 2020",
+		"id": 1281387970713411600,
+		"id_str": "1281387970713411585",
+		"full_text": "@ictguy @IaninSheffield Hafez seems to be another addition to the coding vs poetry debate https://t.co/TcPu5WDE8c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ictguy",
+					"name": "Darrel Branson",
+					"id": 12764352,
+					"id_str": "12764352",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "IaninSheffield",
+					"name": "Ian Guest",
+					"id": 21324520,
+					"id_str": "21324520",
+					"indices": [
+						8,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TcPu5WDE8c",
+					"expanded_url": "https://twitter.com/pomeranian99/status/1281055254344355841",
+					"display_url": "twitter.com/pomeranian99/s…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 12764352,
+		"in_reply_to_user_id_str": "12764352",
+		"in_reply_to_screen_name": "ictguy",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4202,
+			"friends_count": 988,
+			"listed_count": 357,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1281055254344355800,
+		"quoted_status_id_str": "1281055254344355841",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TcPu5WDE8c",
+			"expanded": "https://twitter.com/pomeranian99/status/1281055254344355841",
+			"display": "twitter.com/pomeranian99/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 09 02:39:08 +0000 2020",
+			"id": 1281055254344355800,
+			"id_str": "1281055254344355841",
+			"full_text": "Behold \"Hafez\", a very cool program for generating poems with rhyme and iambs: https://t.co/BsYNdhYCfa (via @siddhss5) https://t.co/g1NPw5sRhb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "siddhss5",
+						"name": "Siddhartha Srinivasa",
+						"id": 14342052,
+						"id_str": "14342052",
+						"indices": [
+							108,
+							117
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BsYNdhYCfa",
+						"expanded_url": "https://homes.cs.washington.edu/~yejin/Papers/emnlp16_sonnet.pdf",
+						"display_url": "homes.cs.washington.edu/~yejin/Papers/…",
+						"indices": [
+							79,
+							102
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1281055234425598000,
+						"id_str": "1281055234425597957",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/media/Ecc48smXsAUIiNV.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ecc48smXsAUIiNV.png",
+						"url": "https://t.co/g1NPw5sRhb",
+						"display_url": "pic.twitter.com/g1NPw5sRhb",
+						"expanded_url": "https://twitter.com/pomeranian99/status/1281055254344355841/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 630,
+								"h": 1082,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 630,
+								"h": 1082,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 396,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1281055234425598000,
+						"id_str": "1281055234425597957",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/media/Ecc48smXsAUIiNV.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ecc48smXsAUIiNV.png",
+						"url": "https://t.co/g1NPw5sRhb",
+						"display_url": "pic.twitter.com/g1NPw5sRhb",
+						"expanded_url": "https://twitter.com/pomeranian99/status/1281055254344355841/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 630,
+								"h": 1082,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 630,
+								"h": 1082,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 396,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 661403,
+				"id_str": "661403",
+				"name": "Clive Thompson",
+				"screen_name": "pomeranian99",
+				"location": "New York, NY",
+				"description": "My new book is \"Coders: The Making of a New Tribe and the Remaking of the World\", out NOW 📖📖 https://t.co/8nNlveL5RZ Also: NYT mag, Wired",
+				"url": "https://t.co/XCtGwciYXe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XCtGwciYXe",
+								"expanded_url": "http://www.clivethompson.net",
+								"display_url": "clivethompson.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/8nNlveL5RZ",
+								"expanded_url": "http://amzn.to/2VX1qxC",
+								"display_url": "amzn.to/2VX1qxC",
+								"indices": [
+									93,
+									116
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 39026,
+				"friends_count": 2284,
+				"listed_count": 1929,
+				"created_at": "Thu Jan 18 20:06:49 +0000 2007",
+				"favourites_count": 50794,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 56949,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000407595163/163d76384315dfd651daa13e44b724e4_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000407595163/163d76384315dfd651daa13e44b724e4_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/661403/1547568517",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ictguy @IaninSheffield Hafez seems to be another addition to the coding vs poetry debate https://t.co/TcPu5WDE8c"
+	},
+	{
 		"created_at": "Wed Jul 08 11:06:03 +0000 2020",
 		"id": 1280820436163375000,
 		"id_str": "1280820436163375104",
