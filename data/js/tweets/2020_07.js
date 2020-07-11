@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 11 11:56:51 +0000 2020",
+		"id": 1281920384032333800,
+		"id_str": "1281920384032333825",
+		"full_text": "Left feeling slightly envious of @dajbelshaw setup. Some of the prob I have is I share my space w/ others. Am also still working solely from my laptop. However, it occurred to me the diff was not setup, but rather uncertainty moving forward &amp; therefore my unwillingness to invest https://t.co/5niSDSOSx3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dajbelshaw",
+					"name": "˗ˏˋ Doug Belshaw ˎˊ˗ 🇪🇺☠️✊",
+					"id": 764365,
+					"id_str": "764365",
+					"indices": [
+						33,
+						44
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5niSDSOSx3",
+					"expanded_url": "https://twitter.com/dajbelshaw/status/1277883837788426242",
+					"display_url": "twitter.com/dajbelshaw/sta…",
+					"indices": [
+						284,
+						307
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4201,
+			"friends_count": 988,
+			"listed_count": 358,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1277883837788426200,
+		"quoted_status_id_str": "1277883837788426242",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5niSDSOSx3",
+			"expanded": "https://twitter.com/dajbelshaw/status/1277883837788426242",
+			"display": "twitter.com/dajbelshaw/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 30 08:37:03 +0000 2020",
+			"id": 1277883837788426200,
+			"id_str": "1277883837788426242",
+			"full_text": "A tour of my #realworldhomeoffice\n\nhttps://t.co/odjpi633qh https://t.co/gs2TGNEyFz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				58
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "realworldhomeoffice",
+						"indices": [
+							13,
+							33
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/odjpi633qh",
+						"expanded_url": "https://dougbelshaw.com/blog/2020/06/30/a-tour-of-my-realworldhomeoffice/",
+						"display_url": "dougbelshaw.com/blog/2020/06/3…",
+						"indices": [
+							35,
+							58
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1277883816821100500,
+						"id_str": "1277883816821100544",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/Ebv0j5XXkAAAa54.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ebv0j5XXkAAAa54.png",
+						"url": "https://t.co/gs2TGNEyFz",
+						"display_url": "pic.twitter.com/gs2TGNEyFz",
+						"expanded_url": "https://twitter.com/dajbelshaw/status/1277883837788426242/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 840,
+								"h": 472,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 840,
+								"h": 472,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1277883816821100500,
+						"id_str": "1277883816821100544",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/Ebv0j5XXkAAAa54.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ebv0j5XXkAAAa54.png",
+						"url": "https://t.co/gs2TGNEyFz",
+						"display_url": "pic.twitter.com/gs2TGNEyFz",
+						"expanded_url": "https://twitter.com/dajbelshaw/status/1277883837788426242/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 840,
+								"h": 472,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 840,
+								"h": 472,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 764365,
+				"id_str": "764365",
+				"name": "˗ˏˋ Doug Belshaw ˎˊ˗ 🇪🇺☠️✊",
+				"screen_name": "dajbelshaw",
+				"location": "Morpeth, England",
+				"description": "'Don't explain your philosophy. Embody it.' (Epictetus) | Member @WeAreOpenCoop | Aspiring Mountain Leader | Previously: @MoodleNet @Mozilla @Jisc Teacher/SLT",
+				"url": "https://t.co/7QshpQFsVg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7QshpQFsVg",
+								"expanded_url": "http://dougbelshaw.com",
+								"display_url": "dougbelshaw.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14508,
+				"friends_count": 4588,
+				"listed_count": 1140,
+				"created_at": "Sun Feb 11 10:23:13 +0000 2007",
+				"favourites_count": 26309,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1582,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1260839924011581445/f6svHflB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260839924011581445/f6svHflB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/764365/1594319231",
+				"profile_link_color": "2C3444",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Left feeling slightly envious of @dajbelshaw setup. Some of the prob I have is I share my space w/ others. Am also still working solely from my laptop. However, it occurred to me the diff was not setup, but rather uncertainty moving forward &amp; therefore my unwillingness to invest https://t.co/5niSDSOSx3"
+	},
+	{
 		"created_at": "Sat Jul 11 02:28:23 +0000 2020",
 		"id": 1281777326020149200,
 		"id_str": "1281777326020149248",
