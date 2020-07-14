@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 14 12:01:46 +0000 2020",
+		"id": 1283008788446933000,
+		"id_str": "1283008788446932994",
+		"full_text": "@ChrisAldrich @timmmmyboy @cathieleblanc @kartik_prabhu @caseorganic @rhiaro @jgmac1106 @wiobyrne @jimgroom @vboykis @kimberlyhirsh @johnjohnston @actualham @audreywatters @ken_bauer @willtmonroe @dr_jdean @xolotl @judell @AneliseHShrout @grabe Thank you @ChrisAldrich  for the invite, but 3:30 in the morning is a bit of a stretch. I am also really terrible at catch-ups and events. Sadly, much of my time on such tasks is stolen, rather than planned.",
+		"truncated": false,
+		"display_text_range": [
+			245,
+			452
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisAldrich",
+					"name": "Chris Aldrich",
+					"id": 13645402,
+					"id_str": "13645402",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "timmmmyboy",
+					"name": "timmmmyboy",
+					"id": 1025923491495903200,
+					"id_str": "1025923491495903232",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "cathieleblanc",
+					"name": "Cathie LeBlanc",
+					"id": 16114199,
+					"id_str": "16114199",
+					"indices": [
+						26,
+						40
+					]
+				},
+				{
+					"screen_name": "kartik_prabhu",
+					"name": "Kartik Prabhu",
+					"id": 2255802320,
+					"id_str": "2255802320",
+					"indices": [
+						41,
+						55
+					]
+				},
+				{
+					"screen_name": "caseorganic",
+					"name": "Amber Case",
+					"id": 13860742,
+					"id_str": "13860742",
+					"indices": [
+						56,
+						68
+					]
+				},
+				{
+					"screen_name": "rhiaro",
+					"name": "rhiarobot",
+					"id": 20316218,
+					"id_str": "20316218",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"screen_name": "jgmac1106",
+					"name": "https://jgregorymcverry.com",
+					"id": 27620289,
+					"id_str": "27620289",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"screen_name": "wiobyrne",
+					"name": "Ian O'Byrne",
+					"id": 88676762,
+					"id_str": "88676762",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"screen_name": "vboykis",
+					"name": "Vicki Boykis",
+					"id": 19304217,
+					"id_str": "19304217",
+					"indices": [
+						108,
+						116
+					]
+				},
+				{
+					"screen_name": "kimberlyhirsh",
+					"name": "Kimberly Hirsh, Future Library Doctor",
+					"id": 17718516,
+					"id_str": "17718516",
+					"indices": [
+						117,
+						131
+					]
+				},
+				{
+					"screen_name": "johnjohnston",
+					"name": "john johnston",
+					"id": 7484192,
+					"id_str": "7484192",
+					"indices": [
+						132,
+						145
+					]
+				},
+				{
+					"screen_name": "actualham",
+					"name": "Robin DeRosa",
+					"id": 2182862052,
+					"id_str": "2182862052",
+					"indices": [
+						146,
+						156
+					]
+				},
+				{
+					"screen_name": "audreywatters",
+					"name": "Audrey Watters",
+					"id": 25388528,
+					"id_str": "25388528",
+					"indices": [
+						157,
+						171
+					]
+				},
+				{
+					"screen_name": "ken_bauer",
+					"name": "Ken Bauer Favel",
+					"id": 16033586,
+					"id_str": "16033586",
+					"indices": [
+						172,
+						182
+					]
+				},
+				{
+					"screen_name": "willtmonroe",
+					"name": "Will Monroe",
+					"id": 1227361081519001600,
+					"id_str": "1227361081519001600",
+					"indices": [
+						183,
+						195
+					]
+				},
+				{
+					"screen_name": "dr_jdean",
+					"name": "Dr. Dean is typing",
+					"id": 739521654,
+					"id_str": "739521654",
+					"indices": [
+						196,
+						205
+					]
+				},
+				{
+					"screen_name": "xolotl",
+					"name": "Nate Angell",
+					"id": 3775651,
+					"id_str": "3775651",
+					"indices": [
+						206,
+						213
+					]
+				},
+				{
+					"screen_name": "judell",
+					"name": "Jon Udell",
+					"id": 2937071,
+					"id_str": "2937071",
+					"indices": [
+						214,
+						221
+					]
+				},
+				{
+					"screen_name": "AneliseHShrout",
+					"name": "Dr. Anelise Hanson Shrout",
+					"id": 1142871446,
+					"id_str": "1142871446",
+					"indices": [
+						222,
+						237
+					]
+				},
+				{
+					"screen_name": "grabe",
+					"name": "grabe",
+					"id": 14868654,
+					"id_str": "14868654",
+					"indices": [
+						238,
+						244
+					]
+				},
+				{
+					"screen_name": "ChrisAldrich",
+					"name": "Chris Aldrich",
+					"id": 13645402,
+					"id_str": "13645402",
+					"indices": [
+						255,
+						268
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1282766926444261400,
+		"in_reply_to_status_id_str": "1282766926444261376",
+		"in_reply_to_user_id": 13645402,
+		"in_reply_to_user_id_str": "13645402",
+		"in_reply_to_screen_name": "ChrisAldrich",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4202,
+			"friends_count": 988,
+			"listed_count": 358,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ChrisAldrich @timmmmyboy @cathieleblanc @kartik_prabhu @caseorganic @rhiaro @jgmac1106 @wiobyrne @jimgroom @vboykis @kimberlyhirsh @johnjohnston @actualham @audreywatters @ken_bauer @willtmonroe @dr_jdean @xolotl @judell @AneliseHShrout @grabe Thank you @ChrisAldrich  for the invite, but 3:30 in the morning is a bit of a stretch. I am also really terrible at catch-ups and events. Sadly, much of my time on such tasks is stolen, rather than planned."
+	},
+	{
 		"created_at": "Sat Jul 11 22:22:32 +0000 2020",
 		"id": 1282077844227543000,
 		"id_str": "1282077844227543040",
