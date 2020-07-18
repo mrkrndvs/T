@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 18 23:13:55 +0000 2020",
+		"id": 1284627491617820700,
+		"id_str": "1284627491617820672",
+		"full_text": "@xolotl @ChrisAldrich @timmmmyboy @cathieleblanc @kartik_prabhu @caseorganic @rhiaro @jgmac1106 @wiobyrne @jimgroom @vboykis @kimberlyhirsh @johnjohnston @actualham @audreywatters @ken_bauer @willtmonroe @dr_jdean @judell @AneliseHShrout @grabe I didn't even touch on stealing other people's time https://t.co/3fKBHGFv9v or the challenge of space as @ChrisAldrich has touched on elsewhere https://t.co/qqRvx1EO61 \n\nI guess in the in the end these things are always complicated. Important, but complicated.",
+		"truncated": false,
+		"display_text_range": [
+			245,
+			505
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xolotl",
+					"name": "Nate Angell",
+					"id": 3775651,
+					"id_str": "3775651",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "ChrisAldrich",
+					"name": "Chris Aldrich",
+					"id": 13645402,
+					"id_str": "13645402",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"screen_name": "timmmmyboy",
+					"name": "timmmmyboy",
+					"id": 1025923491495903200,
+					"id_str": "1025923491495903232",
+					"indices": [
+						22,
+						33
+					]
+				},
+				{
+					"screen_name": "cathieleblanc",
+					"name": "Cathie LeBlanc",
+					"id": 16114199,
+					"id_str": "16114199",
+					"indices": [
+						34,
+						48
+					]
+				},
+				{
+					"screen_name": "kartik_prabhu",
+					"name": "Kartik Prabhu",
+					"id": 2255802320,
+					"id_str": "2255802320",
+					"indices": [
+						49,
+						63
+					]
+				},
+				{
+					"screen_name": "caseorganic",
+					"name": "Amber Case",
+					"id": 13860742,
+					"id_str": "13860742",
+					"indices": [
+						64,
+						76
+					]
+				},
+				{
+					"screen_name": "rhiaro",
+					"name": "rhiarobot",
+					"id": 20316218,
+					"id_str": "20316218",
+					"indices": [
+						77,
+						84
+					]
+				},
+				{
+					"screen_name": "jgmac1106",
+					"name": "https://jgregorymcverry.com",
+					"id": 27620289,
+					"id_str": "27620289",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"screen_name": "wiobyrne",
+					"name": "Ian O'Byrne",
+					"id": 88676762,
+					"id_str": "88676762",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						106,
+						115
+					]
+				},
+				{
+					"screen_name": "vboykis",
+					"name": "Vicki Boykis",
+					"id": 19304217,
+					"id_str": "19304217",
+					"indices": [
+						116,
+						124
+					]
+				},
+				{
+					"screen_name": "kimberlyhirsh",
+					"name": "Kimberly Hirsh, Future Library Doctor",
+					"id": 17718516,
+					"id_str": "17718516",
+					"indices": [
+						125,
+						139
+					]
+				},
+				{
+					"screen_name": "johnjohnston",
+					"name": "john johnston",
+					"id": 7484192,
+					"id_str": "7484192",
+					"indices": [
+						140,
+						153
+					]
+				},
+				{
+					"screen_name": "actualham",
+					"name": "Robin DeRosa",
+					"id": 2182862052,
+					"id_str": "2182862052",
+					"indices": [
+						154,
+						164
+					]
+				},
+				{
+					"screen_name": "audreywatters",
+					"name": "Audrey Watters",
+					"id": 25388528,
+					"id_str": "25388528",
+					"indices": [
+						165,
+						179
+					]
+				},
+				{
+					"screen_name": "ken_bauer",
+					"name": "Ken Bauer Favel",
+					"id": 16033586,
+					"id_str": "16033586",
+					"indices": [
+						180,
+						190
+					]
+				},
+				{
+					"screen_name": "willtmonroe",
+					"name": "Will Monroe",
+					"id": 1227361081519001600,
+					"id_str": "1227361081519001600",
+					"indices": [
+						191,
+						203
+					]
+				},
+				{
+					"screen_name": "dr_jdean",
+					"name": "Dr. Dean is typing",
+					"id": 739521654,
+					"id_str": "739521654",
+					"indices": [
+						204,
+						213
+					]
+				},
+				{
+					"screen_name": "judell",
+					"name": "Jon Udell",
+					"id": 2937071,
+					"id_str": "2937071",
+					"indices": [
+						214,
+						221
+					]
+				},
+				{
+					"screen_name": "AneliseHShrout",
+					"name": "Dr. Anelise Hanson Shrout",
+					"id": 1142871446,
+					"id_str": "1142871446",
+					"indices": [
+						222,
+						237
+					]
+				},
+				{
+					"screen_name": "grabe",
+					"name": "grabe",
+					"id": 14868654,
+					"id_str": "14868654",
+					"indices": [
+						238,
+						244
+					]
+				},
+				{
+					"screen_name": "ChrisAldrich",
+					"name": "Chris Aldrich",
+					"id": 13645402,
+					"id_str": "13645402",
+					"indices": [
+						350,
+						363
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3fKBHGFv9v",
+					"expanded_url": "https://readwriterespond.com/2018/04/support-networks/",
+					"display_url": "readwriterespond.com/2018/04/suppor…",
+					"indices": [
+						297,
+						320
+					]
+				},
+				{
+					"url": "https://t.co/qqRvx1EO61",
+					"expanded_url": "https://boffosocko.com/2020/05/11/background-kate-bowles/",
+					"display_url": "boffosocko.com/2020/05/11/bac…",
+					"indices": [
+						389,
+						412
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1284521685333405700,
+		"in_reply_to_status_id_str": "1284521685333405697",
+		"in_reply_to_user_id": 3775651,
+		"in_reply_to_user_id_str": "3775651",
+		"in_reply_to_screen_name": "xolotl",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4198,
+			"friends_count": 987,
+			"listed_count": 356,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@xolotl @ChrisAldrich @timmmmyboy @cathieleblanc @kartik_prabhu @caseorganic @rhiaro @jgmac1106 @wiobyrne @jimgroom @vboykis @kimberlyhirsh @johnjohnston @actualham @audreywatters @ken_bauer @willtmonroe @dr_jdean @judell @AneliseHShrout @grabe I didn't even touch on stealing other people's time https://t.co/3fKBHGFv9v or the challenge of space as @ChrisAldrich has touched on elsewhere https://t.co/qqRvx1EO61 \n\nI guess in the in the end these things are always complicated. Important, but complicated."
+	},
+	{
 		"created_at": "Sat Jul 18 12:15:45 +0000 2020",
 		"id": 1284461858003529700,
 		"id_str": "1284461858003529728",
