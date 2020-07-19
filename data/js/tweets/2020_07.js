@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 19 08:22:07 +0000 2020",
+		"id": 1284765449935175700,
+		"id_str": "1284765449935175680",
+		"full_text": "I feel that Jacob Collier takes COVID performances to a whole new level. https://t.co/dwfE8yXg4b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dwfE8yXg4b",
+					"expanded_url": "https://twitter.com/jacobcollier/status/1281291216739602434",
+					"display_url": "twitter.com/jacobcollier/s…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4198,
+			"friends_count": 988,
+			"listed_count": 356,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1281291216739602400,
+		"quoted_status_id_str": "1281291216739602434",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dwfE8yXg4b",
+			"expanded": "https://twitter.com/jacobcollier/status/1281291216739602434",
+			"display": "twitter.com/jacobcollier/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 09 18:16:45 +0000 2020",
+			"id": 1281291216739602400,
+			"id_str": "1281291216739602434",
+			"full_text": "I did a Tiny Desk Concert from home!!! So much fun. Each Jacob was a full-length live take - it took 6 days of planning to pull it off. :-) (also featuring a new song – out at midnight!!) \n\nhttps://t.co/YDlMr8PxlZ https://t.co/GMVSevQpxM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				213
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YDlMr8PxlZ",
+						"expanded_url": "https://youtu.be/mJR6XSSKi-g",
+						"display_url": "youtu.be/mJR6XSSKi-g",
+						"indices": [
+							190,
+							213
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1281289889909297200,
+						"id_str": "1281289889909297153",
+						"indices": [
+							214,
+							237
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1281289889909297153/pu/img/TiAC4Cgw70iL0YAP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1281289889909297153/pu/img/TiAC4Cgw70iL0YAP.jpg",
+						"url": "https://t.co/GMVSevQpxM",
+						"display_url": "pic.twitter.com/GMVSevQpxM",
+						"expanded_url": "https://twitter.com/jacobcollier/status/1281291216739602434/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1281289889909297200,
+						"id_str": "1281289889909297153",
+						"indices": [
+							214,
+							237
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1281289889909297153/pu/img/TiAC4Cgw70iL0YAP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1281289889909297153/pu/img/TiAC4Cgw70iL0YAP.jpg",
+						"url": "https://t.co/GMVSevQpxM",
+						"display_url": "pic.twitter.com/GMVSevQpxM",
+						"expanded_url": "https://twitter.com/jacobcollier/status/1281291216739602434/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 55807,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1281289889909297153/pu/vid/480x270/AbD31eB9t3bJNA08.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1281289889909297153/pu/vid/960x540/AmajMfslt5jB53Ku.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1281289889909297153/pu/pl/K014hr-Gwh7uY7Ed.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1281289889909297153/pu/vid/640x360/lXl-3mhFACKehLeV.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1322735690,
+				"id_str": "1322735690",
+				"name": "Jacob Collier",
+				"screen_name": "jacobcollier",
+				"location": "London, England",
+				"description": "Quester of delicion and nutrition.",
+				"url": "https://t.co/26oVACWn3x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/26oVACWn3x",
+								"expanded_url": "https://youtu.be/mJR6XSSKi-g",
+								"display_url": "youtu.be/mJR6XSSKi-g",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 67018,
+				"friends_count": 402,
+				"listed_count": 312,
+				"created_at": "Tue Apr 02 15:41:27 +0000 2013",
+				"favourites_count": 4590,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4143,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1279911460110557185/biOywJU4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1279911460110557185/biOywJU4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1322735690/1594353386",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 543,
+			"favorite_count": 2974,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I feel that Jacob Collier takes COVID performances to a whole new level. https://t.co/dwfE8yXg4b"
+	},
+	{
 		"created_at": "Sun Jul 19 04:32:51 +0000 2020",
 		"id": 1284707753957535700,
 		"id_str": "1284707753957535744",
@@ -16,7 +353,7 @@ Grailbird.data.tweets_2020_07 =
 			"user_mentions": [
 				{
 					"screen_name": "MarkOMeara",
-					"name": "Mark O'Meara 👨‍🏫",
+					"name": "Mark O'Meara 👨🏫",
 					"id": 4269111,
 					"id_str": "4269111",
 					"indices": [
