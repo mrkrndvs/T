@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 25 11:34:03 +0000 2020",
+		"id": 1286988079182446600,
+		"id_str": "1286988079182446592",
+		"full_text": "@BronwynHinz First it was the ultra triple mega chocolate Easter machine cake https://t.co/DcCprnSgSv Now the Tim Tam cake decorated with KitKats. Browwyn, you do decadence well.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BronwynHinz",
+					"name": "Dr Bronwyn Hinz",
+					"id": 158879014,
+					"id_str": "158879014",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DcCprnSgSv",
+					"expanded_url": "https://twitter.com/BronwynHinz/status/1250244789162758144",
+					"display_url": "twitter.com/BronwynHinz/st…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1286648042376974300,
+		"in_reply_to_status_id_str": "1286648042376974337",
+		"in_reply_to_user_id": 158879014,
+		"in_reply_to_user_id_str": "158879014",
+		"in_reply_to_screen_name": "BronwynHinz",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4196,
+			"friends_count": 987,
+			"listed_count": 357,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1250244789162758100,
+		"quoted_status_id_str": "1250244789162758144",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DcCprnSgSv",
+			"expanded": "https://twitter.com/BronwynHinz/status/1250244789162758144",
+			"display": "twitter.com/BronwynHinz/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 15 02:09:20 +0000 2020",
+			"id": 1250244789162758100,
+			"id_str": "1250244789162758144",
+			"full_text": "Don’t like to blow my own trumpet, but my 6yo requested an “ultra triple mega chocolate Easter machine cake” for his birthday and I reckon I nailed it.  Birthday boy delighted. #CovidBirthday #isoparty https://t.co/FsKCsDatmn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				201
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CovidBirthday",
+						"indices": [
+							177,
+							191
+						]
+					},
+					{
+						"text": "isoparty",
+						"indices": [
+							192,
+							201
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1250244772045848600,
+						"id_str": "1250244772045848576",
+						"indices": [
+							202,
+							225
+						],
+						"media_url": "http://pbs.twimg.com/media/EVnC_wAVAAARlus.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVnC_wAVAAARlus.jpg",
+						"url": "https://t.co/FsKCsDatmn",
+						"display_url": "pic.twitter.com/FsKCsDatmn",
+						"expanded_url": "https://twitter.com/BronwynHinz/status/1250244789162758144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1250244772045848600,
+						"id_str": "1250244772045848576",
+						"indices": [
+							202,
+							225
+						],
+						"media_url": "http://pbs.twimg.com/media/EVnC_wAVAAARlus.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVnC_wAVAAARlus.jpg",
+						"url": "https://t.co/FsKCsDatmn",
+						"display_url": "pic.twitter.com/FsKCsDatmn",
+						"expanded_url": "https://twitter.com/BronwynHinz/status/1250244789162758144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1250244781067780000,
+						"id_str": "1250244781067780096",
+						"indices": [
+							202,
+							225
+						],
+						"media_url": "http://pbs.twimg.com/media/EVnDARnUwAA5lXt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVnDARnUwAA5lXt.jpg",
+						"url": "https://t.co/FsKCsDatmn",
+						"display_url": "pic.twitter.com/FsKCsDatmn",
+						"expanded_url": "https://twitter.com/BronwynHinz/status/1250244789162758144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 648,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1143,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1951,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 158879014,
+				"id_str": "158879014",
+				"name": "Dr Bronwyn Hinz",
+				"screen_name": "BronwynHinz",
+				"location": "Mostly Melbourne",
+				"description": "Passionate about learning. Nouser; Hon. Fellow @EduMelb @unimelb; Former Director of Research @Pivot_PL; mum; wife; bibliophile. Views my own. RT≠endorsement",
+				"url": "https://t.co/Dw4GoZZV0H",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Dw4GoZZV0H",
+								"expanded_url": "http://www.bronwynhinz.com",
+								"display_url": "bronwynhinz.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2606,
+				"friends_count": 1444,
+				"listed_count": 145,
+				"created_at": "Wed Jun 23 22:22:17 +0000 2010",
+				"favourites_count": 16930,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 35266,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1281568664056066048/KAS6XUQI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281568664056066048/KAS6XUQI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/158879014/1457690338",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BronwynHinz First it was the ultra triple mega chocolate Easter machine cake https://t.co/DcCprnSgSv Now the Tim Tam cake decorated with KitKats. Browwyn, you do decadence well."
+	},
+	{
 		"created_at": "Sat Jul 25 03:20:03 +0000 2020",
 		"id": 1286863756610289700,
 		"id_str": "1286863756610289665",
