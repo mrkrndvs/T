@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 28 21:40:08 +0000 2020",
+		"id": 1288227768082346000,
+		"id_str": "1288227768082345985",
+		"full_text": "I found it hard enough watching my mother pass and that was after having the opportunity to be there. However, I am not sure how I would have been without those opportunities and last words. It is an important issue, especially if a vaccine is not found. https://t.co/FfhkIxSrO6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FfhkIxSrO6",
+					"expanded_url": "https://twitter.com/zeynep/status/1281250690942357504",
+					"display_url": "twitter.com/zeynep/status/…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4195,
+			"friends_count": 987,
+			"listed_count": 357,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1281250690942357500,
+		"quoted_status_id_str": "1281250690942357504",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FfhkIxSrO6",
+			"expanded": "https://twitter.com/zeynep/status/1281250690942357504",
+			"display": "twitter.com/zeynep/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 09 15:35:43 +0000 2020",
+			"id": 1281250690942357500,
+			"id_str": "1281250690942357504",
+			"full_text": "When I lost my mother unexpectedly, our last conversation loomed large in my grief. Six months in, we still don't have our act together so that people do not face death alone. So many have been denied that last chance for closure. My new, anguished piece. https://t.co/XjvDcfhbo9 https://t.co/Ts8IzLYJZv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XjvDcfhbo9",
+						"expanded_url": "https://www.theatlantic.com/health/archive/2020/07/covid-dying-words/613951/",
+						"display_url": "theatlantic.com/health/archive…",
+						"indices": [
+							256,
+							279
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1281249262018465800,
+						"id_str": "1281249262018465794",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EcfpaltXkAI3OiW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcfpaltXkAI3OiW.jpg",
+						"url": "https://t.co/Ts8IzLYJZv",
+						"display_url": "pic.twitter.com/Ts8IzLYJZv",
+						"expanded_url": "https://twitter.com/zeynep/status/1281250690942357504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 784,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 444,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1426,
+								"h": 932,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1281249262018465800,
+						"id_str": "1281249262018465794",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EcfpaltXkAI3OiW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcfpaltXkAI3OiW.jpg",
+						"url": "https://t.co/Ts8IzLYJZv",
+						"display_url": "pic.twitter.com/Ts8IzLYJZv",
+						"expanded_url": "https://twitter.com/zeynep/status/1281250690942357504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 784,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 444,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1426,
+								"h": 932,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 65375759,
+				"id_str": "65375759",
+				"name": "zeynep tufekci",
+				"screen_name": "zeynep",
+				"location": "floating in a most peculiar way",
+				"description": "Thinking about our tools, ourselves. @UNC prof. Writer at @TheAtlantic @NYTimes. Was @SciAm @Wired. Book:https://t.co/j57eEmRHYw. Also https://t.co/AuuEUHWn84",
+				"url": "https://t.co/32zLRNuGBE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/32zLRNuGBE",
+								"expanded_url": "http://www.technosociology.org",
+								"display_url": "technosociology.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/j57eEmRHYw",
+								"expanded_url": "http://TwitterandTearGas.org",
+								"display_url": "TwitterandTearGas.org",
+								"indices": [
+									105,
+									128
+								]
+							},
+							{
+								"url": "https://t.co/AuuEUHWn84",
+								"expanded_url": "http://tinyletter.com/zeynepnotes",
+								"display_url": "tinyletter.com/zeynepnotes",
+								"indices": [
+									135,
+									158
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 349680,
+				"friends_count": 848,
+				"listed_count": 5844,
+				"created_at": "Thu Aug 13 14:32:22 +0000 2009",
+				"favourites_count": 26668,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 94550,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1042040726534668288/z-TxsjAw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042040726534668288/z-TxsjAw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/65375759/1491228723",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 584,
+			"favorite_count": 1507,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I found it hard enough watching my mother pass and that was after having the opportunity to be there. However, I am not sure how I would have been without those opportunities and last words. It is an important issue, especially if a vaccine is not found. https://t.co/FfhkIxSrO6"
+	},
+	{
 		"created_at": "Tue Jul 28 09:18:57 +0000 2020",
 		"id": 1288041241481863200,
 		"id_str": "1288041241481863170",
