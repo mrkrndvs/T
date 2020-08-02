@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 01 23:45:42 +0000 2020",
+		"id": 1289708920269725700,
+		"id_str": "1289708920269725696",
+		"full_text": "@cogdog Thank you Alan for the link to @parimalsatyal essay on the small web https://t.co/Kq5gN164Wj \n\nInteresting to read alongside @eevee on CSS https://t.co/OsR2MR7zbW and @sonniesedge on the beauty and weirdness of old web https://t.co/nKp0QDmdrV",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "parimalsatyal",
+					"name": "Parimal Satyal (Félix)",
+					"id": 38869265,
+					"id_str": "38869265",
+					"indices": [
+						39,
+						53
+					]
+				},
+				{
+					"screen_name": "eevee",
+					"name": "eevee",
+					"id": 14412937,
+					"id_str": "14412937",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"screen_name": "sonniesedge",
+					"name": "Charlie Don't Surf",
+					"id": 160687830,
+					"id_str": "160687830",
+					"indices": [
+						175,
+						187
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Kq5gN164Wj",
+					"expanded_url": "https://neustadt.fr/essays/the-small-web/",
+					"display_url": "neustadt.fr/essays/the-sma…",
+					"indices": [
+						77,
+						100
+					]
+				},
+				{
+					"url": "https://t.co/OsR2MR7zbW",
+					"expanded_url": "https://eev.ee/blog/2020/02/01/old-css-new-css/",
+					"display_url": "eev.ee/blog/2020/02/0…",
+					"indices": [
+						147,
+						170
+					]
+				},
+				{
+					"url": "https://t.co/nKp0QDmdrV",
+					"expanded_url": "https://www.sonniesedge.co.uk/talks/dear-developer/",
+					"display_url": "sonniesedge.co.uk/talks/dear-dev…",
+					"indices": [
+						227,
+						250
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1288737530834292700,
+		"in_reply_to_status_id_str": "1288737530834292736",
+		"in_reply_to_user_id": 740343,
+		"in_reply_to_user_id_str": "740343",
+		"in_reply_to_screen_name": "cogdog",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4194,
+			"friends_count": 988,
+			"listed_count": 357,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@cogdog Thank you Alan for the link to @parimalsatyal essay on the small web https://t.co/Kq5gN164Wj \n\nInteresting to read alongside @eevee on CSS https://t.co/OsR2MR7zbW and @sonniesedge on the beauty and weirdness of old web https://t.co/nKp0QDmdrV"
+	},
+	{
 		"created_at": "Sat Aug 01 05:02:16 +0000 2020",
 		"id": 1289426199203127300,
 		"id_str": "1289426199203127296",
