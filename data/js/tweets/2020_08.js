@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 02 04:06:05 +0000 2020",
+		"id": 1289774448128622600,
+		"id_str": "1289774448128622593",
+		"full_text": "@DrNomyn reflects on the many iterations of 'back to basics' education and highlights the way in which this empty signifier means more than just reading, writing and arithmetic https://t.co/qhRub9IKnW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrNomyn",
+					"name": "Naomi Barnes",
+					"id": 1171329719087665200,
+					"id_str": "1171329719087665153",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qhRub9IKnW",
+					"expanded_url": "https://twitter.com/AAREBlog/status/1287494235155886080",
+					"display_url": "twitter.com/AAREBlog/statu…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1171329719087665200,
+		"in_reply_to_user_id_str": "1171329719087665153",
+		"in_reply_to_screen_name": "DrNomyn",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4193,
+			"friends_count": 988,
+			"listed_count": 357,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1287494235155886000,
+		"quoted_status_id_str": "1287494235155886080",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qhRub9IKnW",
+			"expanded": "https://twitter.com/AAREBlog/status/1287494235155886080",
+			"display": "twitter.com/AAREBlog/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 26 21:05:20 +0000 2020",
+			"id": 1287494235155886000,
+			"id_str": "1287494235155886080",
+			"full_text": "Here we go again \"back to basics\". But what does \"back to basics\" mean? What 'reforms' are we getting this time? #AAREblog post by Dr Naomi Barnes #educationreform #curriculumreview #EduResearchMatters\nhttps://t.co/zgpV5XTGsx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				225
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AAREblog",
+						"indices": [
+							113,
+							122
+						]
+					},
+					{
+						"text": "educationreform",
+						"indices": [
+							147,
+							163
+						]
+					},
+					{
+						"text": "curriculumreview",
+						"indices": [
+							164,
+							181
+						]
+					},
+					{
+						"text": "EduResearchMatters",
+						"indices": [
+							182,
+							201
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zgpV5XTGsx",
+						"expanded_url": "https://www.aare.edu.au/blog/?p=7020",
+						"display_url": "aare.edu.au/blog/?p=7020",
+						"indices": [
+							202,
+							225
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4314804855,
+				"id_str": "4314804855",
+				"name": "EduResearch Matters",
+				"screen_name": "AAREBlog",
+				"location": "Australia",
+				"description": "All posts on the @AustAssocResEd blog are written by Australian educational researchers, or educational researchers working in Australia.",
+				"url": "https://t.co/0VDG8Yhom2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0VDG8Yhom2",
+								"expanded_url": "http://www.aare.edu.au/blog/",
+								"display_url": "aare.edu.au/blog/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2551,
+				"friends_count": 258,
+				"listed_count": 21,
+				"created_at": "Sun Nov 29 05:42:54 +0000 2015",
+				"favourites_count": 1278,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 923,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1109958118274793472/TqegtIfL_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109958118274793472/TqegtIfL_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4314804855/1588541123",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@DrNomyn reflects on the many iterations of 'back to basics' education and highlights the way in which this empty signifier means more than just reading, writing and arithmetic https://t.co/qhRub9IKnW"
+	},
+	{
 		"created_at": "Sat Aug 01 23:45:42 +0000 2020",
 		"id": 1289708920269725700,
 		"id_str": "1289708920269725696",
