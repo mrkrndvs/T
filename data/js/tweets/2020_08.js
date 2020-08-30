@@ -1,6 +1,153 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 30 07:23:08 +0000 2020",
+		"id": 1299970894480072700,
+		"id_str": "1299970894480072705",
+		"full_text": "@antonyjfunnell @TaniaSourdin @uonlawschool Interesting conversation Antony as always. Left thinking that machines can solve a lot if we are willing to hand over our data https://t.co/20I7qalzch I am therefore left wondering about the implications of such developments, what it enhances, reverses, retrieves &amp; makes obsolete",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			328
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "antonyjfunnell",
+					"name": "Antony J Funnell",
+					"id": 25003408,
+					"id_str": "25003408",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "TaniaSourdin",
+					"name": "Tania Sourdin",
+					"id": 1343738238,
+					"id_str": "1343738238",
+					"indices": [
+						16,
+						29
+					]
+				},
+				{
+					"screen_name": "uonlawschool",
+					"name": "Newcastle Law School",
+					"id": 821170222291816400,
+					"id_str": "821170222291816448",
+					"indices": [
+						30,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/20I7qalzch",
+					"expanded_url": "https://www.technologyreview.com/2020/08/13/1006573/digital-psychiatry-phenotyping-schizophrenia-bipolar-privacy/",
+					"display_url": "technologyreview.com/2020/08/13/100…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1299107421630079000,
+		"in_reply_to_status_id_str": "1299107421630078976",
+		"in_reply_to_user_id": 25003408,
+		"in_reply_to_user_id_str": "25003408",
+		"in_reply_to_screen_name": "antonyjfunnell",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4199,
+			"friends_count": 988,
+			"listed_count": 360,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@antonyjfunnell @TaniaSourdin @uonlawschool Interesting conversation Antony as always. Left thinking that machines can solve a lot if we are willing to hand over our data https://t.co/20I7qalzch I am therefore left wondering about the implications of such developments, what it enhances, reverses, retrieves &amp; makes obsolete"
+	},
+	{
 		"created_at": "Sat Aug 29 10:43:58 +0000 2020",
 		"id": 1299659049189822500,
 		"id_str": "1299659049189822465",
