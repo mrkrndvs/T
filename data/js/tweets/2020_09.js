@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 08 10:39:36 +0000 2020",
+		"id": 1303180688871444500,
+		"id_str": "1303281828535697409",
+		"full_text": "Friends! I’ll be on @abcmelbourne tonight around 8:30 talking to @dontattempt about my books and music and movies and all kinds of things! https://t.co/8hkqk7alki",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abcmelbourne",
+					"name": "ABC Melbourne",
+					"id": 16093222,
+					"id_str": "16093222",
+					"indices": [
+						20,
+						33
+					]
+				},
+				{
+					"screen_name": "dontattempt",
+					"name": "David Astle",
+					"id": 987683310,
+					"id_str": "987683310",
+					"indices": [
+						65,
+						77
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1303180678280822800,
+					"id_str": "1303180678280822784",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EhXT7B8UwAA3tSA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EhXT7B8UwAA3tSA.jpg",
+					"url": "https://t.co/8hkqk7alki",
+					"display_url": "pic.twitter.com/8hkqk7alki",
+					"expanded_url": "https://twitter.com/fionathehardy/status/1303180688871444480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303180678280822800,
+					"id_str": "1303180678280822784",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EhXT7B8UwAA3tSA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EhXT7B8UwAA3tSA.jpg",
+					"url": "https://t.co/8hkqk7alki",
+					"display_url": "pic.twitter.com/8hkqk7alki",
+					"expanded_url": "https://twitter.com/fionathehardy/status/1303180688871444480/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							2
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EhXT7B8UwAA3tSA.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 208438518,
+			"id_str": "208438518",
+			"name": "Fiona Hardy",
+			"screen_name": "fionathehardy",
+			"location": "Melbourne",
+			"description": "Bookseller, reviewer, word-put-together-er 📚 How to Make a Movie in 12 Days/How to Write the Soundtrack to Your Life/better make the third title shorter",
+			"url": "https://t.co/fx2x3kL0p8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fx2x3kL0p8",
+							"expanded_url": "http://fionathehardy.com",
+							"display_url": "fionathehardy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1251,
+			"friends_count": 1193,
+			"listed_count": 24,
+			"created_at": "Wed Oct 27 08:36:14 +0000 2010",
+			"favourites_count": 14847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16878,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D4D4D4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272466465015263233/7HEky4R5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272466465015263233/7HEky4R5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/208438518/1559564778",
+			"profile_link_color": "507C7C",
+			"profile_sidebar_border_color": "322840",
+			"profile_sidebar_fill_color": "322840",
+			"profile_text_color": "92A8A8",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Friends! I’ll be on @abcmelbourne tonight around 8:30 talking to @dontattempt about my books and music and movies and all kinds of things! https://t.co/8hkqk7alki"
+	},
+	{
 		"created_at": "Mon Sep 07 12:12:16 +0000 2020",
 		"id": 1302942760970760200,
 		"id_str": "1302942760970760192",
