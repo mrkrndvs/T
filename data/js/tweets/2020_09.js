@@ -1,6 +1,386 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 12 11:32:22 +0000 2020",
+		"id": 1304744659936112600,
+		"id_str": "1304744659936112640",
+		"full_text": "With no guides for leading schools in a pandemic, @AlmaHarris1 and @MichelleSJones1 put forward seven propositions that require further consideration https://t.co/gqzhRMxXZ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlmaHarris1",
+					"name": "Professor Alma Harris",
+					"id": 342121975,
+					"id_str": "342121975",
+					"indices": [
+						50,
+						62
+					]
+				},
+				{
+					"screen_name": "MichelleSJones1",
+					"name": "Dr Michelle Jones",
+					"id": 2555784314,
+					"id_str": "2555784314",
+					"indices": [
+						67,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gqzhRMxXZ6",
+					"expanded_url": "https://twitter.com/AlmaHarris1/status/1304492115351810048",
+					"display_url": "twitter.com/AlmaHarris1/st…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4204,
+			"friends_count": 990,
+			"listed_count": 361,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1304492115351810000,
+		"quoted_status_id_str": "1304492115351810048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gqzhRMxXZ6",
+			"expanded": "https://twitter.com/AlmaHarris1/status/1304492115351810048",
+			"display": "twitter.com/AlmaHarris1/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 11 18:48:51 +0000 2020",
+			"id": 1304492115351810000,
+			"id_str": "1304492115351810048",
+			"full_text": "Published today free access\n'COVID 19 – school leadership in disruptive times'\nhttps://t.co/sgX4YzLTeO @MichaelFullan1 @HargreavesBC @educationsu @NAELCymru @acel @stringer_andrea @CeciliaAzorin @ASCLCymru @ASCL_UK @PGCEswanseauni @GilchristGeorge @CarolCampbell4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				263
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MichaelFullan1",
+						"name": "Michael Fullan",
+						"id": 424277262,
+						"id_str": "424277262",
+						"indices": [
+							103,
+							118
+						]
+					},
+					{
+						"screen_name": "HargreavesBC",
+						"name": "Andy Hargreaves",
+						"id": 983562338,
+						"id_str": "983562338",
+						"indices": [
+							119,
+							132
+						]
+					},
+					{
+						"screen_name": "educationsu",
+						"name": "School of Education - Swansea University",
+						"id": 959376576390496300,
+						"id_str": "959376576390496256",
+						"indices": [
+							133,
+							145
+						]
+					},
+					{
+						"screen_name": "NAELCymru",
+						"name": "Academi Arweinyddiaeth - Leadership Academy",
+						"id": 1054289072817168400,
+						"id_str": "1054289072817168384",
+						"indices": [
+							146,
+							156
+						]
+					},
+					{
+						"screen_name": "Acel",
+						"name": "perniciousAcel",
+						"id": 130787123,
+						"id_str": "130787123",
+						"indices": [
+							157,
+							162
+						]
+					},
+					{
+						"screen_name": "stringer_andrea",
+						"name": "Andrea Stringer 🇦🇺",
+						"id": 585586447,
+						"id_str": "585586447",
+						"indices": [
+							163,
+							179
+						]
+					},
+					{
+						"screen_name": "CeciliaAzorin",
+						"name": "Dr Cecilia Azorín",
+						"id": 3319338568,
+						"id_str": "3319338568",
+						"indices": [
+							180,
+							194
+						]
+					},
+					{
+						"screen_name": "ASCLCymru",
+						"name": "ASCL Cymru",
+						"id": 110632006,
+						"id_str": "110632006",
+						"indices": [
+							195,
+							205
+						]
+					},
+					{
+						"screen_name": "ASCL_UK",
+						"name": "ASCL",
+						"id": 111333273,
+						"id_str": "111333273",
+						"indices": [
+							206,
+							214
+						]
+					},
+					{
+						"screen_name": "PGCEswanseauni",
+						"name": "PGCE Swansea University",
+						"id": 1217816381128876000,
+						"id_str": "1217816381128876033",
+						"indices": [
+							215,
+							230
+						]
+					},
+					{
+						"screen_name": "GilchristGeorge",
+						"name": "George Gilchrist",
+						"id": 436964891,
+						"id_str": "436964891",
+						"indices": [
+							231,
+							247
+						]
+					},
+					{
+						"screen_name": "CarolCampbell4",
+						"name": "Dr Carol Campbell",
+						"id": 300645437,
+						"id_str": "300645437",
+						"indices": [
+							248,
+							263
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/sgX4YzLTeO",
+						"expanded_url": "https://www.tandfonline.com/doi/full/10.1080/13632434.2020.1811479",
+						"display_url": "tandfonline.com/doi/full/10.10…",
+						"indices": [
+							79,
+							102
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 342121975,
+				"id_str": "342121975",
+				"name": "Professor Alma Harris",
+				"screen_name": "AlmaHarris1",
+				"location": "",
+				"description": "PhD, @educationsu Editor @slamjrnl  Fellow of @AcadSocSciences @theRSAorg @LSWalesCDdCymru & Int Adviser @ScotGov  RTs - not endorsement https://t.co/IdgZ83RK8w",
+				"url": "https://t.co/IdgZ83RK8w",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IdgZ83RK8w",
+								"expanded_url": "http://almaharris.com",
+								"display_url": "almaharris.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/IdgZ83RK8w",
+								"expanded_url": "http://almaharris.com",
+								"display_url": "almaharris.com",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10740,
+				"friends_count": 1589,
+				"listed_count": 138,
+				"created_at": "Mon Jul 25 14:33:05 +0000 2011",
+				"favourites_count": 48722,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22573,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1026739193232351232/wBhx0msD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1026739193232351232/wBhx0msD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/342121975/1483400375",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 66,
+			"favorite_count": 122,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With no guides for leading schools in a pandemic, @AlmaHarris1 and @MichelleSJones1 put forward seven propositions that require further consideration https://t.co/gqzhRMxXZ6"
+	},
+	{
 		"created_at": "Thu Sep 10 11:18:29 +0000 2020",
 		"id": 1304016391201194000,
 		"id_str": "1304016391201193986",
