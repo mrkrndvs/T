@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 12 22:54:56 +0000 2020",
+		"id": 1304916432031891500,
+		"id_str": "1304916432031891456",
+		"full_text": "\"Television benefits from a long-standing, non-threatening place in the family home for generations, bringing w/ it a non-threatening familiarity that is not as apparent in newer devices\"\n\n@alannahmadeline discuss TV &amp; how it differs from usual #screentime convos \n\nCC @wiobyrne https://t.co/j4Zk2htdm0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "screentime",
+					"indices": [
+						249,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alannahmadeline",
+					"name": "Alannah Madeline Fdn",
+					"id": 111449574,
+					"id_str": "111449574",
+					"indices": [
+						189,
+						205
+					]
+				},
+				{
+					"screen_name": "wiobyrne",
+					"name": "Ian O'Byrne",
+					"id": 88676762,
+					"id_str": "88676762",
+					"indices": [
+						273,
+						282
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/j4Zk2htdm0",
+					"expanded_url": "https://twitter.com/alannahmadeline/status/1304250562972655619",
+					"display_url": "twitter.com/alannahmadelin…",
+					"indices": [
+						283,
+						306
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4204,
+			"friends_count": 990,
+			"listed_count": 361,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1304250562972655600,
+		"quoted_status_id_str": "1304250562972655619",
+		"quoted_status_permalink": {
+			"url": "https://t.co/j4Zk2htdm0",
+			"expanded": "https://twitter.com/alannahmadeline/status/1304250562972655619",
+			"display": "twitter.com/alannahmadelin…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 11 02:49:00 +0000 2020",
+			"id": 1304250562972655600,
+			"id_str": "1304250562972655619",
+			"full_text": "In our latest instalment of This Digital Home, we look at the role TV plays in the family home, amid the various alternative screens on offer. You might be surprised.\n\nThis social research program is proudly supported by Facebook app. \nhttps://t.co/keNs37m569",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				259
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/keNs37m569",
+						"expanded_url": "https://www.amf.org.au/news-events/latest-news/tv-is-still-a-main-player-in-the-family-home/",
+						"display_url": "amf.org.au/news-events/la…",
+						"indices": [
+							236,
+							259
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 111449574,
+				"id_str": "111449574",
+				"name": "Alannah Madeline Fdn",
+				"screen_name": "alannahmadeline",
+				"location": "",
+				"description": "The Alannah & Madeline Foundation is a national charity protecting children from violence, bullying and cyberbullying.",
+				"url": "http://t.co/9uMmedSfZs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/9uMmedSfZs",
+								"expanded_url": "http://www.amf.org.au",
+								"display_url": "amf.org.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9412,
+				"friends_count": 606,
+				"listed_count": 110,
+				"created_at": "Thu Feb 04 23:51:41 +0000 2010",
+				"favourites_count": 4745,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6463,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "7C2B83",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1183231394002026496/SKfcuRJV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183231394002026496/SKfcuRJV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/111449574/1404720774",
+				"profile_link_color": "7C2B83",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Television benefits from a long-standing, non-threatening place in the family home for generations, bringing w/ it a non-threatening familiarity that is not as apparent in newer devices\"\n\n@alannahmadeline discuss TV &amp; how it differs from usual #screentime convos \n\nCC @wiobyrne https://t.co/j4Zk2htdm0"
+	},
+	{
 		"created_at": "Sat Sep 12 11:32:22 +0000 2020",
 		"id": 1304744659936112600,
 		"id_str": "1304744659936112640",
