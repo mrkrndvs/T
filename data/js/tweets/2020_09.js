@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 14 11:29:08 +0000 2020",
+		"id": 1305468622244999200,
+		"id_str": "1305468622244999168",
+		"full_text": "@debsnet unpacks the tensions associated with leading during a pandemic. This includes the need to act fast, the necessity for a culture of autonomy and generosity, and a reminder of the human at the heart of it all. https://t.co/FOkVnsj2Nu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debsnet",
+					"name": "𝗗𝗿 𝗗𝗲𝗯𝗼𝗿𝗮𝗵 𝗡𝗲𝘁𝗼𝗹𝗶𝗰𝗸𝘆",
+					"id": 88375038,
+					"id_str": "88375038",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FOkVnsj2Nu",
+					"expanded_url": "https://twitter.com/debsnet/status/1269550424282947584",
+					"display_url": "twitter.com/debsnet/status…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 88375038,
+		"in_reply_to_user_id_str": "88375038",
+		"in_reply_to_screen_name": "debsnet",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4204,
+			"friends_count": 989,
+			"listed_count": 361,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1269550424282947600,
+		"quoted_status_id_str": "1269550424282947584",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FOkVnsj2Nu",
+			"expanded": "https://twitter.com/debsnet/status/1269550424282947584",
+			"display": "twitter.com/debsnet/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 07 08:43:02 +0000 2020",
+			"id": 1269550424282947600,
+			"id_str": "1269550424282947584",
+			"full_text": "NEW: Essay in @JPCCJournal ‘Professionalism in the Pandemic’ Special Issue - ‘School leadership during a pandemic: navigating tensions’ https://t.co/gqvnMLdBP5 #acwri #education #teaching #covid19 #aussieED #WomenEd https://t.co/cYzIj5oZ4K",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				215
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "acwri",
+						"indices": [
+							160,
+							166
+						]
+					},
+					{
+						"text": "education",
+						"indices": [
+							167,
+							177
+						]
+					},
+					{
+						"text": "teaching",
+						"indices": [
+							178,
+							187
+						]
+					},
+					{
+						"text": "covid19",
+						"indices": [
+							188,
+							196
+						]
+					},
+					{
+						"text": "aussieED",
+						"indices": [
+							197,
+							206
+						]
+					},
+					{
+						"text": "WomenEd",
+						"indices": [
+							207,
+							215
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JPCCJournal",
+						"name": "JPCC Journal",
+						"id": 3312926926,
+						"id_str": "3312926926",
+						"indices": [
+							14,
+							26
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/gqvnMLdBP5",
+						"expanded_url": "https://www.emerald.com/insight/content/doi/10.1108/JPCC-05-2020-0017/full/html",
+						"display_url": "emerald.com/insight/conten…",
+						"indices": [
+							136,
+							159
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1269550412769550300,
+						"id_str": "1269550412769550336",
+						"indices": [
+							216,
+							239
+						],
+						"media_url": "http://pbs.twimg.com/media/EZ5ZX8GUYAAvo-T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZ5ZX8GUYAAvo-T.jpg",
+						"url": "https://t.co/cYzIj5oZ4K",
+						"display_url": "pic.twitter.com/cYzIj5oZ4K",
+						"expanded_url": "https://twitter.com/debsnet/status/1269550424282947584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1643,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 822,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 466,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1269550412769550300,
+						"id_str": "1269550412769550336",
+						"indices": [
+							216,
+							239
+						],
+						"media_url": "http://pbs.twimg.com/media/EZ5ZX8GUYAAvo-T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZ5ZX8GUYAAvo-T.jpg",
+						"url": "https://t.co/cYzIj5oZ4K",
+						"display_url": "pic.twitter.com/cYzIj5oZ4K",
+						"expanded_url": "https://twitter.com/debsnet/status/1269550424282947584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1643,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 822,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 466,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 88375038,
+				"id_str": "88375038",
+				"name": "𝗗𝗿 𝗗𝗲𝗯𝗼𝗿𝗮𝗵 𝗡𝗲𝘁𝗼𝗹𝗶𝗰𝗸𝘆",
+				"screen_name": "debsnet",
+				"location": "Whadjuk Noongar Country",
+				"description": "Teacher. School Leader. PhD. Pracademic. Flâneuse. Author ‘Transformational Professional Learning’. Co-Editor @flipthesystemoz. @theeduflaneuse on Instagram.",
+				"url": "https://t.co/DiUVU2xOxW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DiUVU2xOxW",
+								"expanded_url": "http://theeduflaneuse.com",
+								"display_url": "theeduflaneuse.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6261,
+				"friends_count": 1283,
+				"listed_count": 372,
+				"created_at": "Sun Nov 08 07:47:07 +0000 2009",
+				"favourites_count": 18097,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20664,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1297332141865308160/R94H7SVq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297332141865308160/R94H7SVq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/88375038/1564180526",
+				"profile_link_color": "4D6DA3",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@debsnet unpacks the tensions associated with leading during a pandemic. This includes the need to act fast, the necessity for a culture of autonomy and generosity, and a reminder of the human at the heart of it all. https://t.co/FOkVnsj2Nu"
+	},
+	{
 		"created_at": "Sun Sep 13 12:10:56 +0000 2020",
 		"id": 1305116752708161500,
 		"id_str": "1305116752708161537",
