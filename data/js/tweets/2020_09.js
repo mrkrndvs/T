@@ -1,6 +1,182 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 29 12:12:41 +0000 2020",
+		"id": 1310915398171160600,
+		"id_str": "1310915398171160576",
+		"full_text": "@tulip_education @steven_kolber I think you have demonstrated why I follow you Marten. Always a lot to think about. It has me thinking about rereading @jondron and @terguy's Teaching Crowds https://t.co/XBeCm1Deod. You might also be interested in this piece from @kinlane https://t.co/SsQd1i3Yky.",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			296
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tulip_education",
+					"name": "Marten Koomen",
+					"id": 229783973,
+					"id_str": "229783973",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "steven_kolber",
+					"name": "Steven Kolber",
+					"id": 2183674998,
+					"id_str": "2183674998",
+					"indices": [
+						17,
+						31
+					]
+				},
+				{
+					"screen_name": "jondron",
+					"name": "Jon Dron",
+					"id": 1258181,
+					"id_str": "1258181",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"screen_name": "terguy",
+					"name": "Terry Anderson",
+					"id": 19681352,
+					"id_str": "19681352",
+					"indices": [
+						164,
+						171
+					]
+				},
+				{
+					"screen_name": "kinlane",
+					"name": "Kin Lane",
+					"id": 5954192,
+					"id_str": "5954192",
+					"indices": [
+						263,
+						271
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XBeCm1Deod",
+					"expanded_url": "https://teachingcrowds.ca/",
+					"display_url": "teachingcrowds.ca",
+					"indices": [
+						190,
+						213
+					]
+				},
+				{
+					"url": "https://t.co/SsQd1i3Yky",
+					"expanded_url": "http://kinlane.com/2020/09/27/performing-for-evolving-diversifying-and-expanding-the-people-in-my-circle/",
+					"display_url": "kinlane.com/2020/09/27/per…",
+					"indices": [
+						272,
+						295
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1310196412223635500,
+		"in_reply_to_status_id_str": "1310196412223635459",
+		"in_reply_to_user_id": 229783973,
+		"in_reply_to_user_id_str": "229783973",
+		"in_reply_to_screen_name": "tulip_education",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4202,
+			"friends_count": 989,
+			"listed_count": 361,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@tulip_education @steven_kolber I think you have demonstrated why I follow you Marten. Always a lot to think about. It has me thinking about rereading @jondron and @terguy's Teaching Crowds https://t.co/XBeCm1Deod. You might also be interested in this piece from @kinlane https://t.co/SsQd1i3Yky."
+	},
+	{
 		"created_at": "Sun Sep 27 11:37:08 +0000 2020",
 		"id": 1310181678623588400,
 		"id_str": "1310181678623588352",
