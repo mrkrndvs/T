@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 26 02:51:12 +0000 2020",
+		"id": 1320558568144171000,
+		"id_str": "1320558568144171008",
+		"full_text": "I really enjoyed Richard Wells' book, now he is giving it away for free. https://t.co/lxZifVsYW0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lxZifVsYW0",
+					"expanded_url": "https://twitter.com/EduWells/status/1320119904184328192",
+					"display_url": "twitter.com/EduWells/statu…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4203,
+			"friends_count": 990,
+			"listed_count": 360,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1320119904184328200,
+		"quoted_status_id_str": "1320119904184328192",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lxZifVsYW0",
+			"expanded": "https://twitter.com/EduWells/status/1320119904184328192",
+			"display": "twitter.com/EduWells/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 24 21:48:06 +0000 2020",
+			"id": 1320119904184328200,
+			"id_str": "1320119904184328192",
+			"full_text": "[My book is now a FREE PDF] \nA Learner's Paradise: How NZ is reimagining Education https://t.co/RtK58bkFz6… \n---------\n#edChat #edTEch #HackLearning",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				148
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edChat",
+						"indices": [
+							119,
+							126
+						]
+					},
+					{
+						"text": "edTEch",
+						"indices": [
+							127,
+							134
+						]
+					},
+					{
+						"text": "HackLearning",
+						"indices": [
+							135,
+							148
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RtK58bkFz6",
+						"expanded_url": "https://eduwells.com/2020/10/17/free-book-a-learners-paradise-how-nz-is-reimagining-education/",
+						"display_url": "eduwells.com/2020/10/17/fre…",
+						"indices": [
+							83,
+							106
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 372213543,
+				"id_str": "372213543",
+				"name": "Richard Wells",
+				"screen_name": "EduWells",
+				"location": "Auckland, New Zealand",
+				"description": "Author of https://t.co/27d18W69dT, Dep. Principal NZ High School, Teacher, International Speaker, EdChatNZ Moderator, Top100 Education Blogger, EdTech",
+				"url": "https://t.co/j0bDRg8nij",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/j0bDRg8nij",
+								"expanded_url": "http://EduWells.com",
+								"display_url": "EduWells.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/27d18W69dT",
+								"expanded_url": "http://bit.ly/NZeduBook",
+								"display_url": "bit.ly/NZeduBook",
+								"indices": [
+									10,
+									33
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 16892,
+				"friends_count": 10516,
+				"listed_count": 768,
+				"created_at": "Mon Sep 12 10:53:20 +0000 2011",
+				"favourites_count": 9817,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17418,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1F1B1B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1308846643941224448/YcW9oRmN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308846643941224448/YcW9oRmN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/372213543/1536532362",
+				"profile_link_color": "115E16",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFE0D4",
+				"profile_text_color": "851818",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I really enjoyed Richard Wells' book, now he is giving it away for free. https://t.co/lxZifVsYW0"
+	},
+	{
 		"created_at": "Sun Oct 25 11:11:44 +0000 2020",
 		"id": 1320322144287355000,
 		"id_str": "1320322144287354880",
