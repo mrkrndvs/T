@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 29 11:33:14 +0000 2020",
+		"id": 1321777108478095400,
+		"id_str": "1321777108478095366",
+		"full_text": "Alex Waleczek walks through the process of recreating the map of New Zealand with Lego @justlego101 https://t.co/Jkhl2wXNfy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "justlego101",
+					"name": "justlego101",
+					"id": 3122282574,
+					"id_str": "3122282574",
+					"indices": [
+						87,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Jkhl2wXNfy",
+					"expanded_url": "https://twitter.com/genetis/status/1249456647753236481",
+					"display_url": "twitter.com/genetis/status…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4204,
+			"friends_count": 990,
+			"listed_count": 360,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1249456647753236500,
+		"quoted_status_id_str": "1249456647753236481",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Jkhl2wXNfy",
+			"expanded": "https://twitter.com/genetis/status/1249456647753236481",
+			"display": "twitter.com/genetis/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 12 21:57:33 +0000 2020",
+			"id": 1249456647753236500,
+			"id_str": "1249456647753236481",
+			"full_text": "I finished my #NZLegoMap!\nHere is a little write up about the process and some of the challenges and decisions along the way.\nThere will also be a bit more details and some pictures in the thread below.\n\n@LEGO_Group #LEGO #NewZealand #AFOL #MOC #Map\n\nhttps://t.co/oBiLAAV3ox",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NZLegoMap",
+						"indices": [
+							14,
+							24
+						]
+					},
+					{
+						"text": "LEGO",
+						"indices": [
+							216,
+							221
+						]
+					},
+					{
+						"text": "NewZealand",
+						"indices": [
+							222,
+							233
+						]
+					},
+					{
+						"text": "AFOL",
+						"indices": [
+							234,
+							239
+						]
+					},
+					{
+						"text": "MOC",
+						"indices": [
+							240,
+							244
+						]
+					},
+					{
+						"text": "Map",
+						"indices": [
+							245,
+							249
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LEGO_Group",
+						"name": "LEGO",
+						"id": 295325513,
+						"id_str": "295325513",
+						"indices": [
+							204,
+							215
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/oBiLAAV3ox",
+						"expanded_url": "https://www.curvediscussion.com/new-zealand-lego-map/?pk_campaign=t",
+						"display_url": "curvediscussion.com/new-zealand-le…",
+						"indices": [
+							251,
+							274
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 49316865,
+				"id_str": "49316865",
+				"name": "Alex Waleczek",
+				"screen_name": "genetis",
+				"location": "currently: AKL/NZ",
+				"description": "Born in #Germany, Living in #NZ. #Data Nerd - #AKLTUG leader - #Tableau Trainer - #LEGO & #Woodwork",
+				"url": "https://t.co/dMqsp028Ix",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dMqsp028Ix",
+								"expanded_url": "http://www.curvediscussion.com",
+								"display_url": "curvediscussion.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1149,
+				"friends_count": 851,
+				"listed_count": 40,
+				"created_at": "Sun Jun 21 13:43:48 +0000 2009",
+				"favourites_count": 5844,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6288,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1183123168258449408/RZvsRg5P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183123168258449408/RZvsRg5P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/49316865/1587517565",
+				"profile_link_color": "0586AD",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 136,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Alex Waleczek walks through the process of recreating the map of New Zealand with Lego @justlego101 https://t.co/Jkhl2wXNfy"
+	},
+	{
 		"created_at": "Thu Oct 29 10:43:21 +0000 2020",
 		"id": 1321764552346726400,
 		"id_str": "1321764552346726402",
