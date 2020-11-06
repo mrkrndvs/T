@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 06 10:54:12 +0000 2020",
+		"id": 1324666386224881700,
+		"id_str": "1324666386224881666",
+		"full_text": "An interesting read. I'm concerned where platforms like Spotify and Audible are taking this. Feels like on one hand, there are those @EFF arguing for interoperability, while on the other hand there are those trying to lock things down in proprietary platform. Time will tell. https://t.co/90HFnHC82x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EFF",
+					"name": "EFF",
+					"id": 4816,
+					"id_str": "4816",
+					"indices": [
+						133,
+						137
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/90HFnHC82x",
+					"expanded_url": "https://twitter.com/awrd/status/1322847815572185094",
+					"display_url": "twitter.com/awrd/status/13…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4204,
+			"friends_count": 991,
+			"listed_count": 360,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1322847815572185000,
+		"quoted_status_id_str": "1322847815572185094",
+		"quoted_status_permalink": {
+			"url": "https://t.co/90HFnHC82x",
+			"expanded": "https://twitter.com/awrd/status/1322847815572185094",
+			"display": "twitter.com/awrd/status/13…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 01 10:27:51 +0000 2020",
+			"id": 1322847815572185000,
+			"id_str": "1322847815572185094",
+			"full_text": "How technology shapes audio- as well as what and how we consume. Really interesting piece from @ballmatthew. \nhttps://t.co/f1ftRAIzuA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ballmatthew",
+						"name": "Matthew Ball",
+						"id": 2434397022,
+						"id_str": "2434397022",
+						"indices": [
+							95,
+							107
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/f1ftRAIzuA",
+						"expanded_url": "https://bit.ly/2HKcJac",
+						"display_url": "bit.ly/2HKcJac",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14830831,
+				"id_str": "14830831",
+				"name": "Andrew Davies",
+				"screen_name": "awrd",
+				"location": "Brisbane, Australia",
+				"description": "Digital and Engagement Editor, ABC Audio Studios. Long-time audio producer and audiophile. All views mine not the ABC's.",
+				"url": "https://t.co/9DncuCorK1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9DncuCorK1",
+								"expanded_url": "http://www.abc.net.au/podcasts/",
+								"display_url": "abc.net.au/podcasts/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3658,
+				"friends_count": 2006,
+				"listed_count": 248,
+				"created_at": "Mon May 19 10:19:10 +0000 2008",
+				"favourites_count": 1288,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 19354,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1122794088963592192/ZTdrRQ9p_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122794088963592192/ZTdrRQ9p_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14830831/1543145384",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An interesting read. I'm concerned where platforms like Spotify and Audible are taking this. Feels like on one hand, there are those @EFF arguing for interoperability, while on the other hand there are those trying to lock things down in proprietary platform. Time will tell. https://t.co/90HFnHC82x"
+	},
+	{
 		"created_at": "Tue Nov 03 10:52:57 +0000 2020",
 		"id": 1323578909082886100,
 		"id_str": "1323578909082886144",
