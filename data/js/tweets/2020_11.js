@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 11 10:30:35 +0000 2020",
+		"id": 1326472382588964900,
+		"id_str": "1326472382588964864",
+		"full_text": "When I saw 'Liam Neeson' and 'Noble Park' trending, I thought that maybe he was filming a TISM biopic? https://t.co/Op72UEPzAh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Op72UEPzAh",
+					"expanded_url": "https://twitter.com/9NewsMelb/status/1326403985373327361",
+					"display_url": "twitter.com/9NewsMelb/stat…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4203,
+			"friends_count": 991,
+			"listed_count": 358,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1326403985373327400,
+		"quoted_status_id_str": "1326403985373327361",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Op72UEPzAh",
+			"expanded": "https://twitter.com/9NewsMelb/status/1326403985373327361",
+			"display": "twitter.com/9NewsMelb/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 11 05:58:48 +0000 2020",
+			"id": 1326403985373327400,
+			"id_str": "1326403985373327361",
+			"full_text": "Liam Neeson has praised Australia’s response to the covid 19 pandemic. \n\nThe Hollywood star was on set in Noble Park today. @DougalBeatty #9News https://t.co/JKzpVjRAXt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				144
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "9News",
+						"indices": [
+							138,
+							144
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DougalBeatty",
+						"name": "Dougal Beatty",
+						"id": 134667400,
+						"id_str": "134667400",
+						"indices": [
+							124,
+							137
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1326403913843609600,
+						"id_str": "1326403913843609600",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/media/EmhVWsjW8AEngOl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmhVWsjW8AEngOl.jpg",
+						"url": "https://t.co/JKzpVjRAXt",
+						"display_url": "pic.twitter.com/JKzpVjRAXt",
+						"expanded_url": "https://twitter.com/9NewsMelb/status/1326403985373327361/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1326403913843609600,
+						"id_str": "1326403913843609600",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/media/EmhVWsjW8AEngOl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmhVWsjW8AEngOl.jpg",
+						"url": "https://t.co/JKzpVjRAXt",
+						"display_url": "pic.twitter.com/JKzpVjRAXt",
+						"expanded_url": "https://twitter.com/9NewsMelb/status/1326403985373327361/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 74120,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1326403913843609600/vid/640x360/cswx5_Uum9_a-AZA.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1326403913843609600/vid/1280x720/fJSLqRY8blHQ0_jf.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1326403913843609600/pl/oh413XBbFOw4szKj.m3u8?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1326403913843609600/vid/480x270/GXamodGWR_fTeqIW.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "LIAM NEESON",
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 183036128,
+				"id_str": "183036128",
+				"name": "9News Melbourne",
+				"screen_name": "9NewsMelb",
+				"location": "Melbourne, Australia",
+				"description": "@PHitchener9 and @alicialoxley present Melbourne’s #9News on @Channel9 at 4.00pm/6.00pm. Simulcast on @899TheLight. Community Guidelines: https://t.co/h3hABkSNCP",
+				"url": "http://t.co/mTeTNcmhaU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/mTeTNcmhaU",
+								"expanded_url": "http://9News.com.au/Victoria",
+								"display_url": "9News.com.au/Victoria",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/h3hABkSNCP",
+								"expanded_url": "http://9jump.in/8oT7O4S",
+								"display_url": "9jump.in/8oT7O4S",
+								"indices": [
+									138,
+									161
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 159830,
+				"friends_count": 2313,
+				"listed_count": 1131,
+				"created_at": "Thu Aug 26 00:33:14 +0000 2010",
+				"favourites_count": 2256,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 254335,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1219129633230053377/M_twVrXj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219129633230053377/M_twVrXj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/183036128/1579498117",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 64,
+			"favorite_count": 381,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When I saw 'Liam Neeson' and 'Noble Park' trending, I thought that maybe he was filming a TISM biopic? https://t.co/Op72UEPzAh"
+	},
+	{
 		"created_at": "Wed Nov 11 09:53:06 +0000 2020",
 		"id": 1326462951918874600,
 		"id_str": "1326462951918874624",
