@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 13 10:07:05 +0000 2020",
+		"id": 1327191244741623800,
+		"id_str": "1327191244741623808",
+		"full_text": "@stringer_andrea @SMEEAndrew @bmplanche @DrEllieDS @mesterman @gripgirl @Borto74 @drkarenedge @AlmaHarris1 @teencoachleslie @pipcleaves @r_nd_rgh @johnqgoh Do you mean someone that you have not had the chance to meet IRL before?",
+		"truncated": false,
+		"display_text_range": [
+			156,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stringer_andrea",
+					"name": "Andrea Stringer 🇦🇺",
+					"id": 585586447,
+					"id_str": "585586447",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "SMEEAndrew",
+					"name": "Andrew SMEE",
+					"id": 2476311744,
+					"id_str": "2476311744",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"screen_name": "bmplanche",
+					"name": "Beate PLanche Ed.D.",
+					"id": 1080502758,
+					"id_str": "1080502758",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"screen_name": "DrEllieDS",
+					"name": "Ellie Drago-Severson",
+					"id": 2927546308,
+					"id_str": "2927546308",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"screen_name": "mesterman",
+					"name": "мαтт єѕтєямαη",
+					"id": 14906194,
+					"id_str": "14906194",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"screen_name": "gripgirl",
+					"name": "Anne Gripton",
+					"id": 21369142,
+					"id_str": "21369142",
+					"indices": [
+						62,
+						71
+					]
+				},
+				{
+					"screen_name": "Borto74",
+					"name": "Jason Borton",
+					"id": 575894779,
+					"id_str": "575894779",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"screen_name": "drkarenedge",
+					"name": "Karen Edge",
+					"id": 379156490,
+					"id_str": "379156490",
+					"indices": [
+						81,
+						93
+					]
+				},
+				{
+					"screen_name": "AlmaHarris1",
+					"name": "Professor Alma Harris",
+					"id": 342121975,
+					"id_str": "342121975",
+					"indices": [
+						94,
+						106
+					]
+				},
+				{
+					"screen_name": "teencoachleslie",
+					"name": "Leslie in Belgium",
+					"id": 1004652469408944100,
+					"id_str": "1004652469408944129",
+					"indices": [
+						107,
+						123
+					]
+				},
+				{
+					"screen_name": "pipcleaves",
+					"name": "Pip Cleaves",
+					"id": 30757847,
+					"id_str": "30757847",
+					"indices": [
+						124,
+						135
+					]
+				},
+				{
+					"screen_name": "r_nd_rgh",
+					"name": "𝕣𝕠𝕟𝕕𝕒𝕣𝕘𝕙",
+					"id": 3020323974,
+					"id_str": "3020323974",
+					"indices": [
+						136,
+						145
+					]
+				},
+				{
+					"screen_name": "johnqgoh",
+					"name": "johnqgoh",
+					"id": 412194142,
+					"id_str": "412194142",
+					"indices": [
+						146,
+						155
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1327141424492671000,
+		"in_reply_to_status_id_str": "1327141424492670983",
+		"in_reply_to_user_id": 585586447,
+		"in_reply_to_user_id_str": "585586447",
+		"in_reply_to_screen_name": "stringer_andrea",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4202,
+			"friends_count": 991,
+			"listed_count": 358,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@stringer_andrea @SMEEAndrew @bmplanche @DrEllieDS @mesterman @gripgirl @Borto74 @drkarenedge @AlmaHarris1 @teencoachleslie @pipcleaves @r_nd_rgh @johnqgoh Do you mean someone that you have not had the chance to meet IRL before?"
+	},
+	{
 		"created_at": "Wed Nov 11 11:21:51 +0000 2020",
 		"id": 1326485283307618300,
 		"id_str": "1326485283307618305",
