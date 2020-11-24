@@ -1,6 +1,329 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 24 11:12:54 +0000 2020",
+		"id": 1331194074284507100,
+		"id_str": "1331194074284507136",
+		"full_text": "A fascinating story about the discovery of the Weewarrasaurus pobeni. https://t.co/sMKgKdtIph",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sMKgKdtIph",
+					"expanded_url": "https://twitter.com/awrd/status/1329610626214236161",
+					"display_url": "twitter.com/awrd/status/13…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4198,
+			"friends_count": 991,
+			"listed_count": 358,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1329610626214236200,
+		"quoted_status_id_str": "1329610626214236161",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sMKgKdtIph",
+			"expanded": "https://twitter.com/awrd/status/1329610626214236161",
+			"display": "twitter.com/awrd/status/13…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 20 02:20:50 +0000 2020",
+			"id": 1329610626214236200,
+			"id_str": "1329610626214236161",
+			"full_text": "Mike Poben’s decision to keep the fossils he found in a bag of rough dirt changed his life. LOVE, LOVE this story from the #DaysLikeThesePodcast.\n\nRead the article: https://t.co/G4mXGRrvkP\n\nListen to the episode: https://t.co/Edh8Fx6Siy https://t.co/XwNrV5vtSA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				236
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DaysLikeThesePodcast",
+						"indices": [
+							123,
+							144
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/G4mXGRrvkP",
+						"expanded_url": "https://ab.co/2UFudax",
+						"display_url": "ab.co/2UFudax",
+						"indices": [
+							165,
+							188
+						]
+					},
+					{
+						"url": "https://t.co/Edh8Fx6Siy",
+						"expanded_url": "https://ab.co/2HgPHHt",
+						"display_url": "ab.co/2HgPHHt",
+						"indices": [
+							213,
+							236
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1329610457460527000,
+						"id_str": "1329610457460527105",
+						"indices": [
+							237,
+							260
+						],
+						"media_url": "http://pbs.twimg.com/media/EnO5qp6UUAEIIB9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnO5qp6UUAEIIB9.jpg",
+						"url": "https://t.co/XwNrV5vtSA",
+						"display_url": "pic.twitter.com/XwNrV5vtSA",
+						"expanded_url": "https://twitter.com/awrd/status/1329610626214236161/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 862,
+								"h": 575,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 862,
+								"h": 575,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1329610457460527000,
+						"id_str": "1329610457460527105",
+						"indices": [
+							237,
+							260
+						],
+						"media_url": "http://pbs.twimg.com/media/EnO5qp6UUAEIIB9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnO5qp6UUAEIIB9.jpg",
+						"url": "https://t.co/XwNrV5vtSA",
+						"display_url": "pic.twitter.com/XwNrV5vtSA",
+						"expanded_url": "https://twitter.com/awrd/status/1329610626214236161/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 862,
+								"h": 575,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 862,
+								"h": 575,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14830831,
+				"id_str": "14830831",
+				"name": "Andrew Davies",
+				"screen_name": "awrd",
+				"location": "Brisbane, Australia",
+				"description": "Digital and Engagement Editor, ABC Audio Studios. Long-time audio producer and audiophile. All views mine not the ABC's.",
+				"url": "https://t.co/9DncuCorK1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9DncuCorK1",
+								"expanded_url": "http://www.abc.net.au/podcasts/",
+								"display_url": "abc.net.au/podcasts/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3661,
+				"friends_count": 2010,
+				"listed_count": 248,
+				"created_at": "Mon May 19 10:19:10 +0000 2008",
+				"favourites_count": 1297,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 19382,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1122794088963592192/ZTdrRQ9p_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122794088963592192/ZTdrRQ9p_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14830831/1543145384",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A fascinating story about the discovery of the Weewarrasaurus pobeni. https://t.co/sMKgKdtIph"
+	},
+	{
 		"created_at": "Sun Nov 22 03:35:06 +0000 2020",
 		"id": 1330354089176297500,
 		"id_str": "1330354089176297475",
