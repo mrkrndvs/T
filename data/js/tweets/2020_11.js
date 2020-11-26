@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 26 11:22:10 +0000 2020",
+		"id": 1331647227140468700,
+		"id_str": "1331921182044557313",
+		"full_text": "The only Apps Script course I'm proud to promote (from @benlcollins) is 30% off starting today - Ben's teaching is second to none: https://t.co/RrAQJ3J8jL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benlcollins",
+					"name": "Ben Collins",
+					"id": 19338407,
+					"id_str": "19338407",
+					"indices": [
+						55,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RrAQJ3J8jL",
+					"expanded_url": "https://rb.gy/vngezs",
+					"display_url": "rb.gy/vngezs",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4472228655,
+			"id_str": "4472228655",
+			"name": "Coding is for Losers",
+			"screen_name": "losersHQ",
+			"location": "",
+			"description": "We build automated data pipelines in BigQuery, mostly, and teach people how to do the same",
+			"url": "https://t.co/9FH1tgcsVQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9FH1tgcsVQ",
+							"expanded_url": "https://codingisforlosers.com",
+							"display_url": "codingisforlosers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1323,
+			"friends_count": 289,
+			"listed_count": 43,
+			"created_at": "Sun Dec 13 17:09:44 +0000 2015",
+			"favourites_count": 356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/676948167435419649/sNd0jAID_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/676948167435419649/sNd0jAID_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4472228655/1450232045",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The only Apps Script course I'm proud to promote (from @benlcollins) is 30% off starting today - Ben's teaching is second to none: https://t.co/RrAQJ3J8jL"
+	},
+	{
 		"created_at": "Tue Nov 24 11:12:54 +0000 2020",
 		"id": 1331194074284507100,
 		"id_str": "1331194074284507136",
