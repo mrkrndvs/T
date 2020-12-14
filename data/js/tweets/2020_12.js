@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 14 10:04:48 +0000 2020",
+		"id": 1338424694005887000,
+		"id_str": "1338424694005886977",
+		"full_text": "Unterüberschätzen, nice https://t.co/WeBSHDKnMz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WeBSHDKnMz",
+					"expanded_url": "https://twitter.com/JoelBSperanza/status/1337698059191402497",
+					"display_url": "twitter.com/JoelBSperanza/…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4190,
+			"friends_count": 990,
+			"listed_count": 358,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28336,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1337698059191402500,
+		"quoted_status_id_str": "1337698059191402497",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WeBSHDKnMz",
+			"expanded": "https://twitter.com/JoelBSperanza/status/1337698059191402497",
+			"display": "twitter.com/JoelBSperanza/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 12 09:57:25 +0000 2020",
+			"id": 1337698059191402500,
+			"id_str": "1337698059191402497",
+			"full_text": "Thanks to @vanweringh for coining the word Unterüberschätzen. It refers to our tendency to overestimate our what we can do in a day, and underestimate what we can do in a year. https://t.co/mGj20XxFBc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				176
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "vanweringh",
+						"name": "Ilja van Weringh",
+						"id": 22190291,
+						"id_str": "22190291",
+						"indices": [
+							10,
+							21
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mGj20XxFBc",
+						"expanded_url": "https://twitter.com/vanweringh/status/1337689583748665345",
+						"display_url": "twitter.com/vanweringh/sta…",
+						"indices": [
+							177,
+							200
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 469805226,
+				"id_str": "469805226",
+				"name": "Joel Speranza",
+				"screen_name": "JoelBSperanza",
+				"location": "Brisbane, Queensland",
+				"description": "Technology Coach | Head of Mathematics | Blended Learning | Maths Video Guy | #MIEexpert | Blog: https://t.co/P65koyRUbG",
+				"url": "https://t.co/2L4MeOwjCo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2L4MeOwjCo",
+								"expanded_url": "https://mathsvideosaustralia.com/",
+								"display_url": "mathsvideosaustralia.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/P65koyRUbG",
+								"expanded_url": "http://joelsperanza.com",
+								"display_url": "joelsperanza.com",
+								"indices": [
+									97,
+									120
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5723,
+				"friends_count": 1501,
+				"listed_count": 147,
+				"created_at": "Sat Jan 21 00:48:24 +0000 2012",
+				"favourites_count": 3400,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6158,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/718765655554535424/o3Ro6ACq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/718765655554535424/o3Ro6ACq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/469805226/1587198329",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1337689583748665300,
+			"quoted_status_id_str": "1337689583748665345",
+			"quoted_status_permalink": {
+				"url": "https://t.co/mGj20XxFBc",
+				"expanded": "https://twitter.com/vanweringh/status/1337689583748665345",
+				"display": "twitter.com/vanweringh/sta…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Unterüberschätzen, nice https://t.co/WeBSHDKnMz"
+	},
+	{
 		"created_at": "Sat Dec 12 10:56:38 +0000 2020",
 		"id": 1337712961956106200,
 		"id_str": "1337712961956106241",
