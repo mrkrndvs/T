@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 28 11:30:49 +0000 2020",
+		"id": 1343304632479576000,
+		"id_str": "1343519772164509697",
+		"full_text": "Need custom illustration/ animation/poetry or combination thereof? I just finished a lovely commissioned anniversary video w/original #poem and #animation - taking commissions for the next month ;) #art #video #freelance https://t.co/knbbk1SqDe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "poem",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "animation",
+					"indices": [
+						144,
+						154
+					]
+				},
+				{
+					"text": "art",
+					"indices": [
+						198,
+						202
+					]
+				},
+				{
+					"text": "video",
+					"indices": [
+						203,
+						209
+					]
+				},
+				{
+					"text": "freelance",
+					"indices": [
+						210,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1343304625919692800,
+					"id_str": "1343304625919692800",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EqRgcK0VEAA3Mev.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EqRgcK0VEAA3Mev.jpg",
+					"url": "https://t.co/knbbk1SqDe",
+					"display_url": "pic.twitter.com/knbbk1SqDe",
+					"expanded_url": "https://twitter.com/amyburvall/status/1343304632479576064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343304625919692800,
+					"id_str": "1343304625919692800",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EqRgcK0VEAA3Mev.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EqRgcK0VEAA3Mev.jpg",
+					"url": "https://t.co/knbbk1SqDe",
+					"display_url": "pic.twitter.com/knbbk1SqDe",
+					"expanded_url": "https://twitter.com/amyburvall/status/1343304632479576064/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EqRgcK0VEAA3Mev.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158207707,
+			"id_str": "158207707",
+			"name": "ａｍｙｂｕｒｖａｌｌ",
+			"screen_name": "amyburvall",
+			"location": "Oahu, Hi",
+			"description": "educator/artist/corporate trainer; the gal behind @Historyteacherz videos; @IntentionBook co-author- find it at https://t.co/Ohyjv63AMJ #RIGOROUSWHIMSY",
+			"url": "https://t.co/RPeoCPA2bm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RPeoCPA2bm",
+							"expanded_url": "http://www.amyburvall.com/",
+							"display_url": "amyburvall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Ohyjv63AMJ",
+							"expanded_url": "http://bit.ly/In10tion",
+							"display_url": "bit.ly/In10tion",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9605,
+			"friends_count": 4978,
+			"listed_count": 0,
+			"created_at": "Tue Jun 22 02:13:48 +0000 2010",
+			"favourites_count": 20888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 75410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "5A5C61",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1012621118/amymomsday_blkw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012621118/amymomsday_blkw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158207707/1494187623",
+			"profile_link_color": "E643B5",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Need custom illustration/ animation/poetry or combination thereof? I just finished a lovely commissioned anniversary video w/original #poem and #animation - taking commissions for the next month ;) #art #video #freelance https://t.co/knbbk1SqDe"
+	},
+	{
 		"created_at": "Mon Dec 28 05:30:57 +0000 2020",
 		"id": 1343429208257814500,
 		"id_str": "1343429208257814529",
