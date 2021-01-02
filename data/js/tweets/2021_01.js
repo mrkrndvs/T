@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 02 05:13:10 +0000 2021",
+		"id": 1345236670661021700,
+		"id_str": "1345236670661021698",
+		"full_text": "It is an interesting case of 'what if', especially after reading @GregBaum 's piece (https://t.co/zRlmQJPBZ8)\n\n\"It was one thing when the AFL, NRL, netball and women's basketball evacuated hotspots. It's quite another that Cricket Australia is moving its operation into one.\" https://t.co/aGZ2Qt6qV6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GregBaum",
+					"name": "Greg Baum",
+					"id": 21971785,
+					"id_str": "21971785",
+					"indices": [
+						65,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zRlmQJPBZ8",
+					"expanded_url": "https://www.smh.com.au/sport/cricket/the-scg-test-welcome-to-our-hotspot-20201230-p56qw8.html",
+					"display_url": "smh.com.au/sport/cricket/…",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/aGZ2Qt6qV6",
+					"expanded_url": "https://twitter.com/ianbfarquhar/status/1344790593587662849",
+					"display_url": "twitter.com/ianbfarquhar/s…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4186,
+			"friends_count": 990,
+			"listed_count": 357,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1344790593587662800,
+		"quoted_status_id_str": "1344790593587662849",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aGZ2Qt6qV6",
+			"expanded": "https://twitter.com/ianbfarquhar/status/1344790593587662849",
+			"display": "twitter.com/ianbfarquhar/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 31 23:40:37 +0000 2020",
+			"id": 1344790593587662800,
+			"id_str": "1344790593587662849",
+			"full_text": "Just a legal musing: do members of the SCG Trust have legal liability if this stupid cricket match becomes a superspreader event, leading to deaths and/or serious economic loss?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				177
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 270657829,
+				"id_str": "270657829",
+				"name": "Ian Farquhar",
+				"screen_name": "ianbfarquhar",
+				"location": "Sydney, Australia",
+				"description": "All tweets here represent my personal opinion only.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1503,
+				"friends_count": 621,
+				"listed_count": 20,
+				"created_at": "Wed Mar 23 01:05:14 +0000 2011",
+				"favourites_count": 2738,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17402,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2644205889/5b22454b868cfc3d379162e982ffd6c2_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2644205889/5b22454b868cfc3d379162e982ffd6c2_normal.jpeg",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 242,
+			"favorite_count": 1100,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It is an interesting case of 'what if', especially after reading @GregBaum 's piece (https://t.co/zRlmQJPBZ8)\n\n\"It was one thing when the AFL, NRL, netball and women's basketball evacuated hotspots. It's quite another that Cricket Australia is moving its operation into one.\" https://t.co/aGZ2Qt6qV6"
+	},
+	{
 		"created_at": "Fri Jan 01 23:14:12 +0000 2021",
 		"id": 1345146335834435600,
 		"id_str": "1345146335834435584",
