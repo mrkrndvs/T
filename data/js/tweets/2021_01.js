@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 10 00:52:38 +0000 2021",
+		"id": 1348070211312701400,
+		"id_str": "1348070211312701441",
+		"full_text": "@shareski Dean, I really appreciate your attempt at balance, even if I do not really like golf. (Can't agree on everything😜) \n\nThis seems like the sort of topic that one might blog about? Here was my attempt ... https://t.co/tGghIY2Skx https://t.co/2n6AmfvdRW",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shareski",
+					"name": "Dean Shareski",
+					"id": 739743,
+					"id_str": "739743",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tGghIY2Skx",
+					"expanded_url": "https://readwriterespond.com/2018/12/lets-make-twitter-great-again-a-reflection-on-a-social-media-of-one/",
+					"display_url": "readwriterespond.com/2018/12/lets-m…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1348069829098369000,
+					"id_str": "1348069829098369030",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/ErVOXf_UcAYDVgq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErVOXf_UcAYDVgq.jpg",
+					"url": "https://t.co/2n6AmfvdRW",
+					"display_url": "pic.twitter.com/2n6AmfvdRW",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/1348070211312701441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348069829098369000,
+					"id_str": "1348069829098369030",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/ErVOXf_UcAYDVgq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErVOXf_UcAYDVgq.jpg",
+					"url": "https://t.co/2n6AmfvdRW",
+					"display_url": "pic.twitter.com/2n6AmfvdRW",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/1348070211312701441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1347991800871469000,
+		"in_reply_to_status_id_str": "1347991800871469056",
+		"in_reply_to_user_id": 739743,
+		"in_reply_to_user_id_str": "739743",
+		"in_reply_to_screen_name": "shareski",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4180,
+			"friends_count": 988,
+			"listed_count": 359,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4841,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@shareski Dean, I really appreciate your attempt at balance, even if I do not really like golf. (Can't agree on everything😜) \n\nThis seems like the sort of topic that one might blog about? Here was my attempt ... https://t.co/tGghIY2Skx https://t.co/2n6AmfvdRW"
+	},
+	{
 		"created_at": "Thu Jan 07 11:20:07 +0000 2021",
 		"id": 1347140958899597300,
 		"id_str": "1347140958899597313",
