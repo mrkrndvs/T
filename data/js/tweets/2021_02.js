@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 17 09:57:19 +0000 2021",
+		"id": 1361864483996528600,
+		"id_str": "1361978022681747456",
+		"full_text": "Thinking about replacing our library software and am curious about what other schools, particularly small schools, use. Any suggestions? #vicpln",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "vicpln",
+					"indices": [
+						137,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24150055,
+			"id_str": "24150055",
+			"name": "Gillian",
+			"screen_name": "macgirl19",
+			"location": "Melbourne, Australia",
+			"description": "teacher, curious learner, traveller, runner, blogger, self confessed macgirl. Opinions are my own",
+			"url": "http://t.co/KRaw1nYbb9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/KRaw1nYbb9",
+							"expanded_url": "http://macgirl19.wordpress.com/",
+							"display_url": "macgirl19.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1564,
+			"friends_count": 1870,
+			"listed_count": 75,
+			"created_at": "Fri Mar 13 09:34:53 +0000 2009",
+			"favourites_count": 1532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/687836309231030272/UWudBGs5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/687836309231030272/UWudBGs5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24150055/1433415056",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Thinking about replacing our library software and am curious about what other schools, particularly small schools, use. Any suggestions? #vicpln"
+	},
+	{
 		"created_at": "Sun Feb 14 11:59:02 +0000 2021",
 		"id": 1360921489592172500,
 		"id_str": "1360921489592172544",
