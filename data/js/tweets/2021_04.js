@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Fri Apr 16 22:22:02 +0000 2021",
+		"id": 1383183931764220000,
+		"id_str": "1383183931764219906",
+		"full_text": "@amyburvall Thanks Amy, another song to add to the karaoke list. \n\nI grew up with The Living End's cover https://t.co/KfNB8la9ch. I wonder if it is one of those great songs where every generation has its own translation? HT Walter Benjamin https://t.co/4fT6rRnQx2",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amyburvall",
+					"name": "ａｍｙｂｕｒｖａｌｌ",
+					"id": 158207707,
+					"id_str": "158207707",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KfNB8la9ch",
+					"expanded_url": "https://www.youtube.com/watch?v=Iof_n7L849o",
+					"display_url": "youtube.com/watch?v=Iof_n7…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1383183435297038300,
+					"id_str": "1383183435297038339",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/EzIOAYgVoAMjFIk.png",
+					"media_url_https": "https://pbs.twimg.com/media/EzIOAYgVoAMjFIk.png",
+					"url": "https://t.co/4fT6rRnQx2",
+					"display_url": "pic.twitter.com/4fT6rRnQx2",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/1383183931764219906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 456,
+							"h": 292,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 456,
+							"h": 292,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 456,
+							"h": 292,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1383183435297038300,
+					"id_str": "1383183435297038339",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/EzIOAYgVoAMjFIk.png",
+					"media_url_https": "https://pbs.twimg.com/media/EzIOAYgVoAMjFIk.png",
+					"url": "https://t.co/4fT6rRnQx2",
+					"display_url": "pic.twitter.com/4fT6rRnQx2",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/1383183931764219906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 456,
+							"h": 292,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 456,
+							"h": 292,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 456,
+							"h": 292,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1378416752539824000,
+		"in_reply_to_status_id_str": "1378416752539824129",
+		"in_reply_to_user_id": 158207707,
+		"in_reply_to_user_id_str": "158207707",
+		"in_reply_to_screen_name": "amyburvall",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4159,
+			"friends_count": 987,
+			"listed_count": 357,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@amyburvall Thanks Amy, another song to add to the karaoke list. \n\nI grew up with The Living End's cover https://t.co/KfNB8la9ch. I wonder if it is one of those great songs where every generation has its own translation? HT Walter Benjamin https://t.co/4fT6rRnQx2"
+	},
+	{
 		"created_at": "Wed Apr 14 20:50:47 +0000 2021",
 		"id": 1382436194852565000,
 		"id_str": "1382436194852564993",
