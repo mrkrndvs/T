@@ -1,6 +1,144 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 28 11:18:04 +0000 2021",
+		"id": 1398237129923129300,
+		"id_str": "1398237129923129346",
+		"full_text": "@mesterman @largerama Living boring side of this debate these days, what intrigues me is how programs help/hinder change to TTs. Sometimes it's not just the prog, but the resourcing. It'd seem standards are moving to student-based fluidity, be intrigued to see your findings. https://t.co/SCfd1uXCRk",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			299
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mesterman",
+					"name": "мαтт єѕтєямαη",
+					"id": 14906194,
+					"id_str": "14906194",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "largerama",
+					"name": "Nick Jackson",
+					"id": 82992519,
+					"id_str": "82992519",
+					"indices": [
+						11,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SCfd1uXCRk",
+					"expanded_url": "https://collect.readwriterespond.com/flexible-innovative-high-school-student-timetable-programs/",
+					"display_url": "collect.readwriterespond.com/flexible-innov…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1395478916693860400,
+		"in_reply_to_status_id_str": "1395478916693860356",
+		"in_reply_to_user_id": 14906194,
+		"in_reply_to_user_id_str": "14906194",
+		"in_reply_to_screen_name": "mesterman",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4133,
+			"friends_count": 986,
+			"listed_count": 0,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mesterman @largerama Living boring side of this debate these days, what intrigues me is how programs help/hinder change to TTs. Sometimes it's not just the prog, but the resourcing. It'd seem standards are moving to student-based fluidity, be intrigued to see your findings. https://t.co/SCfd1uXCRk"
+	},
+	{
 		"created_at": "Mon May 24 12:33:18 +0000 2021",
 		"id": 1396806510454399000,
 		"id_str": "1396806510454398979",
