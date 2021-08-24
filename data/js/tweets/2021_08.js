@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 24 11:46:33 +0000 2021",
+		"id": 1429327574082093000,
+		"id_str": "1430134429255716873",
+		"full_text": "A Digital Technologies choice grid, for our K-6 students. Some online, some offline. Some independent, some with family. https://t.co/fIRfsfhhJI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1429327446445199400,
+					"id_str": "1429327446445199360",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/E9X9vVkVEAAyjBU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9X9vVkVEAAyjBU.jpg",
+					"url": "https://t.co/fIRfsfhhJI",
+					"display_url": "pic.twitter.com/fIRfsfhhJI",
+					"expanded_url": "https://twitter.com/alisa_stephens/status/1429327574082093056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1414,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1429327446445199400,
+					"id_str": "1429327446445199360",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/E9X9vVkVEAAyjBU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9X9vVkVEAAyjBU.jpg",
+					"url": "https://t.co/fIRfsfhhJI",
+					"display_url": "pic.twitter.com/fIRfsfhhJI",
+					"expanded_url": "https://twitter.com/alisa_stephens/status/1429327574082093056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1414,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 89155052,
+			"id_str": "89155052",
+			"name": "alisa stephens",
+			"screen_name": "alisa_stephens",
+			"location": "New South Wales",
+			"description": "Teacher: Japanese, technology, & HSIE/HASS. \nTweets are mine, & mine alone.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1481,
+			"friends_count": 1423,
+			"listed_count": 66,
+			"created_at": "Wed Nov 11 10:28:30 +0000 2009",
+			"favourites_count": 3638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21793,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067736153904693251/bqJlTdlr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067736153904693251/bqJlTdlr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/89155052/1498268061",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Digital Technologies choice grid, for our K-6 students. Some online, some offline. Some independent, some with family. https://t.co/fIRfsfhhJI"
+	},
+	{
 		"created_at": "Sat Aug 21 13:10:23 +0000 2021",
 		"id": 1429068365415411700,
 		"id_str": "1429068365415411719",
