@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 18 13:06:15 +0000 2021",
+		"id": 1433952977312567300,
+		"id_str": "1439214183438897155",
+		"full_text": "I'm thrilled that @bedforda1 and my edited collection is finally finding its way around the world. This has been a long road, a labour of love of pop culture, and nerding out about theory. This is our happy place and it's so nice to see it in the world 🧵 https://t.co/dpe9Q2kg2c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bedforda1",
+					"name": "Dr Alison Bedford",
+					"id": 483516383,
+					"id_str": "483516383",
+					"indices": [
+						18,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433952852590825500,
+					"id_str": "1433952852590825475",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/E-ZshaNVkAMHQDZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/E-ZshaNVkAMHQDZ.png",
+					"url": "https://t.co/dpe9Q2kg2c",
+					"display_url": "pic.twitter.com/dpe9Q2kg2c",
+					"expanded_url": "https://twitter.com/DrNomyn/status/1433952977312567299/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 306,
+							"h": 462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 306,
+							"h": 462,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 306,
+							"h": 462,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433952852590825500,
+					"id_str": "1433952852590825475",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/E-ZshaNVkAMHQDZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/E-ZshaNVkAMHQDZ.png",
+					"url": "https://t.co/dpe9Q2kg2c",
+					"display_url": "pic.twitter.com/dpe9Q2kg2c",
+					"expanded_url": "https://twitter.com/DrNomyn/status/1433952977312567299/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 306,
+							"h": 462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 306,
+							"h": 462,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 306,
+							"h": 462,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1171329719087665200,
+			"id_str": "1171329719087665153",
+			"name": "Naomi Barnes",
+			"screen_name": "DrNomyn",
+			"location": "Unceded Jagera & Turrbal land",
+			"description": "Happily undisciplined transdisciplinary researcher whose center of gravity lies in network theory | Senior Lecturer @QUTEducation | She/her",
+			"url": "https://t.co/44Fw4S0zNc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/44Fw4S0zNc",
+							"expanded_url": "https://medium.com/@nomynjb",
+							"display_url": "medium.com/@nomynjb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1040,
+			"friends_count": 877,
+			"listed_count": 16,
+			"created_at": "Tue Sep 10 07:49:10 +0000 2019",
+			"favourites_count": 12519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1435193316623077378/oXPFNMd2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1435193316623077378/oXPFNMd2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1171329719087665153/1579567778",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm thrilled that @bedforda1 and my edited collection is finally finding its way around the world. This has been a long road, a labour of love of pop culture, and nerding out about theory. This is our happy place and it's so nice to see it in the world 🧵 https://t.co/dpe9Q2kg2c"
+	},
+	{
 		"created_at": "Thu Sep 16 04:23:39 +0000 2021",
 		"id": 1438357890251706400,
 		"id_str": "1438357890251706370",
