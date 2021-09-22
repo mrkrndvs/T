@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 22 12:18:30 +0000 2021",
+		"id": 1440106953070448600,
+		"id_str": "1440651718786646016",
+		"full_text": "Well if we are making demands!\n\n1. Free public transport for anyone reading a book\n2. Capybaras to be declared our national bird\n3. A slide into Dymocks Collins street\n4. Return of Coles Book arcade\n5. Teleportation gates installed  for all Cities of Literature https://t.co/jKxZ2aaztg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440106649578983400,
+					"id_str": "1440106649578983433",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/E_xJXibVUAksMYe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_xJXibVUAksMYe.jpg",
+					"url": "https://t.co/jKxZ2aaztg",
+					"display_url": "pic.twitter.com/jKxZ2aaztg",
+					"expanded_url": "https://twitter.com/MelCityofLit/status/1440106953070448642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 584,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440106649578983400,
+					"id_str": "1440106649578983433",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/E_xJXibVUAksMYe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_xJXibVUAksMYe.jpg",
+					"url": "https://t.co/jKxZ2aaztg",
+					"display_url": "pic.twitter.com/jKxZ2aaztg",
+					"expanded_url": "https://twitter.com/MelCityofLit/status/1440106953070448642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 584,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2785021765,
+			"id_str": "2785021765",
+			"name": "City of Literature",
+			"screen_name": "MelCityofLit",
+			"location": "Melbourne Australia",
+			"description": "The official twitter account for the Melbourne UNESCO City of Literature office.",
+			"url": "https://t.co/7037JRfVxs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7037JRfVxs",
+							"expanded_url": "http://www.cityofliterature.com.au",
+							"display_url": "cityofliterature.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11756,
+			"friends_count": 4181,
+			"listed_count": 263,
+			"created_at": "Tue Sep 02 01:21:08 +0000 2014",
+			"favourites_count": 12906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 64107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928415682919723010/UkKCodAm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928415682919723010/UkKCodAm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2785021765/1605050973",
+			"profile_link_color": "0898CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 205,
+		"favorite_count": 1325,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well if we are making demands!\n\n1. Free public transport for anyone reading a book\n2. Capybaras to be declared our national bird\n3. A slide into Dymocks Collins street\n4. Return of Coles Book arcade\n5. Teleportation gates installed  for all Cities of Literature https://t.co/jKxZ2aaztg"
+	},
+	{
 		"created_at": "Wed Sep 22 12:03:30 +0000 2021",
 		"id": 1440647942616936400,
 		"id_str": "1440647942616936459",
