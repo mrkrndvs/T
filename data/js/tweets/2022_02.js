@@ -1,6 +1,169 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 20 10:27:05 +0000 2022",
+		"id": 1495145301728186400,
+		"id_str": "1495344249864593412",
+		"full_text": "I’ve been working on this #AFLW long read on #concussion for a while. Massive thanks to Macca for the courage to share her story, manager ⁦@CrossCodersCo⁩, ⁦@SMcleod_PT⁩, ⁦⁦@PinkConcussions⁩ and ⁦@amandashalala⁩ for edits! 💪👏 https://t.co/hdiJX4XeVB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AFLW",
+					"indices": [
+						26,
+						31
+					]
+				},
+				{
+					"text": "concussion",
+					"indices": [
+						45,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CrossCodersCo",
+					"name": "CrossCoders",
+					"id": 1015580214837981200,
+					"id_str": "1015580214837981184",
+					"indices": [
+						139,
+						153
+					]
+				},
+				{
+					"screen_name": "SMcleod_PT",
+					"name": "Shreya McLeod",
+					"id": 1033199417430425600,
+					"id_str": "1033199417430425601",
+					"indices": [
+						157,
+						168
+					]
+				},
+				{
+					"screen_name": "PinkConcussions",
+					"name": "PINK Concussions 🧠",
+					"id": 1155192127,
+					"id_str": "1155192127",
+					"indices": [
+						173,
+						189
+					]
+				},
+				{
+					"screen_name": "amandashalala",
+					"name": "Amanda Shalala",
+					"id": 79618106,
+					"id_str": "79618106",
+					"indices": [
+						196,
+						210
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hdiJX4XeVB",
+					"expanded_url": "https://www.abc.net.au/news/2022-02-20/aflw-kirsten-mcleod-gender-concussion-women-sport/100810750",
+					"display_url": "abc.net.au/news/2022-02-2…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418064386,
+			"id_str": "418064386",
+			"name": "Kate O'Halloran",
+			"screen_name": "Kate_ohalloran",
+			"location": "Melbourne, Victoria",
+			"description": "Digital Journalist @abcsport / @abcnews. Email me with story ideas, tips etc. - ohalloran.kate@abc.net.au. Opinions my own.",
+			"url": "https://t.co/2XB5X4hglE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2XB5X4hglE",
+							"expanded_url": "https://www.abc.net.au/news/kate-ohalloran/10821058",
+							"display_url": "abc.net.au/news/kate-ohal…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7100,
+			"friends_count": 7799,
+			"listed_count": 48,
+			"created_at": "Mon Nov 21 18:14:33 +0000 2011",
+			"favourites_count": 38586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1458995501374717952/QSvrm4qE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1458995501374717952/QSvrm4qE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418064386/1549067829",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 101,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’ve been working on this #AFLW long read on #concussion for a while. Massive thanks to Macca for the courage to share her story, manager ⁦@CrossCodersCo⁩, ⁦@SMcleod_PT⁩, ⁦⁦@PinkConcussions⁩ and ⁦@amandashalala⁩ for edits! 💪👏 https://t.co/hdiJX4XeVB"
+	},
+	{
 		"created_at": "Fri Feb 18 22:39:54 +0000 2022",
 		"id": 1494803890570764300,
 		"id_str": "1494803890570764300",
