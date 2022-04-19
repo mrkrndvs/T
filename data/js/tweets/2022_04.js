@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 19 11:22:23 +0000 2022",
+		"id": 1516376662270955500,
+		"id_str": "1516376662270955523",
+		"full_text": "Congratulations on Book No. 3 @fionathehardy. An event for the diary :) https://t.co/JwBn6yGsm1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fionathehardy",
+					"name": "fiona hardy",
+					"id": 208438518,
+					"id_str": "208438518",
+					"indices": [
+						30,
+						44
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JwBn6yGsm1",
+					"expanded_url": "https://twitter.com/fionathehardy/status/1516181830428672000",
+					"display_url": "twitter.com/fionathehardy/…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4099,
+			"friends_count": 857,
+			"listed_count": 352,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1516181830428672000,
+		"quoted_status_id_str": "1516181830428672000",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JwBn6yGsm1",
+			"expanded": "https://twitter.com/fionathehardy/status/1516181830428672000",
+			"display": "twitter.com/fionathehardy/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 18 22:28:12 +0000 2022",
+			"id": 1516181830428672000,
+			"id_str": "1516181830428672000",
+			"full_text": "Friends and especially foes! The book launch for How to Tackle Your Dreams is 2pm Saturday May 7, at @ReadingsBooks Kids, with absolute legend @nichmelbourne! After Soundtrack came out in lockdown (sob) I am BUZZED to have another real-life launch 🎉📚\n\nhttps://t.co/cqWHd9qRq0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ReadingsBooks",
+						"name": "Readings",
+						"id": 14945180,
+						"id_str": "14945180",
+						"indices": [
+							101,
+							115
+						]
+					},
+					{
+						"screen_name": "nichmelbourne",
+						"name": "Nicole Hayes: author / podcaster / human 🏉📚✍️🌈",
+						"id": 224026196,
+						"id_str": "224026196",
+						"indices": [
+							143,
+							157
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/cqWHd9qRq0",
+						"expanded_url": "https://www.readings.com.au/event/book-launch-how-to-tackle-your-dreams",
+						"display_url": "readings.com.au/event/book-lau…",
+						"indices": [
+							252,
+							275
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 208438518,
+				"id_str": "208438518",
+				"name": "fiona hardy",
+				"screen_name": "fionathehardy",
+				"location": "Naarm/Melbourne",
+				"description": "Writer, bookseller, reviewer, general word-put-together-er 📚 How to Tackle Your Dreams out 26/4 & my other books out now at all good AND bad bookshops.",
+				"url": "https://t.co/ZA1wgiAA6I",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZA1wgiAA6I",
+								"expanded_url": "http://fionathehardy.com",
+								"display_url": "fionathehardy.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1553,
+				"friends_count": 1344,
+				"listed_count": 22,
+				"created_at": "Wed Oct 27 08:36:14 +0000 2010",
+				"favourites_count": 26057,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21316,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D4D4D4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1460903737824722945/hdBRtoSb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1460903737824722945/hdBRtoSb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/208438518/1627262279",
+				"profile_link_color": "507C7C",
+				"profile_sidebar_border_color": "322840",
+				"profile_sidebar_fill_color": "322840",
+				"profile_text_color": "92A8A8",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations on Book No. 3 @fionathehardy. An event for the diary :) https://t.co/JwBn6yGsm1"
+	},
+	{
 		"created_at": "Thu Apr 14 13:01:25 +0000 2022",
 		"id": 1514589644092223500,
 		"id_str": "1514589644092223490",
