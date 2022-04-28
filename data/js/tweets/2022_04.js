@@ -1,6 +1,437 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 28 12:56:01 +0000 2022",
+		"id": 1519661716103364600,
+		"id_str": "1519661716103364609",
+		"full_text": "@DrNomyn Naomi, I recently read Clinton Walker's Stranded, unpacking the Australian music scene between 1972 – 1992. I kind of knew/guessed it was wild, but not sure I really appreciated how wild it was and all so very male. Can only imagine UK was even more so.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrNomyn",
+					"name": "Naomi Barnes",
+					"id": 1171329719087665200,
+					"id_str": "1171329719087665153",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1519598334201430000,
+		"in_reply_to_status_id_str": "1519598334201430016",
+		"in_reply_to_user_id": 1171329719087665200,
+		"in_reply_to_user_id_str": "1171329719087665153",
+		"in_reply_to_screen_name": "DrNomyn",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4085,
+			"friends_count": 855,
+			"listed_count": 352,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrNomyn Naomi, I recently read Clinton Walker's Stranded, unpacking the Australian music scene between 1972 – 1992. I kind of knew/guessed it was wild, but not sure I really appreciated how wild it was and all so very male. Can only imagine UK was even more so."
+	},
+	{
+		"created_at": "Thu Apr 28 12:35:30 +0000 2022",
+		"id": 1519656552088895500,
+		"id_str": "1519656552088895489",
+		"full_text": "@taradcat Lessons Learned – Reflecting on educational equity in the COVID-19 era https://t.co/CeBiXlxqze by @courosa and @kbhildebrandt \n\nWhen the Machine Starts Up Again, will you remember? https://t.co/cDTGFyt6NU by @kjinquiry \n\nJust not sure when 'post'-COVID begins?\n\n3/3",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "taradcat",
+					"name": "Deb Hicks",
+					"id": 14152138,
+					"id_str": "14152138",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "courosa",
+					"name": "Dr. Alec Couros",
+					"id": 739293,
+					"id_str": "739293",
+					"indices": [
+						108,
+						116
+					]
+				},
+				{
+					"screen_name": "kbhildebrandt",
+					"name": "Dr. Katia Hildebrandt",
+					"id": 1101780642,
+					"id_str": "1101780642",
+					"indices": [
+						121,
+						135
+					]
+				},
+				{
+					"screen_name": "kjinquiry",
+					"name": "Kath Murdoch",
+					"id": 148722498,
+					"id_str": "148722498",
+					"indices": [
+						218,
+						228
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CeBiXlxqze",
+					"expanded_url": "https://www.edcan.ca/articles/lessons-learned/",
+					"display_url": "edcan.ca/articles/lesso…",
+					"indices": [
+						81,
+						104
+					]
+				},
+				{
+					"url": "https://t.co/cDTGFyt6NU",
+					"expanded_url": "https://www.kathmurdoch.com.au/blog/2020/11/11/when-the-machine-starts-up-again-will-you-remember",
+					"display_url": "kathmurdoch.com.au/blog/2020/11/1…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1518392519490666500,
+		"in_reply_to_status_id_str": "1518392519490666496",
+		"in_reply_to_user_id": 14152138,
+		"in_reply_to_user_id_str": "14152138",
+		"in_reply_to_screen_name": "taradcat",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4085,
+			"friends_count": 855,
+			"listed_count": 352,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@taradcat Lessons Learned – Reflecting on educational equity in the COVID-19 era https://t.co/CeBiXlxqze by @courosa and @kbhildebrandt \n\nWhen the Machine Starts Up Again, will you remember? https://t.co/cDTGFyt6NU by @kjinquiry \n\nJust not sure when 'post'-COVID begins?\n\n3/3"
+	},
+	{
+		"created_at": "Thu Apr 28 12:32:39 +0000 2022",
+		"id": 1519655834749632500,
+		"id_str": "1519655834749632514",
+		"full_text": "@taradcat Is De-Implementation the Best Way to Build Back Better? https://t.co/kCFmJ518xk by @PeterMDeWitt \n\nMore help needed for vulnerable learners in the age of COVID-19 school closures https://t.co/2nK1mebrGJ by Catherine Drane, Lynette Vernon and Sarah O’Shea\n\n2/n",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "taradcat",
+					"name": "Deb Hicks",
+					"id": 14152138,
+					"id_str": "14152138",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "PeterMDeWitt",
+					"name": "Peter DeWitt, Ed.D.",
+					"id": 339289291,
+					"id_str": "339289291",
+					"indices": [
+						93,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kCFmJ518xk",
+					"expanded_url": "https://petermdewitt.com/blog/f/is-de-implementation-the-best-way-to-build-back-better",
+					"display_url": "petermdewitt.com/blog/f/is-de-i…",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/2nK1mebrGJ",
+					"expanded_url": "https://www.aare.edu.au/blog/?p=8064",
+					"display_url": "aare.edu.au/blog/?p=8064",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1518392519490666500,
+		"in_reply_to_status_id_str": "1518392519490666496",
+		"in_reply_to_user_id": 14152138,
+		"in_reply_to_user_id_str": "14152138",
+		"in_reply_to_screen_name": "taradcat",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4085,
+			"friends_count": 855,
+			"listed_count": 352,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@taradcat Is De-Implementation the Best Way to Build Back Better? https://t.co/kCFmJ518xk by @PeterMDeWitt \n\nMore help needed for vulnerable learners in the age of COVID-19 school closures https://t.co/2nK1mebrGJ by Catherine Drane, Lynette Vernon and Sarah O’Shea\n\n2/n"
+	},
+	{
 		"created_at": "Thu Apr 28 12:02:40 +0000 2022",
 		"id": 1519648288345313300,
 		"id_str": "1519648288345313281",
