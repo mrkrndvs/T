@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 24 11:29:12 +0000 2022",
+		"id": 1529061952894664700,
+		"id_str": "1529061952894664704",
+		"full_text": "@richardolsen Can't help but be reminded of what we discussed all those years ago https://t.co/IOIE4LKsIA \n\nI really love the idea of a space/platform where people add their own pieces and it grows over time, not exactly sure what that is though. https://t.co/MM19U7AvG5",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			246
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "richardolsen",
+					"name": "Richard Olsen",
+					"id": 11649492,
+					"id_str": "11649492",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IOIE4LKsIA",
+					"expanded_url": "https://readwriterespond.com/2016/01/program-or-be-programmed/",
+					"display_url": "readwriterespond.com/2016/01/progra…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1529059266044506000,
+					"id_str": "1529059266044506112",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/FThPTRkaMAA7tXI.png",
+					"media_url_https": "https://pbs.twimg.com/media/FThPTRkaMAA7tXI.png",
+					"url": "https://t.co/MM19U7AvG5",
+					"display_url": "pic.twitter.com/MM19U7AvG5",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/1529061952894664704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1529059266044506000,
+					"id_str": "1529059266044506112",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/FThPTRkaMAA7tXI.png",
+					"media_url_https": "https://pbs.twimg.com/media/FThPTRkaMAA7tXI.png",
+					"url": "https://t.co/MM19U7AvG5",
+					"display_url": "pic.twitter.com/MM19U7AvG5",
+					"expanded_url": "https://twitter.com/mrkrndvs/status/1529061952894664704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1527596657717567500,
+		"in_reply_to_status_id_str": "1527596657717567489",
+		"in_reply_to_user_id": 11649492,
+		"in_reply_to_user_id_str": "11649492",
+		"in_reply_to_screen_name": "richardolsen",
+		"user": {
+			"id": 372768752,
+			"id_str": "372768752",
+			"name": "Aaron Davis 🏘️",
+			"screen_name": "mrkrndvs",
+			"location": "Melbourne, Australia",
+			"description": "#EdTech Coach. Interested in how together we can work to make a better world. #3Strengths: passion, curiosity & persistence. https://t.co/uTlsCeAwJ7",
+			"url": "https://t.co/9kvcoZA3IC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9kvcoZA3IC",
+							"expanded_url": "https://collect.readwriterespond.com",
+							"display_url": "collect.readwriterespond.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uTlsCeAwJ7",
+							"expanded_url": "https://readwriterespond.com",
+							"display_url": "readwriterespond.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4087,
+			"friends_count": 856,
+			"listed_count": 351,
+			"created_at": "Tue Sep 13 11:36:49 +0000 2011",
+			"favourites_count": 4800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/708552669636333569/eIfl-Utk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372768752/1462853542",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@richardolsen Can't help but be reminded of what we discussed all those years ago https://t.co/IOIE4LKsIA \n\nI really love the idea of a space/platform where people add their own pieces and it grows over time, not exactly sure what that is though. https://t.co/MM19U7AvG5"
+	},
+	{
 		"created_at": "Tue May 24 11:05:07 +0000 2022",
 		"id": 1529055892372885500,
 		"id_str": "1529055892372885506",
