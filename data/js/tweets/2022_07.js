@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 29 09:37:12 +0000 2022",
+		"id": 1552916113486655500,
+		"id_str": "1552951365949095936",
+		"full_text": "Python programming and mathematics. Does anyone have a textbook or resource that they recommend? Looking for something suitable for 14 year olds.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 469805226,
+			"id_str": "469805226",
+			"name": "Joel Speranza",
+			"screen_name": "JoelBSperanza",
+			"location": "Brisbane, Queensland",
+			"description": "Technology Coach | Head of Mathematics | Blended Learning | Maths Video Guy | #MIEexpert | https://t.co/5X7mM0Q99c",
+			"url": "https://t.co/73L4YCki2R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/73L4YCki2R",
+							"expanded_url": "https://mathsvideosaustralia.com/",
+							"display_url": "mathsvideosaustralia.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5X7mM0Q99c",
+							"expanded_url": "https://linktr.ee/joelsperanza",
+							"display_url": "linktr.ee/joelsperanza",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5738,
+			"friends_count": 1437,
+			"listed_count": 145,
+			"created_at": "Sat Jan 21 00:48:24 +0000 2012",
+			"favourites_count": 3746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410492765348130817/O36CkzLM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410492765348130817/O36CkzLM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/469805226/1587198329",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Python programming and mathematics. Does anyone have a textbook or resource that they recommend? Looking for something suitable for 14 year olds."
+	},
+	{
 		"created_at": "Mon Jul 18 10:58:03 +0000 2022",
 		"id": 1548985443336994800,
 		"id_str": "1548985443336994818",
